@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Partners/Yeung Ching Scout Open Group.md
       - Partners/.keep
