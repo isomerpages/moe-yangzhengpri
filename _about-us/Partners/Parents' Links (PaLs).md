@@ -109,9 +109,20 @@ PaLs Family Bonding Day
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 364px; height: 301px;" class="ive_eobj_center" alt="Domino Challenge.jpg" width="100%" src="![](/images/Domino%20Challenge.jpeg)"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(48, 48, 48); font-family: Archivo, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">Domino Challenge</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 402px; height: 301px;" class="ive_eobj_center" alt="Our happy faces.jpg" width="100%" src="![](/images/Our%20happy%20faces.jpeg)"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(48, 48, 48); font-family: Archivo, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">Our happy faces!</div></td></tr></tbody></table>
 
-![Group photo.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/About%20Us/Partners/PaLs/Group%20photo.jpg)
+  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Group%20photo.jpeg)" alt="Group Photo" style="width:50%;">  
+  
+</body>  
+<br>
 
-Group photo
+<figcaption style="text-align:center;">Group photo</figcaption>
 
 PaLs Family Bonding Day at East Coast Park
 ------------------------------------------
