@@ -7,7 +7,17 @@ third_nav_title: School Profile
 The School Crest
 ----------------
 
-![tn.New School Crest.png.mid.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/About%20Us/School%20Profile/School%20Crest%20and%20Song/tn.New%20School%20Crest.png.mid.jpg)  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/New%20School%20Crest.jpg)" alt="School Crest" style="width:50%;">  
+  
+</body>  
+<br>
 
 The Letter Y for Yangzheng represents the foundation and support the school will give to her pupils.
 
