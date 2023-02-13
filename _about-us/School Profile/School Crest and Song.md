@@ -14,7 +14,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/New%20School%20Crest.jpg)" alt="School Crest" style="width:50%;">  
+<body><img src="/images/New%20School%20Crest.jpg" alt="School Crest" style="width:40%;">  
   
 </body>  
 <br>
@@ -36,28 +36,18 @@ The three sides of the triangle stand for Acceptance, Love and Perseverance.
 Our School Song
 ---------------
 
-Pupils of Yangzheng Primary School
-
-We will obey the golden rule
-
-To show that we care
-
-We'll learn to share
-
-In lessons and sports
-
-Putting our finest efforts, efforts
-
-We'll strive to build bright minds
-
+Pupils of Yangzheng Primary School <br>
+We will obey the golden rule <br>
+To show that we care <br>
+We'll learn to share <br>
+In lessons and sports <br>
+Putting our finest efforts, efforts <br>
+We'll strive to build bright minds <br>
 And healthy bodies
 
   
 
-We will achieve for love, love for our nation
-
-We will achieve for love, love for our school
-
-We will achieve for love, love for our nation
-
+We will achieve for love, love for our nation <br>
+We will achieve for love, love for our school <br>
+We will achieve for love, love for our nation <br>
 We will achieve for love, love for our school
