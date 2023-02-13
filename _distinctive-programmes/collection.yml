@@ -2,4 +2,5 @@ collections:
   distinctive-programmes:
     output: true
     order:
+      - All Departments.md
       - LLP.md
