@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Partners/Parents' Links (PaLs).md
       - Partners/Yangzheng Foundation.md
       - Partners/Yangzheng (Yeung Ching) Alumni.md
       - Partners/Yangzheng (Yeung Ching) Alumni (Youth).md
