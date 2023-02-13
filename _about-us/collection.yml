@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Staff/Key Personnel.md
       - Staff/Teaching Staff.md
       - Staff/Non Teaching Staff.md
       - Staff/.keep
