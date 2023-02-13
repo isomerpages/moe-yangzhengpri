@@ -61,7 +61,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Prefects%20Investiture%202022.jpeg)" alt="Prefects Investiture 2022" style=“width:50%;“>  
+<body><img src="![](/images/Prefects%20Investiture%202022.jpeg)" alt="Prefects Investiture 2022" style="width:50%;">  
   
 </body>  
 <br>
@@ -100,8 +100,18 @@ P5 and P6 Cyber Wellness leaders attended the Cyber-Wellness Leaders Training. T
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 161px; height: 249px;" class="ive_eobj_center" alt="Cyber Wellness Leaders Training_1.png" src="![](/images/Cyber%20Wellness%20Leaders%20Training_1.png)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 147px; height: 249px;" class="ive_eobj_center" alt="Cyber Wellness Leaders Training_2.png" src="![](/images/Cyber%20Wellness%20Leaders%20Training_2.png)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 183px; height: 249px;" class="ive_eobj_center" alt="Cyber Wellness Leaders Training_3.png" src="![](/images/Cyber%20Wellness%20Leaders%20Training_3.png)"></td></tr></tbody></table>
 
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Internet%20Addiction%20-%20Managing%20Our%20Device%20Usage.jpeg)" alt="Internet Addiction - Managing Our Device Usage" style="width:50%;">  
   
-![Internet Addiction - Managing Our Device Usage.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/LLP/Internet%20Addiction%20-%20Managing%20Our%20Device%20Usage.jpg)
+</body>  
+<br>
 
 YZnites’ Voice
 --------------
