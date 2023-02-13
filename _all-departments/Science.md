@@ -20,7 +20,18 @@ When pupils moved on to Primary 3, they consolidate their research findings and 
 
 Here are some of their LEGO models:
 
-![image51.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/Science/image51.png)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/image51.png)" alt="P3 Creature Craze
+" style="width:80%;">  
+  
+</body>  
+<br>
 
 P3 Every Child a Seed
 ---------------------
