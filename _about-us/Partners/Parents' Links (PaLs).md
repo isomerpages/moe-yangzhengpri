@@ -16,21 +16,14 @@ In Yangzheng Primary School, the roles of the Parents’ Links or PaLs (Parent S
   
 PaLs provides parents with varied opportunities to share services, expertise, knowledge and time with the school for the benefit of our children. Come join us today if you have not yet done so. We welcome parents to join us even if you can only make time for one activity in a school-year.  
   
-Do email us at yzps@moe.edu.sg for any queries.
-
-[](mailto:yeo_kim_ying@moe.edu.sg)
+Do email us at [yzps@moe.edu.sg](mailto:yeo_kim_ying@moe.edu.sg) for any queries.
 
 Parents Appreciation Lunch 2022
 -------------------------------
 
 On 14 November, the school organised a Parents Appreciation Lunch to show our appreciation and acknowledge the contributions of our parents&nbsp;who had taken time to volunteer in our various school activities this year. Each parent was presented a gratitude card and also a Yangzheng bear as a token of appreciation. Yangzhengnites were present to witness the impact of active volunteerism. We hope this will inspire them to do the same and be active contributors. Thank you parents for your time and we look forward to our continued partnership in 2023!
 
-| ![Appreciation Lunch_01.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/About%20Us/Partners/PaLs/Appreciation%20Lunch_01.png) |
-| --- |
-| ![Appreciation Lunch_02.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/About%20Us/Partners/PaLs/Appreciation%20Lunch_02.png)  
- | ![Appreciation Lunch_03.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/About%20Us/Partners/PaLs/Appreciation%20Lunch_03.png)  
- |
-| ![Appreciation Lunch_04.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/About%20Us/Partners/PaLs/Appreciation%20Lunch_04.png) | ![Appreciation Lunch_05.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/About%20Us/Partners/PaLs/Appreciation%20Lunch_05.png) |
+![Parents Appreciation Lunch 2022](/images/Parents%20Appreciation%20Lunch%202022.jpg)
 
   
 
@@ -41,42 +34,7 @@ This year’s week-long Teachers’ Day Celebration that ended with a concert wo
 
 A total of 45 PaLs members, led by the PaLs Exco, were involved in the Teachers’ Day Celebrations this year. Your kind gesture is greatly appreciated by all of the teachers and staff in Yangzheng Primary School. I am sure our students also enjoyed the time and learnt a lot from all the parents too!
 
-| ![Picture15.png](https://yangzhengpri.moe.edu.sg/qql/slot/u1074/teachers%20day/Picture15.png)  
- | ![Picture16.png](https://yangzhengpri.moe.edu.sg/qql/slot/u1074/teachers%20day/Picture16.png)  
- |
-| --- | --- |
-| &nbsp; Some of our PaLs Exco Members presenting the cake during the Concert  
- | 
-For the Concert, our talented Yangzhengnites&nbsp;
-
-were auditioned and prepared by our PaLs Members&nbsp;
-
- |
-
-| ![Picture17.png](https://yangzhengpri.moe.edu.sg/qql/slot/u1074/teachers%20day/Picture17.png)  
- | ![Picture18.png](https://yangzhengpri.moe.edu.sg/qql/slot/u1074/teachers%20day/Picture18.png)  
- |
-| --- | --- |
-
-Our PaLs hard at work preparing the souvenirs and the decorations for the Concert
-
-![Picture19.png](https://yangzhengpri.moe.edu.sg/qql/slot/u1074/teachers%20day/Picture19.png)
-
-Teachers’ Day Decoration at the Concourse Notice Board done by the PaLs Members
-
-| ![Picture20.png](https://yangzhengpri.moe.edu.sg/qql/slot/u1074/teachers%20day/Picture20.png) | ![Picture21.png](https://yangzhengpri.moe.edu.sg/qql/slot/u1074/teachers%20day/Picture21.png) |
-| --- | --- |
-| Photo Booth at Canteen all set up | Hall Decoration Team with Mrs Lim-Foo |
-
-| ![Picture22.png](https://yangzhengpri.moe.edu.sg/qql/slot/u1074/teachers%20day/Picture22.png) | ![Picture23.png](https://yangzhengpri.moe.edu.sg/qql/slot/u1074/teachers%20day/Picture23.png)
-  
-
-
- |
-| --- | --- |
-
-The Hall and Canteen were transformed by the PaLs Members.
-
+![Teachers’ Day Celebration 2022](/images/Teachers’%20Day%20Celebration%202022_1.jpg)
 Reading Mums Programme 2022
 ---------------------------
 
