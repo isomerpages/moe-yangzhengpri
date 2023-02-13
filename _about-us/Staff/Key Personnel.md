@@ -42,10 +42,11 @@ Administrative Manager
 ----------------------
 
 Mr Mike Tee  
-Email: tee\_kai\_hoe@schools.gov.sg  
+Email: <a href="mailto:tee\_kai\_hoe@schools.gov.sg">tee\_kai\_hoe@schools.gov.sg</a>
+  
 
 Operations Manager
 ------------------
 
 Mr Johnson Ng  
-Email: ng\_chai\_hin@schools.gov.sg
+Email: <a href="mailto:ng\_chai\_hin@schools.gov.sg">ng\_chai\_hin@schools.gov.sg</a>
