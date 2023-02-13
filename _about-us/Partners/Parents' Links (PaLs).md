@@ -35,6 +35,9 @@ This year’s week-long Teachers’ Day Celebration that ended with a concert wo
 A total of 45 PaLs members, led by the PaLs Exco, were involved in the Teachers’ Day Celebrations this year. Your kind gesture is greatly appreciated by all of the teachers and staff in Yangzheng Primary School. I am sure our students also enjoyed the time and learnt a lot from all the parents too!
 
 ![Teachers’ Day Celebration 2022](/images/Teachers’%20Day%20Celebration%202022_1.jpg)
+
+![Teachers’ Day Celebration 2022](/images/Teachers’%20Day%20Celebration%202022_2.jpg)
+
 Reading Mums Programme 2022
 ---------------------------
 
