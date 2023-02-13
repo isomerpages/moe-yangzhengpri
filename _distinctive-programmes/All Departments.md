@@ -17,13 +17,13 @@ description: ""
   <tr>
     <th class="tg-baqh"><a href="/distinctive-programmes/all-departments/cce"><img src="/images/YZPS22_0012.jpeg" alt="Image" width="55" height="17"></A><br><span style="font-weight:bold"><a href="/distinctive-programmes/all-departments/cce">CCE</a></span></th>
     <th class="tg-0lax"><a href="/distinctive-programmes/all-departments/english"><img src="![](/images/YZPS22_0070.jpeg)" alt="Image" width="55" height="17"></A><br><span style="font-weight:bold"><a href="/distinctive-programmes/all-departments/english">English</a></span></th>
-    <th class="tg-0lax"><a href="/distinctive-programmes/all-departments/cce"><img src="/images/YZPS22_0012.jpeg" alt="Image" width="55" height="17"></A><br><span style="font-weight:bold"><a href="/distinctive-programmes/all-departments/cce">CCE</a></span></th>
+    <th class="tg-0lax"><a href="/distinctive-programmes/all-departments/ict"><img src="![](/images/YZPS22_0105.jpeg)" alt="Image" width="55" height="17"></A><br><span style="font-weight:bold"><a href="/distinctive-programmes/all-departments/ict">ICT</a></span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a href="/distinctive-programmes/all-departments/cce"><img src="/images/YZPS22_0012.jpeg" alt="Image" width="55" height="17"></A><br><span style="font-weight:bold"><a href="/distinctive-programmes/all-departments/cce">CCE</a></span></td>
-    <td class="tg-0lax"><a href="/distinctive-programmes/all-departments/cce"><img src="/images/YZPS22_0012.jpeg" alt="Image" width="55" height="17"></A><br><span style="font-weight:bold"><a href="/distinctive-programmes/all-departments/cce">LMAO</a></span></td>
+    <td class="tg-0lax"><a href="/distinctive-programmes/all-departments/mathematics"><img src="![](/images/YZPS22_0086.jpeg)" alt="Image" width="55" height="17"></A><br><span style="font-weight:bold"><a href="/distinctive-programmes/all-departments/cce">Mathematics</a></span></td>
+    <td class="tg-0lax"><a href="/distinctive-programmes/all-departments/mathematics"><img src="/images/YZPS22_0012.jpeg" alt="Image" width="55" height="17"></A><br><span style="font-weight:bold"><a href="/distinctive-programmes/all-departments/cce">LMAO</a></span></td>
     <td class="tg-0lax"><a href="/distinctive-programmes/all-departments/cce"><img src="/images/YZPS22_0012.jpeg" alt="Image" width="55" height="17"></A><br><span style="font-weight:bold"><a href="/distinctive-programmes/all-departments/cce">CCE</a></span></td>
   </tr>
   <tr>
