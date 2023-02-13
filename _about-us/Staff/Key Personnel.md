@@ -95,12 +95,58 @@ Year Heads
 Assistant Year Heads
 --------------------
 
-<table class="iveo_table ives_tab_modern2 ive_eobj_left" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: none; width: 268.125px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left; width: 108px;">Primary 3</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left; width: 160px;">Mrs Nanmalar Velu</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-m24b{background-color:#FFF;color:#303030;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-m24b">Primary 3</td>
+    <td class="tg-m24b">Mrs Nanmalar Velu</td>
+  </tr>
+</thead>
+</table>
 
 Senior Teachers
 ---------------
 
-<table class="iveo_table ives_tab_modern2 ive_eobj_left" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: none; width: 383.912px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left; width: 148px;">Chinese Language</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left; width: 235px;">Mdm Zou Bin</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">English Language</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Ms Shanthini Ramachandran<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Mathematics&nbsp;&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Mrs Susan Chua<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Science</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(255, 255, 255);"></span>Ms Ginny Low<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-m24b{background-color:#FFF;color:#303030;text-align:left;vertical-align:middle}
+.tg .tg-usax{background-color:#E5E5E5;color:#303030;text-align:left;vertical-align:middle}
+.tg .tg-n8xx{background-color:#FFF;color:#303030;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-m24b">Chinese Language</th>
+    <th class="tg-m24b">Mdm Zou Bin</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-usax">English Language</td>
+    <td class="tg-usax">Ms Shanthini Ramachandran<br></td>
+  </tr>
+  <tr>
+    <td class="tg-m24b">Mathematics  </td>
+    <td class="tg-m24b">Mrs Susan Chua<br></td>
+  </tr>
+  <tr>
+    <td class="tg-usax">Science</td>
+    <td class="tg-n8xx">Ms Ginny Low</td>
+  </tr>
+</tbody>
+</table>
 
 Administrative Manager
 ----------------------
