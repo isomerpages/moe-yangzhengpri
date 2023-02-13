@@ -8,6 +8,7 @@ Corporate Support Officer
 -------------------------
 
 <table class="ive_eobj_left iveo_table ives_tab_modern2" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: none; width: 655.5px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="50%" style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left; width: 362px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(48, 48, 48); font-family: Archivo, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">Ms Aminahbee Osman</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(48, 48, 48); font-family: Archivo, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">Email: aminahbee_osman@schools.gov.sg</div></td><td width="50%" style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left; width: 293px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(48, 48, 48); font-family: Archivo, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">Ms Juliyana Binte Omar</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(48, 48, 48); font-family: Archivo, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Email: juliyana_omar@schools.gov.sg</span><br style="margin: 0px; outline: 0px; padding: 0px;"></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(48, 48, 48); font-family: Archivo, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">Mdm Kalechilvi D/O Ramalingam</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(48, 48, 48); font-family: Archivo, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">Email: kalechilvi_s_ramalingam@schools.gov.sg</div></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(48, 48, 48); font-family: Archivo, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">Mdm Pearl Tay</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(48, 48, 48); font-family: Archivo, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">Email: tay_wee_tien@schools.gov.sg</div></td></tr></tbody></table>
+<br>
 
 Operations Support Officer
 --------------------------
@@ -19,8 +20,7 @@ Allied Educator (AED)
 
 #### Counselling
 
-Ms Gillian Koh  
-
+Ms Gillian Koh   <br>
 Email: koh\_hua\_cheng@schools.gov.sg
 
   
@@ -32,19 +32,18 @@ Email: koh\_hua\_cheng@schools.gov.sg
 ICT Manager
 -----------
 
-Mdm Renuha D/O Rajindran  
-Email: renuha\_rajindran@schools.gov.sg  
+Mdm Renuha D/O Rajindran  <br>
+Email: [renuha_rajindran@schools.gov.sg](mailto:renuha_rajindran@schools.gov.sg)
 
 Desktop Engineer
 ----------------
 
 Mr Alias Bin Mat Leh  
-Email: alias.matleh@ncs.com.sg  
+Email: [alias.matleh@ncs.com.sg](mailto:alias.matleh@ncs.com.sg)
   
 
-Ms Nurul Shafiqah
-
-Email: ns.ba1@ncs.com.sg
+Ms Nurul Shafiqah <br>
+Email: [ns.ba1@ncs.com.sg](mailto:ns.ba1@ncs.com.sg)
 
 Librarian
 ---------
