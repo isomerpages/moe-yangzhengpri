@@ -89,10 +89,7 @@ Virtual Family Bonding Day 2021
 
 On 28 August 2021 (Saturday), our school organized and conducted a Virtual Interactive Tour to Insectta Farm for our parents and their families. They were brought on a learning journey to Insectta, which is Singapore’s first black soldier fly farm located in Singapore, where they learnt more about the superheroes of this insect farm: the black soldier fly, tried their hand at insect farming activities, and learnt how insect farms are revolutionizing sustainable agriculture. Through this interactive and informative virtual tour, our parents and their families went behind the scenes and learnt more about food waste, insect farming, our environmental challenges and sustainable practices.  
 
-| ![Picture7.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/About%20Us/Vfbonding%20day/Picture7.png) | ![Picture8.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/About%20Us/Vfbonding%20day/Picture8.jpg) |
-| --- | --- |
-| ![Picture9.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/About%20Us/Vfbonding%20day/Picture9.jpg) | ![Picture10.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/About%20Us/Vfbonding%20day/Picture10.jpg) |
-| ![Picture11.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/About%20Us/Vfbonding%20day/Picture11.png) | ![Picture12.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/About%20Us/Vfbonding%20day/Picture12.png) |
+![Virtual Family Bonding Day 2021](/images/Virtual%20Family%20Bonding%20Day%202021.jpg)
 
   
 
