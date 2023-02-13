@@ -1,4 +1,5 @@
 collections:
   all-departments:
     output: true
-    order: []
+    order:
+      - Student Management.md
