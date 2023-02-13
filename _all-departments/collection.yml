@@ -2,4 +2,5 @@ collections:
   all-departments:
     output: true
     order:
+      - Science.md
       - Student Management.md
