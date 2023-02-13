@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Profile/.keep
       - General School Information/School Hours.md
       - General School Information/School Rules and Regulations.md
       - General School Information/.keep
