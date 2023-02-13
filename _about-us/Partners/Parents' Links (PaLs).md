@@ -74,12 +74,7 @@ Our warmest appreciation to all parents who had volunteered during the Racial Ha
 
 ![ Some of our parents with the VIP, MOS Gan](/images/%20Some%20of%20our%20parents%20with%20the%20VIP%20MOS%20Gan.jpg)
 
-| ![Chinese Cultural Food Team.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/Our%20Partners/PaLs/Racial%20Harmony%20Day%202022/Chinese%20Cultural%20Food%20Team.jpg) | ![Malay Cultural Food Team.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/Our%20Partners/PaLs/Racial%20Harmony%20Day%202022/Malay%20Cultural%20Food%20Team.jpg)  
- |
-| --- | --- |
-| Chinese Cultural Food Team  
- | Malay Cultural Food Team&nbsp;  
- |
+![Cultural Food Teams](/images/Cultural%20Food%20Teams.jpg)
 
 | ![Indian Cultural Food Team.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/Our%20Partners/PaLs/Racial%20Harmony%20Day%202022/Indian%20Cultural%20Food%20Team.jpg)  
  | ![Eurasian Cultural Food Team.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/Our%20Partners/PaLs/Racial%20Harmony%20Day%202022/Eurasian%20Cultural%20Food%20Team.jpg)  
