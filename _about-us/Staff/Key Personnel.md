@@ -4,7 +4,7 @@ permalink: /about-us/staff/key-personnel/
 description: ""
 third_nav_title: Staff
 ---
-<p style="text-align:center;">Mrs Lim-Foo Boon Ching<br><strong>Principal</strong><p><a href="mailto:lim-foo\_boon\_ching@schools.gov.sg">lim-foo\_boon\_ching@schools.gov.sg</a></p>
+<p style="text-align:center;">Mrs Lim-Foo Boon Ching<br><strong>Principal</strong><br><a href="mailto:lim-foo_boon_ching@schools.gov.sg">lim-foo_boon_ching@schools.gov.sg</a></p>
 
   
 
