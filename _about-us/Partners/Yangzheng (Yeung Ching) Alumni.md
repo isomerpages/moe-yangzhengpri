@@ -4,10 +4,7 @@ permalink: /about-us/partners/yangzheng-yeung-ching-alumni/
 description: ""
 third_nav_title: Partners
 ---
-**  
-Yangzheng (Yeung Ching) Alumni Association (21 and above)**
-
-  
+<p style="text-align:center;"><strong>Yangzheng (Yeung Ching) Alumni Association (21 and above)</strong></p>
 
 Yeung Ching Alumni was set up in 1918. On 7 March 1952, it was officially registered as an Alumni Association and 7 March was set as the alumni association’s anniversary. The two goals the alumni committee has set are to:
 
