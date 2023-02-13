@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - General School Information/School Rules and Regulations.md
       - General School Information/.keep
       - Staff/Key Personnel.md
       - Staff/Teaching Staff.md
