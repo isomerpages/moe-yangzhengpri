@@ -76,25 +76,13 @@ Our warmest appreciation to all parents who had volunteered during the Racial Ha
 
 ![Cultural Food Teams](/images/Cultural%20Food%20Teams.jpg)
 
-| ![Indian Cultural Food Team.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/Our%20Partners/PaLs/Racial%20Harmony%20Day%202022/Indian%20Cultural%20Food%20Team.jpg)  
- | ![Eurasian Cultural Food Team.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/Our%20Partners/PaLs/Racial%20Harmony%20Day%202022/Eurasian%20Cultural%20Food%20Team.jpg)  
- |
-| --- | --- |
-| Indian Cultural Food Team  
- | Eurasian Cultural Food Team  
- |
 
 Online Engagement Session with Parents’ Links Members and Virtual Family Bonding Day 2022
 -----------------------------------------------------------------------------------------
 
 On 2 April 2022 (Saturday), our school engaged with our PaLs members via an Engagement session (Zoom Meeting) before the Virtual Family Bonding Day to Enabling Village for them and their families. They were brought on a learning journey to Enabling Village, a community space where people with different abilities can move independently, where they can feel accepted for who they are, and be valued for their contributions. Enabling Village is an inclusive space that represents a fresh approach to social businesses and community building. Our PaLs Members and their families learnt about assistive technologies, social inclusivity and empowerment of people with disabilities through employment.
 
-| ![Picture1.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/About%20Us/Vfbonding%20day/Picture1.png) | ![Picture2.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/About%20Us/Vfbonding%20day/Picture2.png) |
-| --- | --- |
-| ![Picture3.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/About%20Us/Vfbonding%20day/Picture3.png) | ![Picture4.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/About%20Us/Vfbonding%20day/Picture4.png) |
-| ![Picture5.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/About%20Us/Vfbonding%20day/Picture5.png) | ![Picture6.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/About%20Us/Vfbonding%20day/Picture6.png) |
-
-&nbsp;  
+![Online Engagement Session with Parents’ Links Members and Virtual Family Bonding Day 2022](/images/Online%20Engagement%20Session%20with%20Parents’%20Links%20Members%20and%20Virtual%20Family%20Bonding%20Day%202022.jpg)
 
 Virtual Family Bonding Day 2021
 -------------------------------
