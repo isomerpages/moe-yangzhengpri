@@ -21,7 +21,7 @@ Allied Educator (AED)
 #### Counselling
 
 Ms Gillian Koh   <br>
-Email: koh\_hua\_cheng@schools.gov.sg
+Email: <a href="mailto:koh\_hua\_cheng@schools.gov.sg">koh\_hua\_cheng@schools.gov.sg</a>
 
   
 
