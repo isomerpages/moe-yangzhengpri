@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Profile/Our Story.md
       - School Profile/Vision, Mission and Values.md
       - School Profile/School Crest and Song.md
       - School Profile/.keep
