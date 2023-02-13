@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Partners/Yangzheng (Yeung Ching) Alumni (Youth).md
       - Partners/Yeung Ching Scout Open Group.md
       - Partners/.keep
