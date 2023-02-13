@@ -45,13 +45,7 @@ Reading Mums Programme 2022
 
 We would like to thank our PaLs members who had volunteered for the weekly ‘Reading Mums Programme’ to engage and motivate our lower primary students in their reading. Thank you for rendering your support to our students in this important and meaningful programme.
 
-| ![Picture24.png](https://yangzhengpri.moe.edu.sg/qql/slot/u1074/reading%20mums/Picture24.png)  
- | ![Picture25.png](https://yangzhengpri.moe.edu.sg/qql/slot/u1074/reading%20mums/Picture25.png)  
- |
-| --- | --- |
-| ![Picture26.png](https://yangzhengpri.moe.edu.sg/qql/slot/u1074/reading%20mums/Picture26.png)  
- | ![Picture27.png](https://yangzhengpri.moe.edu.sg/qql/slot/u1074/reading%20mums/Picture27.png)  
- |
+![Reading Mums Programme 2022](/images/Reading%20Mums%20Programme%202022.jpg)
 
   
 
