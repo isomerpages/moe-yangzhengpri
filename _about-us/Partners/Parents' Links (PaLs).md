@@ -59,7 +59,7 @@ On 27 August 2022 (Saturday), our school conducted a parent-child bonding terrar
 
 ![Family Bonding Day 2022](/images/Family%20Bonding%20Day%202022_2.jpg)
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 811.833px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; width: 809px; height: 373px;" class="ive_eobj_left" alt="fbd 9.png" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/About%20Us/Family%20bonding%20day%202022/fbd%209.png"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 811.833px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; width: 809px; height: 373px;" class="ive_eobj_left" alt="fbd 9.png" src="![](/images/fbd%209.png)"></td></tr></tbody></table>
 
   
 
