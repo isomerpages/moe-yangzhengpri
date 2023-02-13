@@ -38,6 +38,8 @@ A total of 45 PaLs members, led by the PaLs Exco, were involved in the Teachers�
 
 ![Teachers’ Day Celebration 2022](/images/Teachers’%20Day%20Celebration%202022_2.jpg)
 
+![Teachers’ Day Celebration 2022](/images/Teachers’%20Day%20Celebration%202022_3.jpg)
+
 Reading Mums Programme 2022
 ---------------------------
 
