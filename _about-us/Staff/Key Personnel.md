@@ -21,12 +21,76 @@ Head of Departments
 Subject Heads
 -------------
 
-<table class="iveo_table ives_tab_modern2 ive_eobj_left" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: none; width: 363.412px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left; width: 148px;">Aesthetics</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left; width: 215px;">Mdm Yap Shiaw Fang</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Chinese Language</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Mdm Chin Siew Hoon</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">English Language<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Mrs Annie Ong<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Mathematics<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Mrs Celestia Tan<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Physical Education<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Mr Chan Kiat Heo Samuel</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Science<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Mdm Anusuya Retnam</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-m24b{background-color:#FFF;color:#303030;text-align:left;vertical-align:middle}
+.tg .tg-usax{background-color:#E5E5E5;color:#303030;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-m24b">Aesthetics</th>
+    <th class="tg-m24b">Mdm Yap Shiaw Fang</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-usax">Chinese Language</td>
+    <td class="tg-usax">Mdm Chin Siew Hoon</td>
+  </tr>
+  <tr>
+    <td class="tg-m24b">English Language<br></td>
+    <td class="tg-m24b">Mrs Annie Ong<br></td>
+  </tr>
+  <tr>
+    <td class="tg-usax">Mathematics<br></td>
+    <td class="tg-usax">Mrs Celestia Tan<br></td>
+  </tr>
+  <tr>
+    <td class="tg-m24b">Physical Education<br></td>
+    <td class="tg-m24b">Mr Chan Kiat Heo Samuel</td>
+  </tr>
+  <tr>
+    <td class="tg-usax">Science<br></td>
+    <td class="tg-usax">Mdm Anusuya Retnam</td>
+  </tr>
+</tbody>
+</table>
 
 Year Heads
 ----------
 
-<table class="iveo_table ives_tab_modern2 ive_eobj_left" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: none; width: 402.037px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left; width: 190px;">Primary 1 &amp; 2 (Covering)</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left; width: 212px;">Mr Abu Naeem Bin Hairon</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Primary 4</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Mrs Angela Ong</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Primary 5 &amp; 6</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Mdm Lasime Kumari</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-m24b{background-color:#FFF;color:#303030;text-align:left;vertical-align:middle}
+.tg .tg-usax{background-color:#E5E5E5;color:#303030;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-m24b">Primary 1 &amp; 2 (Covering)</th>
+    <th class="tg-m24b">Mr Abu Naeem Bin Hairon</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-usax">Primary 4</td>
+    <td class="tg-usax">Mrs Angela Ong</td>
+  </tr>
+  <tr>
+    <td class="tg-m24b">Primary 5 &amp; 6</td>
+    <td class="tg-m24b">Mdm Lasime Kumari</td>
+  </tr>
+</tbody>
+</table>
 
 Assistant Year Heads
 --------------------
