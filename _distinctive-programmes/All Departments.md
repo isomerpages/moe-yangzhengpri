@@ -28,7 +28,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/distinctive-programmes/all-departments/science"><img src="![](/images/YZPS22_0102.jpeg)" alt="Image" width="55" height="17"></A><br><span style="font-weight:bold"><a href="/distinctive-programmes/all-departments/science">Science</a></span></td>
-    <td class="tg-0lax"><a href="/distinctive-programmes/all-departments/cce"><img src="/images/YZPS22_0012.jpeg" alt="Image" width="55" height="17"></A><br><span style="font-weight:bold"><a href="/distinctive-programmes/all-departments/cce">CCE</a></span></td>
+    <td class="tg-0lax"><a href="/distinctive-programmes/all-departments/student-management"><img src="![](/images/YZPS22_0050.jpeg)" alt="Image" width="55" height="17"></A><br><span style="font-weight:bold"><a href="/distinctive-programmes/all-departments/student-management">Student Management</a></span></td>
     <td class="tg-0lax"></td>
   </tr>
 </tbody>
