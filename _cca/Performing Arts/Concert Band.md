@@ -20,10 +20,6 @@ Members will not only be cognisant to sounds produced by different instruments, 
 
 With the completion of the Indoor Sports Hall building, we moved to our brand new premises in January 2021, where we now have our own Band Room and practice spaces. Here are some of the instruments that our pupils play.
 
-  
-
-![2021 Seniors.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Concert%20Band/2021%20Seniors.jpg)
-
 <style>  
 img {  
   display: block;  
@@ -31,17 +27,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+<body><img src="![](/images/2021%20Seniors.jpeg)" alt="Senior and Junior Concert Band" style="width:70%;">  
   
 </body>  
 
 
 Below are our current Junior members with some of the Seniors. The Juniors have been treated to weekly performances by the Seniors as they learn more about the Band, fellow members, as well as the different instruments.
 
-  
-
-![2021 Juniors.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Concert%20Band/2021%20Juniors.jpg)
-
 <style>  
 img {  
   display: block;  
@@ -49,7 +41,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+<body><img src="![](/images/2021%20Juniors.jpeg)" alt="Senior and Junior Concert Band" style="width:70%;">  
   
 </body>  
 
