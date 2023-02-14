@@ -146,8 +146,8 @@ Competitions
     <td colspan="2" class="tg-baqh"><img height="128" width="42" alt="National School Games South Zone_5.jpg" src="![](/images/National%20School%20Games%20South%20Zone_5.jpeg)"></td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-baqh"><img height="254" width="99" alt="National School Games South Zone_2.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/National%20School%20Games%20South%20Zone_2.jpg"></td>
-    <td colspan="4" class="tg-baqh"><img height="254" width="152" alt="National School Games South Zone.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/National%20School%20Games%20South%20Zone.jpg"></td>
+    <td colspan="2" class="tg-baqh"><img height="254" width="99" alt="National School Games South Zone_2.jpg" src="![](/images/National%20School%20Games%20South%20Zone_2.jpeg)"></td>
+    <td colspan="4" class="tg-baqh"><img height="254" width="152" alt="National School Games South Zone.jpg" src="![](/images/National%20School%20Games%20South%20Zone.jpeg)"></td>
   </tr>
   <tr>
     <td colspan="2" class="tg-nrix">Yeah! Year End Smash ActiveSG<br>2×2 Basketball Carnival (1st Edition)</td>
@@ -155,7 +155,7 @@ Competitions
     <td colspan="2" class="tg-nrix">2020</td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-baqh"><img height="254" width="99" alt="Yeah Year End Smash.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/Yeah%20Year%20End%20Smash.jpg"></td>
+    <td colspan="2" class="tg-baqh"><img height="254" width="99" alt="Yeah Year End Smash.jpg" src="![](/images/Yeah%20Year%20End%20Smash.jpeg)"></td>
     <td colspan="4" class="tg-baqh"><img height="254" width="152" alt="Yeah Year End Smash_2.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/Yeah%20Year%20End%20Smash_2.jpg"></td>
   </tr>
   <tr>
