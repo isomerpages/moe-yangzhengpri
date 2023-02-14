@@ -19,19 +19,19 @@ Our members serve as green ambassadors to bring greater awareness of the environ
 Activities
 ----------
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 404px; height: 241px;" class="ive_eobj_center" alt="Gardening.jpg" src="![](/images/Gardening.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 331px; height: 241px;" class="ive_eobj_center" alt="Gardening_2.jpg" src="![](/images/Gardening_2.jpeg)"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 404px; height: 241px;" class="ive_eobj_center" alt="Gardening.jpg" src="/images/Gardening.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 331px; height: 241px;" class="ive_eobj_center" alt="Gardening_2.jpg" src="/images/Gardening_2.jpeg"></td></tr></tbody></table>
 
 Maintaining the school’s ecogarden through gardening and growing of crops.
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 420px; height: 241px;" class="ive_eobj_center" alt="Observing Insects.jpg" src="![](/images/Observing%20Insects.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 388px; height: 240px;" class="ive_eobj_center" alt="Observing Insects_2.jpg" src="![](/images/Observing%20Insects_2.jpeg)"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 420px; height: 241px;" class="ive_eobj_center" alt="Observing Insects.jpg" src="/images/Observing%20Insects.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 388px; height: 240px;" class="ive_eobj_center" alt="Observing Insects_2.jpg" src="/images/Observing%20Insects_2.jpeg"></td></tr></tbody></table>
 
 Observing butterflies and dragonflies in our ecogarden during the NParks Biodiversity Trail.
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 431px; height: 241px;" class="ive_eobj_center" alt="Environmental Awareness.jpg" width="100%" src="![](/images/Environmental%20Awareness.jpeg)"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 450px; height: 241px;" class="ive_eobj_center" alt="Environmental Awareness_3.jpg" width="100%" src="![](/images/Environmental%20Awareness_3.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 233px; height: 446px;" class="ive_eobj_center" alt="Environmental Awareness_2.jpg" src="![](/images/Environmental%20Awareness_2.jpeg)"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 431px; height: 241px;" class="ive_eobj_center" alt="Environmental Awareness.jpg" width="100%" src="/images/Environmental%20Awareness.jpeg"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 450px; height: 241px;" class="ive_eobj_center" alt="Environmental Awareness_3.jpg" width="100%" src="/images/Environmental%20Awareness_3.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 233px; height: 446px;" class="ive_eobj_center" alt="Environmental Awareness_2.jpg" src="/images/Environmental%20Awareness_2.jpeg"></td></tr></tbody></table>
 
 Project to spread environmental awareness.
 
@@ -47,13 +47,13 @@ Our greEN ambassadors have assisted in school events such as helping to manage r
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 420px; height: 241px;" class="ive_eobj_center" alt="Energy Hero.jpg" src="![](/images/Energy%20Hero.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 428px; height: 241px;" class="ive_eobj_center" alt="Energy Hero_2.jpg" src="![](/images/Energy%20Hero_2.jpeg)"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 420px; height: 241px;" class="ive_eobj_center" alt="Energy Hero.jpg" src="/images/Energy%20Hero.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 428px; height: 241px;" class="ive_eobj_center" alt="Energy Hero_2.jpg" src="/images/Energy%20Hero_2.jpeg"></td></tr></tbody></table>
 
 Energy Hero Roadshow
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 403px; height: 241px;" class="ive_eobj_center" alt="NEA.jpg" src="![](/images/NEA.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 372px; height: 241px;" class="ive_eobj_center" alt="NEA_2.jpg" src="![](/images/NEA_2.jpeg)"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 403px; height: 241px;" class="ive_eobj_center" alt="NEA.jpg" src="/images/NEA.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 372px; height: 241px;" class="ive_eobj_center" alt="NEA_2.jpg" src="/images/NEA_2.jpeg"></td></tr></tbody></table>
 
 NEA “Say No to Food Waste” Roadshow
 
@@ -63,7 +63,7 @@ Parent’s Learning Fiesta
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ives_tab_kosong ive_eobj_center"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 322px; height: 241px;" class="ive_eobj_center" alt="Parents Learning Fiesta.jpg" src="![](/images/Parents%20Learning%20Fiesta.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 347px; height: 241px;" class="ive_eobj_center" alt="Parents Learning Fiesta_2.jpg" src="![](/images/Parents%20Learning%20Fiesta_2.jpeg)"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ives_tab_kosong ive_eobj_center"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 322px; height: 241px;" class="ive_eobj_center" alt="Parents Learning Fiesta.jpg" src="/images/Parents%20Learning%20Fiesta.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 347px; height: 241px;" class="ive_eobj_center" alt="Parents Learning Fiesta_2.jpg" src="/images/Parents%20Learning%20Fiesta_2.jpeg"></td></tr></tbody></table>
 
 Our GreEN ambassadors have assisted in school events such as Terrarium and Kokedama workshops for parents.
 
@@ -83,7 +83,7 @@ Kindergarten children are invited to our school to learn about planting using th
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 430px; height: 241px;" class="ive_eobj_center" alt="SeedLink.jpg" src="![](/images/SeedLink.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 289px; height: 241px;" class="ive_eobj_center" alt="SeedLink_2.jpg" src="![](/images/SeedLink_2.jpeg)"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 430px; height: 241px;" class="ive_eobj_center" alt="SeedLink.jpg" src="/images/SeedLink.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 289px; height: 241px;" class="ive_eobj_center" alt="SeedLink_2.jpg" src="/images/SeedLink_2.jpeg"></td></tr></tbody></table>
 
   
 
@@ -93,7 +93,7 @@ The seedLink project led to more collaborations with Kindergartens in our neighb
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 367px; height: 241px;" class="ive_eobj_center" alt="Gardening w Kindergartens.jpg" src="![](/images/Gardening%20w%20Kindergartens.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 402px; height: 241px;" class="ive_eobj_center" alt="Gardening w Kindergartens_2.jpg" src="![](/images/Gardening%20w%20Kindergartens_2.jpeg)"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 367px; height: 241px;" class="ive_eobj_center" alt="Gardening w Kindergartens.jpg" src="/images/Gardening%20w%20Kindergartens.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 402px; height: 241px;" class="ive_eobj_center" alt="Gardening w Kindergartens_2.jpg" src="/images/Gardening%20w%20Kindergartens_2.jpeg"></td></tr></tbody></table>
 
   
 
@@ -103,7 +103,7 @@ Our GreEN ambassadors participated in a joint dengue outreach project with Zhong
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 344px; height: 241px;" class="ive_eobj_center" alt="Dengue Outreach.jpg" src="![](/images/Dengue_Outreach.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 366px; height: 241px;" class="ive_eobj_center" alt="Dengue Outreach_2.jpg" src="![](/images/Dengue_Outreach_2.jpeg)"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 344px; height: 241px;" class="ive_eobj_center" alt="Dengue Outreach.jpg" src="/images/Dengue_Outreach.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 366px; height: 241px;" class="ive_eobj_center" alt="Dengue Outreach_2.jpg" src="/images/Dengue_Outreach_2.jpeg"></td></tr></tbody></table>
 
   
 
@@ -113,20 +113,46 @@ Our GreEN Club members attend the Environment Champion workshops and go on Learn
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 322px; height: 241px;" class="ive_eobj_center" alt="Electricity Efficiency Centre.jpg" width="100%" src="![](/images/Electricity%20Efficiency%20Centre.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 359px; height: 241px;" class="ive_eobj_center" alt="Electricity Efficiency Centre_2.jpg" src="![](/images/Electricity%20Efficiency%20Centre_2.jpeg)"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 322px; height: 241px;" class="ive_eobj_center" alt="Electricity Efficiency Centre.jpg" width="100%" src="/images/Electricity%20Efficiency%20Centre.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 359px; height: 241px;" class="ive_eobj_center" alt="Electricity Efficiency Centre_2.jpg" src="/images/Electricity%20Efficiency%20Centre_2.jpeg"></td></tr></tbody></table>
 
 Learning Journey conducted by the Electricity Efficiency Centre and Sustainability Gallery Singapore.
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 275px; height: 241px;" class="ive_eobj_center" alt="Sustainable Singapore Gallery.jpg" src="![](/images/Sustainable%20Singapore%20Gallery.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 422px; height: 241px;" class="ive_eobj_center" alt="Sustainable Singapore Gallery_2.jpg" src="![](/images/Sustainable%20Singapore%20Gallery_2.jpeg)"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 275px; height: 241px;" class="ive_eobj_center" alt="Sustainable Singapore Gallery.jpg" src="/images/Sustainable%20Singapore%20Gallery.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 422px; height: 241px;" class="ive_eobj_center" alt="Sustainable Singapore Gallery_2.jpg" src="/images/Sustainable%20Singapore%20Gallery_2.jpeg"></td></tr></tbody></table>
 
 Learning journey to the Sustainable Singapore Gallery for GreEN Club members and teachers.
 
 Competitions
 ------------
 
-| Competition | Achievement | Year |
-| --- | --- | --- |
-| School Green Award | Vanda Miss Joaquim Award | 2019 |
-| Green Schools @ South East CDC Award | Sustained Excellence Award | 2019 |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dm6r{background-color:#FFF;color:#303030;text-align:center;vertical-align:middle}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Competition</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Achievement</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Year</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dm6r">School Green Award</td>
+    <td class="tg-dm6r">Vanda Miss Joaquim Award</td>
+    <td class="tg-dm6r">2019</td>
+  </tr>
+  <tr>
+    <td class="tg-dm6r">Green Schools @ South East CDC Award</td>
+    <td class="tg-dm6r">Sustained Excellence Award</td>
+    <td class="tg-dm6r">2019</td>
+  </tr>
+</tbody>
+</table>
