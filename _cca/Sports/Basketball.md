@@ -102,7 +102,7 @@ Competitions
   </tr>
   <tr>
     <td colspan="2" class="tg-baqh"><img height="254" width="99" alt="Community Basketball League.jpg" src="![](/images/Community%20Basketball%20League.jpeg)"></td>
-    <td colspan="4" class="tg-baqh"><img height="254" width="152" alt="Community Basketball League_2.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/Community%20Basketball%20League_2.jpg"></td>
+    <td colspan="4" class="tg-baqh"><img height="254" width="152" alt="Community Basketball League_2.jpg" src="![](/images/Community%20Basketball%20League_2.jpeg)"></td>
   </tr>
   <tr>
     <td colspan="2" class="tg-nrix">Anglican High School Basketball<br>Invitational Tournament</td>
