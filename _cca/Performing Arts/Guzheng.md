@@ -13,7 +13,7 @@ Performances
 
 **Braddell Heights 53rd National Day Celebration Dinner**
 
-<img src="![](/images/Braddell%20Heights%2053rd%20National%20Day%20Celebration%20Dinner.jpeg)"  
+<img src="/images/Braddell%20Heights%2053rd%20National%20Day%20Celebration%20Dinner.jpeg"  
 style="width:75%">
 
 Pupils performed “喜悦”in the Braddell Heights 53rd National Day Celebration Dinner.
@@ -22,12 +22,12 @@ Pupils performed “喜悦”in the Braddell Heights 53rd National Day Celebrati
 
 **Jubilation of Yangzhengnites (JOY)**
 
-<img src="![](/images/2018%20JOY.jpeg)"  
+<img src="/images/2018%20JOY.jpeg"  
 style="width:75%">
 
 Pupils performed “喜悦” in the Jubilation of Yangzhengnites 2018.
 
-<img src="![](/images/JOY%20Day%202020.jpeg)"  
+<img src="/images/JOY%20Day%202020.jpeg"  
 style="width:75%">
   
 
@@ -37,12 +37,12 @@ Pupils performed “梁祝” in the virtual concert.
 
 **Chinese New Year Celebration**
 
-<img src="![](/images/2019%20CNY.jpeg)"  
+<img src="/images/2019%20CNY.jpeg"  
 style="width:75%">
 
 Pupils performed “洞庭新歌” in the CNY celebration Concert.  
 
- <img src="![](/images/Pupils%20performed%20in%20the%20CNY%20celebration%20Concert.jpg)"  
+ <img src="/images/Pupils%20performed%20in%20the%20CNY%20celebration%20Concert.jpg"  
 style="width:75%"> 
 
 Our pupils performed ‘水墨江南’ and ‘迎春花’ in the virtual concert.  
@@ -51,7 +51,7 @@ Our pupils performed ‘水墨江南’ and ‘迎春花’ in the virtual conce
 
 **The Belt and Road International Chinese Art Exhibition cum the Butterfly Lovers 60th Anniversary Concert**
 
-<img src="![](/images/The%20Belt%20and%20Road%20International%20Chinese%20Art%20Exhibition%20Butterfly%20Lovers%2060th%20Anniversary%20Concert.jpg)"  
+<img src="/images/The%20Belt%20and%20Road%20International%20Chinese%20Art%20Exhibition%20Butterfly%20Lovers%2060th%20Anniversary%20Concert.jpg"  
 style="width:75%">
 
 On 23rd August 2019, 10 of our pupils, along with Chinese music enthusiasts from other countries and regions, participated in the concert. Our pupils were fortunate to listen to the academic courses of musicians, composers of ‘The Legend of butterfly lovers’, and Master He Zhanhao.  
@@ -71,6 +71,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/SIMCI%202019.jpeg)" alt="SIMCI 2019" style="width:75%;">  
+<body><img src="/images/SIMCI%202019.jpeg" alt="SIMCI 2019" style="width:75%;">  
   
 </body>
