@@ -4,11 +4,10 @@ permalink: /distinctive-programmes/all-departments/phe-aesthetics-cca/cca/perfor
 description: ""
 third_nav_title: Performing Arts
 ---
-**Objective / Goal**  
+**Objective / Goal**  <br>
 We aim to develop our members' **character, values, leadership** and **teamwork** through authentic and engaging **music making activities**. We provide the platform for students to pursue their interest in music through playing an instrument and performing as an ensemble.  
   
-**Life Skills / Values**  
-
+**Life Skills / Values**  <br>
 By encouraging high standards of performance with good musicianship, we endeavour to inculcate discipline, grit and perseverance which forms the foundation for further pursuits of music, either casually or formally.
 
   
@@ -25,13 +24,34 @@ With the completion of the Indoor Sports Hall building, we moved to our brand ne
 
 ![2021 Seniors.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Concert%20Band/2021%20Seniors.jpg)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
   
+</body>  
+
 
 Below are our current Junior members with some of the Seniors. The Juniors have been treated to weekly performances by the Seniors as they learn more about the Band, fellow members, as well as the different instruments.
 
   
 
 ![2021 Juniors.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Concert%20Band/2021%20Juniors.jpg)
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+  
+</body>  
 
   
 
@@ -41,6 +61,17 @@ Although our Band was formed in 2018, its humble origin can be traced all the wa
 
 ![YCS Brass Band.png.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Concert%20Band/YCS%20Brass%20Band.png.jpg)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+  
+</body>  
+
 Performances
 ------------
 
@@ -49,6 +80,17 @@ Performances
   
 
 ![2019 School Anniversary.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Concert%20Band/2019%20School%20Anniversary.jpg)
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+  
+</body>  
 
   
 
@@ -62,6 +104,17 @@ Within 1 year of its formation, the Band put up its first performance for our sc
 
 ![2019 JOY.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Concert%20Band/2019%20JOY.jpg)  
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+  
+</body>  
+
 In November 2019, the Band put up its second performance at our annual prize giving ceremony. It was another good exposure for our members to build their confidence and hone their showmanship in preparation for the biennial Singapore Youth Festival presentation the following year.
 
 Competitions
@@ -73,6 +126,15 @@ Competitions
 
 ![2020 SYF Rehearsal.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Concert%20Band/2020%20SYF%20Rehearsal.jpg)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
   
+</body>    
 
 The Band’s participation in the SYF for the first time gave our members the opportunity to perform beyond our school compound. They went to the Singapore Conference Hall for their rehearsal in April 2020. The rehearsal was indeed an eye opener for our members, who were thrilled to visit and experience performing in a real concert venue. The acoustic and layout of the venue was awesome!
