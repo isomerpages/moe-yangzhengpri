@@ -24,17 +24,14 @@ style="width:75%">
 
 桃花笑
 
-![2021 CNY Celebration.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Chinese%20Dance/2021%20CNY%20Celebration.jpg)
-
-<img src="NOOO"  
+<img src="![](/images/2021%20CNY%20Celebration.jpeg)"  
 style="width:75%">
   
 
 **Yangzheng 113th Anniversary Celebration**  
 雏燕 (Flight of The Swallows)  
 
-![YZ 113th Anniversary.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Chinese%20Dance/YZ%20113th%20Anniversary.jpg)
-<img src="NOOO"  
+<img src="![](/images/YZ%20113th%20Anniversary.jpeg)"  
 style="width:75%">
 
 Competitions
