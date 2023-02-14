@@ -40,15 +40,18 @@ style="width:70%">
 
 **Recycling Outreach Programme**
 
-![Brownies 5.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Uniformed%20Groups/Brownies/Brownies%205.jpg)  
+<img src="![](/images/Brownies%205.jpeg)"  
+style="width:70%">
 
-![Brownies 4.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Uniformed%20Groups/Brownies/Brownies%204.jpg)
+<img src="![](/images/Brownies%204.jpeg)"  
+style="width:70%">
 
   
 
 **Zero Waste and 3Rs Awareness Programme at Bishan Neighbourhood**  
 
-![Zero Waste and 3Rs.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Uniformed%20Groups/Brownies/Zero%20Waste%20and%203Rs.jpg)
+<img src="![](/images/Zero%20Waste%20and%203Rs.jpeg)"  
+style="width:70%">
 
   
 
