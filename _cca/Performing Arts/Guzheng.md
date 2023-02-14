@@ -285,3 +285,14 @@ Competitions
 
   
 ![SIMCI 2019.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Guzheng/SIMCI%202019.jpg)
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="NOOO" alt="SIMCI 2019" style="width:75%;">  
+  
+</body>  
