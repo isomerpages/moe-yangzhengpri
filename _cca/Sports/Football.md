@@ -61,12 +61,12 @@ Competitions
     <td class="tg-dm6r" colspan="2">2019</td>
   </tr>
   <tr>
-    <td class="tg-epkd" colspan="2"><img src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Football/20190807_164217.jpg" alt="20190807_164217.jpg" width="350" height="233"></td>
-    <td class="tg-epkd" colspan="4"><img src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Football/FAS%20Futsal.jpg" alt="FAS Futsal.jpg" width="350" height="233"></td>
+    <td class="tg-epkd" colspan="2"><img src="/images/20190807_164217.jpeg" alt="20190807_164217.jpg" width="350" height="233"></td>
+    <td class="tg-epkd" colspan="4"><img src="/images/FAS%20Futsal.jpeg" alt="FAS Futsal.jpg" width="350" height="233"></td>
   </tr>
   <tr>
-    <td class="tg-epkd" colspan="2"><img src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Football/Untitled_2.jpg" alt="Untitled_2.jpg" width="350" height="219"></td>
-    <td class="tg-epkd" colspan="4"><img src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Football/Untitled_3.jpg" alt="Untitled_3.jpg" width="350" height="219"></td>
+    <td class="tg-epkd" colspan="2"><img src="/images/Untitled_2.jpeg" alt="Untitled_2.jpg" width="350" height="219"></td>
+    <td class="tg-epkd" colspan="4"><img src="/images/Untitled_3.jpeg" alt="Untitled_3.jpg" width="350" height="219"></td>
   </tr>
 </tbody>
 </table>
