@@ -142,8 +142,8 @@ Competitions
   </tr>
   <tr>
     <td colspan="2" class="tg-baqh"><img height="128" width="99" alt="National School Games South Zone_3.jpg" src="![](/images/National%20School%20Games%20South%20Zone_3.jpeg)"></td>
-    <td colspan="2" class="tg-baqh"><img height="128" width="101" alt="National School Games South Zone_4.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/National%20School%20Games%20South%20Zone_4.jpg"></td>
-    <td colspan="2" class="tg-baqh"><img height="128" width="42" alt="National School Games South Zone_5.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/National%20School%20Games%20South%20Zone_5.jpg"></td>
+    <td colspan="2" class="tg-baqh"><img height="128" width="101" alt="National School Games South Zone_4.jpg" src="![](/images/National%20School%20Games%20South%20Zone_4.jpeg)"></td>
+    <td colspan="2" class="tg-baqh"><img height="128" width="42" alt="National School Games South Zone_5.jpg" src="![](/images/National%20School%20Games%20South%20Zone_5.jpeg)"></td>
   </tr>
   <tr>
     <td colspan="2" class="tg-baqh"><img height="254" width="99" alt="National School Games South Zone_2.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/National%20School%20Games%20South%20Zone_2.jpg"></td>
