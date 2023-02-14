@@ -20,7 +20,7 @@ Performances
 
 **National Day Celebration**
 
-<img src="![](/images/NDP%20Celebration%202018.jpeg)"  
+<img src="/images/NDP%20Celebration%202018.jpeg"  
 style="width:75%">
 
 Dance Title: NDP song Reach out for the Skies
@@ -29,21 +29,21 @@ Dance Title: NDP song Reach out for the Skies
 
 **Jubilation of Yangzhengnites (JOY)**
 
-<img src="![](/images/JOY%202018.jpeg)"  
+<img src="/images/JOY%202018.jpeg"  
 style="width:75%">
 
 Dance Title: Racial Harmony
 
 Dancers performed to a medley of Indian, Malay and Hip-Hop music.
 
-<img src="![](/images/JOY%202019.jpeg)"  
+<img src="/images/JOY%202019.jpeg"  
 style="width:75%">
 
 Dance Title: Believe in Yourself
 
 This routine is about understanding one’s talent or skill and developing it.
 
-<img src="![](/images/JOY%202020.jpeg)"  
+<img src="/images/JOY%202020.jpeg"  
 style="width:75%">
 
 Dance Title: Magic in Me
@@ -54,7 +54,7 @@ In the midst of the pandemic, our graduating dancers came to perform the dance t
 
 **HDB Award Presentation Ceremony**
 
-<img src="![](/images/HDB%20Award%20Presentation%202019.jpeg)"  
+<img src="/images/HDB%20Award%20Presentation%202019.jpeg"  
 style="width:75%">
 
 
@@ -63,10 +63,41 @@ Our dancers were invited to perform at the award presentation ceremony.
 Competitions
 ------------
 
-| Competition | Achievement | Year |
-| --- | --- | --- |
-| Singapore Youth Festival Arts Presentation | Certificate of Distinction | 2018 |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dm6r{background-color:#FFF;color:#303030;text-align:center;vertical-align:middle}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Competition</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Achievement</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Year</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dm6r">Singapore Youth Festival Arts Presentation</td>
+    <td class="tg-dm6r">Certificate of Distinction</td>
+    <td class="tg-dm6r">2018</td>
+  </tr>
+</tbody>
+</table>
 
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/SYF%202018.jpeg" alt="SYF 2018" style="width:75%;">  
   
-<img src="![](/images/SYF%202018.jpeg)"  
-style="width:75%">
+</body>  
+<br>
