@@ -4,50 +4,17 @@ permalink: /distinctive-programmes/all-departments/phe-aesthetics-cca/cca/perfor
 description: ""
 third_nav_title: Performing Arts
 ---
-**Objective / Goal  
-**We aim to promote appreciation of Chinese Culture through playing of Guzheng. We also provide interested pupils with exposure and experience in learning and mastering the skills of Guzheng.  
+**Objective / Goal** <br>We aim to promote appreciation of Chinese Culture through playing of Guzheng. We also provide interested pupils with exposure and experience in learning and mastering the skills of Guzheng.  
   
-**Values  
-**Passion for learning, Responsibility, Integrity, Self-discipline, Resilience  
+**Values** <br>Passion for learning, Responsibility, Integrity, Self-discipline, Resilience  
 
 Performances
 ------------
 
 **Braddell Heights 53rd National Day Celebration Dinner**
 
-![Braddell Heights 53rd National Day Celebration Dinner.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Guzheng/Braddell%20Heights%2053rd%20National%20Day%20Celebration%20Dinner.jpg)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+<img src="![](/images/Braddell%20Heights%2053rd%20National%20Day%20Celebration%20Dinner.jpeg)"  
+style="width:75%">
 
 Pupils performed “喜悦”in the Braddell Heights 53rd National Day Celebration Dinner.
 
@@ -55,47 +22,13 @@ Pupils performed “喜悦”in the Braddell Heights 53rd National Day Celebrati
 
 **Jubilation of Yangzhengnites (JOY)**
 
-![2018 JOY.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Guzheng/2018%20JOY.jpg)
-
-  
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-  
-  
-  
-  
+<img src="![](/images/2018%20JOY.jpeg)"  
+style="width:75%">
 
 Pupils performed “喜悦” in the Jubilation of Yangzhengnites 2018.
 
-  
-
-![JOY Day 2020.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Guzheng/JOY%20Day%202020.jpg)
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+<img src="![](/images/JOY%20Day%202020.jpeg)"  
+style="width:75%">
   
 
 Pupils performed “梁祝” in the virtual concert.
@@ -295,4 +228,4 @@ img {
 </style>  
 <body><img src="NOOO" alt="SIMCI 2019" style="width:75%;">  
   
-</body>  
+</body>
