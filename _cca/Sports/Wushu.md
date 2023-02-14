@@ -70,8 +70,8 @@ Competitions
     <td colspan="2" class="tg-nrix">2019</td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-baqh"><img height="263" width="109" alt="National Primary Schools Wushu_1.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Wushu/National%20Primary%20Schools%20Wushu_1.jpg"></td>
-    <td colspan="4" class="tg-baqh"><img height="263" width="142" alt="National Primary Schools Wushu.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Wushu/National%20Primary%20Schools%20Wushu.jpg"></td>
+    <td colspan="2" class="tg-baqh"><img height="263" width="109" alt="National Primary Schools Wushu_1.jpg" src="![](/images/National%20Primary%20Schools%20Wushu_1.jpeg)"></td>
+    <td colspan="4" class="tg-baqh"><img height="263" width="142" alt="National Primary Schools Wushu.jpg" src="![](/images/National%20Primary%20Schools%20Wushu.jpeg)"></td>
   </tr>
   <tr>
     <td colspan="2" class="tg-nrix">National Primary School<br>Wushu Championship</td>
@@ -79,8 +79,8 @@ Competitions
     <td colspan="2" class="tg-nrix">2021</td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-baqh"><img height="467" width="109" alt="NSG 2021.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Wushu/NSG%202021.jpg"></td>
-    <td colspan="4" class="tg-baqh"><img height="263" width="142" alt="NSG 2021_2.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Wushu/NSG%202021_2.jpg"></td>
+    <td colspan="2" class="tg-baqh"><img height="467" width="109" alt="NSG 2021.jpg" src="![](/images/NSG%202021.jpeg)"></td>
+    <td colspan="4" class="tg-baqh"><img height="263" width="142" alt="NSG 2021_2.jpg" src="![](/images/NSG%202021_2.jpeg)"></td>
   </tr>
 </tbody>
 </table>
