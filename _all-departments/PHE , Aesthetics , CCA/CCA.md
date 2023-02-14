@@ -45,3 +45,11 @@ Week 9 and 10 of Term 4
 
 <u>Primary 4 pupils</u> <br>
 Week 9 and 10 of Term 2
+
+### Perfoming Arts
+
+### Clubs
+
+### Sports
+
+### [Uniformed Groups](/distinctive-programmes/all-departments/phe-aesthetics-cca/cca/uniformed-groups/)
