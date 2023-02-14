@@ -63,63 +63,6 @@ Our boys went for to the fire station to know more about the Singapore Civil Def
 **World Scout Day and World Thinking Day**
 
 <table style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid transparent; table-layout: fixed;" class="ives_tab_kosong ive_eobj_left"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 388px; height: 217px;" class="ive_eobj_center" alt="World Scout Day 2.jpg" width="100%" src="![](/images/World%20Scout%20Day%202.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 388px; height: 217px;" class="ive_eobj_center" alt="World Scout Day 1.jpg" width="100%" src="![](/images/World%20Scout%20Day%201.jpeg)"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;" colspan="2"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 794px; height: 443px;" class="ive_eobj_center" alt="World Scout Day 3.jpg" width="100%" src="![](/images/World%20Scout%20Day%203.jpeg)"></td></tr></tbody></table>
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
   
 
 Our boys and the brownies donned on their uniform to commemorate World Scout Day and World Thinking Day respectively.
@@ -128,7 +71,7 @@ Our boys and the brownies donned on their uniform to commemorate World Scout Day
 
 **P4 Investiture Ceremony**
 
-<table style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid transparent; table-layout: fixed;" class="ives_tab_kosong ive_eobj_left"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 372px; height: 246px;" class="ive_eobj_center" alt="P4 Investiture 1.jpg" width="100%" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Uniformed%20Groups/Cub%20Scouts/P4%20Investiture%201.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 370px; height: 246px;" class="ive_eobj_center" alt="P4 Investiture 2.jpg" width="100%" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Uniformed%20Groups/Cub%20Scouts/P4%20Investiture%202.jpg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 372px; height: 247px;" class="ive_eobj_center" alt="P4 Investiture 3.jpg" width="100%" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Uniformed%20Groups/Cub%20Scouts/P4%20Investiture%203.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 373px; height: 247px;" class="ive_eobj_center" alt="P4 Investiture 4.jpg" width="100%" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Uniformed%20Groups/Cub%20Scouts/P4%20Investiture%204.jpg"></td></tr></tbody></table>
+<table style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid transparent; table-layout: fixed;" class="ives_tab_kosong ive_eobj_left"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 372px; height: 246px;" class="ive_eobj_center" alt="P4 Investiture 1.jpg" width="100%" src="![](/images/P4%20Investiture%201.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 370px; height: 246px;" class="ive_eobj_center" alt="P4 Investiture 2.jpg" width="100%" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Uniformed%20Groups/Cub%20Scouts/P4%20Investiture%202.jpg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 372px; height: 247px;" class="ive_eobj_center" alt="P4 Investiture 3.jpg" width="100%" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Uniformed%20Groups/Cub%20Scouts/P4%20Investiture%203.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 373px; height: 247px;" class="ive_eobj_center" alt="P4 Investiture 4.jpg" width="100%" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Uniformed%20Groups/Cub%20Scouts/P4%20Investiture%204.jpg"></td></tr></tbody></table>
 
   
 
