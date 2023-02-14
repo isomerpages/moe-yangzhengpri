@@ -41,7 +41,8 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/SYF%202018.jpeg" alt="SYF 2018" style="width:75%;">  
+<body><img src="![](/images/Music_3.jpeg)" alt="
+P1 pupils doing a pair greeting activity8" style="width:75%;">  
   
 </body>  
 <figcaption style="text-align:center;">
