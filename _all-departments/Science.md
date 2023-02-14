@@ -55,7 +55,9 @@ Our Primary 4 pupils germinate seeds in small sponges and transplant them into i
 
 Here are some highlights:  
 
-![image49.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/Science/image49.png)![image43.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/Science/image43.png)
+![P4 Indoor Farming](/images/image49.png)
+
+![P4 Indoor Farming](/images/image43.png)
 
 P4 Werm Cycle
 -------------
