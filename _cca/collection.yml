@@ -2,11 +2,11 @@ collections:
   cca:
     output: true
     order:
+      - Clubs/.keep
+      - Clubs/Clubs.md
       - Clubs/Art Club.md
       - Clubs/GreEN Club.md
       - Clubs/Digital Media.md
-      - Clubs/Clubs.md
-      - Clubs/.keep
       - Sports/.keep
       - Sports/Sports.md
       - Sports/Basketball.md
