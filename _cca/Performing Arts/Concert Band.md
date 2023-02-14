@@ -49,10 +49,6 @@ img {
 
 Although our Band was formed in 2018, its humble origin can be traced all the way back to 1914, as the Yeung Ching School Brass Band was then known. We are proud of this heritage and hope that our members will uphold the spirit and legacy of the older generation.
 
-  
-
-![YCS Brass Band.png.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Concert%20Band/YCS%20Brass%20Band.png.jpg)
-
 <style>  
 img {  
   display: block;  
@@ -60,7 +56,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+<body><img src="![](/images/YCS%20Brass%20Band.jpg)" alt="Yeng Ching School Brass Band" style="width:70%;">  
   
 </body>  
 
