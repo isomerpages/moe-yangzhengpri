@@ -96,9 +96,7 @@ Our boys&nbsp;participated in this 3 days 2 nights leadership course where they 
 
 Along with GreEN Club and Brownies, our boys played their part in community service by going around the neighbourhood to spread the Stamp Out Dengue information.
 
-  
-
-![Dengue Outreach.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Uniformed%20Groups/Cub%20Scouts/Dengue%20Outreach[1].jpg)  
+![Dengue Outreach](/images/Dengue%20Outreach.jpeg)
 
 Our&nbsp; Cub Scouts volunteered to spend one of their Saturday morning&nbsp; to spread the ways to prevent dengue mosquito from breeding. They were organised into different groups and they went around the neighbourhood with Zhonghua Secondary pupils to spread the knowledge of dengue prevention.
 
