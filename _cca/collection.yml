@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Uniformed Groups/Brownies.md
       - Uniformed Groups/Cub Scouts.md
       - Uniformed Groups/Uniformed Groups.md
       - Uniformed Groups/.keep
