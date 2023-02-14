@@ -48,8 +48,8 @@ Competitions
     <td colspan="2" class="tg-nrix">2019</td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-baqh"><img height="251" width="99" alt="South Zone 2019.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/South%20Zone%202019.jpg"></td>
-    <td colspan="4" class="tg-baqh"><img height="251" width="152" alt="South Zone 2019_2.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/South%20Zone%202019_2.jpg"></td>
+    <td colspan="2" class="tg-baqh"><img height="251" width="99" alt="South Zone 2019.jpg" src="![](/images/South%20Zone%202019.jpeg)"></td>
+    <td colspan="4" class="tg-baqh"><img height="251" width="152" alt="South Zone 2019_2.jpg" src="![](/images/South%20Zone%202019_2.jpeg)"></td>
   </tr>
   <tr>
     <td colspan="2" class="tg-nrix">National School Games Basketball<br>Junior Division (National) Tier 1</td>
@@ -57,8 +57,8 @@ Competitions
     <td colspan="2" class="tg-nrix">2019</td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-baqh"><img height="254" width="99" alt="National Junior Tier 1.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/National%20Junior%20Tier%201.jpg"></td>
-    <td colspan="4" class="tg-baqh"><img height="254" width="152" alt="National Junior Tier 1_2.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/National%20Junior%20Tier%201_2.jpg"></td>
+    <td colspan="2" class="tg-baqh"><img height="254" width="99" alt="National Junior Tier 1.jpg" src="![](/images/National%20Junior%20Tier%201.jpeg)"></td>
+    <td colspan="4" class="tg-baqh"><img height="254" width="152" alt="National Junior Tier 1_2.jpg" src="![](/images/National%20Junior%20Tier%201_2.jpeg)"></td>
   </tr>
   <tr>
     <td colspan="2" class="tg-nrix">Nan Chiau High School<br>Basketball Invitational</td>
