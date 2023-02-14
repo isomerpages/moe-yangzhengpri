@@ -92,8 +92,8 @@ Competitions
     <td colspan="2" class="tg-nrix">2019</td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-baqh"><img height="255" width="99" alt="Yio Chu Kang.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/Yio%20Chu%20Kang.jpg"></td>
-    <td colspan="4" class="tg-baqh"><img height="255" width="152" alt="Yio Chu Kang_2.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/Yio%20Chu%20Kang_2.jpg"></td>
+    <td colspan="2" class="tg-baqh"><img height="255" width="99" alt="Yio Chu Kang.jpg" src="![](/images/Yio%20Chu%20Kang.jpeg)"></td>
+    <td colspan="4" class="tg-baqh"><img height="255" width="152" alt="Yio Chu Kang_2.jpg" src="![](/images/Yio%20Chu%20Kang_2.jpeg)"></td>
   </tr>
   <tr>
     <td colspan="2" class="tg-nrix">Community Basketball League</td>
@@ -101,7 +101,7 @@ Competitions
     <td colspan="2" class="tg-nrix">2019</td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-baqh"><img height="254" width="99" alt="Community Basketball League.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/Community%20Basketball%20League.jpg"></td>
+    <td colspan="2" class="tg-baqh"><img height="254" width="99" alt="Community Basketball League.jpg" src="![](/images/Community%20Basketball%20League.jpeg)"></td>
     <td colspan="4" class="tg-baqh"><img height="254" width="152" alt="Community Basketball League_2.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/Community%20Basketball%20League_2.jpg"></td>
   </tr>
   <tr>
