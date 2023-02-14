@@ -66,7 +66,7 @@ Competitions
     <td colspan="2" class="tg-nrix">2019</td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-baqh"><img height="254" width="99" alt="Nan Chiau.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/Nan%20Chiau.jpg"></td>
+    <td colspan="2" class="tg-baqh"><img height="254" width="99" alt="Nan Chiau.jpg" src="![](/images/Nan%20Chiau.jpeg)"></td>
     <td colspan="4" class="tg-baqh"><img height="254" width="152" alt="Nan Chiau_2.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/Nan%20Chiau_2.jpg"></td>
   </tr>
   <tr>
