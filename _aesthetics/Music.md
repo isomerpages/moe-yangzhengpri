@@ -34,9 +34,19 @@ Here are some of our pupils in action during their curriculum music lessons:
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 391px; height: 292px;" class="ive_eobj_center" alt="Music_1.jpg" src="h![](/images/Music_1.jpeg)"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(48, 48, 48); font-family: Archivo, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">P1 pupils playing as an ensemble</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 220px; height: 292px;" class="ive_eobj_center" alt="Music_2.jpg" src="![](/images/Music_2.jpeg)"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(48, 48, 48); font-family: Archivo, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">P1 pupils doing body percussion</div></td></tr></tbody></table>
 
-![Music_3.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/Aesthetics/Music/Music_3.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/SYF%202018.jpeg" alt="SYF 2018" style="width:75%;">  
+  
+</body>  
+<figcaption style="text-align:center;">
+P1 pupils doing a pair greeting activity</figcaption>
 
-P1 pupils doing a pair greeting activity
 
   
 
