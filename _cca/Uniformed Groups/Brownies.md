@@ -57,7 +57,8 @@ style="width:70%">
 
 **UG Leadership Training**
 
-![UG Leadership Training.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Uniformed%20Groups/Brownies/UG%20Leadership%20Training.jpg)
+<img src="![](/images/UG%20Leadership%20Training.jpeg)"  
+style="width:70%">
 
 Achievements
 ------------
@@ -85,14 +86,14 @@ Achievements
     <td class="tg-dm6r">2019</td>
   </tr>
   <tr>
-    <td class="tg-epkd" colspan="2"><img src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Uniformed%20Groups/Brownies/Puan%20Noor%20Aishah.jpg" alt="Puan Noor Aishah.jpg" width="276" height="374"><br>We are proud to announce that the Brownies have attained our 18th Gold Puan Noor Aishah Award for our active participation, contributions and achievements in 2019.</td>
+    <td class="tg-epkd" colspan="2"><img src="![](/images/Puan%20Noor%20Aishah.jpeg)" alt="Puan Noor Aishah.jpg" width="276" height="374"><br>We are proud to announce that the Brownies have attained our 18th Gold Puan Noor Aishah Award for our active participation, contributions and achievements in 2019.</td>
   </tr>
   <tr>
     <td class="tg-dm6r">Chief Commissioner's Award</td>
     <td class="tg-dm6r">2019: 4 recipients<br>2020: 2 recipients</td>
   </tr>
   <tr>
-    <td class="tg-epkd" colspan="2"><img src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Uniformed%20Groups/Brownies/Chief%20Commissioners%20Award%202020.jpg" alt="Chief Commissioners Award 2020.jpg" width="276" height="338"><br>Chief Commissioner's Award 2020 Recipients</td>
+    <td class="tg-epkd" colspan="2"><img src="![](/images/Chief%20Commissioners%20Award%202020.jpeg)" alt="Chief Commissioners Award 2020.jpg" width="276" height="338"><br>Chief Commissioner's Award 2020 Recipients</td>
   </tr>
 </tbody>
 </table>
