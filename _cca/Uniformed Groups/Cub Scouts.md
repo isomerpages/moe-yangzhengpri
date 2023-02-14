@@ -491,14 +491,41 @@ Our boys going through an orienteering programme and tried out their newly learn
 Achievements
 ------------
 
-| Award | Year |
-| --- | --- |
-| Frank Cooper Sands (Gold) | 2019 |
-| The Frank Cooper Sands Award is awarded annually to sectional scout units for unit excellence. The assessment for the award centres on previous year’s achievement and activities i.e. Unit administration, Unit participation, Training and Development, International participation, Unit finances and Unit Initiatives.  
- |
-|   
- |
-| Akela Award | 2019: 2 recipients  
-2020: 5 recipients  
-2021: 3 recipients |
-| The Akela Award is the highest award in for Cub Scout section where a Cub Scout must hold the Gold Arrow and pass specific proficiency badges, show general knowledge of scouting and successfully complete an interview with the Commissioners. |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dm6r{background-color:#FFF;color:#303030;text-align:center;vertical-align:middle}
+.tg .tg-epkd{background-color:#FFF;color:#303030;text-align:center;vertical-align:top}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-m24b{background-color:#FFF;color:#303030;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Award</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Year</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dm6r">Frank Cooper Sands (Gold)</td>
+    <td class="tg-dm6r">2019</td>
+  </tr>
+  <tr>
+    <td class="tg-m24b" colspan="2">The Frank Cooper Sands Award is awarded annually to sectional scout units for unit excellence. The assessment for the award centres on previous year’s achievement and activities i.e. Unit administration, Unit participation, Training and Development, International participation, Unit finances and Unit Initiatives.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-epkd" colspan="2"></td>
+  </tr>
+  <tr>
+    <td class="tg-dm6r">Akela Award</td>
+    <td class="tg-dm6r">2019: 2 recipients<br>2020: 5 recipients<br>2021: 3 recipients</td>
+  </tr>
+  <tr>
+    <td class="tg-m24b" colspan="2">The Akela Award is the highest award in for Cub Scout section where a Cub Scout must hold the Gold Arrow and pass specific proficiency badges, show general knowledge of scouting and successfully complete an interview with the Commissioners.</td>
+  </tr>
+</tbody>
+</table>
