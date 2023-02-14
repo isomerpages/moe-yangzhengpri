@@ -16,18 +16,38 @@ Activities
 **Programme**  
   
 
-| P3 | P4 | P5 | P6 |
-| --- | --- | --- | --- |
-| Events  
-Campfires, Job Week and Donation Draw | Events  
-Scout HQ Events, Campfires, Leadership Camps, Gangshows, Job Week, Donation Draw and Outdoor Activities | Events  
-Scout HQ Events, Campfires, Job Week, Donation Draw |
-| Badges  
-World Scout  
-Bronze Arrow | Badges  
-Silver Arrow, Proficiency Badges and National Campaign Badge Scheme | Badges  
-Gold Arrow, Proficiency Badges and National Campaign Badge Scheme | Badges  
-Akela Award and Proficiency Badges |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-epkd{background-color:#FFF;color:#303030;text-align:center;vertical-align:top}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">P3</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">P4</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">P5</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">P6</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-epkd"><span style="text-decoration:underline">Events</span><br>Campfires, Job Week and Donation Draw</td>
+    <td class="tg-epkd" colspan="2"><span style="text-decoration:underline">Events</span><br>Scout HQ Events, Campfires, Leadership Camps, Gangshows, Job Week, Donation Draw and Outdoor Activities</td>
+    <td class="tg-epkd"><span style="text-decoration:underline">Events</span><br>Scout HQ Events, Campfires, Job Week, Donation Draw</td>
+  </tr>
+  <tr>
+    <td class="tg-epkd"><span style="text-decoration:underline">Badges</span><br>World Scout<br>Bronze Arrow</td>
+    <td class="tg-epkd"><span style="text-decoration:underline">Badges</span><br>Silver Arrow, Proficiency Badges and National Campaign Badge Scheme</td>
+    <td class="tg-epkd"><span style="text-decoration:underline">Badges</span><br>Gold Arrow, Proficiency Badges and National Campaign Badge Scheme</td>
+    <td class="tg-epkd"><span style="text-decoration:underline">Badges</span><br>Akela Award and Proficiency Badges</td>
+  </tr>
+</tbody>
+</table>
 
   
 
