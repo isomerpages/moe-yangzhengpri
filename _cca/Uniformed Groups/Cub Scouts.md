@@ -91,36 +91,7 @@ Our boys&nbsp;participated in this 3 days 2 nights leadership course where they 
 
 **Stamp Out Dengue**
 
-![Stamp Out Dengue.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Uniformed%20Groups/Cub%20Scouts/Stamp%20Out%20Dengue.jpg)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
+![Stamp Out Dengue](/images/Stamp%20Out%20Dengue.jpeg)
   
 
 Along with GreEN Club and Brownies, our boys played their part in community service by going around the neighbourhood to spread the Stamp Out Dengue information.
