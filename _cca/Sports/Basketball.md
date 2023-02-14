@@ -133,7 +133,7 @@ Competitions
   </tr>
   <tr>
     <td colspan="2" class="tg-baqh"><img height="254" width="99" alt="Active SG  Pioneer CSC.jpg" src="![](/images/Active%20SG%20%20Pioneer%20CSC.jpeg)"></td>
-    <td colspan="4" class="tg-baqh"><img height="254" width="152" alt="Active SG  Pioneer CSC_2.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/Active%20SG%20%20Pioneer%20CSC_2.jpg"></td>
+    <td colspan="4" class="tg-baqh"><img height="254" width="152" alt="Active SG  Pioneer CSC_2.jpg" src="![](/images/Active%20SG%20%20Pioneer%20CSC_2.jpeg)"></td>
   </tr>
   <tr>
     <td colspan="2" class="tg-nrix">National School Games Basketball<br>Senior Division (South Zone)</td>
