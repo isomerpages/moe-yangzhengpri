@@ -140,52 +140,6 @@ Teachers' Day Concert**
 
 <table style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid transparent; table-layout: fixed; text-align: center; width: 758px;" class="ives_tab_kosong ive_eobj_left"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 359px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 345px; height: 191px;" class="ive_eobj_center" alt="Music_23.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/Aesthetics/Music/Music_23.jpg"><div style="margin: 0px; outline: 0px; padding: 5px 0px 0px; line-height: 24px !important; color: rgb(48, 48, 48); font-family: Archivo, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">Singing a song from a musical</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 135px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 126px; height: 191px;" class="ive_eobj_center" alt="Music_24.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/Aesthetics/Music/Music_24.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 264px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 248px; height: 208px;" class="ive_eobj_center" alt="Music_25.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/Aesthetics/Music/Music_25.jpg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(48, 48, 48); font-family: Archivo, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">Fiddling a tune on the violin</div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;" colspan="2"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 436px; height: 243px;" class="ive_eobj_center" alt="Music_26.png" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/Aesthetics/Music/Music_26.png"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(48, 48, 48); font-family: Archivo, sans-serif; font-size: 16px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Keeping strictly to the beat on the drums</span></div></td></tr></tbody></table>
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
 **JOY Concert**
 
 <table style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid transparent; table-layout: fixed;" class="ives_tab_kosong ive_eobj_left"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 282px; height: 307px;" class="ive_eobj_center" alt="Music_27.png" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/Aesthetics/Music/Music_27.png"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(48, 48, 48); font-family: Archivo, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">Harmonising on the keyboard</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 386px; height: 307px;" class="ive_eobj_center" alt="Music_28.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/Aesthetics/Music/Music_28.jpg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(48, 48, 48); font-family: Archivo, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">Keeping the music in time on the drums</div></td></tr></tbody></table>
