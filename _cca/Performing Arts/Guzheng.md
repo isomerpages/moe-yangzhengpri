@@ -59,9 +59,31 @@ On 23rd August 2019, 10 of our pupils, along with Chinese music enthusiasts from
 Competitions
 ------------
 
-| Competition | Achievement | Year |
-| --- | --- | --- |
-| 3rd Singapore International Chinese Music Competition | Gold Award | 2019 |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dm6r{background-color:#FFF;color:#303030;text-align:center;vertical-align:middle}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Competition</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Achievement</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Year</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dm6r">3rd Singapore International Chinese Music Competition</td>
+    <td class="tg-dm6r">Gold Award</td>
+    <td class="tg-dm6r">2019</td>
+  </tr>
+</tbody>
+</table>
 
 
 <style>  
