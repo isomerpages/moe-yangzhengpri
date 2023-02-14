@@ -46,7 +46,7 @@ Week 9 and 10 of Term 4
 <u>Primary 4 pupils</u> <br>
 Week 9 and 10 of Term 2
 
-### Perfoming Arts
+### [Performing Arts](/distinctive-programmes/all-departments/phe-aesthetics-cca/cca/performing-arts/)
 
 ### [Clubs](/distinctive-programmes/all-departments/phe-aesthetics-cca/cca/clubs/)
 
