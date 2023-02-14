@@ -31,9 +31,10 @@ Activities
 
 **World Thinking Day Celebration**
 
-<table style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid transparent; table-layout: fixed;" class="ives_tab_kosong ive_eobj_left"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 350px; height: 325px;" class="ive_eobj_center" alt="Brownies 6.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Uniformed%20Groups/Brownies/Brownies%206.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 183px; height: 325px;" class="ive_eobj_center" alt="Brownies 7.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Uniformed%20Groups/Brownies/Brownies%207.jpg"></td></tr></tbody></table>
+<table style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid transparent; table-layout: fixed;" class="ives_tab_kosong ive_eobj_left"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 350px; height: 325px;" class="ive_eobj_center" alt="Brownies 6.jpg" src="![](/images/Brownies%206.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 183px; height: 325px;" class="ive_eobj_center" alt="Brownies 7.jpg" src="![](/images/Brownies%207.jpeg)"></td></tr></tbody></table>
 
-![World Thinking Day 2019.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Uniformed%20Groups/Brownies/World%20Thinking%20Day%202019.jpg)
+<img src="![](/images/World%20Thinking%20Day%202019.jpeg)"  
+style="width:70%">
 
   
 
