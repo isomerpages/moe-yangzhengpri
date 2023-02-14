@@ -174,11 +174,11 @@ Competitions
   </tr>
   <tr>
     <td colspan="2" class="tg-baqh"><img height="254" width="99" alt="ActiveSG Basketball Academy 3X3.jpg" src="![](/images/ActiveSG%20Basketball%20Academy%203X3.jpeg)"></td>
-    <td colspan="4" class="tg-baqh"><img height="254" width="152" alt="ActiveSG Basketball Academy 3X3_2.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/ActiveSG%20Basketball%20Academy%203X3_2.jpg"></td>
+    <td colspan="4" class="tg-baqh"><img height="254" width="152" alt="ActiveSG Basketball Academy 3X3_2.jpg" src="![](/images/ActiveSG%20Basketball%20Academy%203X3_2.jpeg)"></td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-baqh"><img height="254" width="99" alt="ActiveSG Basketball Academy 3X3_3.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/ActiveSG%20Basketball%20Academy%203X3_3.jpg"></td>
-    <td colspan="4" class="tg-baqh"><img height="254" width="152" alt="ActiveSG Basketball Academy 3X3_4.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/ActiveSG%20Basketball%20Academy%203X3_4.jpg"></td>
+    <td colspan="2" class="tg-baqh"><img height="254" width="99" alt="ActiveSG Basketball Academy 3X3_3.jpg" src="![](/images/ActiveSG%20Basketball%20Academy%203X3_3.jpeg)"></td>
+    <td colspan="4" class="tg-baqh"><img height="254" width="152" alt="ActiveSG Basketball Academy 3X3_4.jpg" src="![](/images/ActiveSG%20Basketball%20Academy%203X3_4.jpeg)"></td>
   </tr>
 </tbody>
 </table>
