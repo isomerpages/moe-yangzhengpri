@@ -18,9 +18,7 @@ style="width:75%">
 
 俏皮猫咪  
 
-![2019 CNY Celebration.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Chinese%20Dance/2019%20CNY%20Celebration.jpg)
-
-<img src="NOOO"  
+<img src="![](/images/2019%20CNY%20Celebration.jpeg)"  
 style="width:75%">
   
 
