@@ -42,61 +42,12 @@ style="width:75%">
 
 Pupils performed “洞庭新歌” in the CNY celebration Concert.  
 
-  
+ <img src="NOOO"  
+style="width:75%"> 
 
 ![2021 CNY.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Guzheng/2021%20CNY.jpg)  
 
 ![2021 CNY_2.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Guzheng/2021%20CNY_2.jpg)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
 Our pupils performed ‘水墨江南’ and ‘迎春花’ in the virtual concert.  
 
@@ -107,66 +58,8 @@ Our pupils performed ‘水墨江南’ and ‘迎春花’ in the virtual conce
 ![2019 Concert_2.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Guzheng/2019%20Concert_2.jpg)  
 
 ![2019 Concert_4.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Guzheng/2019%20Concert_4.jpg)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+<img src="NOOO"  
+style="width:75%">
 
 On 23rd August 2019, 10 of our pupils, along with Chinese music enthusiasts from other countries and regions, participated in the concert. Our pupils were fortunate to listen to the academic courses of musicians, composers of ‘The Legend of butterfly lovers’, and Master He Zhanhao.  
 
@@ -177,8 +70,6 @@ Competitions
 | --- | --- | --- |
 | 3rd Singapore International Chinese Music Competition | Gold Award | 2019 |
 
-  
-![SIMCI 2019.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Guzheng/SIMCI%202019.jpg)
 
 <style>  
 img {  
@@ -187,6 +78,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="NOOO" alt="SIMCI 2019" style="width:75%;">  
+<body><img src="![](/images/SIMCI%202019.jpeg)" alt="SIMCI 2019" style="width:75%;">  
   
 </body>
