@@ -102,10 +102,6 @@ Competitions
 
 **2020 Singapore Youth Festival (SYF) Rehearsal**
 
-  
-
-![2020 SYF Rehearsal.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Concert%20Band/2020%20SYF%20Rehearsal.jpg)
-
 <style>  
 img {  
   display: block;  
@@ -113,7 +109,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+<body><img src="![](/images/2020%20SYF%20Rehearsal.jpeg)" alt="2020 Singapore Youth Festival (SYF) Rehearsal" style="width:70%;">  
   
 </body>    
 
