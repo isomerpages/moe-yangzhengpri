@@ -2,6 +2,7 @@ collections:
   all-departments:
     output: true
     order:
+      - PHE , Aesthetics , CCA/CCA.md
       - PHE , Aesthetics , CCA/.keep
       - Science.md
       - Student Management.md
