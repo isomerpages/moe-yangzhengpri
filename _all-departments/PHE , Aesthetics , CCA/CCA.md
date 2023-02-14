@@ -50,6 +50,6 @@ Week 9 and 10 of Term 2
 
 ### Clubs
 
-### Sports
+### [Sports](/distinctive-programmes/all-departments/phe-aesthetics-cca/cca/sports/)
 
 ### [Uniformed Groups](/distinctive-programmes/all-departments/phe-aesthetics-cca/cca/uniformed-groups/)
