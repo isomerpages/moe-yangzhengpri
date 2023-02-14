@@ -27,7 +27,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/2021%20Seniors.jpeg)" alt="Senior and Junior Concert Band" style="width:70%;">  
+<body><img src="/images/2021%20Seniors.jpeg" alt="Senior and Junior Concert Band" style="width:70%;">  
   
 </body>  
 
@@ -41,7 +41,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/2021%20Juniors.jpeg)" alt="Senior and Junior Concert Band" style="width:70%;">  
+<body><img src="/images/2021%20Juniors.jpeg" alt="Senior and Junior Concert Band" style="width:70%;">  
   
 </body>  
 
@@ -56,7 +56,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/YCS%20Brass%20Band.jpg)" alt="Yeng Ching School Brass Band" style="width:70%;">  
+<body><img src="/images/YCS%20Brass%20Band.jpg" alt="Yeng Ching School Brass Band" style="width:70%;">  
   
 </body>  
 
@@ -72,7 +72,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/2019%20School%20Anniversary.jpeg)" alt="2019 School Anniversary" style="width:70%;">  
+<body><img src="/images/2019%20School%20Anniversary.jpeg" alt="2019 School Anniversary" style="width:70%;">  
   
 </body>  
 
@@ -91,7 +91,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/2019%20JOY.jpeg)" alt="Jubilation Of Yangzhengnites" style="width:70%;">  
+<body><img src="/images/2019%20JOY.jpeg" alt="Jubilation Of Yangzhengnites" style="width:70%;">  
   
 </body>  
 
@@ -109,7 +109,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/2020%20SYF%20Rehearsal.jpeg)" alt="2020 Singapore Youth Festival (SYF) Rehearsal" style="width:70%;">  
+<body><img src="/images/2020%20SYF%20Rehearsal.jpeg" alt="2020 Singapore Youth Festival (SYF) Rehearsal" style="width:70%;">  
   
 </body>    
 
