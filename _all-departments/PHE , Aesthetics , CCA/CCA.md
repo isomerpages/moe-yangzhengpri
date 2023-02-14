@@ -38,12 +38,10 @@ From 2021 onwards, only the Primary 3 and 4 pupils may opt to leave/change their
 
   
 
-Primary 3 pupils
-
+<u>Primary 3 pupils</u> <br>
 Week 9 and 10 of Term 4
 
   
 
-Primary 4 pupils
-
+<u>Primary 4 pupils</u> <br>
 Week 9 and 10 of Term 2
