@@ -124,7 +124,7 @@ Competitions
   </tr>
   <tr>
     <td colspan="2" class="tg-baqh"><img height="450" width="99" alt="U Sports.jpg" src="![](/images/U%20Sports.jpeg)"></td>
-    <td colspan="4" class="tg-baqh"><img height="254" width="152" alt="U Sports_2.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/U%20Sports_2.jpg"></td>
+    <td colspan="4" class="tg-baqh"><img height="254" width="152" alt="U Sports_2.jpg" src="![](/images/U%20Sports_2.jpeg)"></td>
   </tr>
   <tr>
     <td colspan="2" class="tg-nrix">ActiveSG &amp; Pioneer CSC<br>3-on-3 Basketball Tournament</td>
@@ -132,7 +132,7 @@ Competitions
     <td colspan="2" class="tg-nrix">2019</td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-baqh"><img height="254" width="99" alt="Active SG  Pioneer CSC.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/Active%20SG%20%20Pioneer%20CSC.jpg"></td>
+    <td colspan="2" class="tg-baqh"><img height="254" width="99" alt="Active SG  Pioneer CSC.jpg" src="![](/images/Active%20SG%20%20Pioneer%20CSC.jpeg)"></td>
     <td colspan="4" class="tg-baqh"><img height="254" width="152" alt="Active SG  Pioneer CSC_2.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/Active%20SG%20%20Pioneer%20CSC_2.jpg"></td>
   </tr>
   <tr>
