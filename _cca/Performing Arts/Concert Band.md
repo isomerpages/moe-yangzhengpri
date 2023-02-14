@@ -65,10 +65,6 @@ Performances
 
 **School Anniversary**
 
-  
-
-![2019 School Anniversary.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Concert%20Band/2019%20School%20Anniversary.jpg)
-
 <style>  
 img {  
   display: block;  
@@ -76,7 +72,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+<body><img src="![](/images/2019%20School%20Anniversary.jpeg)" alt="2019 School Anniversary" style="width:70%;">  
   
 </body>  
 
@@ -88,10 +84,6 @@ Within 1 year of its formation, the Band put up its first performance for our sc
 
 **Jubilation Of Yangzhengnites (JOY)**
 
-  
-
-![2019 JOY.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Concert%20Band/2019%20JOY.jpg)  
-
 <style>  
 img {  
   display: block;  
@@ -99,7 +91,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+<body><img src="![](/images/2019%20JOY.jpeg)" alt="Jubilation Of Yangzhengnites" style="width:70%;">  
   
 </body>  
 
