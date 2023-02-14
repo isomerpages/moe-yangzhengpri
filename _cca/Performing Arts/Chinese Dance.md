@@ -9,13 +9,11 @@ In Chinese Dance, pupils learn the various dance techniques to develop their fle
 Performances
 ------------
 
-**Chinese New Year Celebration**  
-
+**Chinese New Year Celebration**  <br>
 扇舞翩翩 (Fan Dance)
 
-![Picture3.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Chinese%20Dance/Picture3.png)
 
-<img src="NOOO"  
+<img src="![](/images/Picture3.png)"  
 style="width:75%">
 
 俏皮猫咪  
@@ -70,9 +68,6 @@ Competitions
 </tbody>
 </table>
 
-  
-![2018 SYF.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Chinese%20Dance/2018%20SYF.jpg)
-
 <style>  
 img {  
   display: block;  
@@ -80,6 +75,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/2018%20SYF.jpeg)" alt="2018 SYF Chinese Dance" style="width:70%;">  
+<body><img src="/images/2018%20SYF.jpeg" alt="2018 SYF Chinese Dance" style="width:70%;">  
   
-</body>  
+</body>
