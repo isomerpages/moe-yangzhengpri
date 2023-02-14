@@ -75,15 +75,23 @@ P5 Singapore Amazing Flying Machine Competition
 
 Every year, all Primary 5 pupils are engaged in making a flying machine (paper plane). Pupils collaborate in teams to design and fold paper planes to achieve the longest, farthest or most accurate flight. The competition provides pupils an opportunity to apply aerodynamics knowledge gained and demonstrate their passion for flight science.
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; width: 407px; height: 317px;" class="ive_eobj_left" alt="image20.jpg" src="![](/images/image20.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; width: 298px; height: 319px;" class="ive_eobj_left" alt="image40.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/Science/image40.jpg"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; width: 407px; height: 317px;" class="ive_eobj_left" alt="image20.jpg" src="![](/images/image20.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; width: 298px; height: 319px;" class="ive_eobj_left" alt="image40.jpg" src="![](/images/image40.jpeg)"></td></tr></tbody></table>
 
-Folding paper plane
-
+<figcaption style="text-align:center;">Folding paper plane</figcaption>
   
-
-![image34.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/Science/image34.jpg)
-
-Flight taking off … here we go!  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/image34.jpeg)" alt="LMAOOO" style="width:50%;">  
+  
+</body>  
+<br>
+  
+<figcaption style="text-align:center;">Flight taking off … here we go!</figcaption>
 
 P5 Environmental Trail
 ----------------------
