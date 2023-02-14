@@ -156,7 +156,7 @@ Competitions
   </tr>
   <tr>
     <td colspan="2" class="tg-baqh"><img height="254" width="99" alt="Yeah Year End Smash.jpg" src="![](/images/Yeah%20Year%20End%20Smash.jpeg)"></td>
-    <td colspan="4" class="tg-baqh"><img height="254" width="152" alt="Yeah Year End Smash_2.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/Yeah%20Year%20End%20Smash_2.jpg"></td>
+    <td colspan="4" class="tg-baqh"><img height="254" width="152" alt="Yeah Year End Smash_2.jpg" src="![](/images/Yeah%20Year%20End%20Smash_2.jpeg)"></td>
   </tr>
   <tr>
     <td colspan="2" class="tg-nrix">Yeah! Year End Smash ActiveSG<br>2×2 Basketball Carnival (2nd Edition)</td>
@@ -164,8 +164,8 @@ Competitions
     <td colspan="2" class="tg-nrix">2020</td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-baqh"><img height="254" width="99" alt="Yeah Year End Smash 2nd.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/Yeah%20Year%20End%20Smash%202nd.jpg"></td>
-    <td colspan="4" class="tg-baqh"><img height="254" width="152" alt="Yeah Year End Smash 2nd_2.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/Yeah%20Year%20End%20Smash%202nd_2.jpg"></td>
+    <td colspan="2" class="tg-baqh"><img height="254" width="99" alt="Yeah Year End Smash 2nd.jpg" src="![](/images/Yeah%20Year%20End%20Smash%202nd.jpeg)"></td>
+    <td colspan="4" class="tg-baqh"><img height="254" width="152" alt="Yeah Year End Smash 2nd_2.jpg" src="![](/images/Yeah%20Year%20End%20Smash%202nd_2.jpeg)"></td>
   </tr>
   <tr>
     <td colspan="2" class="tg-nrix">ActiveSG Basketball Academy<br>3×3 Youth Basketball Challenge</td>
