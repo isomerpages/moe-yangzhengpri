@@ -37,11 +37,8 @@ Project to spread environmental awareness.
 
   
 
-**Outreach to our school**
-
-  
-
-School events during Youth Environment Day
+**Outreach to our school** <br>
+<u>School events during Youth Environment Day</u>
 
 Our greEN ambassadors have assisted in school events such as helping to manage roadshows during recess.
 
@@ -49,31 +46,24 @@ Our greEN ambassadors have assisted in school events such as helping to manage r
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 420px; height: 241px;" class="ive_eobj_center" alt="Energy Hero.jpg" src="/images/Energy%20Hero.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 428px; height: 241px;" class="ive_eobj_center" alt="Energy Hero_2.jpg" src="/images/Energy%20Hero_2.jpeg"></td></tr></tbody></table>
 
-Energy Hero Roadshow
+<figcaption style="text-align:center;">Energy Hero Roadshow</figcaption>
 
   
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 403px; height: 241px;" class="ive_eobj_center" alt="NEA.jpg" src="/images/NEA.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 372px; height: 241px;" class="ive_eobj_center" alt="NEA_2.jpg" src="/images/NEA_2.jpeg"></td></tr></tbody></table>
 
-NEA “Say No to Food Waste” Roadshow
-
+<figcaption style="text-align:center;">
+NEA “Say No to Food Waste” Roadshow</figcaption>
   
 
-Parent’s Learning Fiesta
-
-  
+<u>Parent’s Learning Fiesta</u>
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ives_tab_kosong ive_eobj_center"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 322px; height: 241px;" class="ive_eobj_center" alt="Parents Learning Fiesta.jpg" src="/images/Parents%20Learning%20Fiesta.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 347px; height: 241px;" class="ive_eobj_center" alt="Parents Learning Fiesta_2.jpg" src="/images/Parents%20Learning%20Fiesta_2.jpeg"></td></tr></tbody></table>
 
-Our GreEN ambassadors have assisted in school events such as Terrarium and Kokedama workshops for parents.
+<figcaption style="text-align:center;">Our GreEN ambassadors have assisted in school events such as Terrarium and Kokedama workshops for parents.</figcaption>
 
-  
-
-**Outreach to the Community**
-
-  
-
-Garden Trail - SeedLink Project
+**Outreach to the Community** <br>
+<u>Garden Trail - SeedLink Project</u>
 
 As part of our efforts to care for the environment, our school carried out a SeedLink project involving all Primary 5 pupils and children from our neighbouring Kindergartens. The P5 pupils collected the stems of toilet rolls (which are usually thrown away or recycled) and Upcycle them to create biodegradable seed holders.
 
@@ -85,20 +75,14 @@ Kindergarten children are invited to our school to learn about planting using th
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 430px; height: 241px;" class="ive_eobj_center" alt="SeedLink.jpg" src="/images/SeedLink.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 289px; height: 241px;" class="ive_eobj_center" alt="SeedLink_2.jpg" src="/images/SeedLink_2.jpeg"></td></tr></tbody></table>
 
-  
-
-Gardening with the Kindergarteners
-
+<u>Gardening with the Kindergarteners</u> <br>
 The seedLink project led to more collaborations with Kindergartens in our neighbourhood. PCF Sparkletots preschool @Braddell Heights Blk 335 (located nearest to our school) teamed up with our GreEN Club members to grow vegetables in our school’s ecogarden during our CCA sessions.
 
   
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 367px; height: 241px;" class="ive_eobj_center" alt="Gardening w Kindergartens.jpg" src="/images/Gardening%20w%20Kindergartens.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 402px; height: 241px;" class="ive_eobj_center" alt="Gardening w Kindergartens_2.jpg" src="/images/Gardening%20w%20Kindergartens_2.jpeg"></td></tr></tbody></table>
 
-  
-
-Dengue Outreach @Braddell Heights
-
+<u>Dengue Outreach @Braddell Heights</u><br>
 Our GreEN ambassadors participated in a joint dengue outreach project with Zhonghua Secondary School and Braddell heights CC. In this project, the 2 schools collaborated by working on a dengue prevention information pamphlet that was distributed to residents living in the Serangoon area. On the day of the outreach, our members joined the Secondary school students as they travelled from house to house and knocked on doors to share dengue prevention with the residents.
 
   
@@ -107,21 +91,20 @@ Our GreEN ambassadors participated in a joint dengue outreach project with Zhong
 
   
 
-**Learning Journeys**
-
+**Learning Journeys** <br>
 Our GreEN Club members attend the Environment Champion workshops and go on Learning Journeys to learn more about environment issues.
 
   
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 322px; height: 241px;" class="ive_eobj_center" alt="Electricity Efficiency Centre.jpg" width="100%" src="/images/Electricity%20Efficiency%20Centre.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 359px; height: 241px;" class="ive_eobj_center" alt="Electricity Efficiency Centre_2.jpg" src="/images/Electricity%20Efficiency%20Centre_2.jpeg"></td></tr></tbody></table>
 
-Learning Journey conducted by the Electricity Efficiency Centre and Sustainability Gallery Singapore.
-
+<figcaption style="text-align:center;">Learning Journey conducted by the Electricity Efficiency Centre and Sustainability Gallery Singapore.</figcaption>
   
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 275px; height: 241px;" class="ive_eobj_center" alt="Sustainable Singapore Gallery.jpg" src="/images/Sustainable%20Singapore%20Gallery.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 422px; height: 241px;" class="ive_eobj_center" alt="Sustainable Singapore Gallery_2.jpg" src="/images/Sustainable%20Singapore%20Gallery_2.jpeg"></td></tr></tbody></table>
 
-Learning journey to the Sustainable Singapore Gallery for GreEN Club members and teachers.
+<figcaption style="text-align:center;">Learning journey to the Sustainable Singapore Gallery for GreEN Club members and teachers.</figcaption>
+
 
 Competitions
 ------------
