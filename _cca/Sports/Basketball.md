@@ -67,7 +67,7 @@ Competitions
   </tr>
   <tr>
     <td colspan="2" class="tg-baqh"><img height="254" width="99" alt="Nan Chiau.jpg" src="![](/images/Nan%20Chiau.jpeg)"></td>
-    <td colspan="4" class="tg-baqh"><img height="254" width="152" alt="Nan Chiau_2.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/Nan%20Chiau_2.jpg"></td>
+    <td colspan="4" class="tg-baqh"><img height="254" width="152" alt="Nan Chiau_2.jpg" src="![](/images/Nan%20Chiau_2.jpeg)"></td>
   </tr>
   <tr>
     <td colspan="2" class="tg-baqh"><img height="254" width="99" alt="Nan Chiau_3.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/Nan%20Chiau_3.jpg"></td>
