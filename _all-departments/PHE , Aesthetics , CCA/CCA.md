@@ -48,7 +48,7 @@ Week 9 and 10 of Term 2
 
 ### Perfoming Arts
 
-### Clubs
+### [Clubs](/distinctive-programmes/all-departments/phe-aesthetics-cca/cca/clubs/)
 
 ### [Sports](/distinctive-programmes/all-departments/phe-aesthetics-cca/cca/sports/)
 
