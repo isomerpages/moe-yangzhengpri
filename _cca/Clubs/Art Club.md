@@ -18,32 +18,7 @@ Activities
 
 **Zhonghua Sec School Annual Art Graduate Showcase Expose 90 Exhibition**
 
-<table style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid transparent; table-layout: fixed; height: 290px;" class="ives_tab_kosong ive_eobj_left"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 369px; height: 276px;" class="ive_eobj_center" alt="Zhonghua Art Exhibition 2019.jpg" src="![](/images/Zhonghua%20Art%20Exhibition%202019.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 368px; height: 276px;" class="ive_eobj_center" alt="Zhonghua Art Exhibition 2019_2.jpg" src="![](/images/Zhonghua%20Art%20Exhibition%202019_2.jpeg)"></td></tr></tbody></table>
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
+<table style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid transparent; table-layout: fixed; height: 290px;" class="ives_tab_kosong ive_eobj_left"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 369px; height: 276px;" class="ive_eobj_center" alt="Zhonghua Art Exhibition 2019.jpg" src="/images/Zhonghua%20Art%20Exhibition%202019.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 368px; height: 276px;" class="ive_eobj_center" alt="Zhonghua Art Exhibition 2019_2.jpg" src="/images/Zhonghua%20Art%20Exhibition%202019_2.jpeg"></td></tr></tbody></table>
   
 
 On 24th May 2019, Art Club members visited Zhonghua Secondary School to attend 'Annual Art Graduate Showcase Expose 90 Exhibition 2019'. They were divided into a few groups with a leader assigned to each group.  
