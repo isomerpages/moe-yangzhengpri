@@ -20,39 +20,8 @@ Performances
 
 **National Day Celebration**
 
-![NDP Celebration 2018.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Modern%20Dance/NDP%20Celebration%202018.jpg)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+<img src="![](/images/NDP%20Celebration%202018.jpeg)"  
+style="width:75%">
 
 Dance Title: NDP song Reach out for the Skies
 
@@ -60,45 +29,8 @@ Dance Title: NDP song Reach out for the Skies
 
 **Jubilation of Yangzhengnites (JOY)**
 
-![JOY 2018.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Modern%20Dance/JOY%202018.jpg)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+<img src="![](/images/JOY%202018.jpeg)"  
+style="width:75%">
 
 Dance Title: Racial Harmony
 
@@ -220,4 +152,5 @@ Competitions
 | Singapore Youth Festival Arts Presentation | Certificate of Distinction | 2018 |
 
   
-![SYF 2018.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Modern%20Dance/SYF%202018.jpg)
+<img src="nOOO"  
+style="width:75%">
