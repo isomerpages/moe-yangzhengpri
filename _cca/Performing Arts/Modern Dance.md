@@ -36,73 +36,15 @@ Dance Title: Racial Harmony
 
 Dancers performed to a medley of Indian, Malay and Hip-Hop music.
 
-  
-
-![JOY 2019.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Modern%20Dance/JOY%202019.jpg)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+<img src="![](/images/JOY%202019.jpeg)"  
+style="width:75%">
 
 Dance Title: Believe in Yourself
 
 This routine is about understanding one’s talent or skill and developing it.
 
-  
-
-![JOY 2020.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Modern%20Dance/JOY%202020.jpg)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+<img src="![](/images/JOY%202020.jpeg)"  
+style="width:75%">
 
 Dance Title: Magic in Me
 
@@ -112,35 +54,9 @@ In the midst of the pandemic, our graduating dancers came to perform the dance t
 
 **HDB Award Presentation Ceremony**
 
-![HDB Award Presentation 2019.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Modern%20Dance/HDB%20Award%20Presentation%202019.jpg)
+<img src="![](/images/HDB%20Award%20Presentation%202019.jpeg)"  
+style="width:75%">
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
 Our dancers were invited to perform at the award presentation ceremony.
 
@@ -152,5 +68,5 @@ Competitions
 | Singapore Youth Festival Arts Presentation | Certificate of Distinction | 2018 |
 
   
-<img src="nOOO"  
+<img src="![](/images/SYF%202018.jpeg)"  
 style="width:75%">
