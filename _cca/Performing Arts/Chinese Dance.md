@@ -72,3 +72,14 @@ Competitions
 
   
 ![2018 SYF.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Chinese%20Dance/2018%20SYF.jpg)
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/2018%20SYF.jpeg)" alt="2018 SYF Chinese Dance" style="width:70%;">  
+  
+</body>  
