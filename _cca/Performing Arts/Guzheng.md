@@ -37,47 +37,8 @@ Pupils performed “梁祝” in the virtual concert.
 
 **Chinese New Year Celebration**
 
-![2019 CNY.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Aesthetics/Guzheng/2019%20CNY.jpg)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+<img src="![](/images/2019%20CNY.jpeg)"  
+style="width:75%">
 
 Pupils performed “洞庭新歌” in the CNY celebration Concert.  
 
