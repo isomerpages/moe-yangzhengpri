@@ -110,12 +110,12 @@ Competitions
     <td colspan="2" class="tg-nrix">2019</td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-baqh"><img height="254" width="99" alt="Anglican High.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/Anglican%20High.jpg"></td>
-    <td colspan="4" class="tg-baqh"><img height="254" width="152" alt="Anglican High_2.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/Anglican%20High_2.jpg"></td>
+    <td colspan="2" class="tg-baqh"><img height="254" width="99" alt="Anglican High.jpg" src="![](/images/Anglican%20High.jpeg)"></td>
+    <td colspan="4" class="tg-baqh"><img height="254" width="152" alt="Anglican High_2.jpg" src="![](/images/Anglican%20High_2.jpeg)"></td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-baqh"><img height="254" width="99" alt="Anglican High_3.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/Anglican%20High_3.jpg"></td>
-    <td colspan="4" class="tg-baqh"><img height="254" width="152" alt="Anglican High_4.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/Anglican%20High_4.jpg"></td>
+    <td colspan="2" class="tg-baqh"><img height="254" width="99" alt="Anglican High_3.jpg" src="![](/images/Anglican%20High_3.jpeg)"></td>
+    <td colspan="4" class="tg-baqh"><img height="254" width="152" alt="Anglican High_4.jpg" src="![](/images/Anglican%20High_4.jpeg)"></td>
   </tr>
   <tr>
     <td colspan="2" class="tg-nrix">U Sports<br>3-on-3 Basketball Tournament</td>
