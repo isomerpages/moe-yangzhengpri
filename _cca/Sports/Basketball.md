@@ -123,7 +123,7 @@ Competitions
     <td colspan="2" class="tg-nrix">2019</td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-baqh"><img height="450" width="99" alt="U Sports.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/U%20Sports.jpg"></td>
+    <td colspan="2" class="tg-baqh"><img height="450" width="99" alt="U Sports.jpg" src="![](/images/U%20Sports.jpeg)"></td>
     <td colspan="4" class="tg-baqh"><img height="254" width="152" alt="U Sports_2.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/U%20Sports_2.jpg"></td>
   </tr>
   <tr>
