@@ -79,12 +79,12 @@ Competitions
     <td colspan="2" class="tg-nrix">2019</td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-baqh"><img height="254" width="99" alt="Get Active.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/Get%20Active.jpg"></td>
-    <td colspan="4" class="tg-baqh"><img height="254" width="152" alt="Get Active_2.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/Get%20Active_2.jpg"></td>
+    <td colspan="2" class="tg-baqh"><img height="254" width="99" alt="Get Active.jpg" src="![](/images/Get%20Active.jpeg)"></td>
+    <td colspan="4" class="tg-baqh"><img height="254" width="152" alt="Get Active_2.jpg" src="![](/images/Get%20Active_2.jpeg)"></td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-baqh"><img height="190" width="99" alt="Get Active_3.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/Get%20Active_3.jpg"></td>
-    <td colspan="4" class="tg-baqh"><img height="190" width="152" alt="Get Active_4.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Sports/Basketball/Get%20Active_4.jpg"></td>
+    <td colspan="2" class="tg-baqh"><img height="190" width="99" alt="Get Active_3.jpg" src="![](/images/Get%20Active_3.jpeg)"></td>
+    <td colspan="4" class="tg-baqh"><img height="190" width="152" alt="Get Active_4.jpg" src="![](/images/Get%20Active_4.jpeg)"></td>
   </tr>
   <tr>
     <td colspan="2" class="tg-nrix">Yio Chu Kang Youth Sports Fiesta<br>3-on-3 Basketball Tournament</td>
