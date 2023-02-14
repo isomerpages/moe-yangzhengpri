@@ -23,7 +23,7 @@ Performances
 
 **Teachers' Day Celebrations**
 
-<table style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid transparent; table-layout: fixed;" class="ives_tab_kosong ive_eobj_left"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 364px; height: 241px;" class="ive_eobj_center" alt="Wushu_1.jpg" width="100%" src="![](/images/Wushu_1.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 352px; height: 233px;" class="ive_eobj_center" alt="Wushu.jpg" width="100%" src="![](/images/Wushu.jpeg)"></td></tr></tbody></table>
+<table style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid transparent; table-layout: fixed;" class="ives_tab_kosong ive_eobj_left"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 364px; height: 241px;" class="ive_eobj_center" alt="Wushu_1.jpg" width="100%" src="/images/Wushu_1.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 352px; height: 233px;" class="ive_eobj_center" alt="Wushu.jpg" width="100%" src="/images/Wushu.jpeg"></td></tr></tbody></table>
 
 Our Wushu School team members express their respect, appreciation and gratitude to all Yangzheng teachers with graceful Tai Chi moves and weapons maneuvers.
 
@@ -31,14 +31,14 @@ Our Wushu School team members express their respect, appreciation and gratitude 
 
 **Chinese New Year Celebrations**
 
-<table style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid transparent; table-layout: fixed;" class="ives_tab_kosong ive_eobj_left"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 323px; height: 241px;" class="ive_eobj_center" alt="CNY Celebration 2020.jpg" width="100%" src="![](/images/CNY%20Celebration%202020.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 333px; height: 241px;" class="ive_eobj_center" alt="CNY Celebration 2020_2.jpg" src="![](/images/CNY%20Celebration%202020_2.jpeg)"></td></tr></tbody></table>
+<table style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid transparent; table-layout: fixed;" class="ives_tab_kosong ive_eobj_left"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 323px; height: 241px;" class="ive_eobj_center" alt="CNY Celebration 2020.jpg" width="100%" src="/images/CNY%20Celebration%202020.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 333px; height: 241px;" class="ive_eobj_center" alt="CNY Celebration 2020_2.jpg" src="/images/CNY%20Celebration%202020_2.jpeg"></td></tr></tbody></table>
 
 
 Remarkable Wushu performance put up by our Wushu School Team during the Chinese New Year Celebration. This performance features both individual and group routines.
 
   
 
-<table style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid transparent; table-layout: fixed;" class="ives_tab_kosong ive_eobj_left"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 392px; height: 215px;" class="ive_eobj_center" alt="CNY Celebration 2021.jpg" width="100%" src="![](/images/CNY%20Celebration%202021.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 487px; height: 215px;" class="ive_eobj_center" alt="CNY Celebration 2021_2.jpg" width="100%" src="![](/images/CNY%20Celebration%202021_2.jpeg)"></td></tr></tbody></table>
+<table style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid transparent; table-layout: fixed;" class="ives_tab_kosong ive_eobj_left"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 392px; height: 215px;" class="ive_eobj_center" alt="CNY Celebration 2021.jpg" width="100%" src="/images/CNY%20Celebration%202021.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 487px; height: 215px;" class="ive_eobj_center" alt="CNY Celebration 2021_2.jpg" width="100%" src="/images/CNY%20Celebration%202021_2.jpeg"></td></tr></tbody></table>
 
 This Wushu performance item is made up of fist, broadsword and sword segments; demonstrating the solid foundations in basic Wushu movements our students have. Combining fast paced repetitive movements with a variety of formations, our Wushu School Team put up an exciting performance to welcome the new year.
 
@@ -70,8 +70,8 @@ Competitions
     <td colspan="2" class="tg-nrix">2019</td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-baqh"><img height="263" width="109" alt="National Primary Schools Wushu_1.jpg" src="![](/images/National%20Primary%20Schools%20Wushu_1.jpeg)"></td>
-    <td colspan="4" class="tg-baqh"><img height="263" width="142" alt="National Primary Schools Wushu.jpg" src="![](/images/National%20Primary%20Schools%20Wushu.jpeg)"></td>
+    <td colspan="2" class="tg-baqh"><img height="263" width="109" alt="National Primary Schools Wushu_1.jpg" src="/images/National%20Primary%20Schools%20Wushu_1.jpeg"></td>
+    <td colspan="4" class="tg-baqh"><img height="263" width="142" alt="National Primary Schools Wushu.jpg" src="/images/National%20Primary%20Schools%20Wushu.jpeg"></td>
   </tr>
   <tr>
     <td colspan="2" class="tg-nrix">National Primary School<br>Wushu Championship</td>
@@ -79,8 +79,8 @@ Competitions
     <td colspan="2" class="tg-nrix">2021</td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-baqh"><img height="467" width="109" alt="NSG 2021.jpg" src="![](/images/NSG%202021.jpeg)"></td>
-    <td colspan="4" class="tg-baqh"><img height="263" width="142" alt="NSG 2021_2.jpg" src="![](/images/NSG%202021_2.jpeg)"></td>
+    <td colspan="2" class="tg-baqh"><img height="467" width="109" alt="NSG 2021.jpg" src="/images/NSG%202021.jpeg"></td>
+    <td colspan="4" class="tg-baqh"><img height="263" width="142" alt="NSG 2021_2.jpg" src="/images/NSG%202021_2.jpeg"></td>
   </tr>
 </tbody>
 </table>
