@@ -18,7 +18,7 @@ Activities
 
 **Zhonghua Sec School Annual Art Graduate Showcase Expose 90 Exhibition**
 
-<table style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid transparent; table-layout: fixed; height: 290px;" class="ives_tab_kosong ive_eobj_left"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 369px; height: 276px;" class="ive_eobj_center" alt="Zhonghua Art Exhibition 2019.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Clubs/Art%20Club/Zhonghua%20Art%20Exhibition%202019.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 368px; height: 276px;" class="ive_eobj_center" alt="Zhonghua Art Exhibition 2019_2.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Clubs/Art%20Club/Zhonghua%20Art%20Exhibition%202019_2.jpg"></td></tr></tbody></table>
+<table style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid transparent; table-layout: fixed; height: 290px;" class="ives_tab_kosong ive_eobj_left"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 369px; height: 276px;" class="ive_eobj_center" alt="Zhonghua Art Exhibition 2019.jpg" src="![](/images/Zhonghua%20Art%20Exhibition%202019.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 368px; height: 276px;" class="ive_eobj_center" alt="Zhonghua Art Exhibition 2019_2.jpg" src="![](/images/Zhonghua%20Art%20Exhibition%202019_2.jpeg)"></td></tr></tbody></table>
 
   
 
@@ -57,55 +57,8 @@ Competitions
 
 **Singapore Youth Festival (SYF) Art Exhibition 2019**
 
-![SYF.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Clubs/Art%20Club/SYF.jpg)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+<img src="/images/SYF.jpeg"  
+style="width:75%">
 
 The Singapore Youth Festival (SYF) Art Exhibition is an annual national school event organised by the Ministry of Education to provide opportunities for our students to display their artistic talents and to promote art appreciation in our schools. It celebrates the artist in every student and signifies access to art for every student in the art curriculum in schools.
 
