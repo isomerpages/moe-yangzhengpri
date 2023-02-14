@@ -42,7 +42,7 @@ img {
 }  
 </style>  
 <body><img src="![](/images/Music_3.jpeg)" alt="
-P1 pupils doing a pair greeting activity8" style="width:75%;">  
+P1 pupils doing a pair greeting activity" style="width:75%;">  
   
 </body>  
 <figcaption style="text-align:center;">
@@ -53,11 +53,21 @@ P1 pupils doing a pair greeting activity</figcaption>
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 436px; height: 245px;" class="ive_eobj_center" alt="Music_4.jpg" src="![](/images/Music_4.jpeg)"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(48, 48, 48); font-family: Archivo, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">P2 pupils moving to the beat!</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 439px; height: 245px;" class="ive_eobj_center" alt="Music_5.jpg" src="![](/images/Music_5.jpeg)"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(48, 48, 48); font-family: Archivo, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">P3 pupils using resonator bells</div></td></tr></tbody></table>
 
-![Music_6.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/Aesthetics/Music/Music_6.jpg)
-
-P3 pupils playing an imaginary Korean janggu using chopsticks and a table
-
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Music_7.jpeg)" alt="
+P3 pupils playing an imaginary Korean janggu using chopsticks and a table" style="width:75%;">  
   
+</body>  
+<figcaption style="text-align:center;">
+P3 pupils playing an imaginary Korean janggu using chopsticks and a table</figcaption>
+
+<br>  
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 397px; height: 263px;" class="ive_eobj_center" alt="Music_7.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/Aesthetics/Music/Music_7.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 397px; height: 263px;" class="ive_eobj_center" alt="Music_8.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/Aesthetics/Music/Music_8.jpg"></td></tr></tbody></table>
 
