@@ -58,12 +58,37 @@ Activities
 Achievements
 ------------
 
-| Award | Year |
-| --- | --- |
-| Puan Noor Aishah (Gold) Award | 2019 |
-| ![Puan Noor Aishah.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Uniformed%20Groups/Brownies/Puan%20Noor%20Aishah.jpg)  
-We are proud to announce that the Brownies have attained our 18th Gold Puan Noor Aishah Award for our active participation, contributions and achievements in 2019. |
-| Chief Commissioner's Award | 2019: 4 recipients  
-2020: 2 recipients |
-| ![Chief Commissioners Award 2020.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Uniformed%20Groups/Brownies/Chief%20Commissioners%20Award%202020.jpg)  
-Chief Commissioner's Award 2020 Recipients |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dm6r{background-color:#FFF;color:#303030;text-align:center;vertical-align:middle}
+.tg .tg-epkd{background-color:#FFF;color:#303030;text-align:center;vertical-align:top}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Award</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Year</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dm6r">Puan Noor Aishah (Gold) Award</td>
+    <td class="tg-dm6r">2019</td>
+  </tr>
+  <tr>
+    <td class="tg-epkd" colspan="2"><img src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Uniformed%20Groups/Brownies/Puan%20Noor%20Aishah.jpg" alt="Puan Noor Aishah.jpg" width="276" height="374"><br>We are proud to announce that the Brownies have attained our 18th Gold Puan Noor Aishah Award for our active participation, contributions and achievements in 2019.</td>
+  </tr>
+  <tr>
+    <td class="tg-dm6r">Chief Commissioner's Award</td>
+    <td class="tg-dm6r">2019: 4 recipients<br>2020: 2 recipients</td>
+  </tr>
+  <tr>
+    <td class="tg-epkd" colspan="2"><img src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCA/Uniformed%20Groups/Brownies/Chief%20Commissioners%20Award%202020.jpg" alt="Chief Commissioners Award 2020.jpg" width="276" height="338"><br>Chief Commissioner's Award 2020 Recipients</td>
+  </tr>
+</tbody>
+</table>
