@@ -13,25 +13,25 @@ Performances
 扇舞翩翩 (Fan Dance)
 
 
-<img src="![](/images/Picture3.png)"  
+<img src="/images/Picture3.png"  
 style="width:75%">
 
 俏皮猫咪  
 
-<img src="![](/images/2019%20CNY%20Celebration.jpeg)"  
+<img src="/images/2019%20CNY%20Celebration.jpeg"  
 style="width:75%">
   
 
 桃花笑
 
-<img src="![](/images/2021%20CNY%20Celebration.jpeg)"  
+<img src="/images/2021%20CNY%20Celebration.jpeg"  
 style="width:75%">
   
 
 **Yangzheng 113th Anniversary Celebration**  
 雏燕 (Flight of The Swallows)  
 
-<img src="![](/images/YZ%20113th%20Anniversary.jpeg)"  
+<img src="/images/YZ%20113th%20Anniversary.jpeg"  
 style="width:75%">
 
 Competitions
