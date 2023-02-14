@@ -2,12 +2,12 @@ collections:
   cca:
     output: true
     order:
+      - Performing Arts/.keep
+      - Performing Arts/Performing Arts.md
       - Performing Arts/Chinese Dance.md
       - Performing Arts/Concert Band.md
       - Performing Arts/Guzheng.md
       - Performing Arts/Modern Dance.md
-      - Performing Arts/Performing Arts.md
-      - Performing Arts/.keep
       - Clubs/.keep
       - Clubs/Clubs.md
       - Clubs/Art Club.md
