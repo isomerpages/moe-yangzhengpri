@@ -80,15 +80,33 @@ Competitions were carried for the various levels. Teachers conscientiously train
 Multi-Cultural Malay Programmes @ YZPS
 --------------------------------------
 
-**Primary 1 to Primary 2: Reader’s Theatre**
-
+**Primary 1 to Primary 2: Reader’s Theatre** <br>
 This workshop aims to develop reading, listening communication and presentation skills through the use of drama as a means of self-expression. At the end of the workshop, pupils did a theatre performance.  
 
   
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Readers%20Theatre%201.png)" alt="
+Malay Language Primary 1 to Primary 2: Reader’s Theatre" style="width:75%;">  
+  
+</body>  
 
-![Readers Theatre 1.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/Malay/Readers%20Theatre%201.png)  
-
-![Readers Theatre 2.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/Malay/Readers%20Theatre%202.png)  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Readers%20Theatre%202.png)" alt="
+Malay Language Primary 1 to Primary 2: Reader’s Theatre" style="width:75%;">  
+  
+</body>  
 
   
 
