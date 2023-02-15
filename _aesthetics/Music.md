@@ -93,13 +93,16 @@ Sharing ideas during a P5 music presentation</figcaption>
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 220px; height: 293px;" class="ive_eobj_center" alt="Music_10.jpg" src="![](/images/Music_10.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 221px; height: 293px;" class="ive_eobj_center" alt="Music_11.jpg" src="![](/images/Music_11.jpeg)"></td></tr></tbody></table>
 
-P6 pupils creating music using Garage Band software
+<figcaption style="text-align:center;">
+P6 pupils creating music using Garage Band software</figcaption>
 
   
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 411px; height: 230px;" class="ive_eobj_center" alt="Music_12.jpg" src="![](/images/Music_12.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 411px; height: 230px;" class="ive_eobj_center" alt="Music_13.jpg" src="![](/images/Music_13.jpeg)"></td></tr></tbody></table>
 
 P6 pupils presenting their inquiry-based findings to their classes
+<figcaption style="text-align:center;">
+P1 pupils doing a pair greeting activity</figcaption>
 
   
 
@@ -118,12 +121,24 @@ P6: Music Sequencing (using Garage Band)
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 253px; height: 336px;" class="ive_eobj_center" alt="Music_14.jpg" src="![](/images/Music_14.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 253px; height: 336px;" class="ive_eobj_center" alt="Music_15.jpg" src="![](/images/Music_15.jpeg)"></td></tr></tbody></table>
 
-P2 pupils learning to hold and play on their angklungs
+<figcaption style="text-align:center;">
+P2 pupils learning to hold and play on their angklungs</figcaption>
 
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Music_16.jpeg)" alt="
+P4 pupils strumming their chords on their ukuleles" style="width:75%;">  
   
-![Music_16.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/Aesthetics/Music/Music_16.jpg)
+</body>  
+<figcaption style="text-align:center;">
+P4 pupils strumming their chords on their ukuleles</figcaption>
 
-P4 pupils strumming their chords on their ukuleles
 
 Arts Education Assembly Programmes
 ----------------------------------
