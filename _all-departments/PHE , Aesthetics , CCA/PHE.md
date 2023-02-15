@@ -36,10 +36,6 @@ P3 – Handball <br>
 P4 – Tchoukball <br>
 P5 – Kinball
 
-  
-
-![PHE_1.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/PHE/PHE_1.jpg)
-
 <style>  
 img {  
   display: block;  
@@ -47,7 +43,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Music_3.jpeg" alt="
+<body><img src="![](/images/PHE_1.jpeg)" alt="
 Primary 2 pupils taking part in the Rope Skipping SEP." style="width:75%;">  
   
 </body>  
