@@ -28,10 +28,6 @@ Developing pupils into Confident Speakers
 <u>Lower Primary Drama & Crosstalk Programme</u> <br>
 Chinese Drama Programme and Chinese Crosstalk Programme aim to build students’ confidence via a range of communicative activities while developing oral skills, nurturing imagination and resourcefulness. Selected pupils who show proficiency in spoken Chinese are trained under professionals to learn oratorical skills. A drama performance is normally showcased in the following year Chinese New Year concert to provide students a platform to exhibit their talent.
 
-  
-
-![MT_1.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/MT_1.png)
-
 <style>  
 img {  
   display: block;  
@@ -39,13 +35,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="NOO" alt="
+<body><img src="![](/images/MT_1.png)" alt="
 Lower Primary Drama & Crosstalk Programme" style="width:75%;">  
   
 </body>
 
-![MT_2.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/MT_2.jpg)
-
 <style>  
 img {  
   display: block;  
@@ -53,7 +47,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="NOO" alt="
+<body><img src="![](/images/MT_2.jpeg)" alt="
 Students performing their drama skit during the Chinese New Year performance." style="width:75%;">  
   
 </body>  
