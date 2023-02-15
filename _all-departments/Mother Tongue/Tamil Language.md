@@ -55,7 +55,17 @@ Tamil Language and Cultural Camp
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 314px; height: 235px;" class="ive_eobj_center" alt="Cultural Camp 1.png" width="100%" src="![](/images/Cultural%20Camp%201.png)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 314px; height: 235px;" class="ive_eobj_center" alt="Cultural Camp 2.png" width="100%" src="![](/images/Cultural%20Camp%202.png)"></td></tr></tbody></table>
 
-![Cultural Camp 3.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/Tamil/Cultural%20Camp%203.png)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Cultural%20Camp%203.png)" alt="
+Tamil Language Cultural Camp" style="width:75%;">  
+  
+</body>  
 
   
 
