@@ -17,7 +17,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/MT_table.jpeg)" alt="
+<body><img src="/images/MT_table.jpeg" alt="
 MT table" style="width:75%;">  
   
 </body>
@@ -35,7 +35,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/MT_1.png)" alt="
+<body><img src="/images/MT_1.png" alt="
 Lower Primary Drama & Crosstalk Programme" style="width:75%;">  
   
 </body>
@@ -47,7 +47,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/MT_2.jpeg)" alt="
+<body><img src="/images/MT_2.jpeg" alt="
 Students performing their drama skit during the Chinese New Year performance." style="width:75%;">  
   
 </body>  
@@ -66,7 +66,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/MT_3.jpeg)" alt="
+<body><img src="/images/MT_3.jpeg" alt="
 P3 Chinese Theatrical Appreciation Programme (Cultural Performance Exposure Scheme)" style="width:75%;">  
   
 </body>
@@ -105,7 +105,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/MT_4.png)" alt="
+<body><img src="/images/MT_4.png" alt="
 Chinese Language Publication of 《星海》 – A compilation of articles written by pupils" style="width:75%;">  
   
 </body>
@@ -128,12 +128,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/MT_5.jpeg)" alt="
+<body><img src="/images/MT_5.jpeg" alt="
 Craftworks for MT fortnight 2022 where students learnt about the origins of Mid-Autumn and Dragon Boat Festival." style="width:75%;">  
   
 </body>  
 <figcaption style="text-align:center;">
-Craftworks for MT fortnight 2022 where students learnt about the origins of Mid-Autumn and Dragon Boat Festival.</figcaption>
+Craftworks for MT fortnight 2022 where students learnt about the origins of Mid-Autumn and Dragon Boat Festival.</figcaption><br>
 
 <style>  
 img {  
@@ -142,7 +142,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/MT_6.jpeg)" alt="
+<body><img src="/images/MT_6.jpeg" alt="
 Chinese Language Mother Tongue Fortnight" style="width:75%;">  
   
 </body>
@@ -154,7 +154,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/MT_7.png)" alt="
+<body><img src="/images/MT_7.png" alt="
 Chinese Language Mother Tongue Fortnight" style="width:75%;">  
   
 </body>
@@ -169,7 +169,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/MT_8.jpeg)" alt="
+<body><img src="/images/MT_8.jpeg" alt="
 Chinese Language P3 Cultural Camp" style="width:75%;">  
   
 </body>
@@ -181,7 +181,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/MT_9.jpeg)" alt="
+<body><img src="/images/MT_9.jpeg" alt="
 Chinese Language P3 Cultural Camp" style="width:75%;">  
   
 </body>
@@ -193,7 +193,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/MT_10.jpeg)" alt="
+<body><img src="/images/MT_10.jpeg" alt="
 Chinese Language P3 Cultural Camp" style="width:75%;">  
   
 </body>
@@ -206,7 +206,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/MT_11.jpeg)" alt="
+<body><img src="/images/MT_11.jpeg" alt="
 Learning and making of traditional food from different dialect groups using air clay." style="width:75%;">  
   
 </body>  
