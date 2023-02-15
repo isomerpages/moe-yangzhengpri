@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/TL%20MT1.png)" alt="
+<body><img src="/images/TL%20MT1.png" alt="
 Tamil Language Fortnight" style="width:75%;">  
   
 </body>  
@@ -23,7 +23,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/TL%20MT%202.png)" alt="
+<body><img src="/images/TL%20MT%202.png" alt="
 Tamil Language Fortnight" style="width:75%;">  
   
 </body>  
@@ -35,7 +35,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/TL%20MT%203.png)" alt="
+<body><img src="/images/TL%20MT%203.png" alt="
 Tamil Language Fortnight" style="width:75%;">  
   
 </body>  
@@ -46,14 +46,14 @@ The Mother Tongue Fortnight is an annual event that is held in school. During th
 Amazing Race
 ------------
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 314px; height: 233px;" class="ive_eobj_center" alt="Amazing Race1.png" width="100%" src="![](/images/Amazing%20Race1.png)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 307px; height: 233px;" class="ive_eobj_center" alt="Amazing Race 2.png" width="100%" src="![](/images/Amazing%20Race%202.png)"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 314px; height: 197px;" class="ive_eobj_center" alt="Amazing Race 3.png" width="100%" src="![](/images/Amazing%20Race%203.png)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 307px; height: 197px;" class="ive_eobj_center" alt="Amazing Race 4.png" src="![](/images/Amazing%20Race%204.png)"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 314px; height: 233px;" class="ive_eobj_center" alt="Amazing Race1.png" width="100%" src="/images/Amazing%20Race1.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 307px; height: 233px;" class="ive_eobj_center" alt="Amazing Race 2.png" width="100%" src="/images/Amazing%20Race%202.png"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 314px; height: 197px;" class="ive_eobj_center" alt="Amazing Race 3.png" width="100%" src="/images/Amazing%20Race%203.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 307px; height: 197px;" class="ive_eobj_center" alt="Amazing Race 4.png" src="/images/Amazing%20Race%204.png"></td></tr></tbody></table>
 
 The Tamil Department had its first collaboration with an external organisation, Kalai Pithers Society Pte Ltd involving P3 to P6 pupils in a language and cultural game, the amazing race. The pupils learnt about the Chola Empire which once ruled India through activities that revolves around it. The event started off with an introduction about the Chola Empire. Following that the pupils learnt about the Emperors, the way of life and literary works through puzzles, re-enactment, riddles and Treasure hunt. They also had a cut out of the Chola king which pupils could take photos with. The event provided the pupils an opportunity to learn about the Tamil culture and understand about a Kingdom which existed long ago.
 
 Tamil Language and Cultural Camp
 --------------------------------
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 314px; height: 235px;" class="ive_eobj_center" alt="Cultural Camp 1.png" width="100%" src="![](/images/Cultural%20Camp%201.png)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 314px; height: 235px;" class="ive_eobj_center" alt="Cultural Camp 2.png" width="100%" src="![](/images/Cultural%20Camp%202.png)"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 314px; height: 235px;" class="ive_eobj_center" alt="Cultural Camp 1.png" width="100%" src="/images/Cultural%20Camp%201.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 314px; height: 235px;" class="ive_eobj_center" alt="Cultural Camp 2.png" width="100%" src="/images/Cultural%20Camp%202.png"></td></tr></tbody></table>
 
 <style>  
 img {  
@@ -62,7 +62,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Cultural%20Camp%203.png)" alt="
+<body><img src="/images/Cultural%20Camp%203.png" alt="
 Tamil Language Cultural Camp" style="width:75%;">  
   
 </body>  
@@ -87,7 +87,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Drama.png)" alt="
+<body><img src="/images/Drama.png" alt="
 Tamil Language Drama- Thisaivegam" style="width:75%;">  
   
 </body>
