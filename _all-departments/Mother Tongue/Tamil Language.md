@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="NOOO" alt="
+<body><img src="![](/images/TL%20MT1.png)" alt="
 Tamil Language Fortnight" style="width:75%;">  
   
 </body>  
@@ -23,7 +23,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="NOOO" alt="
+<body><img src="![](/images/TL%20MT%202.png)" alt="
 Tamil Language Fortnight" style="width:75%;">  
   
 </body>  
@@ -35,7 +35,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="NOOO" alt="
+<body><img src="![](/images/TL%20MT%203.png)" alt="
 Tamil Language Fortnight" style="width:75%;">  
   
 </body>  
@@ -80,4 +80,4 @@ img {
 <body><img src="NOOO" alt="
 Tamil Language Drama- Thisaivegam" style="width:75%;">  
   
-</body>  
+</body>
