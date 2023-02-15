@@ -2,6 +2,7 @@ collections:
   all-departments:
     output: true
     order:
+      - Mother Tongue/Malay Language.md
       - Mother Tongue/Tamil Language.md
       - Mother Tongue/.keep
       - PHE , Aesthetics , CCA/PHE.md
