@@ -147,7 +147,6 @@ Chinese Language Mother Tongue Fortnight" style="width:75%;">
   
 </body>
 
-![MT_7.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/MT_7.png)  
 <style>  
 img {  
   display: block;  
@@ -155,7 +154,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="NOO" alt="
+<body><img src="![](/images/MT_7.png)" alt="
 Chinese Language Mother Tongue Fortnight" style="width:75%;">  
   
 </body>
