@@ -162,9 +162,6 @@ Chinese Language Mother Tongue Fortnight" style="width:75%;">
 <u>P3 Cultural Camp</u>  <br>
 In order to further expose our pupils to Chinese Culture, the Chinese Department organized a Chinese Culture Day Camp for Primary 3 pupils annually. Students over the years have been exposed to array of Chinese Cultural Art forms, such as Chinese Opera, Chinese ocarina or taodi 陶笛, Diabolo and the traditional food from the different dialect groups. This Language and Cultural Camp provides an immersive environment for students to learn and use Chinese Language in a more in-depth manner, and to appreciate their culture and roots through hands-on activities.
 
-  
-
-![MT_8.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/MT_8.jpg)
 <style>  
 img {  
   display: block;  
@@ -172,12 +169,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="NOO" alt="
+<body><img src="![](/images/MT_8.jpeg)" alt="
 Chinese Language P3 Cultural Camp" style="width:75%;">  
   
 </body>
 
-![MT_9.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/MT_9.jpg)
 <style>  
 img {  
   display: block;  
@@ -185,12 +181,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="NOO" alt="
+<body><img src="![](/images/MT_9.jpeg)" alt="
 Chinese Language P3 Cultural Camp" style="width:75%;">  
   
 </body>
 
-![MT_10.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/MT_10.jpg)
 <style>  
 img {  
   display: block;  
@@ -198,12 +193,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="NOO" alt="
+<body><img src="![](/images/MT_10.jpeg)" alt="
 Chinese Language P3 Cultural Camp" style="width:75%;">  
   
 </body>
 
-![MT_11.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/MT_11.jpg)
 
 <style>  
 img {  
@@ -212,7 +206,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="NOO" alt="
+<body><img src="![](/images/MT_11.jpeg)" alt="
 Learning and making of traditional food from different dialect groups using air clay." style="width:75%;">  
   
 </body>  
