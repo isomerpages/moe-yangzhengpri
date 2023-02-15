@@ -4,7 +4,6 @@ permalink: /distinctive-programmes/all-departments/phe-aesthetics-cca/phe/
 description: ""
 third_nav_title: PHE , Aesthetics , CCA
 ---
-![PHE Dept Vision.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/PHE/PHE%20Dept%20Vision.png)
 <style>  
 img {  
   display: block;  
@@ -12,8 +11,8 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Music_3.jpeg" alt="
-P1 pupils doing a pair greeting activity" style="width:75%;">  
+<body><img src="![](/images/PHE%20Dept%20Vision.png)" alt="
+Physical and Health Education (PHE)" style="width:75%;">  
   
 </body>  
 
