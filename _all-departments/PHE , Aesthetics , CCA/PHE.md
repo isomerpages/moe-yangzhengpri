@@ -94,10 +94,6 @@ Pupils being equipped with basic swimming skills and water safety awareness.</fi
 **Sports Fiesta** <br>
 Sports Fiesta is an annual Sports Event held in Yangzheng Primary School. It allows pupils to get together with their peers and compete in games under the house system. The P1 and P2 pupils compete in one of three relays based on the different fundamentals and locomotor skills that they have learnt. The P3 to P6 pupils compete in one of the six games of Basketball, Captain’s Ball, Dodgeball, Skipping, Soccer and Volleyball. In 2021, the Iron Kid Challenge was introduced in place of the Sports Fiesta experience for our P3 to P6 pupils due to the prevailing Safe Management Measures (SMM). Pupils competed in three different activities that demonstrated their proficiency across different skill-related fitness components.
 
-  
-
-![PHE_4.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/PHE/PHE_4.jpg)
-
 <style>  
 img {  
   display: block;  
@@ -112,11 +108,6 @@ P1 and P2 pupils putting in their finest effort during Lower Primary Sports Fies
 <figcaption style="text-align:center;">
 P1 and P2 pupils putting in their finest effort during Lower Primary Sports Fiesta.</figcaption>
 
-  
-
-![PHE_5.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/PHE/PHE_5.jpg)
-
-P3 to P6 Sports Fiesta Upper Primary pupils taking part in a game of football, one of the six games carried out for the Sports Fiesta.
 
 <style>  
 img {  
@@ -125,9 +116,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Music_3.jpeg" alt="
-P1 pupils doing a pair greeting activity" style="width:75%;">  
+<body><img src="![](/images/PHE_5.jpeg)" alt="
+P3 to P6 Sports Fiesta Upper Primary pupils taking part in a game of football, one of the six games carried out for the Sports Fiesta." style="width:75%;">  
   
 </body>  
 <figcaption style="text-align:center;">
-P1 pupils doing a pair greeting activity</figcaption>
+P3 to P6 Sports Fiesta Upper Primary pupils taking part in a game of football, one of the six games carried out for the Sports Fiesta.</figcaption>
