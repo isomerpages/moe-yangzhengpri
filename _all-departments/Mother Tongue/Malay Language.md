@@ -91,7 +91,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Readers%20Theatre%201.png)" alt="
+<body><img src="/images/Readers%20Theatre%201.png" alt="
 Malay Language Primary 1 to Primary 2: Reader’s Theatre" style="width:75%;">  
   
 </body>  
@@ -103,7 +103,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Readers%20Theatre%202.png)" alt="
+<body><img src="/images/Readers%20Theatre%202.png" alt="
 Malay Language Primary 1 to Primary 2: Reader’s Theatre" style="width:75%;">  
   
 </body>  
@@ -115,14 +115,13 @@ During this workshop, pupils were introduced to 3 different ways of storytelling
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 199px; height: 264px;" class="ive_eobj_center" alt="Storytelling1.png" src="![](/images/Storytelling1.png)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 470px; height: 264px;" class="ive_eobj_center" alt="Storytelling2.png" src="![](/images/Storytelling2.png)"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 199px; height: 264px;" class="ive_eobj_center" alt="Storytelling1.png" src="/images/Storytelling1.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 470px; height: 264px;" class="ive_eobj_center" alt="Storytelling2.png" src="/images/Storytelling2.png"></td></tr></tbody></table>
 
   
 
-**Primary 5: Creative Writing Workshop**
-
+**Primary 5: Creative Writing Workshop** <br>
 The workshop aims to develop language and writing skills in pupils. Using the famous folklore ‘Pak Pandir’, pupils are guided through a writing course which encourage them to use their imagination in creating their own fractured folktale.  
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 357px; height: 267px;" class="ive_eobj_center" alt="Creative 1.png" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/Malay/Creative%201.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 357px; height: 267px;" class="ive_eobj_center" alt="Creative 2.png" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/Malay/Creative%202.png"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 357px; height: 267px;" class="ive_eobj_center" alt="Creative 1.png" src="/images/Creative%201.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 357px; height: 267px;" class="ive_eobj_center" alt="Creative 2.png" src="/images/Creative%202.png"></td></tr></tbody></table>
