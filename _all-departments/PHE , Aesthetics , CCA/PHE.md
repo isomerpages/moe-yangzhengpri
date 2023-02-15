@@ -5,6 +5,17 @@ description: ""
 third_nav_title: PHE , Aesthetics , CCA
 ---
 ![PHE Dept Vision.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/PHE/PHE%20Dept%20Vision.png)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Music_3.jpeg" alt="
+P1 pupils doing a pair greeting activity" style="width:75%;">  
+  
+</body>  
 
 Physical and Health Education (PHE) plays an important role in the physical growth and development of pupils. Through PHE, pupils acquire the knowledge, skills, right attitudes and values towards the pursuit of a lifelong physically active and healthy lifestyle. It also provides an avenue for pupils to express themselves through movement and physical activity. At Yangzheng Primary School, we envision each child that comes through our PHE programme a healthy and happy child.
 
@@ -23,12 +34,9 @@ The Sports Education Programme (SEP) is a collaborative partnership between Spor
 
 In Yangzheng, the P2 to P5 pupils will be introduced to the following sports to encourage their participation in the following sports.
 
-P2 – Rope Skipping
-
-P3 – Handball
-
-P4 – Tchoukball
-
+P2 – Rope Skipping <br>
+P3 – Handball <br>
+P4 – Tchoukball <br>
 P5 – Kinball
 
   
@@ -37,11 +45,39 @@ P5 – Kinball
 
 Primary 2 pupils taking part in the Rope Skipping SEP.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Music_3.jpeg" alt="
+P1 pupils doing a pair greeting activity" style="width:75%;">  
+  
+</body>  
+<figcaption style="text-align:center;">
+P1 pupils doing a pair greeting activity</figcaption>
+
   
 
 ![PHE_2.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/PHE/PHE_2.jpg)
 
 Primary 5 pupils learning to play Kinball through the P5 SEP.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Music_3.jpeg" alt="
+P1 pupils doing a pair greeting activity" style="width:75%;">  
+  
+</body>  
+<figcaption style="text-align:center;">
+P1 pupils doing a pair greeting activity</figcaption>
 
   
 
@@ -61,6 +97,20 @@ Since 2011, our Primary 3 pupils have been taking part in the SwimSafer Programm
 
 Pupils being equipped with basic swimming skills and water safety awareness.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Music_3.jpeg" alt="
+P1 pupils doing a pair greeting activity" style="width:75%;">  
+  
+</body>  
+<figcaption style="text-align:center;">
+P1 pupils doing a pair greeting activity</figcaption>
+
   
 
 **Sports Fiesta**
@@ -73,8 +123,36 @@ Sports Fiesta is an annual Sports Event held in Yangzheng Primary School. It all
 
 P1 and P2 pupils putting in their finest effort during Lower Primary Sports Fiesta.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Music_3.jpeg" alt="
+P1 pupils doing a pair greeting activity" style="width:75%;">  
+  
+</body>  
+<figcaption style="text-align:center;">
+P1 pupils doing a pair greeting activity</figcaption>
+
   
 
 ![PHE_5.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/PHE/PHE_5.jpg)
 
 P3 to P6 Sports Fiesta Upper Primary pupils taking part in a game of football, one of the six games carried out for the Sports Fiesta.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Music_3.jpeg" alt="
+P1 pupils doing a pair greeting activity" style="width:75%;">  
+  
+</body>  
+<figcaption style="text-align:center;">
+P1 pupils doing a pair greeting activity</figcaption>
