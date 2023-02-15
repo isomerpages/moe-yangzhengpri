@@ -146,11 +146,21 @@ Arts Education Assembly Programmes
 For exposure programmes, pupils are introduced to various art forms through Arts Education assembly performances. Some of these programmes are as follows:  
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 388px; height: 185px;" class="ive_eobj_center" alt="Music_17.png" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/Aesthetics/Music/Music_17.png"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(48, 48, 48); font-family: Archivo, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">Introducing different traditional instruments</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 489px; height: 185px;" class="ive_eobj_center" alt="Music_18.png" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/Aesthetics/Music/Music_18.png"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(48, 48, 48); font-family: Archivo, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">Investigating different musical eras</div></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 388px; height: 185px;" class="ive_eobj_center" alt="Music_17.png" src="![](/images/Music_17.png)"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(48, 48, 48); font-family: Archivo, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">Introducing different traditional instruments</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 489px; height: 185px;" class="ive_eobj_center" alt="Music_18.png" src="h![](/images/Music_18.png)"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(48, 48, 48); font-family: Archivo, sans-serif; font-size: 16px; font-weight: 400; text-align: center;">Investigating different musical eras</div></td></tr></tbody></table>
 
-![Music_19.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/Aesthetics/Music/Music_19.png)
-
-Exposure to different types of traditional drums
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Music_19.png)" alt="
+Exposure to different types of traditional drums" style="width:75%;">  
+  
+</body>  
+<figcaption style="text-align:center;">
+Exposure to different types of traditional drums</figcaption>
 
   
 
