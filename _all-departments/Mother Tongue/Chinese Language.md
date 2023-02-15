@@ -10,20 +10,39 @@ The Chinese Department hopes to develop pupils’ interest in the language by ma
 
 The department focuses on the students’ acquisition and development of these main skills of language learning, namely, Reading & Listening, Speaking & Writing and Viewing & Representing.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/MT_table.jpeg)" alt="
+MT table" style="width:75%;">  
   
-
-![MT_table.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/MT_table.jpg)
+</body>
 
 Developing pupils into Confident Speakers
 -----------------------------------------
 
-Lower Primary Drama & Crosstalk Programme
-
+<u>Lower Primary Drama & Crosstalk Programme</u> <br>
 Chinese Drama Programme and Chinese Crosstalk Programme aim to build students’ confidence via a range of communicative activities while developing oral skills, nurturing imagination and resourcefulness. Selected pupils who show proficiency in spoken Chinese are trained under professionals to learn oratorical skills. A drama performance is normally showcased in the following year Chinese New Year concert to provide students a platform to exhibit their talent.
 
   
 
 ![MT_1.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/MT_1.png)
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="NOO" alt="
+Lower Primary Drama & Crosstalk Programme" style="width:75%;">  
+  
+</body>
 
 ![MT_2.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/MT_2.jpg)
 
@@ -43,54 +62,71 @@ Students performing their drama skit during the Chinese New Year performance.</f
 
   
 
-P3 Chinese Theatrical Appreciation Programme (Cultural Performance Exposure Scheme)
-
+<u>P3 Chinese Theatrical Appreciation Programme (Cultural Performance Exposure Scheme)</u> <br>
 An initiative by the Committee to Promote Chinese Language Learning (CPCLL), the Cultural Performance Exposure Scheme (CPES) (“文化随意门”计划) aims to expose school pupils to Chinese language-related cultural performances by local and foreign performing arts groups. Students will also learn about the importance of speaking confidently with clear diction, like the theatre actors.
 
   
 
 ![MT_3.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/MT_3.jpg)  
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="NOO" alt="
+P3 Chinese Theatrical Appreciation Programme (Cultural Performance Exposure Scheme)" style="width:75%;">  
+  
+</body>
+
   
 
-Modular Oral Packages (P1-P6)
-
+<u>Modular Oral Packages (P1-P6)</u> <br>
 Unique oral packages for the six levels were developed to progressively teach pupils oracy skills, from reading aloud to conversational skills.
 
   
 
-Conversational Chinese and Malay (CCM) Programme
-
+<u>Conversational Chinese and Malay (CCM) Programme</u>
 The purpose of Conversational Chinese and Malay Programme is to strengthen bonds among students of different races and at the same time helping pupils acquire the languages that would enable them to operate comfortably in the region. We hope that through this programme, we will enable students to have some grounding of the language so that they could more easily pick up the language in their adult life.
 
 Developing pupils into Avid Readers
 -----------------------------------
 
-YZ CL Reading Programme
-
+<u>YZ CL Reading Programme</u> <br>
 To arouse pupils’ interest in reading, varied and interesting titles are prepared for students of all levels within the school. These books or articles further complement and add on to what the school library already offers. Through the variety of titles available, students are exposed to a myriad of text-types and writing styles. Students are encouraged to write short synopses and complete interesting post-reading activities.
 
   
 
-Uninterrupted Silent Reading (P1-P6)
-
+<u>Uninterrupted Silent Reading (P1-P6)</u> <br> 
 Silent Reading is a pre-assembly reading programme where students read silently before the commencement of the daily Flag Raising Ceremony. Mother Tongue story books are read on Thursdays and Fridays. Through Silent Reading, majority of students are ensured a daily dose of reading of at least 5-15 minutes.
 
 Developing pupils into Proficient Writers
 -----------------------------------------
 
-Publication of 《星海》 – A compilation of articles written by pupils
-
+<u>Publication of 《星海》 – A compilation of articles written by pupils</u> <br>
 The aim of our ‘Read and Enjoy’ books is to create a platform for our pupils to develop reading and writing skills that are vital life skills for our pupils.
 
   
 
 ![MT_4.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/MT_4.png)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="NOO" alt="
+Chinese Language Publication of 《星海》 – A compilation of articles written by pupils" style="width:75%;">  
+  
+</body>
+
   
 
-Modular Writing Packages (P3-P6)
-
+<u>Modular Writing Packages (P3-P6)</u> <br> 
 To train pupils in their writing, unique and comprehensive writing packages for the different levels, targeting at improving students’ writing and text comprehension skills were developed and refined over the years for the various levels. The writing packages includes lessons ranging from plot development and characterization to writing conventions.
 
 Developing pupils into Culture Inheritor
