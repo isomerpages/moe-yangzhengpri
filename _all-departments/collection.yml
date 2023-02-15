@@ -2,6 +2,7 @@ collections:
   all-departments:
     output: true
     order:
+      - Mother Tongue/.keep
       - PHE , Aesthetics , CCA/PHE.md
       - PHE , Aesthetics , CCA/Aesthetics.md
       - PHE , Aesthetics , CCA/CCA.md
