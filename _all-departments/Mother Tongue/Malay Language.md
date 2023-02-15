@@ -110,13 +110,12 @@ Malay Language Primary 1 to Primary 2: Reader’s Theatre" style="width:75%;">
 
   
 
-**Primary 3 &amp; 4: Interactive Story Telling Workshop**
-
+**Primary 3 &amp; 4: Interactive Story Telling Workshop** <br>
 During this workshop, pupils were introduced to 3 different ways of storytelling and were encouraged to express themselves creatively as they narrate, role play and use their imagination. In doing so, pupils are encouraged to discover the Malay Language and use it to communicate with one another.  
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 199px; height: 264px;" class="ive_eobj_center" alt="Storytelling1.png" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/Malay/Storytelling1.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 470px; height: 264px;" class="ive_eobj_center" alt="Storytelling2.png" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/Malay/Storytelling2.png"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 199px; height: 264px;" class="ive_eobj_center" alt="Storytelling1.png" src="![](/images/Storytelling1.png)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 470px; height: 264px;" class="ive_eobj_center" alt="Storytelling2.png" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/Malay/Storytelling2.png"></td></tr></tbody></table>
 
   
 
