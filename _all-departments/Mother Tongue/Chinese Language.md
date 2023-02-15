@@ -27,7 +27,19 @@ Chinese Drama Programme and Chinese Crosstalk Programme aim to build students’
 
 ![MT_2.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/MT_2.jpg)
 
-Students performing their drama skit during the Chinese New Year performance.
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="NOO" alt="
+Students performing their drama skit during the Chinese New Year performance." style="width:75%;">  
+  
+</body>  
+<figcaption style="text-align:center;">
+Students performing their drama skit during the Chinese New Year performance.</figcaption>
 
   
 
@@ -84,34 +96,111 @@ To train pupils in their writing, unique and comprehensive writing packages for 
 Developing pupils into Culture Inheritor
 ----------------------------------------
 
-Mother Tongue Fortnight
-
+<u>Mother Tongue Fortnight</u> <br>
 In support of our school’s vision and mission to promote holistic education amongst our pupils, the Mother Tongue Fortnight Programme provide platforms for pupils to actively learn Mother Tongue Languages, cultures and traditions to appreciate their roots. Pupils will not only learn about the origin and customs tied to the various traditional Chinese festivals, but also learn about various Chinese Art forms and culture.
 
   
 
 ![MT_5.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/MT_5.jpg)
 
-Craftworks for MT fortnight 2022 where students learnt about the origins of Mid-Autumn and Dragon Boat Festival.
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="NOO" alt="
+Craftworks for MT fortnight 2022 where students learnt about the origins of Mid-Autumn and Dragon Boat Festival." style="width:75%;">  
+  
+</body>  
+<figcaption style="text-align:center;">
+Craftworks for MT fortnight 2022 where students learnt about the origins of Mid-Autumn and Dragon Boat Festival.</figcaption>
 
   
 
 ![MT_6.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/MT_6.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="NOO" alt="
+Chinese Language Mother Tongue Fortnight" style="width:75%;">  
+  
+</body>
 
 ![MT_7.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/MT_7.png)  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="NOO" alt="
+Chinese Language Mother Tongue Fortnight" style="width:75%;">  
+  
+</body>
 
-P3 Cultural Camp  
-
+<u>P3 Cultural Camp</u>  <br>
 In order to further expose our pupils to Chinese Culture, the Chinese Department organized a Chinese Culture Day Camp for Primary 3 pupils annually. Students over the years have been exposed to array of Chinese Cultural Art forms, such as Chinese Opera, Chinese ocarina or taodi 陶笛, Diabolo and the traditional food from the different dialect groups. This Language and Cultural Camp provides an immersive environment for students to learn and use Chinese Language in a more in-depth manner, and to appreciate their culture and roots through hands-on activities.
 
   
 
 ![MT_8.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/MT_8.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="NOO" alt="
+Chinese Language P3 Cultural Camp" style="width:75%;">  
+  
+</body>
 
 ![MT_9.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/MT_9.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="NOO" alt="
+Chinese Language P3 Cultural Camp" style="width:75%;">  
+  
+</body>
 
 ![MT_10.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/MT_10.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="NOO" alt="
+Chinese Language P3 Cultural Camp" style="width:75%;">  
+  
+</body>
 
 ![MT_11.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/MT_11.jpg)
 
-Learning and making of traditional food from different dialect groups using air clay.
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="NOO" alt="
+Learning and making of traditional food from different dialect groups using air clay." style="width:75%;">  
+  
+</body>  
+<figcaption style="text-align:center;">
+Learning and making of traditional food from different dialect groups using air clay.</figcaption>
