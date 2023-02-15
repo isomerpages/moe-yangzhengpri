@@ -27,16 +27,11 @@ The learning in GAP also complements the following art enrichment workshops, con
 
   
 
-P1: Manga Drawing
-
-P2: Chinese Brush Painting
-
-P3: Painting with Watercolour Pencils
-
-P4: Watercolour Painting
-
-P5: Pottery Making
-
+P1: Manga Drawing <br>
+P2: Chinese Brush Painting <br>
+P3: Painting with Watercolour Pencils <br>
+P4: Watercolour Painting <br>
+P5: Pottery Making <br>
 P6: Claymation
 
   
