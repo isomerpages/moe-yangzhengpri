@@ -3,9 +3,20 @@ title: Mathematics
 permalink: /distinctive-programmes/all-departments/mathematics/
 description: ""
 ---
-![Mathematics_1.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/Mathematics/Mathematics_1.png)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Mathematics_1.png)" alt="
+Mathematics Framework" style="width:75%;">  
+  
+</body>  
+<figcaption style="text-align:right;">
+<em>From the Singapore Ministry of Education</em></figcaption>
 
-_From the Singapore Ministry of Education_
 
   
 
