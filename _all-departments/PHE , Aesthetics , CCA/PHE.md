@@ -11,8 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/PHE%20Dept%20Vision.png)" alt="
-Physical and Health Education (PHE)" style="width:75%;">  
+<body><img src="/images/PHE%20Dept%20Vision.png" alt="Physical and Health Education (PHE)" style="width:75%;">  
   
 </body>  
 
@@ -25,8 +24,7 @@ Pupils will embark on a journey to become competent movers through different lea
 Key PE Programmes in YZPS
 -------------------------
 
-**P2 to P5 Sports Education Programme**
-
+**P2 to P5 Sports Education Programme** <br>
 The Sports Education Programme (SEP) is a collaborative partnership between Sport Singapore and the Ministry of Education. It aims to advocate pupils on the importance of sports education, encourage them to participate in sports and increase sporting opportunities for the pupils.
 
   
@@ -42,8 +40,6 @@ P5 – Kinball
 
 ![PHE_1.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/PHE/PHE_1.jpg)
 
-Primary 2 pupils taking part in the Rope Skipping SEP.
-
 <style>  
 img {  
   display: block;  
@@ -52,11 +48,11 @@ img {
 }  
 </style>  
 <body><img src="/images/Music_3.jpeg" alt="
-P1 pupils doing a pair greeting activity" style="width:75%;">  
+Primary 2 pupils taking part in the Rope Skipping SEP." style="width:75%;">  
   
 </body>  
 <figcaption style="text-align:center;">
-P1 pupils doing a pair greeting activity</figcaption>
+Primary 2 pupils taking part in the Rope Skipping SEP.</figcaption>
 
   
 
