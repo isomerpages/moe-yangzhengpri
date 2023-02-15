@@ -107,21 +107,16 @@ The school has also put in place the following Music enrichment workshops for pu
 
   
 
-P1: Ethnic music percussion
-
-P2: Angklung (foundation)
-
-P3: Angklung
-
-P4: Ukulele&nbsp;
-
-P5: Kalimba
-
+P1: Ethnic music percussion <br>
+P2: Angklung (foundation) <br>
+P3: Angklung <br>
+P4: Ukulele&nbsp; <br>
+P5: Kalimba <br>
 P6: Music Sequencing (using Garage Band)
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 253px; height: 336px;" class="ive_eobj_center" alt="Music_14.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/Aesthetics/Music/Music_14.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 253px; height: 336px;" class="ive_eobj_center" alt="Music_15.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/Aesthetics/Music/Music_15.jpg"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 253px; height: 336px;" class="ive_eobj_center" alt="Music_14.jpg" src="![](/images/Music_14.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 253px; height: 336px;" class="ive_eobj_center" alt="Music_15.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/Aesthetics/Music/Music_15.jpg"></td></tr></tbody></table>
 
 P2 pupils learning to hold and play on their angklungs
 
