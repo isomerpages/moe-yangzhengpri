@@ -59,10 +59,6 @@ Students performing their drama skit during the Chinese New Year performance.</f
 <u>P3 Chinese Theatrical Appreciation Programme (Cultural Performance Exposure Scheme)</u> <br>
 An initiative by the Committee to Promote Chinese Language Learning (CPCLL), the Cultural Performance Exposure Scheme (CPES) (“文化随意门”计划) aims to expose school pupils to Chinese language-related cultural performances by local and foreign performing arts groups. Students will also learn about the importance of speaking confidently with clear diction, like the theatre actors.
 
-  
-
-![MT_3.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/MT_3.jpg)  
-
 <style>  
 img {  
   display: block;  
@@ -70,7 +66,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="NOO" alt="
+<body><img src="![](/images/MT_3.jpeg)" alt="
 P3 Chinese Theatrical Appreciation Programme (Cultural Performance Exposure Scheme)" style="width:75%;">  
   
 </body>
@@ -102,10 +98,6 @@ Developing pupils into Proficient Writers
 <u>Publication of 《星海》 – A compilation of articles written by pupils</u> <br>
 The aim of our ‘Read and Enjoy’ books is to create a platform for our pupils to develop reading and writing skills that are vital life skills for our pupils.
 
-  
-
-![MT_4.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/MT_4.png)
-
 <style>  
 img {  
   display: block;  
@@ -113,7 +105,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="NOO" alt="
+<body><img src="![](/images/MT_4.png)" alt="
 Chinese Language Publication of 《星海》 – A compilation of articles written by pupils" style="width:75%;">  
   
 </body>
@@ -129,10 +121,6 @@ Developing pupils into Culture Inheritor
 <u>Mother Tongue Fortnight</u> <br>
 In support of our school’s vision and mission to promote holistic education amongst our pupils, the Mother Tongue Fortnight Programme provide platforms for pupils to actively learn Mother Tongue Languages, cultures and traditions to appreciate their roots. Pupils will not only learn about the origin and customs tied to the various traditional Chinese festivals, but also learn about various Chinese Art forms and culture.
 
-  
-
-![MT_5.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/MT_5.jpg)
-
 <style>  
 img {  
   display: block;  
@@ -140,16 +128,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="NOO" alt="
+<body><img src="![](/images/MT_5.jpeg)" alt="
 Craftworks for MT fortnight 2022 where students learnt about the origins of Mid-Autumn and Dragon Boat Festival." style="width:75%;">  
   
 </body>  
 <figcaption style="text-align:center;">
 Craftworks for MT fortnight 2022 where students learnt about the origins of Mid-Autumn and Dragon Boat Festival.</figcaption>
 
-  
-
-![MT_6.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/MT_6.jpg)
 <style>  
 img {  
   display: block;  
@@ -157,7 +142,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="NOO" alt="
+<body><img src="![](/images/MT_6.jpeg)" alt="
 Chinese Language Mother Tongue Fortnight" style="width:75%;">  
   
 </body>
