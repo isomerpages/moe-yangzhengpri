@@ -4,7 +4,42 @@ permalink: /distinctive-programmes/all-departments/mother-tongue/tamil-language/
 description: ""
 third_nav_title: Mother Tongue
 ---
-![TL MT1.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/Tamil/TL%20MT1.png)![TL MT 2.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/Tamil/TL%20MT%202.png)![TL MT 3.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/Tamil/TL%20MT%203.png)  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="NOOO" alt="
+Tamil Language Fortnight" style="width:75%;">  
+  
+</body>  
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="NOOO" alt="
+Tamil Language Fortnight" style="width:75%;">  
+  
+</body>  
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="NOOO" alt="
+Tamil Language Fortnight" style="width:75%;">  
+  
+</body>  
+
 
 The Mother Tongue Fortnight is an annual event that is held in school. During this period the Tamil Department organised many in-house activities in the classroom for the pupils to enrich their cultural and language experience. Pupils played a number of language games in the classroom and introduction of literary poets also took place in the classroom. Memory games, Spelling Bee and Story Challenge activities were well received by the pupils. P3 to P6 pupils also wrote essays based on CCE values. Concourse activities were organised for pupils. Non-Indian pupils did flower tying activity and Tamil pupils did Translation activities. On the whole, the Mother Tongue Fortnight was enriching for the pupils.
 
@@ -35,6 +70,14 @@ Drama- Thisaivegam
 
 P3 to P5 pupils attended a Theatrical performance “Thisaivegam” at the Grassroots Club. It was a compilation of 3 short plays. Pupils saw the drama and enjoyed the comical elements of the drama and were able to relate to the subject matter that was presented. A number of Tamil songs were also used in the plays and the pupils enjoyed them tremendously.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="NOOO" alt="
+Tamil Language Drama- Thisaivegam" style="width:75%;">  
   
-
-![Drama.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/MT/Tamil/Drama.png)
+</body>  
