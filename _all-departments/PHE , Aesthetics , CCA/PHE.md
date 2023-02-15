@@ -43,7 +43,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/PHE_1.jpeg)" alt="
+<body><img src="/images/PHE_1.jpeg" alt="
 Primary 2 pupils taking part in the Rope Skipping SEP." style="width:75%;">  
   
 </body>  
@@ -57,7 +57,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/PHE_2.jpeg)" alt="
+<body><img src="/images/PHE_2.jpeg" alt="
 Primary 5 pupils learning to play Kinball through the P5 SEP." style="width:75%;">  
   
 </body>  
@@ -82,7 +82,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/PHE_3.jpeg)" alt="
+<body><img src="/images/PHE_3.jpeg" alt="
 Pupils being equipped with basic swimming skills and water safety awareness." style="width:75%;">  
   
 </body>  
@@ -101,7 +101,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/PHE_4.jpeg)" alt="
+<body><img src="/images/PHE_4.jpeg" alt="
 P1 and P2 pupils putting in their finest effort during Lower Primary Sports Fiesta." style="width:75%;">  
   
 </body>  
@@ -116,7 +116,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/PHE_5.jpeg)" alt="
+<body><img src="/images/PHE_5.jpeg" alt="
 P3 to P6 Sports Fiesta Upper Primary pupils taking part in a game of football, one of the six games carried out for the Sports Fiesta." style="width:75%;">  
   
 </body>  
