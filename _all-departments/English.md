@@ -15,6 +15,8 @@ Show and Tell activity provides an opportunity for students to practice academic
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 403px; height: 301px;" class="ive_eobj_center" alt="English Language_1.jpg" src="![](/images/English%20Language_1.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 402px; height: 301px;" class="ive_eobj_center" alt="English Language_2.jpg" src="![](/images/English%20Language_2.jpeg)"></td></tr></tbody></table>
 
 _Show and Tell in a Lower Primary class._
+<figcaption style="text-align:right;">
+<em>NOOO</em></figcaption>
 
 Building Blocks
 ---------------
@@ -65,18 +67,34 @@ Read and Enjoy
 
 The ‘Read and Enjoy’ publication is a collection of wonderful and creative expressions of our pupils’ literary skills. The aim of our ‘Read and Enjoy’ publication is to create a platform for our pupils to develop a lifelong love for reading and writing.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/English%20Language_11.png)" alt="
+Read and Enjoy" style="width:75%;">  
   
-
-![English Language_11.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/English/English%20Language_11.png)
+</body>  
 
 Writing Honours
 ---------------
 
 The Writing Honours is an inaugural writing competition organized by the English Department for the Primary 4 to 6 students through the use of the Student Learning Space (SLS) platform. The objective of the competition is to encourage students to think deeply and write persuasively while presenting well-connected ideas in a compact fashion of a prose or a poetry related to the stimuli given.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/English%20Language_12.png)" alt="
+Writing Honours" style="width:75%;">  
   
-
-![English Language_12.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/English/English%20Language_12.png)
+</body> 
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 807px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center;" width="px">Primary 4 stimulus</td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center;" width="px">Primary 5 stimulus</td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center;" width="px">Primary 6 stimulus</td></tr></tbody></table>
 
