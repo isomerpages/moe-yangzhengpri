@@ -2,9 +2,9 @@ collections:
   all-departments:
     output: true
     order:
-      - ICT/Cyberwellness.md
-      - ICT/ICT.md
       - ICT/.keep
+      - ICT/ICT.md
+      - ICT/Cyberwellness.md
       - Mathematics.md
       - Mother Tongue/Chinese Language.md
       - Mother Tongue/Malay Language.md
