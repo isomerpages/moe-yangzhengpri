@@ -18,10 +18,6 @@ Pupils in Primary 1 to 3 were engaged in various hands-on craft activities relat
 
 To consolidate pupils' learning experience, the commemoration concluded with the NE reflection lesson held on 15th July. While the Primary 4 pupils were engaged in the Orange Ribbon activity, form teachers from the other levels facilitated the reflection session and elicit pupils' understanding about preserving racial harmony. From their awareness of cultural aspects such as food and languages, to understanding the importance of unity, pupils were reminded about maintaining the multicultural social fabric of Singapore, and play their part to ensure we do not repeat the mistakes from yesteryears.
 
-  
-
-![1.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/RHD/1.jpg)
-
 <style>  
 img {  
   display: block;  
@@ -29,16 +25,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Racial Harmony Day
+<body><img src="![](/images/rhd2020_1.jpeg)" alt="Racial Harmony Day
  2020" style="width:70%;">  
   
 </body>  
-<figcaption style="text-align:center;">LMAOOOO</figcaption>
-
-  
-
-Primary 1 pupils creating a replica of the Bunga Manggar.
-
+<figcaption style="text-align:center;">Primary 1 pupils creating a replica of the Bunga Manggar.
+</figcaption>
+<br>
   
 
 ![2.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/RHD/2.jpg)
