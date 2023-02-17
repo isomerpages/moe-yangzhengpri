@@ -48,8 +48,6 @@ img {
 <figcaption style="text-align:center;">Pupils standing at attention during the morning observance ceremony.</figcaption>  
 <br>
 
-Pupils displaying their responses with the FAST kit during the interactive quiz segment.
-
 <style>  
 img {  
   display: block;  
@@ -57,15 +55,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/National%20Day%20Celebrations%202020%20c.jpeg)" alt="LMAOOO" style="width:70%;">  
+<body><img src="![](/images/National%20Day%20Celebrations%202020%20c.jpeg)" alt="Pupils displaying their responses with the FAST kit during the interactive quiz segment." style="width:70%;">  
   
 </body>  
-<figcaption style="text-align:center;">LMAOOOO</figcaption>  
-
-  
-
-![d.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/NDC/d.jpg)
-
+<figcaption style="text-align:center;">Pupils displaying their responses with the FAST kit during the interactive quiz segment.</figcaption>  
   
 
 Our SG55 Mural – A consolidated art piece birthed out of pupils’ work.
@@ -77,7 +70,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+<body><img src="![](/images/d.jpeg)" alt="LMAOOO" style="width:70%;">  
   
 </body>  
 <figcaption style="text-align:center;">LMAOOOO</figcaption>  
