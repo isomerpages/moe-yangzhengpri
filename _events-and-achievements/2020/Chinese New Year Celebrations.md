@@ -17,7 +17,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/CNY%202020%20classroom%20deco.jpg)" alt="CNY 2020" style="width:70%;">  
+<body><img src="/images/CNY%202020%20classroom%20deco.jpg" alt="CNY 2020" style="width:70%;">  
   
 </body>  
 
@@ -33,7 +33,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/CNY%202020%20assembly.jpg)" alt="CNY 2020" style="width:70%;">  
+<body><img src="/images/CNY%202020%20assembly.jpg" alt="CNY 2020" style="width:70%;">  
   
 </body> 
 
@@ -47,7 +47,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/CNY%20assembly_2.jpeg)" alt="CNY 2020" style="width:70%;">  
+<body><img src="/images/CNY%20assembly_2.jpeg" alt="CNY 2020" style="width:70%;">  
   
 </body> 
 
@@ -63,7 +63,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/CNY%202020%20games.jpg)" alt="CNY 2020" style="width:70%;">  
+<body><img src="/images/CNY%202020%20games.jpg" alt="CNY 2020" style="width:70%;">  
   
 </body> 
 
@@ -77,7 +77,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/CNY%202020%20games%202.jpg)" alt="CNY 2020" style="width:70%;">  
+<body><img src="/images/CNY%202020%20games%202.jpg" alt="CNY 2020" style="width:70%;">  
   
 </body> 
 
@@ -91,7 +91,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/CNY%202020%20orange.jpg)" alt="CNY 2020" style="width:70%;">  
+<body><img src="/images/CNY%202020%20orange.jpg" alt="CNY 2020" style="width:70%;">  
   
 </body> 
 
@@ -104,7 +104,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/CNY%202020%20conclusion.jpg)" alt="CNY 2020" style="width:70%;">  
+<body><img src="/images/CNY%202020%20conclusion.jpg" alt="CNY 2020" style="width:70%;">  
   
 </body> 
 
