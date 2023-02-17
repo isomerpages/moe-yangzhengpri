@@ -57,10 +57,6 @@ img {
 
 The upper primary pupils discussed and reflected on the commonalities ASEAN membe states share and how Singapore can work together with other neighbouring counties.
 
-  
-
-![Upper Primary.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2021/IFD21/Upper%20Primary.jpg)
-
  <style>  
 img {  
   display: block;  
@@ -68,7 +64,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="International Friendship Day 2021" style="width:70%;">  
+<body><img src="![](/images/Upper%20Primary.jpeg)" alt="International Friendship Day 2021" style="width:70%;">  
   
 </body> 
 
