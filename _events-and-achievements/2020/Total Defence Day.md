@@ -37,7 +37,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/TDD%20programme.png)" alt="Total Defence Day 2020" style="width:70%;">  
+<body><img src="/images/TDD%20programme.png" alt="Total Defence Day 2020" style="width:70%;">  
   
 </body>  
 <figcaption style="text-align:center;">Pupils' reflection from the TDD commemoration programme.</figcaption>  
@@ -49,7 +49,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/TDD%20recess.png)" alt="Total Defence Day 2020" style="width:70%;">  
+<body><img src="/images/TDD%20recess.png" alt="Total Defence Day 2020" style="width:70%;">  
   
 </body>  
 <figcaption style="text-align:center;">Yangzhengnites consuming staple food like sweet potatoes during the food rationing exercise.</figcaption><br> 
@@ -61,7 +61,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/TDD%20First%20aide.png)" alt="Total Defence Day 2020" style="width:70%;">  
+<body><img src="/images/TDD%20First%20aide.png" alt="Total Defence Day 2020" style="width:70%;">  
   
 </body>  
 <figcaption style="text-align:center;">Pupils picking up some basic first aid knowledge from the Red Cross officer.</figcaption>   <br>
@@ -73,7 +73,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/TDD%20recess%20activities.png)" alt="Total Defence Day 2020" style="width:70%;">  
+<body><img src="/images/TDD%20recess%20activities.png" alt="Total Defence Day 2020" style="width:70%;">  
   
 </body>  
 <figcaption style="text-align:center;">Pupils taking part in the games set up by the Cyberwellness team.</figcaption><br>
@@ -85,7 +85,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/TDD%20Wipe%20down.jpeg)" alt="Total Defence Day 2020" style="width:70%;">  
+<body><img src="/images/TDD%20Wipe%20down.jpeg" alt="Total Defence Day 2020" style="width:70%;">  
   
 </body>  
 <figcaption style="text-align:center;">Pupils carrying the Wipe Down Routine after their meals.</figcaption>
