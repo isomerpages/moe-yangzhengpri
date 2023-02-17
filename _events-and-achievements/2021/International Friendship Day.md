@@ -22,7 +22,16 @@ Singapore’s hawker culture gained recognition in the world by its inscription 
 
 ![OurHawkerCulture.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2021/IFD21/OurHawkerCulture.jpg)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="International Friendship Day 2021" style="width:70%;">  
   
+</body>   
 
 The lower primary pupils learnt to identify the 10 ASEAN member states.
 
@@ -30,7 +39,16 @@ The lower primary pupils learnt to identify the 10 ASEAN member states.
 
 ![Lower Primary.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2021/IFD21/Lower%20Primary.jpg)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="International Friendship Day 2021" style="width:70%;">  
   
+</body>  
 
 The middle primary pupils learnt about the national flags, flowers and currencies of the different ASEAN member states and what the ASEAN emblem represents.
 
@@ -38,7 +56,16 @@ The middle primary pupils learnt about the national flags, flowers and currencie
 
 ![Middle Primary.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2021/IFD21/Middle%20Primary.jpg)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="International Friendship Day 2021" style="width:70%;">  
   
+</body>  
 
 The upper primary pupils discussed and reflected on the commonalities ASEAN membe states share and how Singapore can work together with other neighbouring counties.
 
@@ -46,7 +73,16 @@ The upper primary pupils discussed and reflected on the commonalities ASEAN memb
 
 ![Upper Primary.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2021/IFD21/Upper%20Primary.jpg)
 
+ <style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="International Friendship Day 2021" style="width:70%;">  
   
+</body> 
 
 The reflection sheets done by the pupils.
 
