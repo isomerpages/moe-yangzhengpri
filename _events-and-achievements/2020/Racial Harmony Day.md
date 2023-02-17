@@ -22,6 +22,19 @@ To consolidate pupils' learning experience, the commemoration concluded with the
 
 ![1.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/RHD/1.jpg)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Racial Harmony Day
+ 2020" style="width:70%;">  
+  
+</body>  
+<figcaption style="text-align:center;">LMAOOOO</figcaption>
+
   
 
 Primary 1 pupils creating a replica of the Bunga Manggar.
@@ -29,6 +42,19 @@ Primary 1 pupils creating a replica of the Bunga Manggar.
   
 
 ![2.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/RHD/2.jpg)
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Racial Harmony Day
+ 2020" style="width:70%;">  
+  
+</body>  
+<figcaption style="text-align:center;">LMAOOOO</figcaption>
 
   
 
@@ -38,12 +64,36 @@ Primary 2 pupils showcasing the Thoranam which they have created.
 
 ![3.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/RHD/3.jpg)  
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Racial Harmony Day
+ 2020" style="width:70%;">  
+  
+</body>  
+<figcaption style="text-align:center;">LMAOOOO</figcaption>
+
 Samples of miniature hawker fare created by our Primary 4 pupils.
 
   
 
 ![4.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/RHD/4.jpg)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Racial Harmony Day
+ 2020" style="width:70%;">  
   
+</body>  
+<figcaption style="text-align:center;">LMAOOOO</figcaption>
 
 Contributions from Primary 4 pupils to promote racial harmony in their community.
