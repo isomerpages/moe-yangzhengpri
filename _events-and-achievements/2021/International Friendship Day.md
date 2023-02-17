@@ -18,10 +18,6 @@ For in-class activities, the lower primary pupils had the opportunity to identif
 
 Singapore’s hawker culture gained recognition in the world by its inscription into UNESCO’s list of intangible cultural heritage.
 
-  
-
-![OurHawkerCulture.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2021/IFD21/OurHawkerCulture.jpg)
-
 <style>  
 img {  
   display: block;  
