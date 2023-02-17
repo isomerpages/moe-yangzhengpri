@@ -6,10 +6,17 @@ third_nav_title: CCE
 ---
 Character and Citizenship Education (CCE) is integral to the holistic development of our students, leading to positive life outcomes. The CCE vision at YZPS aims to develop every Yangzhengnite into a Passionate Learner, Caring Friend and Responsible Citizen.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/CCE%20Framework.png)" alt="
+Mathematics Framework" style="width:75%;">  
   
-
-![CCE Framework.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCE/CCE%20Framework.png)
-
+</body> 
   
 
 Our whole-school CCE curriculum aims to inculcate values and build social and emotional (SE) competencies through a head, heart and hand approach.
