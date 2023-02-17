@@ -56,8 +56,16 @@ img {
 Our talented pupils put up a stellar performance and brought festive joy to the audience. We had the Chinese Dance, Wushu and Guzheng CCA groups showcasing their best efforts in this celebration. An addition to this year’s performance were a group of students who were selected from the enrichment classes to perform the Cross Talk, Speech and Drama, and Chinese Opera for us.
 
   
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 321px; height: 213px;" class="ive_eobj_center" alt="Drama.jpg" width="100%" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/CNY/Drama.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 311px; height: 213px;" class="ive_eobj_center" alt="Drama_1.jpg" width="100%" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/CNY/Drama_1.jpg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 321px; height: 212px;" class="ive_eobj_center" alt="Assembly.jpg" width="100%" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/CNY/Assembly.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 311px; height: 212px;" class="ive_eobj_center" alt="Assembly_3.jpg" width="100%" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/CNY/Assembly_3.jpg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 321px; height: 206px;" class="ive_eobj_center" alt="Assembly_1.jpg" width="100%" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/CNY/Assembly_1.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 311px; height: 206px;" class="ive_eobj_center" alt="Assembly_2.jpg" width="100%" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/CNY/Assembly_2.jpg"></td></tr></tbody></table>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/CNY%202020%20games.jpg)" alt="CNY 2020" style="width:70%;">  
+  
+</body> 
 
 Games were introduced for the students to learn more about Chinese New Year in an engaging and fun way. It is great joy to see pupils of different races, coming together to understand Chinese culture and traditions.  
 
