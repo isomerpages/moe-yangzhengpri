@@ -30,10 +30,6 @@ In line with nation-wide efforts to enhance social responsibility in response to
 
 To consolidate pupils’ TDD learning experience, the pupils completed a reflection after the programme to deepen their understanding of their role in keeping Singapore strong and safe.
 
-  
-
-![TDD programme.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/TDD/TDD%20programme.png)
-
 <style>  
 img {  
   display: block;  
@@ -41,17 +37,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Total Defence Day 2020" style="width:70%;">  
+<body><img src="![](/images/TDD%20programme.png)" alt="Total Defence Day 2020" style="width:70%;">  
   
 </body>  
-<figcaption style="text-align:center;">LMAOOOO</figcaption>  
-
-Pupils' reflection from the TDD commemoration programme.
-
-  
-
-![TDD recess.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/TDD/TDD%20recess.png)
-
+<figcaption style="text-align:center;">Pupils' reflection from the TDD commemoration programme.</figcaption>  
+<br>
 <style>  
 img {  
   display: block;  
@@ -59,7 +49,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Total Defence Day 2020" style="width:70%;">  
+<body><img src="![](/images/TDD%20recess.png)" alt="Total Defence Day 2020" style="width:70%;">  
   
 </body>  
 <figcaption style="text-align:center;">LMAOOOO</figcaption> 
