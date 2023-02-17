@@ -10,15 +10,32 @@ Yangzheng Primary School ushered in the Year of the Rat with a host of festiviti
 
 All classes participated in the Best Decorated Classroom competition. Both teachers and pupils worked together and put in their finest efforts to put up the festive decorations to brighten up the classrooms. Differing from past years whereby only one class was chosen from each level, prizes were awarded to the two best decorated classes this year. These were some of the winning classes:
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/CNY%202020%20classroom%20deco.jpg)" alt="CNY 2020" style="width:70%;">  
   
+</body>  
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 302px; height: 255px;" class="ive_eobj_center" alt="Classroom deco_1.png" width="100%" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/CNY/Classroom%20deco_1.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 311px; height: 255px;" class="ive_eobj_center" alt="Classroom deco_2.jpg" width="100%" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/CNY/Classroom%20deco_2.jpg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 302px; height: 221px;" class="ive_eobj_center" alt="Classroom deco_3.jpg" width="100%" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/CNY/Classroom%20deco_3.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 282px; height: 221px;" class="ive_eobj_center" alt="Classroom deco_4 (2).jpg" width="100%" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/CNY/Classroom%20deco_4%20(2).jpg"></td></tr></tbody></table>
 
 The highlight of the concert was the traditional lion dance performance. Students were thrilled by the amazing footwork of our Yeung Ching Scouts Lion Dance Troupe as they set everyone’s hearts palpitating with excitement.  
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 322px; height: 213px;" class="ive_eobj_center" alt="CNY assembly_1.jpg" width="100%" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/CNY/CNY%20assembly_1.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 313px; height: 213px;" class="ive_eobj_center" alt="CNY assembly.jpg" width="100%" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/CNY/CNY%20assembly.jpg"></td></tr></tbody></table>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/CNY%202020%20assembly.jpg)" alt="CNY 2020" style="width:70%;">  
+  
+</body> 
 
 Our Principal, Mrs Lam, gave out red packets to our Operational Support Staff and contract cleaners, wishing them good health for the New Year.
 
