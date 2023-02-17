@@ -44,15 +44,7 @@ img {
  2020" style="width:70%;">  
   
 </body>  
-<figcaption style="text-align:center;">LMAOOOO</figcaption>
-
-  
-
-Primary 2 pupils showcasing the Thoranam which they have created.
-
-  
-
-![3.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/RHD/3.jpg)  
+<figcaption style="text-align:center;">Primary 2 pupils showcasing the Thoranam which they have created.</figcaption><br>
 
 <style>  
 img {  
@@ -61,7 +53,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Racial Harmony Day
+<body><img src="![](/images/rhd2020_3.jpeg)" alt="Racial Harmony Day
  2020" style="width:70%;">  
   
 </body>  
