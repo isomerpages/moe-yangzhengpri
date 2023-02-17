@@ -97,8 +97,15 @@ img {
 
 The entire celebration ended on a high note with mass singing. Our students had learnt to sing the theme song for this year’s celebration during their music lessons prior to the concert.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/CNY%202020%20conclusion.jpg)" alt="CNY 2020" style="width:70%;">  
   
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 312px; height: 207px;" class="ive_eobj_center" alt="CNY.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/CNY/CNY.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 312px; height: 207px;" class="ive_eobj_center" alt="CNY_1.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/CNY/CNY_1.jpg"></td></tr></tbody></table>
+</body> 
 
 We would like to take the opportunity to wish everyone 身体健康 (shēntǐ jiànkāng - Enjoy good health), 学习进步 (xuéxí jìnbù - Progress in studies), 心想事成 (xīnxiǎng shì chéng - May all your wishes come true) and of course, 新年快乐 (xīnnián kuàilè - Happy New Year)!
