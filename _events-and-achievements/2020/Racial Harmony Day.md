@@ -25,7 +25,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/rhd2020_1.jpeg)" alt="Racial Harmony Day
+<body><img src="/images/rhd2020_1.jpeg" alt="Racial Harmony Day
  2020" style="width:70%;">  
   
 </body>  
@@ -40,7 +40,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/rhd2020_2.jpeg)" alt="Racial Harmony Day
+<body><img src="/images/rhd2020_2.jpeg" alt="Racial Harmony Day
  2020" style="width:70%;">  
   
 </body>  
@@ -53,7 +53,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/rhd2020_3.jpeg)" alt="Racial Harmony Day
+<body><img src="/images/rhd2020_3.jpeg" alt="Racial Harmony Day
  2020" style="width:70%;">  
   
 </body>  
@@ -67,7 +67,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/rhd2020_4.jpeg)" alt="Racial Harmony Day
+<body><img src="/images/rhd2020_4.jpeg" alt="Racial Harmony Day
  2020" style="width:70%;">  
   
 </body>  
