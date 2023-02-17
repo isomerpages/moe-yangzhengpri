@@ -2,4 +2,5 @@ collections:
   events-and-achievements:
     output: true
     order:
+      - 2020/National Day Celebrations.md
       - 2020/.keep
