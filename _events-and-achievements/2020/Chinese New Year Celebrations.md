@@ -70,8 +70,16 @@ img {
 Games were introduced for the students to learn more about Chinese New Year in an engaging and fun way. It is great joy to see pupils of different races, coming together to understand Chinese culture and traditions.  
 
   
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 314px; height: 207px;" class="ive_eobj_center" alt="Games.jpg" width="100%" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/CNY/Games.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 312px; height: 207px;" class="ive_eobj_center" alt="Games_1.jpg" width="100%" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/CNY/Games_1.jpg"></td></tr></tbody></table>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/CNY%202020%20games%202.jpg)" alt="CNY 2020" style="width:70%;">  
+  
+</body> 
 
 The Cantonese pronunciation of giving mandarin oranges is "song gam", which sounds like "giving gold". Hence giving mandarin oranges signifies blessing of prosperity upon the recipient. Here’s our school leaders giving the staff a pair of mandarin oranges as part of the celebrations.
 
