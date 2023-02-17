@@ -57,8 +57,8 @@ The Primary 1 pupils with their bunga manga.
   
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 364px; height: 272px;" class="ive_eobj_center" alt="P4A.jpg" width="100%" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2021/RHD21/P4A.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 205px; height: 272px;" class="ive_eobj_center" alt="P4A_2.jpg" width="100%" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2021/RHD21/P4A_2.jpg"></td></tr></tbody></table>
-
-The Primary 4 students and their miniature food.
+<figcaption style="text-align:center;">The Primary 4 students and their miniature food.</figcaption>
+<br>
 
   
 
