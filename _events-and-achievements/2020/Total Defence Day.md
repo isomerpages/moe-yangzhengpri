@@ -88,4 +88,4 @@ img {
 <body><img src="![](/images/TDD%20Wipe%20down.jpeg)" alt="Total Defence Day 2020" style="width:70%;">  
   
 </body>  
-<figcaption style="text-align:center;">Pupils carrying the Wipe Down Routine after their meals.</figcaption>   
+<figcaption style="text-align:center;">Pupils carrying the Wipe Down Routine after their meals.</figcaption>
