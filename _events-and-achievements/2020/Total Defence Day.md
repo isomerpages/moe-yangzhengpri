@@ -34,13 +34,35 @@ To consolidate pupils’ TDD learning experience, the pupils completed a reflect
 
 ![TDD programme.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/TDD/TDD%20programme.png)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Total Defence Day 2020" style="width:70%;">  
   
+</body>  
+<figcaption style="text-align:center;">LMAOOOO</figcaption>  
 
 Pupils' reflection from the TDD commemoration programme.
 
   
 
 ![TDD recess.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/TDD/TDD%20recess.png)
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Total Defence Day 2020" style="width:70%;">  
+  
+</body>  
+<figcaption style="text-align:center;">LMAOOOO</figcaption> 
 
   
 
@@ -50,7 +72,17 @@ Yangzhengnites consuming staple food like sweet potatoes during the food rationi
 
 ![TDD First aide.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/TDD/TDD%20First%20aide.png)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Total Defence Day 2020" style="width:70%;">  
   
+</body>  
+<figcaption style="text-align:center;">LMAOOOO</figcaption>   
 
 Pupils picking up some basic first aid knowledge from the Red Cross officer.
 
@@ -58,12 +90,34 @@ Pupils picking up some basic first aid knowledge from the Red Cross officer.
 
 ![TDD recess activities.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/TDD/TDD%20recess%20activities.png)  
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Total Defence Day 2020" style="width:70%;">  
+  
+</body>  
+<figcaption style="text-align:center;">LMAOOOO</figcaption> 
+
 Pupils taking part in the games set up by the Cyberwellness team.
 
   
 
 ![TDD Wipe down.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/TDD/TDD%20Wipe%20down.jpg)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Total Defence Day 2020" style="width:70%;">  
   
+</body>  
+<figcaption style="text-align:center;">LMAOOOO</figcaption>   
 
 Pupils carrying the Wipe Down Routine after their meals.
