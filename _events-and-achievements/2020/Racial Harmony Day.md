@@ -57,13 +57,8 @@ img {
  2020" style="width:70%;">  
   
 </body>  
-<figcaption style="text-align:center;">LMAOOOO</figcaption>
+<figcaption style="text-align:center;">Samples of miniature hawker fare created by our Primary 4 pupils.</figcaption><br>
 
-Samples of miniature hawker fare created by our Primary 4 pupils.
-
-  
-
-![4.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/RHD/4.jpg)
 
 <style>  
 img {  
@@ -72,10 +67,8 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Racial Harmony Day
+<body><img src="![](/images/rhd2020_4.jpeg)" alt="Racial Harmony Day
  2020" style="width:70%;">  
   
 </body>  
-<figcaption style="text-align:center;">LMAOOOO</figcaption>
-
-Contributions from Primary 4 pupils to promote racial harmony in their community.
+<figcaption style="text-align:center;">Contributions from Primary 4 pupils to promote racial harmony in their community.</figcaption>
