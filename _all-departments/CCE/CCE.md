@@ -13,8 +13,8 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/CCE%20Framework.png)" alt="
-Mathematics Framework" style="width:75%;">  
+<body><img src="/images/CCE%20Framework.png" alt="
+CCE Framework" style="width:75%;">  
   
 </body> 
   
