@@ -52,15 +52,7 @@ img {
 <body><img src="![](/images/TDD%20recess.png)" alt="Total Defence Day 2020" style="width:70%;">  
   
 </body>  
-<figcaption style="text-align:center;">LMAOOOO</figcaption> 
-
-  
-
-Yangzhengnites consuming staple food like sweet potatoes during the food rationing exercise.
-
-  
-
-![TDD First aide.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/TDD/TDD%20First%20aide.png)
+<figcaption style="text-align:center;">Yangzhengnites consuming staple food like sweet potatoes during the food rationing exercise.</figcaption><br> 
 
 <style>  
 img {  
@@ -69,16 +61,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Total Defence Day 2020" style="width:70%;">  
+<body><img src="![](/images/TDD%20First%20aide.png)" alt="Total Defence Day 2020" style="width:70%;">  
   
 </body>  
-<figcaption style="text-align:center;">LMAOOOO</figcaption>   
-
-Pupils picking up some basic first aid knowledge from the Red Cross officer.
-
-  
-
-![TDD recess activities.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/TDD/TDD%20recess%20activities.png)  
+<figcaption style="text-align:center;">Pupils picking up some basic first aid knowledge from the Red Cross officer.</figcaption>   <br>
 
 <style>  
 img {  
@@ -87,7 +73,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Total Defence Day 2020" style="width:70%;">  
+<body><img src="![](/images/TDD%20recess%20activities.png)" alt="Total Defence Day 2020" style="width:70%;">  
   
 </body>  
 <figcaption style="text-align:center;">LMAOOOO</figcaption> 
