@@ -40,8 +40,16 @@ img {
 Our Principal, Mrs Lam, gave out red packets to our Operational Support Staff and contract cleaners, wishing them good health for the New Year.
 
   
-
-![CNY assembly_2.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/CNY/CNY%20assembly_2.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/CNY%20assembly_2.jpeg)" alt="CNY 2020" style="width:70%;">  
+  
+</body> 
 
   
 
