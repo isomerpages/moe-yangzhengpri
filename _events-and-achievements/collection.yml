@@ -2,6 +2,7 @@ collections:
   events-and-achievements:
     output: true
     order:
+      - 2021/.keep
       - 2020/Chinese New Year Celebrations.md
       - 2020/Total Defence Day.md
       - 2020/International Friendship Day 2020.md
