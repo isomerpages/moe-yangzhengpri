@@ -18,10 +18,6 @@ All Yangzhengnites were strongly encouraged to come to school in ethnic costumes
 
 There were hands-on craft activities from the three main races for the Primary 1 to 3 pupils. The Primary 4 watched a video about our unique Singapore hawker culture and made food miniatures using coloured soft clay. The Primary 5 went on a virtual trail around the three ethnic sites in Singapore and learnt how the races and religions existed harmoniously together in a melting pot called Singapore. The Primary 6 pupils were engaged in a conversation with their form teachers about their perception of common spaces and carried out a reflection using scratch art. They were to scratch out how their common space looked like and share with their classmates.
 
-  
-
-![1C.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2021/RHD21/1C.jpg)
-
 <style>  
 img {  
   display: block;  
