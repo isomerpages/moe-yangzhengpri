@@ -2,6 +2,7 @@ collections:
   events-and-achievements:
     output: true
     order:
+      - 2021/International Friendship Day.md
       - 2021/Racial Harmony Day.md
       - 2021/2021.md
       - 2021/.keep
