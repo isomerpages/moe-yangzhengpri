@@ -32,26 +32,40 @@ At Primary 5 and 6, ECG lessons allow pupils to further discover and explore opp
 
   
 
-**MySkillsFuture Portal for P5 and 6 pupils**
-
+**MySkillsFuture Portal for P5 and 6 pupils** <br>
 The MySkillsFuture portal for pupils is a one-stop ECG portal that empowers our Primary 5 and Primary 6 pupils to embark on a journey of self-discovery and make informed education and career choices. Pupils may use the information and tools to explore various education and career pathways, and take charge of their future. Pupils are given opportunities to explore their educational and career interests via MySkillsFuture portal during CCE(FTGP) lessons.  
 
   
 
-**P6 Career Week**
-
+**P6 Career Week** <br>
 The career talk is conducted for all Primary 6 pupils at the end of the year as part of the post-PSLE activity. The objectives are to allow students to learn about the different types of careers, appreciate that there are many interesting career around us, besides those they are familiar with and know that every of is about doing meaningful work. The main theme of the sharing revolves around looking at what problems different careers help the world solve. The intention is to change students’ mindset of the purpose of work. Instead of thinking about “what they will like to be when they grow up?” to “what problems they will like to help the world solve?”  
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/P6%20Career%20Week.jpg)" alt="
+CCE Guidance Module (ECG – Education & Career Guidance)" style="width:75%;">  
   
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 403px; height: 301px;" class="ive_eobj_center" alt="ecg1.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCE/ECG/ecg1.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 227px; height: 301px;" class="ive_eobj_center" alt="ecg2.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCE/ECG/ecg2.jpg"></td></tr></tbody></table>
-
-Prior to Covid-19, the school invited speakers to talk to our students in person.  
+</body>  
+<figcaption style="text-align:right;">
+Prior to Covid-19, the school invited speakers to talk to our students in person.</figcaption>
 
   
 
 Since 2020, due to the Covid pandemic, the school moved to online versions of the career talks through recorded interviews. Each student is to pen down his/her reflection upon learning from each of the speaker in an in-house customized ECG Booklet.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/P6%20Career%20Talk.jpg)" alt="
+CCE Guidance Module (ECG – Education & Career Guidance)" style="width:75%;">  
   
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 226px; height: 300px;" class="ive_eobj_center" alt="ecg3.jpg" width="100%" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCE/ECG/ecg3.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 402px; height: 301px;" class="ive_eobj_center" alt="ecg4.jpg" width="100%" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCE/ECG/ecg4.jpg"></td></tr></tbody></table>
+</body>  
