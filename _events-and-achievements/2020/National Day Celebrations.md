@@ -29,7 +29,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/National%20Day%20Celebrations%202020%20a.jpg)" alt="Our Yangzheng marching contingent comprising of teachers representing different uniformed groups and organisations." style="width:70%;">  
+<body><img src="/images/National%20Day%20Celebrations%202020%20a.jpg" alt="Our Yangzheng marching contingent comprising of teachers representing different uniformed groups and organisations." style="width:70%;">  
   
 </body>  
 <figcaption style="text-align:center;">Our Yangzheng marching contingent comprising of teachers representing different uniformed groups and organisations.</figcaption> 
@@ -42,7 +42,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/National%20Day%20Celebrations%202020%20b.jpeg)" alt="Pupils standing at attention during the morning observance ceremony." style="width:70%;">  
+<body><img src="/images/National%20Day%20Celebrations%202020%20b.jpeg" alt="Pupils standing at attention during the morning observance ceremony." style="width:70%;">  
   
 </body>  
 <figcaption style="text-align:center;">Pupils standing at attention during the morning observance ceremony.</figcaption>  
@@ -55,7 +55,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/National%20Day%20Celebrations%202020%20c.jpeg)" alt="Pupils displaying their responses with the FAST kit during the interactive quiz segment." style="width:70%;">  
+<body><img src="/images/National%20Day%20Celebrations%202020%20c.jpeg" alt="Pupils displaying their responses with the FAST kit during the interactive quiz segment." style="width:70%;">  
   
 </body>  
 <figcaption style="text-align:center;">Pupils displaying their responses with the FAST kit during the interactive quiz segment.</figcaption>  
@@ -68,7 +68,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/d.jpeg)" alt="Our SG55 Mural – A consolidated art piece birthed out of pupils’ work." style="width:70%;">  
+<body><img src="/images/d.jpeg" alt="Our SG55 Mural – A consolidated art piece birthed out of pupils’ work." style="width:70%;">  
   
 </body>  
 <figcaption style="text-align:center;">Our SG55 Mural – A consolidated art piece birthed out of pupils’ work.</figcaption>  
@@ -81,7 +81,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/e.jpeg)" alt="Primary 5 pupils coming together to deliver their well wishes for Singapore." style="width:70%;">  
+<body><img src="/images/e.jpeg" alt="Primary 5 pupils coming together to deliver their well wishes for Singapore." style="width:70%;">  
   
 </body>  
 <figcaption style="text-align:center;">Primary 5 pupils coming together to deliver their well wishes for Singapore.</figcaption>  
@@ -95,7 +95,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/f.jpeg)" alt="Pupils waving the Singapore flag with pride and excitement during the songs session." style="width:70%;">  
+<body><img src="/images/f.jpeg" alt="Pupils waving the Singapore flag with pride and excitement during the songs session." style="width:70%;">  
   
 </body>  
 <figcaption style="text-align:center;">Pupils waving the Singapore flag with pride and excitement during the songs session.</figcaption>
