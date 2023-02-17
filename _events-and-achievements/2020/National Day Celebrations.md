@@ -30,6 +30,18 @@ The celebrations ended with a songs session where pupils sang along to past and 
 
 Our Yangzheng marching contingent comprising of teachers representing different uniformed groups and organisations.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+  
+</body>  
+<figcaption style="text-align:center;">LMAOOOO</figcaption>  
+
   
 
 ![b.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/NDC/b.jpg)
@@ -38,6 +50,17 @@ Our Yangzheng marching contingent comprising of teachers representing different 
 
 Pupils standing at attention during the morning observance ceremony.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+  
+</body>  
+<figcaption style="text-align:center;">LMAOOOO</figcaption>  
   
 
 ![c.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/NDC/c.jpg)
@@ -45,6 +68,18 @@ Pupils standing at attention during the morning observance ceremony.
   
 
 Pupils displaying their responses with the FAST kit during the interactive quiz segment.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+  
+</body>  
+<figcaption style="text-align:center;">LMAOOOO</figcaption>  
 
   
 
@@ -54,6 +89,18 @@ Pupils displaying their responses with the FAST kit during the interactive quiz 
 
 Our SG55 Mural – A consolidated art piece birthed out of pupils’ work.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+  
+</body>  
+<figcaption style="text-align:center;">LMAOOOO</figcaption>  
+
   
 
 ![e.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/NDC/e.jpg)
@@ -62,6 +109,18 @@ Our SG55 Mural – A consolidated art piece birthed out of pupils’ work.
 
 Primary 5 pupils coming together to deliver their well wishes for Singapore.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+  
+</body>  
+<figcaption style="text-align:center;">LMAOOOO</figcaption>  
+
   
 
 ![f.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/NDC/f.jpg)
@@ -69,3 +128,16 @@ Primary 5 pupils coming together to deliver their well wishes for Singapore.
   
 
 Pupils waving the Singapore flag with pride and excitement during the songs session.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+  
+</body>  
+<figcaption style="text-align:center;">LMAOOOO</figcaption>
+
