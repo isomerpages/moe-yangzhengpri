@@ -59,9 +59,7 @@ img {
   
 </body>  
 <figcaption style="text-align:center;">Pupils displaying their responses with the FAST kit during the interactive quiz segment.</figcaption>  
-  
-
-Our SG55 Mural – A consolidated art piece birthed out of pupils’ work.
+<br>  
 
 <style>  
 img {  
@@ -70,18 +68,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/d.jpeg)" alt="LMAOOO" style="width:70%;">  
+<body><img src="![](/images/d.jpeg)" alt="Our SG55 Mural – A consolidated art piece birthed out of pupils’ work." style="width:70%;">  
   
 </body>  
-<figcaption style="text-align:center;">LMAOOOO</figcaption>  
-
-  
-
-![e.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/NDC/e.jpg)
-
-  
-
-Primary 5 pupils coming together to deliver their well wishes for Singapore.
+<figcaption style="text-align:center;">Our SG55 Mural – A consolidated art piece birthed out of pupils’ work.</figcaption>  
+<br>
 
 <style>  
 img {  
@@ -90,10 +81,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+<body><img src="![](/images/e.jpeg)" alt="Primary 5 pupils coming together to deliver their well wishes for Singapore." style="width:70%;">  
   
 </body>  
-<figcaption style="text-align:center;">LMAOOOO</figcaption>  
+<figcaption style="text-align:center;">Primary 5 pupils coming together to deliver their well wishes for Singapore.</figcaption>  
 
   
 
