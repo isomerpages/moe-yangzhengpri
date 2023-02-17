@@ -32,15 +32,8 @@ img {
 <body><img src="![](/images/National%20Day%20Celebrations%202020%20a.jpg)" alt="Our Yangzheng marching contingent comprising of teachers representing different uniformed groups and organisations." style="width:70%;">  
   
 </body>  
-<figcaption style="text-align:center;">Our Yangzheng marching contingent comprising of teachers representing different uniformed groups and organisations.</figcaption>  
-
-  
-
-![b.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/NDC/b.jpg)
-
-  
-
-Pupils standing at attention during the morning observance ceremony.
+<figcaption style="text-align:center;">Our Yangzheng marching contingent comprising of teachers representing different uniformed groups and organisations.</figcaption> 
+<br>
 
 <style>  
 img {  
@@ -49,10 +42,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+<body><img src="![](/images/National%20Day%20Celebrations%202020%20b.jpeg)" alt="Pupils standing at attention during the morning observance ceremony." style="width:70%;">  
   
 </body>  
-<figcaption style="text-align:center;">LMAOOOO</figcaption>  
+<figcaption style="text-align:center;">Pupils standing at attention during the morning observance ceremony.</figcaption>  
   
 
 ![c.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/NDC/c.jpg)
