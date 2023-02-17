@@ -25,16 +25,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Racial Harmondy Day 2021" style="width:70%;">  
+<body><img src="![](/images/1C.jpeg)" alt="Racial Harmondy Day 2021" style="width:70%;">  
   
 </body>  
-<figcaption style="text-align:center;">LMAOOOO</figcaption>   
-
-The pupils learned the importance of maintaining racial and religious harmony in Singapore.
-
-  
-
-![P1.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2021/RHD21/P1.jpg)
+<figcaption style="text-align:center;">The pupils learned the importance of maintaining racial and religious harmony in Singapore.</figcaption>   <br>
 
  <style>  
 img {  
@@ -43,12 +37,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Racial Harmondy Day 2021" style="width:70%;">  
+<body><img src="![](/images/P1.jpeg)" alt="Racial Harmondy Day 2021" style="width:70%;">  
   
 </body>  
-<figcaption style="text-align:center;">LMAOOOO</figcaption> 
-
-The Primary 1 pupils with their bunga manga.
+<figcaption style="text-align:center;">The Primary 1 pupils with their bunga manga.</figcaption> 
 
   
 
