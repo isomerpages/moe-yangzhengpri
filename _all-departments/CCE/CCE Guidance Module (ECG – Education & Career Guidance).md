@@ -14,7 +14,8 @@ Education and Career Guidance (ECG) is developmental in nature, and seeks to mee
 
 4 Goals of ECG are to:
 
-![ecg.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCE/ECG/ecg.jpg)  
+<img src="/images/ecg.jpeg"  
+style="width:80%">
 
 Primary 3 and 4: Explore and Discover
 -------------------------------------
@@ -47,7 +48,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/P6%20Career%20Week.jpg)" alt="
+<body><img src="/images/P6%20Career%20Week.jpg" alt="
 CCE Guidance Module (ECG – Education & Career Guidance)" style="width:75%;">  
   
 </body>  
@@ -65,7 +66,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/P6%20Career%20Talk.jpg)" alt="
+<body><img src="/images/P6%20Career%20Talk.jpg" alt="
 CCE Guidance Module (ECG – Education & Career Guidance)" style="width:75%;">  
   
-</body>  
+</body>
