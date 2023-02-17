@@ -27,3 +27,27 @@ National Education and Social Studies" style="width:75%;">
 
 Photos of NE Commemorative Days
 -------------------------------
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Photos%20of%20NE%20Commemorative%20Days_1.jpg)" alt="
+Photos of NE Commemorative Days" style="width:75%;">  
+  
+</body> 
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Photos%20of%20NE%20Commemorative%20Days_2.jpg)" alt="
+Photos of NE Commemorative Days" style="width:75%;">  
+  
+</body> 
