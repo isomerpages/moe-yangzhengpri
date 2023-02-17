@@ -32,9 +32,6 @@ img {
 <figcaption style="text-align:center;">Primary 1 pupils creating a replica of the Bunga Manggar.
 </figcaption>
 <br>
-  
-
-![2.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/RHD/2.jpg)
 
 <style>  
 img {  
@@ -43,7 +40,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Racial Harmony Day
+<body><img src="![](/images/rhd2020_2.jpeg)" alt="Racial Harmony Day
  2020" style="width:70%;">  
   
 </body>  
