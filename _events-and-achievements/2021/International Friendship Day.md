@@ -25,16 +25,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="International Friendship Day 2021" style="width:70%;">  
+<body><img src="![](/images/Our_Hawker_Culture.jpeg)" alt="International Friendship Day 2021" style="width:70%;">  
   
 </body>   
 
 The lower primary pupils learnt to identify the 10 ASEAN member states.
 
-  
-
-![Lower Primary.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2021/IFD21/Lower%20Primary.jpg)
-
 <style>  
 img {  
   display: block;  
@@ -42,16 +38,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="International Friendship Day 2021" style="width:70%;">  
+<body><img src="![](/images/Lower%20Primary.jpeg)" alt="International Friendship Day 2021" style="width:70%;">  
   
 </body>  
 
 The middle primary pupils learnt about the national flags, flowers and currencies of the different ASEAN member states and what the ASEAN emblem represents.
 
-  
-
-![Middle Primary.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2021/IFD21/Middle%20Primary.jpg)
-
 <style>  
 img {  
   display: block;  
@@ -59,7 +51,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="International Friendship Day 2021" style="width:70%;">  
+<body><img src="![](/images/Middle%20Primary.jpeg)" alt="International Friendship Day 2021" style="width:70%;">  
   
 </body>  
 
