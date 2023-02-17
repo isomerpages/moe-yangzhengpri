@@ -20,10 +20,17 @@ Pupils take the responsibility for the cleanliness of the school environment by 
 **Children’s Day cum VIA Day** <br>
 At Yangzheng, we celebrate Children’s Day with the aim to increase awareness on the rights and education of children as they are the strength of the nation and foundation of society. It is important for them to think bigger than themselves and the theme for Children’s Day is “I want to be a Changemaker!”  
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Children%20day.jpeg" alt="
+Values in Action (VIA) Programme" style="width:75%;">  
   
-
-![Children day.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCE/VIA/Children%20day.jpg)
-
+</body>  
   
 
 Every level carries out a VIA level activity to learn how they can be a changemaker. The level activities are as follows:
