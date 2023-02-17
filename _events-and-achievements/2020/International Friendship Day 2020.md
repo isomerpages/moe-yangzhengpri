@@ -18,16 +18,27 @@ With Home-Based Learning kicking in on 8 April 2020 due to the Circuit Breaker m
 
 After going through the series of activities, the lower primary pupils submitted their verbal responses about the different ways in which people from different countries can work together while the upper primary pupils gave their perspectives on why it is important to work together harmoniously with our ASEAN neighbours. The message of peaceful cooperation and mutual understanding was a constant feature in the pupils’ reflection, affirming the theme of this year’s IFD commemoration.
 
+ <style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/IFD%202020_1.jpeg" alt="International Friendship Day 2020" style="width:70%;">  
   
+</body>  
+<figcaption style="text-align:center;">Pupils learning about the different countries in Southeast Asia during the class assembly programme.</figcaption> <br>
 
-![IFD.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/IFD/IFD.jpg)
-
+ <style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/IFD%202020%202.png" alt="International Friendship Day 2020" style="width:70%;">  
   
+</body>  
+<figcaption style="text-align:center;">Customised NE reflection lessons uploaded on SLS for pupils to consolidate their learning experience during the IFD commemoration.</figcaption> 
 
-Pupils learning about the different countries in Southeast Asia during the class assembly programme.
-
-  
-
-![IFD 2.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/IFD/IFD%202.png)  
-
-Customised NE reflection lessons uploaded on SLS for pupils to consolidate their learning experience during the IFD commemoration.
