@@ -78,7 +78,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/English%20Language_11.png)" alt="
+<body><img src="/images/English%20Language_11.png" alt="
 Read and Enjoy" style="width:75%;">  
   
 </body>  
@@ -95,7 +95,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/English%20Language_12.png)" alt="
+<body><img src="/images/English%20Language_12.png" alt="
 Writing Honours" style="width:75%;">  
   
 </body> 
@@ -109,7 +109,7 @@ The school celebrated Speak Good English Movement (SGEM) cum Library Week throug
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 209px; height: 276px;" class="ive_eobj_center" alt="English Language_13.jpg" src="![](/images/English%20Language_13.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 208px; height: 276px;" class="ive_eobj_center" alt="English Language_14.jpg" src="![](/images/English%20Language_14.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 360px; height: 276px;" class="ive_eobj_center" alt="English Language_15.jpg" src="![](/images/English%20Language_15.jpeg)"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 209px; height: 276px;" class="ive_eobj_center" alt="English Language_13.jpg" src="/images/English%20Language_13.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 208px; height: 276px;" class="ive_eobj_center" alt="English Language_14.jpg" src="/images/English%20Language_14.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 360px; height: 276px;" class="ive_eobj_center" alt="English Language_15.jpg" src="/images/English%20Language_15.jpeg"></td></tr></tbody></table>
 
 <figcaption style="text-align:right;">
 <em>Events planned for the students for SGEM cum Library Week</em></figcaption>
@@ -120,7 +120,7 @@ Lit-Up Programme
 Lit-Up is an after-school programme designed to meet the advanced learning needs of Primary 4 high-achieving learners by engaging them in challenging literature activities to develop their 21CC skills of Thinking, Social-Emotional &amp; Technological Skills.  
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 451px; height: 301px;" class="ive_eobj_center" alt="English Language_16.jpg" src="![](/images/English%20Language_16.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 367px; height: 301px;" class="ive_eobj_center" alt="English Language_17.jpg" src="![](/images/English%20Language_17.jpeg)"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 451px; height: 301px;" class="ive_eobj_center" alt="English Language_16.jpg" src="/images/English%20Language_16.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 367px; height: 301px;" class="ive_eobj_center" alt="English Language_17.jpg" src="/images/English%20Language_17.jpeg"></td></tr></tbody></table>
 
 Cri-Thinkers Programme
 ----------------------
@@ -128,4 +128,4 @@ Cri-Thinkers Programme
 Cri-Thinkers Programme is designed to meet the advanced learning needs of Primary 5 high-achieving learners to nurture them into confident speakers and writers through debate and creative writing platforms.  
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 403px; height: 301px;" class="ive_eobj_center" alt="English Language_18.jpg" src="![](/images/English%20Language_18.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 402px; height: 301px;" class="ive_eobj_center" alt="English Language_19.jpg" src="![](/images/English%20Language_19.jpeg)"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 403px; height: 301px;" class="ive_eobj_center" alt="English Language_18.jpg" src="/images/English%20Language_18.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 402px; height: 301px;" class="ive_eobj_center" alt="English Language_19.jpg" src="/images/English%20Language_19.jpeg"></td></tr></tbody></table>
