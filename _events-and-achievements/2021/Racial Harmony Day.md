@@ -22,7 +22,17 @@ There were hands-on craft activities from the three main races for the Primary 1
 
 ![1C.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2021/RHD21/1C.jpg)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Racial Harmondy Day 2021" style="width:70%;">  
   
+</body>  
+<figcaption style="text-align:center;">LMAOOOO</figcaption>   
 
 The pupils learned the importance of maintaining racial and religious harmony in Singapore.
 
@@ -30,7 +40,17 @@ The pupils learned the importance of maintaining racial and religious harmony in
 
 ![P1.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2021/RHD21/P1.jpg)
 
+ <style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Racial Harmondy Day 2021" style="width:70%;">  
   
+</body>  
+<figcaption style="text-align:center;">LMAOOOO</figcaption> 
 
 The Primary 1 pupils with their bunga manga.
 
@@ -44,7 +64,17 @@ The Primary 4 students and their miniature food.
 
 ![Reflection Sheet.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2021/RHD21/Reflection%20Sheet.png)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Racial Harmondy Day 2021" style="width:70%;">  
   
+</body>  
+<figcaption style="text-align:center;">LMAOOOO</figcaption> 
 
 The reflection sheets of students.
 
@@ -52,6 +82,16 @@ The reflection sheets of students.
 
 ![Students Work.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2021/RHD21/Students%20Work.png)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="Racial Harmondy Day 2021" style="width:70%;">  
   
+</body>  
+<figcaption style="text-align:center;">LMAOOOO</figcaption>  
 
 The work of students.
