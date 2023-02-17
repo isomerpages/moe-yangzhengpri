@@ -85,14 +85,8 @@ img {
   
 </body>  
 <figcaption style="text-align:center;">Primary 5 pupils coming together to deliver their well wishes for Singapore.</figcaption>  
+<br>
 
-  
-
-![f.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/NDC/f.jpg)
-
-  
-
-Pupils waving the Singapore flag with pride and excitement during the songs session.
 
 <style>  
 img {  
@@ -101,7 +95,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+<body><img src="![](/images/f.jpeg)" alt="Pupils waving the Singapore flag with pride and excitement during the songs session." style="width:70%;">  
   
 </body>  
-<figcaption style="text-align:center;">LMAOOOO</figcaption>
+<figcaption style="text-align:center;">Pupils waving the Singapore flag with pride and excitement during the songs session.</figcaption>
