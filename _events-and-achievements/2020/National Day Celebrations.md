@@ -46,11 +46,7 @@ img {
   
 </body>  
 <figcaption style="text-align:center;">Pupils standing at attention during the morning observance ceremony.</figcaption>  
-  
-
-![c.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/NDC/c.jpg)
-
-  
+<br>
 
 Pupils displaying their responses with the FAST kit during the interactive quiz segment.
 
@@ -61,7 +57,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+<body><img src="![](/images/National%20Day%20Celebrations%202020%20c.jpeg)" alt="LMAOOO" style="width:70%;">  
   
 </body>  
 <figcaption style="text-align:center;">LMAOOOO</figcaption>  
