@@ -22,14 +22,6 @@ In the lead up to the celebrations, our Primary 5 pupils and teachers have put t
 
 The celebrations ended with a songs session where pupils sang along to past and present NDP songs, including this year’s theme song, “Everything I Am”. In the midst of this global pandemic, this year’s celebration reminded our pupils, the leaders of tomorrow, to appreciate our nation and to encourage them to contribute in their own ways to bring our Lion City forward in the years ahead.
 
-  
-
-![a.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2020/NDC/a.jpg)
-
-  
-
-Our Yangzheng marching contingent comprising of teachers representing different uniformed groups and organisations.
-
 <style>  
 img {  
   display: block;  
@@ -37,10 +29,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+<body><img src="![](/images/National%20Day%20Celebrations%202020%20a.jpg)" alt="Our Yangzheng marching contingent comprising of teachers representing different uniformed groups and organisations." style="width:70%;">  
   
 </body>  
-<figcaption style="text-align:center;">LMAOOOO</figcaption>  
+<figcaption style="text-align:center;">Our Yangzheng marching contingent comprising of teachers representing different uniformed groups and organisations.</figcaption>  
 
   
 
@@ -140,4 +132,3 @@ img {
   
 </body>  
 <figcaption style="text-align:center;">LMAOOOO</figcaption>
-
