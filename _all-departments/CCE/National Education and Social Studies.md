@@ -7,8 +7,17 @@ third_nav_title: CCE
 National Education (NE) at Yangzheng Primary School engages Yangzhengnites in the development of values, knowledge and 21st century skills and competencies to realize the school’s Vision of ‘Every Yangzhengnite: A Passionate Learner, Caring Friend and Responsible Citizen’. The focus is to develop each Yangzhengnite to be a ‘Responsible Citizen’ who is rooted to Singapore and has a strong sense of civic responsibility.
 
   
-
-![nex.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Distinctive%20Programmes/CCE/NE%20and%20SS/nex.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/nex.jpeg)" alt="
+National Education and Social Studies" style="width:75%;">  
+  
+</body> 
 
   
 
