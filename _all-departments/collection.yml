@@ -2,6 +2,7 @@ collections:
   all-departments:
     output: true
     order:
+      - CCE/CCE Lessons.md
       - CCE/Values in Action (VIA) Programme.md
       - "CCE/CCE: Form Teacher Guidance Period (FTGP).md"
       - CCE/CCE Guidance Module (ECG – Education & Career Guidance).md
