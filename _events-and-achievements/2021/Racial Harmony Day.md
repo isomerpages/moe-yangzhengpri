@@ -48,9 +48,18 @@ img {
 <figcaption style="text-align:center;">The Primary 4 students and their miniature food.</figcaption>
 <br>
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Reflection%20Sheet.png)" alt="Racial Harmondy Day 2021" style="width:70%;">  
   
+</body>  
+<figcaption style="text-align:center;">The reflection sheets of students.</figcaption> <br>
 
-![Reflection Sheet.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2021/RHD21/Reflection%20Sheet.png)
 
 <style>  
 img {  
@@ -59,27 +68,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="Racial Harmondy Day 2021" style="width:70%;">  
+<body><img src="![](/images/Students%20Work.png)" alt="Racial Harmondy Day 2021" style="width:70%;">  
   
 </body>  
-<figcaption style="text-align:center;">LMAOOOO</figcaption> 
-
-The reflection sheets of students.
-
-  
-
-![Students Work.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2021/RHD21/Students%20Work.png)
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="LMAOOO" alt="Racial Harmondy Day 2021" style="width:70%;">  
-  
-</body>  
-<figcaption style="text-align:center;">LMAOOOO</figcaption>  
-
-The work of students.
+<figcaption style="text-align:center;">The work of students.</figcaption>  
