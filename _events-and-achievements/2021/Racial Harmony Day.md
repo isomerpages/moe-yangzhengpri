@@ -25,7 +25,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/1C.jpeg)" alt="Racial Harmondy Day 2021" style="width:70%;">  
+<body><img src="/images/1C.jpeg" alt="Racial Harmondy Day 2021" style="width:70%;">  
   
 </body>  
 <figcaption style="text-align:center;">The pupils learned the importance of maintaining racial and religious harmony in Singapore.</figcaption>   <br>
@@ -37,14 +37,14 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/P1.jpeg)" alt="Racial Harmondy Day 2021" style="width:70%;">  
+<body><img src="/images/P1.jpeg" alt="Racial Harmondy Day 2021" style="width:70%;">  
   
 </body>  
 <figcaption style="text-align:center;">The Primary 1 pupils with their bunga manga.</figcaption> 
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 364px; height: 272px;" class="ive_eobj_center" alt="P4A.jpg" width="100%" src="![](/images/P4A%20.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 205px; height: 272px;" class="ive_eobj_center" alt="P4A_2.jpg" width="100%" src="![](/images/P4A_2.jpeg)"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 364px; height: 272px;" class="ive_eobj_center" alt="P4A.jpg" width="100%" src="/images/P4A%20.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 205px; height: 272px;" class="ive_eobj_center" alt="P4A_2.jpg" width="100%" src="/images/P4A_2.jpeg"></td></tr></tbody></table>
 <figcaption style="text-align:center;">The Primary 4 students and their miniature food.</figcaption>
 <br>
 
@@ -55,7 +55,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Reflection%20Sheet.png)" alt="Racial Harmondy Day 2021" style="width:70%;">  
+<body><img src="/images/Reflection%20Sheet.png" alt="Racial Harmondy Day 2021" style="width:70%;">  
   
 </body>  
 <figcaption style="text-align:center;">The reflection sheets of students.</figcaption> <br>
@@ -68,7 +68,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Students%20Work.png)" alt="Racial Harmondy Day 2021" style="width:70%;">  
+<body><img src="/images/Students%20Work.png" alt="Racial Harmondy Day 2021" style="width:70%;">  
   
 </body>  
-<figcaption style="text-align:center;">The work of students.</figcaption>  
+<figcaption style="text-align:center;">The work of students.</figcaption>
