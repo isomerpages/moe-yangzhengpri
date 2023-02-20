@@ -87,7 +87,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+<body><img src="![](/images/CNY%205.png)" alt="All classes participated in the Best Decorated Classroom competition. Both teachers and pupils worked together and put in their finest efforts to put up the festive decorations to brighten up the classrooms" style="width:70%;">  
   
 </body> 
 
