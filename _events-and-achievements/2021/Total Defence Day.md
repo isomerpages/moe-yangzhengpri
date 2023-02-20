@@ -23,8 +23,16 @@ For in-class activities, the lower primary pupils had the opportunity to design 
 In conclusion to TDD week, pupils viewed the Total Defence Day video message by Mr Ng Eng Hen. The video touched on how Singapore dealt with COVID-19 and reaffirmed the importance of total defence, involving every Singaporean in playing a part, both individually and collectively to build a strong, secure and cohesive nation to handle any crisis.
 
   
-
-![1.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2021/TDD21/1.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+  
+</body> 
 
   
 
@@ -32,15 +40,32 @@ Our pupil emcees shared about the six pillars of Total Defence and how each indi
 
   
 
-![TDD 2_new.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2021/TDD21/TDD%202_new.png)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+  
+</body> 
 
   
 
 Design entries for pencil cases that depicts Total Defence from the lower primary pupils.
 
   
-
-![TDD 3_new.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2021/TDD21/TDD%203_new.png)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+  
+</body> 
 
   
 
@@ -48,7 +73,16 @@ Pupils’ reflections to consolidate their TDD learning experiences in the TDD b
 
   
 
-![4.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2021/TDD21/4.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+  
+</body> 
 
   
 
@@ -56,7 +90,16 @@ Design entries for SG Unite cards from the Primary 6 pupils.
 
   
 
-![5.jpeg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2021/TDD21/5.jpeg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+  
+</body> 
 
   
 
