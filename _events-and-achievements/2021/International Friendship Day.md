@@ -25,7 +25,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Our_Hawker_Culture.jpeg)" alt="International Friendship Day 2021" style="width:70%;">  
+<body><img src="/images/Our_Hawker_Culture.jpeg" alt="International Friendship Day 2021" style="width:70%;">  
   
 </body>   
 
@@ -38,7 +38,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Lower%20Primary.jpeg)" alt="International Friendship Day 2021" style="width:70%;">  
+<body><img src="/images/Lower%20Primary.jpeg" alt="International Friendship Day 2021" style="width:70%;">  
   
 </body>  
 
@@ -51,7 +51,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Middle%20Primary.jpeg)" alt="International Friendship Day 2021" style="width:70%;">  
+<body><img src="/images/Middle%20Primary.jpeg" alt="International Friendship Day 2021" style="width:70%;">  
   
 </body>  
 
@@ -64,7 +64,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Upper%20Primary.jpeg)" alt="International Friendship Day 2021" style="width:70%;">  
+<body><img src="/images/Upper%20Primary.jpeg" alt="International Friendship Day 2021" style="width:70%;">  
   
 </body> 
 
@@ -72,4 +72,4 @@ The reflection sheets done by the pupils.
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 307px; height: 411px;" class="ive_eobj_center" alt="Reflection sheet.jpg" src="![](/images/Reflection%20sheet.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 313px; height: 411px;" class="ive_eobj_center" alt="Reflection sheet_2.jpg" src="![](/images/Reflection%20sheet_2.jpeg)"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 307px; height: 343px;" class="ive_eobj_center" alt="Reflection sheet_3.jpg" width="100%" src="![](/images/Reflection%20sheet_3.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 234px; height: 343px;" class="ive_eobj_center" alt="Reflection sheet_4.jpg" src="![](/images/Reflection%20sheet_4.jpeg)"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 307px; height: 436px;" class="ive_eobj_center" alt="Reflection sheet_5.jpg" src="![](/images/Reflection%20sheet_5.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 305px; height: 436px;" class="ive_eobj_center" alt="Reflection sheet_6.jpg" src="![](/images/Reflection%20sheet_6.jpeg)"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 307px; height: 411px;" class="ive_eobj_center" alt="Reflection sheet.jpg" src="/images/Reflection%20sheet.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 313px; height: 411px;" class="ive_eobj_center" alt="Reflection sheet_2.jpg" src="/images/Reflection%20sheet_2.jpeg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 307px; height: 343px;" class="ive_eobj_center" alt="Reflection sheet_3.jpg" width="100%" src="/images/Reflection%20sheet_3.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 234px; height: 343px;" class="ive_eobj_center" alt="Reflection sheet_4.jpg" src="/images/Reflection%20sheet_4.jpeg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 307px; height: 436px;" class="ive_eobj_center" alt="Reflection sheet_5.jpg" src="/images/Reflection%20sheet_5.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 305px; height: 436px;" class="ive_eobj_center" alt="Reflection sheet_6.jpg" src="/images/Reflection%20sheet_6.jpeg"></td></tr></tbody></table>
