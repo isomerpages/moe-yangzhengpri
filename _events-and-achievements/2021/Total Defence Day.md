@@ -47,7 +47,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+<body><img src="![](/images/Total%20Defence%20Day%202021%202.png)" alt="Design entries for pencil cases that depicts Total Defence from the lower primary pupils." style="width:70%;">  
   
 </body> 
 
