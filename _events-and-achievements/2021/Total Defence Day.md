@@ -63,7 +63,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+<body><img src="![](/images/Total%20Defence%20Day%202021%203.png)" alt="Pupils’ reflections to consolidate their TDD learning experiences in the TDD booklets." style="width:70%;">  
   
 </body> 
 
