@@ -19,7 +19,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+<body><img src="![](/images/CNY%201.png)" alt="Our Principal, Mrs Lim-Foo visited the P6 classes with our Yangzheng “God of Wealth”. Mrs Lim-Foo sent her couplet of good luck to each P6 class and fortune cookies to all P6 pupils. This is to wish our graduating cohort all the very best for their PSLE." style="width:70%;">  
   
 </body> 
 
