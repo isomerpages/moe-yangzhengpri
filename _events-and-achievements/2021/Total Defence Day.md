@@ -30,7 +30,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Total%20Defence%20Day%202021%201.jpeg)" alt="Our pupil emcees shared about the six pillars of Total Defence and how each individual could play his or her part to ensure Singapore remains safe and secure." style="width:70%;">  
+<body><img src="/images/Total%20Defence%20Day%202021%201.jpeg" alt="Our pupil emcees shared about the six pillars of Total Defence and how each individual could play his or her part to ensure Singapore remains safe and secure." style="width:70%;">  
   
 </body> 
 
@@ -47,7 +47,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Total%20Defence%20Day%202021%202.png)" alt="Design entries for pencil cases that depicts Total Defence from the lower primary pupils." style="width:70%;">  
+<body><img src="/images/Total%20Defence%20Day%202021%202.png" alt="Design entries for pencil cases that depicts Total Defence from the lower primary pupils." style="width:70%;">  
   
 </body> 
 
@@ -63,7 +63,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Total%20Defence%20Day%202021%203.png)" alt="Pupils’ reflections to consolidate their TDD learning experiences in the TDD booklets." style="width:70%;">  
+<body><img src="/images/Total%20Defence%20Day%202021%203.png" alt="Pupils’ reflections to consolidate their TDD learning experiences in the TDD booklets." style="width:70%;">  
   
 </body> 
 
@@ -80,7 +80,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Total%20Defence%20Day%202021%204.jpeg)" alt="Design entries for SG Unite cards from the Primary 6 pupils." style="width:70%;">  
+<body><img src="/images/Total%20Defence%20Day%202021%204.jpeg" alt="Design entries for SG Unite cards from the Primary 6 pupils." style="width:70%;">  
   
 </body> 
 
@@ -97,7 +97,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Total%20Defence%20Day%202021%205.jpeg)" alt="Folded stars as sign of pledges." style="width:70%;">  
+<body><img src="/images/Total%20Defence%20Day%202021%205.jpeg" alt="Folded stars as sign of pledges." style="width:70%;">  
   
 </body> 
 
