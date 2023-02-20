@@ -80,7 +80,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+<body><img src="![](/images/Total%20Defence%20Day%202021%204.jpeg)" alt="Design entries for SG Unite cards from the Primary 6 pupils." style="width:70%;">  
   
 </body> 
 
