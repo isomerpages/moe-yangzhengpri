@@ -19,7 +19,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/CNY%201.png)" alt="Our Principal, Mrs Lim-Foo visited the P6 classes with our Yangzheng “God of Wealth”. Mrs Lim-Foo sent her couplet of good luck to each P6 class and fortune cookies to all P6 pupils. This is to wish our graduating cohort all the very best for their PSLE." style="width:70%;">  
+<body><img src="/images/CNY%201.png" alt="Our Principal, Mrs Lim-Foo visited the P6 classes with our Yangzheng “God of Wealth”. Mrs Lim-Foo sent her couplet of good luck to each P6 class and fortune cookies to all P6 pupils. This is to wish our graduating cohort all the very best for their PSLE." style="width:70%;">  
   
 </body> 
 
@@ -36,7 +36,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/CNY%202.png)" alt="Giving mandarin oranges signifies blessing of prosperity upon the recipient. Here’s our school leaders giving the staff a pair of mandarin oranges as part of the Chinese tradition." style="width:70%;">  
+<body><img src="/images/CNY%202.png" alt="Giving mandarin oranges signifies blessing of prosperity upon the recipient. Here’s our school leaders giving the staff a pair of mandarin oranges as part of the Chinese tradition." style="width:70%;">  
   
 </body> 
 
@@ -53,7 +53,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/CNY%203.png)" alt="After the pre-concert segment, we started the virtual concert with a pre-recorded lion dance performance." style="width:70%;">  
+<body><img src="/images/CNY%203.png" alt="After the pre-concert segment, we started the virtual concert with a pre-recorded lion dance performance." style="width:70%;">  
   
 </body> 
 
@@ -70,7 +70,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/CNY%204.png)" alt="Students were thrilled by the amazing footwork of our Yeung Ching Scouts Lion Dance Troupe as they set everyone’s hearts palpitating with excitement." style="width:70%;">  
+<body><img src="/images/CNY%204.png" alt="Students were thrilled by the amazing footwork of our Yeung Ching Scouts Lion Dance Troupe as they set everyone’s hearts palpitating with excitement." style="width:70%;">  
   
 </body> 
 
@@ -87,7 +87,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/CNY%205.png)" alt="All classes participated in the Best Decorated Classroom competition. Both teachers and pupils worked together and put in their finest efforts to put up the festive decorations to brighten up the classrooms" style="width:70%;">  
+<body><img src="/images/CNY%205.png" alt="All classes participated in the Best Decorated Classroom competition. Both teachers and pupils worked together and put in their finest efforts to put up the festive decorations to brighten up the classrooms" style="width:70%;">  
   
 </body> 
 
@@ -103,7 +103,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/CNY%206.png)" alt="Mrs Lim-Foo, gave out red packets to our Operational Support Staff and contract cleaners, wishing them good health for the New Year." style="width:70%;">  
+<body><img src="/images/CNY%206.png" alt="Mrs Lim-Foo, gave out red packets to our Operational Support Staff and contract cleaners, wishing them good health for the New Year." style="width:70%;">  
   
 </body> 
 
@@ -120,7 +120,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/CNY%207.png)" alt="Our talented Yangzhenites put up a stellar performance and brought festive joy to the audience. We had Guzheng, Wushu and Chinese Dance CCA groups showcasing their talent in this celebration." style="width:70%;">  
+<body><img src="/images/CNY%207.png" alt="Our talented Yangzhenites put up a stellar performance and brought festive joy to the audience. We had Guzheng, Wushu and Chinese Dance CCA groups showcasing their talent in this celebration." style="width:70%;">  
   
 </body> 
 
@@ -136,7 +136,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/CNY%208.png)" alt="The concert ended with a delightful Chinese New Year Music Video by our CL department teachers.
+<body><img src="/images/CNY%208.png" alt="The concert ended with a delightful Chinese New Year Music Video by our CL department teachers.
 " style="width:70%;">  
   
 </body> 
