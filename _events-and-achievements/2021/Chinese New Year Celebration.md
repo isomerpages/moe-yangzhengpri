@@ -120,7 +120,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+<body><img src="![](/images/CNY%207.png)" alt="Our talented Yangzhenites put up a stellar performance and brought festive joy to the audience. We had Guzheng, Wushu and Chinese Dance CCA groups showcasing their talent in this celebration." style="width:70%;">  
   
 </body> 
 
