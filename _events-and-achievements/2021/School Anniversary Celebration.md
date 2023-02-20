@@ -21,6 +21,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Anniversary%20combined%20photo_.png)" alt="School Annivasary Celebration" style="width:70%;">  
+<body><img src="/images/Anniversary%20combined%20photo_.png" alt="School Annivasary Celebration" style="width:70%;">  
   
 </body>
