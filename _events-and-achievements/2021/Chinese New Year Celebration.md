@@ -12,7 +12,16 @@ To kick-start the celebrations, students were engaged in pre-concert classroom a
 
   
 
-![CNY 1.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2021/CNY21/CNY%201.png)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+  
+</body> 
 
   
 
@@ -20,7 +29,16 @@ Our Principal, Mrs Lim-Foo visited the P6 classes with our Yangzheng “God of W
 
   
 
-![CNY 2.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2021/CNY21/CNY%202.png)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+  
+</body> 
 
   
 
@@ -28,7 +46,16 @@ Giving mandarin oranges signifies blessing of prosperity upon the recipient. Her
 
   
 
-![CNY 3.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2021/CNY21/CNY%203.png)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+  
+</body> 
 
   
 
@@ -36,7 +63,16 @@ After the pre-concert segment, we started the virtual concert with a pre-recorde
 
   
 
-![CNY 4.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2021/CNY21/CNY%204.png)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+  
+</body> 
 
   
 
@@ -44,15 +80,32 @@ Next, we revealed the results of the Best Decorated Classroom competition. All c
 
   
 
-![CNY 5.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2021/CNY21/CNY%205.png)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+  
+</body> 
 
   
 
 Mrs Lim-Foo, gave out red packets to our Operational Support Staff and contract cleaners, wishing them good health for the New Year.
 
   
-
-![CNY 6.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2021/CNY21/CNY%206.png)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+  
+</body> 
 
   
 
@@ -60,15 +113,32 @@ Our talented Yangzhenites put up a stellar performance and brought festive joy t
 
   
 
-![CNY 7.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2021/CNY21/CNY%207.png)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+  
+</body> 
 
   
 
 The concert ended with a delightful Chinese New Year Music Video by our CL department teachers.
 
   
-
-![CNY 8.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2021/CNY21/CNY%208.png)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+  
+</body> 
 
   
 
