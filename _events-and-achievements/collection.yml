@@ -2,6 +2,7 @@ collections:
   events-and-achievements:
     output: true
     order:
+      - 2021/Chinese New Year Celebration.md
       - 2021/Total Defence Day.md
       - 2021/School Anniversary Celebration.md
       - 2021/International Friendship Day.md
