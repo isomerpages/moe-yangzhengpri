@@ -53,7 +53,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/CNY%203.png)" alt="After the pre-concert segment, we started the virtual concert with a pre-recorded lion dance performance. Students were thrilled by the amazing footwork of our Yeung Ching Scouts Lion Dance Troupe as they set everyone’s hearts palpitating with excitement." style="width:70%;">  
+<body><img src="![](/images/CNY%203.png)" alt="After the pre-concert segment, we started the virtual concert with a pre-recorded lion dance performance." style="width:70%;">  
   
 </body> 
 
@@ -70,7 +70,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+<body><img src="![](/images/CNY%204.png)" alt="Students were thrilled by the amazing footwork of our Yeung Ching Scouts Lion Dance Troupe as they set everyone’s hearts palpitating with excitement." style="width:70%;">  
   
 </body> 
 
