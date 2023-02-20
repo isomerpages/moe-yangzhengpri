@@ -103,7 +103,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+<body><img src="![](/images/CNY%206.png)" alt="Mrs Lim-Foo, gave out red packets to our Operational Support Staff and contract cleaners, wishing them good health for the New Year." style="width:70%;">  
   
 </body> 
 
