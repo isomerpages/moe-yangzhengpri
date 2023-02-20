@@ -36,7 +36,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+<body><img src="![](/images/CNY%202.png)" alt="Giving mandarin oranges signifies blessing of prosperity upon the recipient. Here’s our school leaders giving the staff a pair of mandarin oranges as part of the Chinese tradition." style="width:70%;">  
   
 </body> 
 
