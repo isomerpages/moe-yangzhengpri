@@ -30,7 +30,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+<body><img src="![](/images/Total%20Defence%20Day%202021%201.jpeg)" alt="Our pupil emcees shared about the six pillars of Total Defence and how each individual could play his or her part to ensure Singapore remains safe and secure." style="width:70%;">  
   
 </body> 
 
