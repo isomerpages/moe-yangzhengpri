@@ -136,7 +136,8 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="LMAOOO" style="width:70%;">  
+<body><img src="![](/images/CNY%208.png)" alt="The concert ended with a delightful Chinese New Year Music Video by our CL department teachers.
+" style="width:70%;">  
   
 </body> 
 
