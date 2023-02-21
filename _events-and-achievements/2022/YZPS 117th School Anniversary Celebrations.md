@@ -19,14 +19,31 @@ The celebrations started with an opening address by our Principal, Mrs Lim-Foo, 
 Through all the activities, Yangzhengnites were able to gain more insights on how Yangzheng Primary School has come to be the well-established institution it is today and inspire them to work together to build and strengthen the identity of the school for many more years to come.
 
   
-
-![Programme Line-up.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2022/117th_Anniv/Programme%20Line-up.jpg)  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="NOO" style="width:70%;">  
+  
+</body>   
 
 Programme line-up for Assembly on 08 March.
 
   
 
-![Classroom  Recess.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2022/117th_Anniv/Classroom%20%20Recess.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="NOO" style="width:70%;">  
+  
+</body>  
 
   
 
@@ -34,15 +51,32 @@ Pupils engaged with assembly programme in the classroom and during recess.
 
   
 
-![Virtual Tour of Heritage Gallery.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2022/117th_Anniv/Virtual%20Tour%20of%20Heritage%20Gallery.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="NOO" style="width:70%;">  
+  
+</body>  
 
   
 
 Virtual tour of our Heritage Gallery
 
   
-
-![Gift Pack Items.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2022/117th_Anniv/Gift%20Pack%20Items.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="NOO" style="width:70%;">  
+  
+</body>  
 
   
 
@@ -50,7 +84,16 @@ Gift pack items designed by our very own Yangzhengnites
 
   
 
-![Selected Artwork.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2022/117th_Anniv/Selected%20Artwork.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="NOO" style="width:70%;">  
+  
+</body>  
 
   
 
