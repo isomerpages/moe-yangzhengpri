@@ -110,25 +110,55 @@ Junior Boys Division Championship (National Tier 1 – 2nd Runner-up)
 
 Junior Girls Division Championships (National Tier 1 - Champion)  
 
-| P4 | P5 |
-| --- | --- |
-| Koh Ting En | Hoo En Hui | Soh Ting Xuan |
-| Chng Shu Qing | Shivani Rai | Tian Kexin |
-|  Natasha Seow |  Duan Yinuo | Nur Qistina |
-|   |  Yang Zimo | Fatima Hasna  |
-|   |  Karen Lau | Jacelyn Lim  |
-|   |  Nicole Ang |  Tam Xun Xin |
-
-  
-
-  
-
-  
-
-  
-
-  
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dm6r{background-color:#FFF;color:#303030;text-align:center;vertical-align:middle}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">P4</span></th>
+    <th class="tg-feqv" colspan="2"><span style="color:#666;background-color:#DDD">P5</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dm6r">Koh Ting En</td>
+    <td class="tg-dm6r">Hoo En Hui</td>
+    <td class="tg-dm6r">Soh Ting Xuan</td>
+  </tr>
+  <tr>
+    <td class="tg-dm6r">Chng Shu Qing</td>
+    <td class="tg-dm6r">Shivani Rai</td>
+    <td class="tg-dm6r">Tian Kexin</td>
+  </tr>
+  <tr>
+    <td class="tg-dm6r"> Natasha Seow</td>
+    <td class="tg-dm6r"> Duan Yinuo</td>
+    <td class="tg-dm6r">Nur Qistina</td>
+  </tr>
+  <tr>
+    <td class="tg-dm6r"> </td>
+    <td class="tg-dm6r"> Yang Zimo</td>
+    <td class="tg-dm6r">Fatima Hasna </td>
+  </tr>
+  <tr>
+    <td class="tg-dm6r"> </td>
+    <td class="tg-dm6r"> Karen Lau</td>
+    <td class="tg-dm6r">Jacelyn Lim </td>
+  </tr>
+  <tr>
+    <td class="tg-dm6r"> </td>
+    <td class="tg-dm6r"> Nicole Ang</td>
+    <td class="tg-dm6r"> Tam Xun Xin</td>
+  </tr>
+</tbody>
+</table>
   
 
   
