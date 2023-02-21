@@ -15,7 +15,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/P1%20Orientation%20Programm%202023_1.jpeg)" alt="P1 Orientation Programme 2023" style="width:85%;">  
+<body><img src="/images/P1%20Orientation%20Programm%202023_1.jpeg" alt="P1 Orientation Programme 2023" style="width:85%;">  
   
 </body> 
 
@@ -29,7 +29,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/P1%20Orientation%20Programm%202023_2.jpeg)" alt="P1 Orientation Programme 2023" style="width:85%;">  
+<body><img src="/images/P1%20Orientation%20Programm%202023_2.jpeg" alt="P1 Orientation Programme 2023" style="width:85%;">  
   
 </body> 
 
@@ -43,7 +43,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/P1%20Orientation%20Programm%202023_3.jpeg)" alt="P1 Orientation Programme 2023" style="width:85%;">  
+<body><img src="/images/P1%20Orientation%20Programm%202023_3.jpeg" alt="P1 Orientation Programme 2023" style="width:85%;">  
   
 </body> 
 
@@ -54,7 +54,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/P1%20Orientation%20Programme%202023_4.jpg)" alt="P1 Orientation Programme 2023" style="width:85%;">  
+<body><img src="/images/P1%20Orientation%20Programme%202023_4.jpg" alt="P1 Orientation Programme 2023" style="width:85%;">  
   
 </body> 
 
@@ -68,7 +68,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/P1%20Orientation%20Programme%202023_5.jpeg)" alt="P1 Orientation Programme 2023" style="width:85%;">  
+<body><img src="/images/P1%20Orientation%20Programme%202023_5.jpeg" alt="P1 Orientation Programme 2023" style="width:85%;">  
   
 </body> 
 
@@ -79,7 +79,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/P1%20Orientation%20Programme%202023_6.jpeg)" alt="P1 Orientation Programme 2023" style="width:85%;">  
+<body><img src="/images/P1%20Orientation%20Programme%202023_6.jpeg" alt="P1 Orientation Programme 2023" style="width:85%;">  
   
 </body> 
 
@@ -92,7 +92,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/P1%20Orientation%20Programme%202023_7.jpeg)" alt="P1 Orientation Programme 2023" style="width:85%;">  
+<body><img src="/images/P1%20Orientation%20Programme%202023_7.jpeg" alt="P1 Orientation Programme 2023" style="width:85%;">  
   
 </body> 
 
@@ -105,6 +105,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/P1%20Orientation%20Programme%202023_8.jpeg)" alt="P1 Orientation Programme 2023" style="width:85%;">  
+<body><img src="/images/P1%20Orientation%20Programme%202023_8.jpeg" alt="P1 Orientation Programme 2023" style="width:85%;">  
   
 </body>
