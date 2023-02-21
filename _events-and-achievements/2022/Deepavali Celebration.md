@@ -13,7 +13,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Picture_1.png)" alt="Deepavali Celebration" style="width:70%;">  
+<body><img src="/images/Picture_1.png" alt="Deepavali Celebration" style="width:70%;">  
   
 </body> 
 
