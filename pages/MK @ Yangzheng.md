@@ -3,7 +3,7 @@ title: MK @ Yangzheng
 permalink: /mk-at-yangzheng/
 description: ""
 ---
-![MOE Kindergarten.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/MK%20@%20Yangzheng/MOE%20Kindergarten.jpg)  
+[![MOE Kindergarten](/images/MOE%20Kindergarten.jpeg)](https://www.moe.gov.sg/preschool/moe-kindergarten)
 
 **Curriculum and Programmes**  
 Click [here](https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum) to find out more.  
