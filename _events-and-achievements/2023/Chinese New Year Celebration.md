@@ -45,14 +45,8 @@ Games were introduced for the students to learn more about Chinese New Year in a
 ![](/images/CNY%202023_9.jpg)
   
 The concert included jovial Chinese New Year wishes by our school leaders, staff and students. It ended on a high note with mass singing. At the same time, our school leaders also gave each staff a pair of mandarin oranges as part of the Chinese tradition which signifies blessing of prosperity upon the recipient. It was a vibrant Chinese New Year Celebrations this year and it was wonderful to see the students’ involvement and excited faces today.  
-![Picture22.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/Picture22.jpg)![Picture23.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/Picture23.jpg)  
-  
-  
-  
-  
-  
-  
-  
+
+![CNY 2023](/images/CNY%202023_10.jpg)
   
   
 After the concert, students were engaged in CNY craftwork activities in the class. It was really heartening to see students of different races working together to complete their craftwork activity. The school also leveraged on an e-card platform (kudoboard) to post the pictures of the students’ completed craftwork, together with a Chinese New Year Greeting and reflection of their experience of completing the activity with their classmates.  
