@@ -41,22 +41,8 @@ Our talented students put up a stellar performance and brought festive joy to th
 ![CNY 2023](/images/CNY%202023_8.jpg)  
   
 Games were introduced for the students to learn more about Chinese New Year in an engaging and fun way. It is great joy to see students of different races, coming together to understand Chinese culture and traditions.  
-![Picture18.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/Picture18.jpg)![Picture19.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/Picture19.jpg)  
-  
-  
-  
-  
-  
-  
-  
-![Picture20.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/Picture20.jpg)![Picture21.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/Picture21.jpg)  
-  
-  
-  
-  
-  
-  
-  
+
+![](/images/CNY%202023_9.jpg)
   
 The concert included jovial Chinese New Year wishes by our school leaders, staff and students. It ended on a high note with mass singing. At the same time, our school leaders also gave each staff a pair of mandarin oranges as part of the Chinese tradition which signifies blessing of prosperity upon the recipient. It was a vibrant Chinese New Year Celebrations this year and it was wonderful to see the students’ involvement and excited faces today.  
 ![Picture22.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/Picture22.jpg)![Picture23.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/Picture23.jpg)  
