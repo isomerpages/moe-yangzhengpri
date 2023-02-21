@@ -275,4 +275,5 @@ Senior Girls Division Championships (National – 2nd Runner-up)
 Special Award - Player of the Match <br>
 Nirupama Sivadas
 
-![Football Senior Girls.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2022/NSG%20&%20SYF/Football%20Senior%20Girls.jpg)
+<img src="![](/images/Football%20Senior%20Girls.jpeg)"  
+style="width:40%">
