@@ -219,39 +219,51 @@ Senior Girls Division Championships (South Zone – Champion)
 
 Senior Girls Division Championships (National – 2nd Runner-up)
 
-| P6 |
-| --- |
-| Divya Rai | Tan Yuuri  
- |
-| Nirupama Sivadas | Ang Hui Xin |
-| Ramesh Prashitha | Anushkaa Premmananth |
-| Faiza Binte Mohamed Reyas | Mathi Abiniya  
- |
-| Iklil Kiasatina Binte Esfan Rizal | Sahana d/o Sivakumar  
- |
-| Lee Ying Xuan Averlyn |   
- |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-feqv" colspan="2"><span style="color:#666;background-color:#DDD">P6</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-nrix">Divya Rai</td>
+    <td class="tg-nrix">Tan Yuuri<br></td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Nirupama Sivadas</td>
+    <td class="tg-nrix">Ang Hui Xin</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Ramesh Prashitha</td>
+    <td class="tg-nrix">Anushkaa Premmananth</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Faiza Binte Mohamed Reyas</td>
+    <td class="tg-nrix">Mathi Abiniya<br></td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Iklil Kiasatina Binte Esfan Rizal</td>
+    <td class="tg-nrix">Sahana d/o Sivakumar<br></td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Lee Ying Xuan Averlyn</td>
+    <td class="tg-baqh"></td>
+  </tr>
+</tbody>
+</table>
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Special Award - Player of the Match
-
+Special Award - Player of the Match <br>
 Nirupama Sivadas
 
 ![Football Senior Girls.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2022/NSG%20&%20SYF/Football%20Senior%20Girls.jpg)
