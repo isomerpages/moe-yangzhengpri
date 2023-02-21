@@ -8,7 +8,16 @@ third_nav_title: "2023"
 
 Yangzheng Primary School strongly encourages the enthusiastic participation of family members in their child’s educational journey with the school. It was heartwarming to see parents accompanying their children on the first day of school.  
 
-![01.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/P1%20Orientation%20Programme/01.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="LMAOOO" alt="P1 Orientation Programme 2023" style="width:85%;">  
+  
+</body> 
 
   
 On behalf of the Yangzheng family, our Principal, Mrs Lim-Foo Boon Ching, warmly welcomed the new students and their parents to the school. Following that, while our new P1 Yangzhengnites were involved in the school’s Orientation Programme, their parents were given an overview of what their Primary 1 child will experience in school and the close home-school communication channels between the school and the parents. Thereafter, the parents were able to observe their child during recess at the canteen.  
