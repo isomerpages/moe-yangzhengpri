@@ -33,7 +33,7 @@ style="width:80%">
 In the classrooms, the P1 pupils were engaged in orientation activities specially catered to help them adjust to life in primary school. Among the Orientation Activities were “Snakes and Ladders” games where the pupils learnt to foster friendships with their new classmates, and Tangrams Activity where they learnt about problem-solving. The pupils were also taught the SMM routines by their teachers such as handwashing, temperature-taking and wipe-down.  
 
   
-<img src="NOO"  
+<img src="![](/images/P1%20Orientation%20Programme%202022_4.jpg)"  
 style="width:80%">
 
 <img src="NOO"  
