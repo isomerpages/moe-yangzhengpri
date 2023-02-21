@@ -30,7 +30,7 @@ You may refer to the following table for guidance on the Operating System/browse
 
 ![OS Browsers](/images/OS%20%20Browsers.png)
 
-3.&nbsp;What is the naming convention for the Student iCON email address?
+3.&nbsp;<u>What is the naming convention for the Student iCON email address?</u>
 
 • The student’s email address will be based on @students.edu.sg
 
@@ -42,7 +42,7 @@ You may refer to the following table for guidance on the Operating System/browse
 
   
 
-4.&nbsp;What is the password requirement?
+4.&nbsp;<u>What is the password requirement?</u>
 
 Please follow the password requirements below:&nbsp;
 
