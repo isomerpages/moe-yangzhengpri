@@ -74,7 +74,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="NOO" style="width:70%;">  
+<body><img src="![](/images/Gift%20Pack%20Items.jpeg)" alt="Gift pack items designed by our very own Yangzhengnites" style="width:70%;">  
   
 </body>  
 
@@ -91,7 +91,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="NOO" style="width:70%;">  
+<body><img src="![](/images/Selected%20Artwork.jpeg)" alt="Selected artwork by Primary 5 and 6 pupils featured on the customised Rubik's cub." style="width:70%;">  
   
 </body>  
 
