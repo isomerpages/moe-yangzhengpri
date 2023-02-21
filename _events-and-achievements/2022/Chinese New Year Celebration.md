@@ -41,7 +41,9 @@ style="width:80%">
 At the same time, our school leaders also gave each staff a pair of mandarin oranges as part of the Chinese tradition which signifies blessing of prosperity upon the recipient.  
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; color: rgb(48, 48, 48); font-family: Archivo, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 930px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left;" class="ive_eobj_left" alt="15.jpg" width="100%" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2022/CNY22/15.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; width: 317px; height: 236px;" class="ive_eobj_left" alt="16.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2022/CNY22/16.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
+<img src="![](/images/CNY%202022_6.jpg)"  
+style="width:80%">
+
 
 After the classroom activities, the Chinese New Year Live show via Zoom commenced with a pre-recorded lion dance performance by the school’s Alumni from the Yeung Ching Scout Open Group.  
   
