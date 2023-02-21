@@ -14,7 +14,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Hari%20Raya%20Puasa%20Celebrations%202022_1.png)" alt="Hari Raya Puasa Celebrations 2022" style="width:70%;">  
+<body><img src="/images/Hari%20Raya%20Puasa%20Celebrations%202022_1.png" alt="Hari Raya Puasa Celebrations 2022" style="width:70%;">  
   
 </body>
 
@@ -25,23 +25,23 @@ During the celebration of Hari Raya Puasa this year, Yangzheng Primary continued
 On 18 and 20 May 2022, the school celebrated Hari Raya Puasa with activities which are planned for the pupils using the “Head, Hand and Heart (3H)” approach.
 
   
-<img src="![](/images/Hari%20Raya%202022.jpg)"  
+<img src="/images/Hari%20Raya%202022.jpg"  
 style="width:80%">
 
   
 During the Hari Raya Puasa Assembly Programme on 18 May 2022, the pupils learnt about the significance of Hari Raya Puasa and how Hari Raya Puasa is celebrated in Singapore. The Assembly Programme included a quiz segment and ended with a lively Hari Raya Puasa Dance segment for all pupils in their classrooms.  
   
 
-<img src="![](/images/Hari%20Raya_2.jpg)"  
+<img src="/images/Hari%20Raya_2.jpg"  
 style="width:80%">
 
-<img src="![](/images/Hari%20Raya%202022_3.jpg)"  
+<img src="/images/Hari%20Raya%202022_3.jpg"  
 style="width:80%">
   
 
 On 20 May 2022, the pupils were involved in various Hari Raya Puasa craftwork activities in class during We-Time. The craftwork activities included Hari Raya Card (Primary 1), Hari Raya Money Packet (Primary 2), Ketupat Bookmark (Primary 3), Ketupat Weaving (Primary 4), Ketupat Weaving Hanging Decoration (Primary 5) and Hari Raya Pop Up Card (Primary 6).
 
-<img src="![](/images/Hari%20Raya%202022_4.jpg)"  
+<img src="/images/Hari%20Raya%202022_4.jpg"  
 style="width:80%">
   
 
