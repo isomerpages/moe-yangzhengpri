@@ -37,19 +37,8 @@ Next, the results of the CNY Best Decorated Classroom competition were revealed.
   
   
 Our talented students put up a stellar performance and brought festive joy to the audience. We had the Wushu and Guzheng CCA groups showcasing their best efforts in this celebration. An addition to this year’s concert was a CNY Dance performance put up by our talented teachers which entertained our students.  
-![Picture15.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/Picture15.jpg)![Picture16.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/Picture16.jpg)  
   
-  
-  
-  
-  
-  
-![Picture17.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/Picture17.jpg)  
-  
-  
-  
-  
-  
+![CNY 2023](/images/CNY%202023_8.jpg)  
   
 Games were introduced for the students to learn more about Chinese New Year in an engaging and fun way. It is great joy to see students of different races, coming together to understand Chinese culture and traditions.  
 ![Picture18.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/Picture18.jpg)![Picture19.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/Picture19.jpg)  
