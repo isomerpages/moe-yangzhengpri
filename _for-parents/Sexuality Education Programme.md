@@ -56,8 +56,7 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 
 7.  Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
 
-Programme
----------
+#### Programme
 
 **At Yangzheng Primary School, the following lessons from the Growing Years Programme will be taught in 2023:**  
   
