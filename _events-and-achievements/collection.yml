@@ -2,6 +2,8 @@ collections:
   events-and-achievements:
     output: true
     order:
+      - "2022/National School Games and Singapore Youth Festival: Arts
+        Presentation.md"
       - 2022/Deepavali Celebration.md
       - 2022/2022.md
       - 2022/.keep
