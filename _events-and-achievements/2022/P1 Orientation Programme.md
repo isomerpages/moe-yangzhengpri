@@ -39,15 +39,15 @@ style="width:80%">
 <img src="![](/images/P1%20Orientation%20Programme_5.jpg)"  
 style="width:80%">
 
-<img src="NOO"  
+<img src="![](/images/P1%20Orientation%20Programme_6.jpg)"  
 style="width:80%">
 
 
 The new Yangzhengnites were brought on a guided school tour around the school in order for them to get to know the school. The pupils visited the Library, Heritage Gallery, Playground, Eco-Garden, Indoor Sports Hall and other places in the school.  
 
   
-<img src="NOO"  
+<img src="![](/images/P1%20Orientation%20Programme_7.jpg)"  
 style="width:80%">
 
-<img src="NOO"  
+<img src="![](/images/P1%20Orientation%20Programme_8.jpg)"  
 style="width:80%">
