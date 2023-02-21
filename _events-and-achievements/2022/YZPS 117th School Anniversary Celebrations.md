@@ -58,7 +58,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="NOO" style="width:70%;">  
+<body><img src="![](/images/Virtual%20Tour%20of%20Heritage%20Gallery.jpeg)" alt="Virtual tour of our Heritage Gallery" style="width:70%;">  
   
 </body>  
 
