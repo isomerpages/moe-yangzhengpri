@@ -11,7 +11,7 @@ third_nav_title: "2022"
 Yangzheng Primary School strongly encourages the enthusiastic participation of family members in their child’s educational journey with the school. Therefore, with MOE’s announcement that only P1 students will report to school on 4 January 2022 with one parent/guardian allowed to accompany our new P1 Yangzhengnites, it was heartwarming to see the parents/guardians who accompanied their children/wards to school on their first day.
 
   
-<img src="NOO"  
+<img src="![](/images/P1%20Orientation%20Programme%202022_1.jpg)"  
 style="width:80%">
 
 In order to ensure that our school remains a safe place for teaching and learning for all our Yangzhengnites and staff, safe management measures (SMMs) were observed starting from 4 January 2022.  
