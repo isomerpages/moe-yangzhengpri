@@ -5,17 +5,8 @@ description: ""
 third_nav_title: "2023"
 ---
 “Celebrating Diversity, Edifying Yangzhengnites”  
-![Picture1.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/.tn.Picture1.jpg.mid.jpg)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
+![CNY 2023](/images/CNY%202023_1.jpeg)
   
 To promote a deeper understanding of the different cultures, the school has a common theme -“Celebrating Diversity, Edifying Yangzhengnites” - for the celebration of the 3 festivals - Chinese New Year, Hari Raya Puasa and Deepavali. As we celebrate our diverse cultures across the 3 festivals, the school plans for common shared experiences for our Yangzhengnites to develop their 21CC skills.  
 ![Picture2.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/Picture2.jpg)![Picture3.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/Picture3.jpg)  
