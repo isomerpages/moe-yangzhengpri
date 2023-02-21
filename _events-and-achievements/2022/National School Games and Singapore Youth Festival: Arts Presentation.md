@@ -165,62 +165,55 @@ Junior Girls Division Championships (National Tier 1 - Champion)
 
 Senior Girls Division Championships (South Zone – Champion)  
 
-| P6 |
-| --- |
-| Choy Yun Xi  
- | Fan Yihan |
-|  Louanne Wong | Cayline Lim  |
-|  Summer Chang | Lee Joey  |
-| Andrea Tan  |  Oh Yu Tong |
-|  Tan Xuan Ru | Tan Hwee Cheng  |
-|  Vania Ng |  Ye Yuxin |
-|  Arlynn Lee |   |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dm6r{background-color:#FFF;color:#303030;text-align:center;vertical-align:middle}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-feqv" colspan="2"><span style="color:#666;background-color:#DDD">P6</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dm6r">Choy Yun Xi<br></td>
+    <td class="tg-dm6r">Fan Yihan</td>
+  </tr>
+  <tr>
+    <td class="tg-dm6r"> Louanne Wong</td>
+    <td class="tg-dm6r">Cayline Lim </td>
+  </tr>
+  <tr>
+    <td class="tg-dm6r"> Summer Chang</td>
+    <td class="tg-dm6r">Lee Joey </td>
+  </tr>
+  <tr>
+    <td class="tg-dm6r">Andrea Tan </td>
+    <td class="tg-dm6r"> Oh Yu Tong</td>
+  </tr>
+  <tr>
+    <td class="tg-dm6r"> Tan Xuan Ru</td>
+    <td class="tg-dm6r">Tan Hwee Cheng </td>
+  </tr>
+  <tr>
+    <td class="tg-dm6r"> Vania Ng</td>
+    <td class="tg-dm6r"> Ye Yuxin</td>
+  </tr>
+  <tr>
+    <td class="tg-dm6r"> Arlynn Lee</td>
+    <td class="tg-dm6r"> </td>
+  </tr>
+</tbody>
+</table>
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
 ![Basketball Senior Girls.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2022/NSG%20&%20SYF/Basketball%20Senior%20Girls.jpg)  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
 **NSG Football**  
 
