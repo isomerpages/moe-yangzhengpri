@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - School Services/School Library.md
       - School Services/.keep
       - Sexuality Education Programme.md
       - Student iCON.md
