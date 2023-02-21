@@ -2,6 +2,7 @@ collections:
   events-and-achievements:
     output: true
     order:
+      - 2022/Hari Raya Puasa Celebrations.md
       - "2022/National School Games and Singapore Youth Festival: Arts
         Presentation.md"
       - 2022/Deepavali Celebration.md
