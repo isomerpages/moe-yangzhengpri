@@ -7,7 +7,16 @@ third_nav_title: "2022"
 “Celebrating Diversity, Edifying Yangzhengnites” Hari Raya Puasa Celebrations
 -----------------------------------------------------------------------------
 
-![Hari Raya Puasa Celebrations 2022_1.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2022/Hari%20Raya%20Puasa%20Celebrations%202022/Hari%20Raya%20Puasa%20Celebrations%202022_1.png)  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Hari%20Raya%20Puasa%20Celebrations%202022_1.png)" alt="Hari Raya Puasa Celebrations 2022" style="width:70%;">  
+  
+</body>
 
 During the celebration of Hari Raya Puasa this year, Yangzheng Primary continued to promote a deeper understanding of the different cultures, with the common theme across all festivals -“Celebrating Diversity, Edifying Yangzhengnites”
 
