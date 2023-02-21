@@ -221,7 +221,8 @@ Senior Girls Division Championships (South Zone – Champion)
 </table>
 
 
-![Basketball Senior Girls.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2022/NSG%20&%20SYF/Basketball%20Senior%20Girls.jpg)  
+<img src="![](/images/Basketball%20Senior%20Girls.jpeg)"  
+style="width:40%"> 
 
 **NSG Football**  
 
