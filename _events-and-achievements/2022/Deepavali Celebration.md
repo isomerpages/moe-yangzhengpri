@@ -31,13 +31,6 @@ On 11 November 2022, the pupils were involved in various Deepavali craftwork act
 
 The school also continued to leverage on the kudoboard e-card platform for pupils to submit pictures of their completed craftwork, together with a reflection of about either racial harmony or something new they had learnt about Deepavali.
 
-|   
-  
-![Picture22.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/Deepavali%202022/Picture22.png)  
-  
- | ![Picture23.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/Deepavali%202022/Picture23.png) |
-| --- | --- |
-| ![Picture24.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/Deepavali%202022/Picture24.png) | ![Picture25.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/Deepavali%202022/Picture25.png)  
- |
+![Deepvali Celebration 2022](/images/Deepvali%20Celebration%202022_3.jpg)
 
 It was a joyful and engaging Deepavali Celebrations for all our pupils. We thank all our staff, pupils and parents for their support as we celebrate our diversity and edify our Yangzhengnites to learn about national identity and harmony in a fun and uplifting way.
