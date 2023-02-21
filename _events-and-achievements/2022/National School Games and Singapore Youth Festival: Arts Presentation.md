@@ -7,13 +7,46 @@ third_nav_title: "2022"
 With the resumption of NSG and SYF in Term 2 and Term 3, we had a total of 170 pupils, consisting of P4 to P6 pupils, who represented our school in these two competitions.  
   
 
-| NSG Senior Division (Term 2) | NSG Junior Division (Term 3) | SYF (Term 3) |
-| --- | --- | --- |
-| Basketball (Boys and Girls) | Basketball (Boys and Girls) | Chinese Dance |
-| Football (Boys and Girls) | Football (Boys)  
- | Guzheng |
-|  Wushu (Boys and Girls) |  Rope Skipping (Boys and Girls) |  Modern Dance |
-|  Taekwondo (Boys) |   Wushu (Boys and Girls) |   |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-jc2m{background-color:#FFF;color:#303030;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-epkd{background-color:#FFF;color:#303030;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-jc2m">NSG Senior Division (Term 2)</th>
+    <th class="tg-jc2m">NSG Junior Division (Term 3)</th>
+    <th class="tg-jc2m">SYF (Term 3)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-epkd">Basketball (Boys and Girls)</td>
+    <td class="tg-epkd">Basketball (Boys and Girls)</td>
+    <td class="tg-epkd">Chinese Dance</td>
+  </tr>
+  <tr>
+    <td class="tg-epkd">Football (Boys and Girls)</td>
+    <td class="tg-epkd">Football (Boys)<br></td>
+    <td class="tg-epkd">Guzheng</td>
+  </tr>
+  <tr>
+    <td class="tg-epkd"> Wushu (Boys and Girls)</td>
+    <td class="tg-epkd"> Rope Skipping (Boys and Girls)</td>
+    <td class="tg-epkd"> Modern Dance</td>
+  </tr>
+  <tr>
+    <td class="tg-epkd"> Taekwondo (Boys)</td>
+    <td class="tg-epkd">  Wushu (Boys and Girls)</td>
+    <td class="tg-epkd"> </td>
+  </tr>
+</tbody>
+</table>
 
 ![Collage.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2022/NSG%20&%20SYF/Collage.jpg)![Collage_2.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2022/NSG%20&%20SYF/Collage_2.jpg)  
 The pupils put in their finest effort during the competition, showing their resilience and motivation in the process. With the effort they have put in, we are proud to announce the following awardees for this year NSG Junior and Senior Division.  
