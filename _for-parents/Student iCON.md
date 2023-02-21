@@ -69,13 +69,13 @@ Please follow the password requirements below:&nbsp;
 Troubleshooting
 ---------------
 
-1.&nbsp;What if I have forgotten my Student iCON login password?
+1.&nbsp;<u>What if I have forgotten my Student iCON login password?</u>
 
 Approach your form teachers for help, they will log a case with the ICT team on your behalf to reset your password.
 
   
 
-2.&nbsp;What should I do if I encounter one of the following problems?
+2.&nbsp;<u>What should I do if I encounter one of the following problems?</u>
 
 1. Error AADSTS900561 given by the Google website.
 
@@ -103,7 +103,7 @@ c) If all the above does not work, you may contact Mr Seah at&nbsp;[seah\_choon\
 
   
 
-3.&nbsp;What should I do if I receive the following messages?
+3.&nbsp;<u>What should I do if I receive the following messages?</u>
 
 1. Your account is temporarily locked to prevent unauthorized use.
 
