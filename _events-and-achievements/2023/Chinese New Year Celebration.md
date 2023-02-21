@@ -50,23 +50,8 @@ The concert included jovial Chinese New Year wishes by our school leaders, staff
   
   
 After the concert, students were engaged in CNY craftwork activities in the class. It was really heartening to see students of different races working together to complete their craftwork activity. The school also leveraged on an e-card platform (kudoboard) to post the pictures of the students’ completed craftwork, together with a Chinese New Year Greeting and reflection of their experience of completing the activity with their classmates.  
-![Picture24.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/Picture24.jpg)![Picture25.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/Picture25.jpg)  
-  
-  
-  
-  
-  
-  
-  
-![Picture26.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/Picture26.jpg)![Picture27.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/Picture27.jpg)  
-  
-  
-  
-  
-  
-  
-  
-  
+
+![CNY 2023](/images/CNY%202023_11.jpg)
   
   
 The school would like to take this opportunity to thank our staff, students and parents for their support as we celebrate our diversity and edify our Yangzhengnites to learn about national identity and harmony in a fun and uplifting way.
