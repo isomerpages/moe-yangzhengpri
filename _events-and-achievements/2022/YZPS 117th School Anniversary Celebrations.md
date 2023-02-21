@@ -41,7 +41,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="NOO" style="width:70%;">  
+<body><img src="![](/images/Classroom%20%20Recess.jpeg)" alt="Pupils engaged with assembly programme in the classroom and during recess." style="width:70%;">  
   
 </body>  
 
