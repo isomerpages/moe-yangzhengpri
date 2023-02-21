@@ -16,9 +16,8 @@ style="width:80%">
 
 On 31&nbsp;st&nbsp;January 2022, Yangzheng Primary School ushered in the Year of the Tiger with a host of activities which are planned for the pupils using the “Head, Hand and Heart (3H)” approach because we believe that values &amp; beliefs cannot just remain as head knowledge. As part of the celebrations, the pupils wore traditional ethnic costumes to school, making the atmosphere more vibrant and celebratory. 
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 807.333px; height: 244px;" class="ives_tab_kosong ive_eobj_center"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 395px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 388px; height: 290px;" class="ive_eobj_center" alt="03.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2022/CNY22/03.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 412px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 419px; height: 277px;" class="ive_eobj_center" alt="04.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2022/CNY22/04.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
-
-**
+<img src="![](/images/CNY%202022_2.jpg)"  
+style="width:80%">
 
 To kick-start the celebrations, pupils were engaged in classroom activities where they learnt about the Chinese customs associated with Chinese New Year, and this was followed by CNY craftwork activities in the class. For the Primary 1 to 3 pupils, they were involved in paper-folding whereas the Primary 4 to 6 pupils were involved in paper cutting. It was really heartening to see pupils of different races working together to complete their craftwork activity.  
 
