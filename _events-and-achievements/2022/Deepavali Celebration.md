@@ -25,12 +25,7 @@ On 9 and 11 November 2022, the school celebrated Deepavali with activities which
 
 During the Deepavali Assembly Programme on 9 November 2022, the pupils learnt about the facts and story of Deepavali as well as traditional Deepavali practices. The Assembly Programme included a quiz segment and ended with a lively Deepavali Dance item by the P5 Tamil girls.  
 
-| ![Picture18.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/Deepavali%202022/Picture18.png)  
- | ![Picture19.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/Deepavali%202022/Picture19.png)  
- |
-| --- | --- |
-| ![Picture20.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/Deepavali%202022/Picture20.png) | ![Picture21.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/Deepavali%202022/Picture21.png)  
- |
+![Deepvali Celebration 2022](/images/Deepvali%20Celebration%202022_2.jpg)
 
 On 11 November 2022, the pupils were involved in various Deepavali craftwork activities in class during We-Time. The craftwork activities included Colouring a Diya Lamp (Primary 1), Making a Rangoli on paper plate (Primary 2), Making a paper Diya Lamp (Primary 3), Colouring of Rangoli (Primary 4), Rangoli Designing (Primary 5) and Henna Designing (Primary 6).
 
