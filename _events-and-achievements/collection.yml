@@ -2,6 +2,7 @@ collections:
   events-and-achievements:
     output: true
     order:
+      - 2022/P1 Orientation Programme.md
       - 2022/Chinese New Year Celebration.md
       - 2022/YZPS 117th School Anniversary Celebrations.md
       - 2022/Hari Raya Puasa Celebrations.md
