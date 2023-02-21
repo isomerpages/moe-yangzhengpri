@@ -4,11 +4,18 @@ permalink: /events-n-achievements/2022/deepavali-celebration/
 description: ""
 third_nav_title: "2022"
 ---
-“Celebrating Diversity, Edifying Yangzhengnites” - Deepavali Celebrations 2022
-------------------------------------------------------------------------------
+#### “Celebrating Diversity, Edifying Yangzhengnites” - Deepavali Celebrations 2022
 
-| ![Picture1.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/Deepavali%202022/Picture1.png) |
-| --- |
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Picture_1.png)" alt="Deepavali Celebration" style="width:70%;">  
+  
+</body> 
 
 During the celebration of Deepavali this year, Yangzheng Primary continued to promote a deeper understanding of the different cultures, with the common theme across all festivals -“Celebrating Diversity, Edifying Yangzhengnites”
 
