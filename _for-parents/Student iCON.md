@@ -7,45 +7,12 @@ Student iCON is a suite of Google apps that helps to better support pupils’ le
   
 **Student iCON Onboarding Guide**  
 
-Click&nbsp;[here](https://yangzhengpri-moe-edu-sg-admin.cwp.sg/qql/slot/u703/2022/For%20Parents/Student%20iCON/Student%20iCON%20Onboarding%20Guide.pdf)&nbsp;to view the guide.
+Click&nbsp;[here](/files/Student%20iCON%20Onboarding%20Guide.pdf)&nbsp;to view the guide.
 
   
+![Student iCON](/images/P1%20to%20P3.png)
 
-![P1 to P3.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/For%20Parents/Student%20iCON/P1%20to%20P3.png)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-![P4 to P6.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/For%20Parents/Student%20iCON/P4%20to%20P6.png)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+![Student iCON](/images/P4%20to%20P6.png)
   
 
 Frequently Asked Questions
