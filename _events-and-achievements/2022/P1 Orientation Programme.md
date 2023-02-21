@@ -36,7 +36,7 @@ In the classrooms, the P1 pupils were engaged in orientation activities speciall
 <img src="![](/images/P1%20Orientation%20Programme%202022_4.jpg)"  
 style="width:80%">
 
-<img src="NOO"  
+<img src="![](/images/P1%20Orientation%20Programme_5.jpg)"  
 style="width:80%">
 
 <img src="NOO"  
