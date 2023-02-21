@@ -56,60 +56,57 @@ The pupils put in their finest effort during the competition, showing their resi
 
 Junior Boys Division Championship (National Tier 1 – 2nd Runner-up)  
 
-| P4 | P5 |
-| --- | --- |
-| Ahmad Zulhilmi | Xavier Chua | Ashmit Prakash  
- |
-| Javier Loong | Rui | Leonard Beh  
- |
-| Nathan Lee | Merson Hua  | Lionel Beh  |
-|  Padmapriyan |  Donovan Ng |  Ashton Yeong |
-|   |  Elvan Toh |  Zheng Hong |
-|   |  Ang Kallen |   |
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dm6r{background-color:#FFF;color:#303030;text-align:center;vertical-align:middle}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">P4</span></th>
+    <th class="tg-feqv" colspan="2"><span style="color:#666;background-color:#DDD">P5</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dm6r">Ahmad Zulhilmi</td>
+    <td class="tg-dm6r">Xavier Chua</td>
+    <td class="tg-dm6r">Ashmit Prakash<br></td>
+  </tr>
+  <tr>
+    <td class="tg-dm6r">Javier Loong</td>
+    <td class="tg-dm6r">Rui</td>
+    <td class="tg-dm6r">Leonard Beh<br></td>
+  </tr>
+  <tr>
+    <td class="tg-dm6r">Nathan Lee</td>
+    <td class="tg-dm6r">Merson Hua </td>
+    <td class="tg-dm6r">Lionel Beh </td>
+  </tr>
+  <tr>
+    <td class="tg-dm6r"> Padmapriyan</td>
+    <td class="tg-dm6r"> Donovan Ng</td>
+    <td class="tg-dm6r"> Ashton Yeong</td>
+  </tr>
+  <tr>
+    <td class="tg-dm6r"> </td>
+    <td class="tg-dm6r"> Elvan Toh</td>
+    <td class="tg-dm6r"> Zheng Hong</td>
+  </tr>
+  <tr>
+    <td class="tg-dm6r"> </td>
+    <td class="tg-dm6r"> Ang Kallen</td>
+    <td class="tg-dm6r"> </td>
+  </tr>
+</tbody>
+</table>
 
 ![Basketball Junior Boys.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2022/NSG%20&%20SYF/Basketball%20Junior%20Boys.jpg)  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
 Junior Girls Division Championships (National Tier 1 - Champion)  
 
