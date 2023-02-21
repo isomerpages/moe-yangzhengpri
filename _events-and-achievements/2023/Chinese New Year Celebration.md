@@ -9,56 +9,26 @@ third_nav_title: "2023"
 ![CNY 2023](/images/CNY%202023_1.jpeg)
   
 To promote a deeper understanding of the different cultures, the school has a common theme -“Celebrating Diversity, Edifying Yangzhengnites” - for the celebration of the 3 festivals - Chinese New Year, Hari Raya Puasa and Deepavali. As we celebrate our diverse cultures across the 3 festivals, the school plans for common shared experiences for our Yangzhengnites to develop their 21CC skills.  
-![Picture2.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/Picture2.jpg)![Picture3.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/Picture3.jpg)  
-  
-  
-  
-  
-  
+
+![CNY 2023](/images/CNY%202023_2.jpeg)  
   
   
 On 20th January 2023, Yangzheng Primary School ushered in the Year of the Rabbit with a host of activities which are planned for the students using the “Head, Hand and Heart (3H)” approach because we believe that values & beliefs cannot just remain as head knowledge. As part of the celebrations, the students wore traditional ethnic costumes to school, making the atmosphere more vibrant and celebratory.  
-![Picture4.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/Picture4.jpg)![Picture5.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/Picture5.jpg)  
   
-  
-  
-  
-  
-  
-  
+![CNY 2023](/images/CNY%202023_3.jpg)  
   
 To kick-start the entire celebration, our Principal Mrs Lim-Foo and Yangzheng “God of Fortune” presented couplet of blessings to each of our P6 classes, wishing our graduating cohort all the very best for their PSLE.  
-![Picture6.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/Picture6.jpg)![Picture7.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/Picture7.jpg)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
+![CNY 2023](/images/CNY%202023_4.jpg)  
   
 Following that, our students were thrilled by the amazing footwork of our Yeung Ching Scouts Lion Dance Troupe as they set everyone’s hearts palpitating with excitement.  
-![Picture8.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/Picture8.jpg)  
-  
-  
-  
-  
-  
-  
-  
-  
+
+![CNY 2023](/images/CNY%202023_5.jpg)  
   
   
 Mrs Lim-Foo then gave a Chinese New Year speech to the whole school, followed by giving of red packets to our Operational Support Staff and contract cleaners, wishing them good health for the New Year.  
-![Picture9.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/Picture9.jpg)![Picture10.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/Picture10.jpg)  
-  
-  
-  
-  
-  
+
+![CNY 2023](/images/CNY%202023_6.jpg)
   
   
 Next, the results of the CNY Best Decorated Classroom competition were revealed.  All classes had put in their finest efforts in the competition, putting up gorgeous festive decorations to liven up the CNY atmosphere in the school. There were so many well-decorated classrooms that the judges had a difficult time to pick the winners this year. The following are some of the stunning decorations by the winning classes:  
