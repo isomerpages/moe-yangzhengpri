@@ -4,7 +4,7 @@ permalink: /events-n-achievements/2022/p1-orientation-programme/
 description: ""
 third_nav_title: "2022"
 ---
-<figcaption style="text-align:center;">WELCOME TO YANGZHENG PRIMARY SCHOOL,<br>New P1 Yangzhengnites!</figcaption>
+<p style="text-align:center;">WELCOME TO YANGZHENG PRIMARY SCHOOL,<br>New P1 Yangzhengnites!</p>
 
   
 
