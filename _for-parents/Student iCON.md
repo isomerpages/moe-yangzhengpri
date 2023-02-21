@@ -18,45 +18,17 @@ Click&nbsp;[here](/files/Student%20iCON%20Onboarding%20Guide.pdf)&nbsp;to view t
 Frequently Asked Questions
 --------------------------
 
-1\. How can my child log in to Student iCON?  
+1\. <u>How can my child log in to Student iCON?</u>  
 
 Student iCON is web-based. Students can use their web browser in their internet- enabled computing or mobile devices to visit&nbsp;[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)&nbsp;to access Student iCON.
 
   
 
-2.&nbsp;Which Operating System or browser should my child use?
+2.&nbsp;<u>Which Operating System or browser should my child use?</u>
 
-You may refer to the following table for guidance on the Operating System/browser, which your child can use to log in.![OS  Browsers.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/For%20Parents/Student%20iCON/OS%20%20Browsers.png)
+You may refer to the following table for guidance on the Operating System/browser, which your child can use to log in.
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+![OS Browsers](/images/OS%20%20Browsers.png)
 
 3.&nbsp;What is the naming convention for the Student iCON email address?
 
