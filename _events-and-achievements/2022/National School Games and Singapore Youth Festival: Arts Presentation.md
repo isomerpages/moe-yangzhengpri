@@ -48,7 +48,13 @@ With the resumption of NSG and SYF in Term 2 and Term 3, we had a total of 170 p
 </tbody>
 </table>
 
-![Collage.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2022/NSG%20&%20SYF/Collage.jpg)![Collage_2.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2022/NSG%20&%20SYF/Collage_2.jpg)  
+<img src="![](/images/Collage.jpeg)"  
+style="width:40%">
+
+<img src="![](/images/Collage_2.jpeg)"  
+style="width:40%">
+
+
 The pupils put in their finest effort during the competition, showing their resilience and motivation in the process. With the effort they have put in, we are proud to announce the following awardees for this year NSG Junior and Senior Division.  
   
 
