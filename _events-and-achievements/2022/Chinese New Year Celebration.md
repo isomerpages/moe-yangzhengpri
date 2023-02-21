@@ -6,22 +6,22 @@ third_nav_title: "2022"
 ---
 **"Celebrating Diversity, Edifying Yangzhengnit**
 
-<img src="![](/images/Celebrating%20Diversity.jpeg)"  
+<img src="/images/Celebrating%20Diversity.jpeg"  
 style="width:80%">
 
 To promote a deeper understanding of the different cultures, the school has a common theme -“Celebrating Diversity, Edifying Yangzhengnites” - for the celebration of the 3 festivals - Chinese New Year, Hari Raya Puasa and Deepavali. As we celebrate our diverse cultures across the 3 festivals, the school plans for common shared experiences for our Yangzhengnites to develop their 21CC skills.  
 
-<img src="![](/images/CNY%202022_1.jpg)"  
+<img src="/images/CNY%202022_1.jpg"  
 style="width:80%">
 
 On 31&nbsp;st&nbsp;January 2022, Yangzheng Primary School ushered in the Year of the Tiger with a host of activities which are planned for the pupils using the “Head, Hand and Heart (3H)” approach because we believe that values &amp; beliefs cannot just remain as head knowledge. As part of the celebrations, the pupils wore traditional ethnic costumes to school, making the atmosphere more vibrant and celebratory. 
 
-<img src="![](/images/CNY%202022_2.jpg)"  
+<img src="/images/CNY%202022_2.jpg"  
 style="width:80%">
 
 To kick-start the celebrations, pupils were engaged in classroom activities where they learnt about the Chinese customs associated with Chinese New Year, and this was followed by CNY craftwork activities in the class. For the Primary 1 to 3 pupils, they were involved in paper-folding whereas the Primary 4 to 6 pupils were involved in paper cutting. It was really heartening to see pupils of different races working together to complete their craftwork activity.  
 
-<img src="![](/images/CNY%202022_3.jpg)"  
+<img src="/images/CNY%202022_3.jpg"  
 style="width:80%">
 
   
