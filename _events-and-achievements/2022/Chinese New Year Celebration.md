@@ -76,7 +76,7 @@ style="width:80%">
 
 The concert was ended by jovial Chinese New Year wishes by our school leaders, staff and pupils. It was a vibrant Chinese New Year Celebrations this year and it was wonderful to see the pupils’ involvement and excited faces today.  
   
-<img src="nOO"  
+<img src="![](/images/cny%202022%2032.jpeg)"  
 style="width:80%">
 
 The school would like to take this opportunity to thank our staff, pupils and parents for their support as we celebrate our diversity and edify our Yangzhengnites to learn about national identity and harmony in a fun and uplifting way.
