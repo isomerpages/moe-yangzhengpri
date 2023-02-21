@@ -4,14 +4,17 @@ permalink: /events-n-achievements/2022/chinese-new-year-celebration/
 description: ""
 third_nav_title: "2022"
 ---
-**"Celebrating Diversity, Edifying Yangzhengnit**![Celebrating Diversity.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2022/CNY22/Celebrating%20Diversity.jpg)  
+**"Celebrating Diversity, Edifying Yangzhengnit**
+
+<img src="![](/images/Celebrating%20Diversity.jpeg)"  
+style="width:80%">
+
 To promote a deeper understanding of the different cultures, the school has a common theme -“Celebrating Diversity, Edifying Yangzhengnites” - for the celebration of the 3 festivals - Chinese New Year, Hari Raya Puasa and Deepavali. As we celebrate our diverse cultures across the 3 festivals, the school plans for common shared experiences for our Yangzhengnites to develop their 21CC skills.  
-**  
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 930px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; width: 449px;" class="ive_eobj_left" alt="01.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2022/CNY22/01.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; width: 448px;" class="ive_eobj_left" alt="02.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2022/CNY22/02.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
+<img src="NOOO"  
+style="width:80%">
 
-**On 31&nbsp;st&nbsp;January 2022, Yangzheng Primary School ushered in the Year of the Tiger with a host of activities which are planned for the pupils using the “Head, Hand and Heart (3H)” approach because we believe that values &amp; beliefs cannot just remain as head knowledge. As part of the celebrations, the pupils wore traditional ethnic costumes to school, making the atmosphere more vibrant and celebratory.  
-**  
+On 31&nbsp;st&nbsp;January 2022, Yangzheng Primary School ushered in the Year of the Tiger with a host of activities which are planned for the pupils using the “Head, Hand and Heart (3H)” approach because we believe that values &amp; beliefs cannot just remain as head knowledge. As part of the celebrations, the pupils wore traditional ethnic costumes to school, making the atmosphere more vibrant and celebratory. 
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 807.333px; height: 244px;" class="ives_tab_kosong ive_eobj_center"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 395px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 388px; height: 290px;" class="ive_eobj_center" alt="03.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2022/CNY22/03.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 412px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 419px; height: 277px;" class="ive_eobj_center" alt="04.jpg" src="https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2022/CNY22/04.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
 
