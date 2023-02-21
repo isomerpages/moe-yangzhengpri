@@ -161,41 +161,7 @@ Junior Girls Division Championships (National Tier 1 - Champion)
 </table>
   
 
-  
-
 ![Basketball Junior Girls.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2022/NSG%20&%20SYF/Basketball%20Junior%20Girls.jpg)  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
 Senior Girls Division Championships (South Zone – Champion)  
 
