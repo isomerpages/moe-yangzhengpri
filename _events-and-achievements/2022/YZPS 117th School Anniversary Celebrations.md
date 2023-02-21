@@ -26,7 +26,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="NOO" style="width:70%;">  
+<body><img src="![](/images/Programme%20Line-up.jpeg)" alt="Programme line-up for Assembly on 08 March." style="width:70%;">  
   
 </body>   
 
