@@ -71,8 +71,12 @@ style="width:80%">
 
 This year, the virtual concert included an innovative Chinese New Year Zodiac MTV by the teachers from the Festivals Team.  
   
-![31.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2022/CNY22/31.jpg)  
+<img src="![](/images/cny%202022%2031.jpeg)"  
+style="width:80%"> 
+
 The concert was ended by jovial Chinese New Year wishes by our school leaders, staff and pupils. It was a vibrant Chinese New Year Celebrations this year and it was wonderful to see the pupils’ involvement and excited faces today.  
   
-![32.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2022/CNY22/32.jpg)  
+<img src="nOO"  
+style="width:80%">
+
 The school would like to take this opportunity to thank our staff, pupils and parents for their support as we celebrate our diversity and edify our Yangzhengnites to learn about national identity and harmony in a fun and uplifting way.
