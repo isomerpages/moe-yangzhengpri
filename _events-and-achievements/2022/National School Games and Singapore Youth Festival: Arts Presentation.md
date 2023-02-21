@@ -112,7 +112,8 @@ Junior Boys Division Championship (National Tier 1 – 2nd Runner-up)
 </tbody>
 </table>
 
-![Basketball Junior Boys.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2022/NSG%20&%20SYF/Basketball%20Junior%20Boys.jpg)  
+<img src="![](/images/Basketball%20Junior%20Boys.jpeg)"  
+style="width:40%">
 
 Junior Girls Division Championships (National Tier 1 - Champion)  
 
