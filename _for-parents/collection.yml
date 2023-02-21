@@ -2,4 +2,5 @@ collections:
   for-parents:
     output: true
     order:
+      - Sexuality Education Programme.md
       - Student iCON.md
