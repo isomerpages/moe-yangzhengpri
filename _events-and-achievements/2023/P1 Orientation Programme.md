@@ -105,6 +105,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="LMAOOO" alt="P1 Orientation Programme 2023" style="width:85%;">  
+<body><img src="![](/images/P1%20Orientation%20Programme%202023_8.jpeg)" alt="P1 Orientation Programme 2023" style="width:85%;">  
   
 </body>
