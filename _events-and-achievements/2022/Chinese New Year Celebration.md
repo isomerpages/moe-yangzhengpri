@@ -11,7 +11,7 @@ style="width:80%">
 
 To promote a deeper understanding of the different cultures, the school has a common theme -“Celebrating Diversity, Edifying Yangzhengnites” - for the celebration of the 3 festivals - Chinese New Year, Hari Raya Puasa and Deepavali. As we celebrate our diverse cultures across the 3 festivals, the school plans for common shared experiences for our Yangzhengnites to develop their 21CC skills.  
 
-<img src="NOOO"  
+<img src="![](/images/CNY%202022_1.jpg)"  
 style="width:80%">
 
 On 31&nbsp;st&nbsp;January 2022, Yangzheng Primary School ushered in the Year of the Tiger with a host of activities which are planned for the pupils using the “Head, Hand and Heart (3H)” approach because we believe that values &amp; beliefs cannot just remain as head knowledge. As part of the celebrations, the pupils wore traditional ethnic costumes to school, making the atmosphere more vibrant and celebratory. 
