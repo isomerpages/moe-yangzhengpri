@@ -48,11 +48,11 @@ With the resumption of NSG and SYF in Term 2 and Term 3, we had a total of 170 p
 </tbody>
 </table>
 
-<img src="![](/images/Collage.jpeg)"  
-style="width:40%">
+<img src="/images/Collage.jpeg"  
+style="width:80%">
 
-<img src="![](/images/Collage_2.jpeg)"  
-style="width:40%">
+<img src="/images/Collage_2.jpeg"  
+style="width:80%">
 
 
 The pupils put in their finest effort during the competition, showing their resilience and motivation in the process. With the effort they have put in, we are proud to announce the following awardees for this year NSG Junior and Senior Division.  
@@ -112,8 +112,8 @@ Junior Boys Division Championship (National Tier 1 – 2nd Runner-up)
 </tbody>
 </table>
 
-<img src="![](/images/Basketball%20Junior%20Boys.jpeg)"  
-style="width:40%">
+<img src="/images/Basketball%20Junior%20Boys.jpeg"  
+style="width:80%">
 
 Junior Girls Division Championships (National Tier 1 - Champion)  
 
@@ -168,8 +168,8 @@ Junior Girls Division Championships (National Tier 1 - Champion)
 </table>
   
 
-<img src="![](/images/Basketball%20Junior%20Girls.jpeg)"  
-style="width:40%">
+<img src="/images/Basketball%20Junior%20Girls.jpeg"  
+style="width:80%">
 
 Senior Girls Division Championships (South Zone – Champion)  
 
@@ -221,8 +221,8 @@ Senior Girls Division Championships (South Zone – Champion)
 </table>
 
 
-<img src="![](/images/Basketball%20Senior%20Girls.jpeg)"  
-style="width:40%"> 
+<img src="/images/Basketball%20Senior%20Girls.jpeg"  
+style="width:80%"> 
 
 **NSG Football**  
 
@@ -275,5 +275,5 @@ Senior Girls Division Championships (National – 2nd Runner-up)
 Special Award - Player of the Match <br>
 Nirupama Sivadas
 
-<img src="![](/images/Football%20Senior%20Girls.jpeg)"  
-style="width:40%">
+<img src="/images/Football%20Senior%20Girls.jpeg"  
+style="width:80%">
