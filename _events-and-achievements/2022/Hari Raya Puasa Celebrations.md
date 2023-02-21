@@ -34,13 +34,12 @@ During the Hari Raya Puasa Assembly Programme on 18 May 2022, the pupils learnt 
 
 <img src="![](/images/Hari%20Raya_2.jpg)"  
 style="width:80%">
+
+<img src="![](/images/Hari%20Raya%202022_3.jpg)"  
+style="width:80%">
   
 
 On 20 May 2022, the pupils were involved in various Hari Raya Puasa craftwork activities in class during We-Time. The craftwork activities included Hari Raya Card (Primary 1), Hari Raya Money Packet (Primary 2), Ketupat Bookmark (Primary 3), Ketupat Weaving (Primary 4), Ketupat Weaving Hanging Decoration (Primary 5) and Hari Raya Pop Up Card (Primary 6).
-
-  
-<img src="![](/images/Hari%20Raya%202022_3.jpg)"  
-style="width:80%">
 
 <img src="![](/images/Hari%20Raya%202022_4.jpg)"  
 style="width:80%">
