@@ -26,7 +26,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Programme%20Line-up.jpeg)" alt="Programme line-up for Assembly on 08 March." style="width:70%;">  
+<body><img src="/images/Programme%20Line-up.jpeg" alt="Programme line-up for Assembly on 08 March." style="width:70%;">  
   
 </body>   
 
@@ -41,7 +41,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Classroom%20%20Recess.jpeg)" alt="Pupils engaged with assembly programme in the classroom and during recess." style="width:70%;">  
+<body><img src="/images/Classroom%20%20Recess.jpeg" alt="Pupils engaged with assembly programme in the classroom and during recess." style="width:70%;">  
   
 </body>  
 
@@ -58,7 +58,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Virtual%20Tour%20of%20Heritage%20Gallery.jpeg)" alt="Virtual tour of our Heritage Gallery" style="width:70%;">  
+<body><img src="/images/Virtual%20Tour%20of%20Heritage%20Gallery.jpeg" alt="Virtual tour of our Heritage Gallery" style="width:70%;">  
   
 </body>  
 
@@ -74,7 +74,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Gift%20Pack%20Items.jpeg)" alt="Gift pack items designed by our very own Yangzhengnites" style="width:70%;">  
+<body><img src="/images/Gift%20Pack%20Items.jpeg" alt="Gift pack items designed by our very own Yangzhengnites" style="width:70%;">  
   
 </body>  
 
@@ -91,7 +91,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Selected%20Artwork.jpeg)" alt="Selected artwork by Primary 5 and 6 pupils featured on the customised Rubik's cub." style="width:70%;">  
+<body><img src="/images/Selected%20Artwork.jpeg" alt="Selected artwork by Primary 5 and 6 pupils featured on the customised Rubik's cub." style="width:70%;">  
   
 </body>  
 
