@@ -32,25 +32,8 @@ Mrs Lim-Foo then gave a Chinese New Year speech to the whole school, followed by
   
   
 Next, the results of the CNY Best Decorated Classroom competition were revealed.  All classes had put in their finest efforts in the competition, putting up gorgeous festive decorations to liven up the CNY atmosphere in the school. There were so many well-decorated classrooms that the judges had a difficult time to pick the winners this year. The following are some of the stunning decorations by the winning classes:  
-![Picture11.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/Picture11.jpg)![Picture12.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/Picture12.jpg)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-![Picture13.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/Picture13.jpg)![Picture14.jpg](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/Events-updated/2023/CNY%20Celebration/Picture14.jpg)  
-  
-  
-  
-  
-  
-  
-  
-  
+
+![CNY 2023](/images/CNY%202023_7.jpg)
   
   
 Our talented students put up a stellar performance and brought festive joy to the audience. We had the Wushu and Guzheng CCA groups showcasing their best efforts in this celebration. An addition to this year’s concert was a CNY Dance performance put up by our talented teachers which entertained our students.  
