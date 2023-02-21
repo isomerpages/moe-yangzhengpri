@@ -21,13 +21,7 @@ During the celebration of Deepavali this year, Yangzheng Primary continued to pr
 
 On 9 and 11 November 2022, the school celebrated Deepavali with activities which are planned for the pupils using the “Head, Hand and Heart (3H)” approach. 
 
-| ![Picture14.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/Deepavali%202022/Picture14.png)  
- | ![Picture15.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/Deepavali%202022/Picture15.png)  
- |
-| --- | --- |
-| ![Picture16.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/Deepavali%202022/Picture16.png)  
- | ![Picture17.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/Deepavali%202022/Picture17.png)  
- |
+![Deepvali Celebration 2022](/images/Deepavali%20Celebration%202022_1.jpg)
 
 During the Deepavali Assembly Programme on 9 November 2022, the pupils learnt about the facts and story of Deepavali as well as traditional Deepavali practices. The Assembly Programme included a quiz segment and ended with a lively Deepavali Dance item by the P5 Tamil girls.  
 
