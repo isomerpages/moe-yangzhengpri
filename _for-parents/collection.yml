@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - School Services/Dental Clinic.md
       - School Services/School Bus.md
       - School Services/School Library.md
       - School Services/.keep
