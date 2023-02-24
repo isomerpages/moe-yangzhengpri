@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Healthy Lifestyle in Yangzheng/Canteen Food.md
       - Healthy Lifestyle in Yangzheng/Snacks for Break Time.md
       - Healthy Lifestyle in Yangzheng/.keep
       - Operating Hours for Payment Counter.md
