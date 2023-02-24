@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Parent Volunteer Programme.md
       - School Calendar.md
       - School Communication/Parents Gateway.md
       - School Communication/.keep
