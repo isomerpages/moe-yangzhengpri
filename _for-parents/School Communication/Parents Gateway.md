@@ -12,9 +12,16 @@ a) Open the Apple App Store or google Play Store app on your mobile phone.
 
 b) Search for the 'Parents Gateway' mobile app, or scan the QR code below.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Parents%20Gateway%20QR%20code.png)" alt="Parents Gateway QR code" style="width:70%;">  
   
-
-![Parents Gateway QR code.png](https://yangzhengpri.moe.edu.sg/qql/slot/u703/2022/For%20Parents/Parents%20Gateway/Parents%20Gateway%20QR%20code.png)
+</body> 
 
 Improved Push Notifications Details
 -----------------------------------
