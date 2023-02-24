@@ -40,7 +40,7 @@ For other matters, students can email the SLS Helpdesk at [helpdesk@sls.ufinity
   
 
 **Non-School Operating Hours** <br>
-Students can only contact the **SLS Helpdesk** outside the school operating hours.  
+Students can only contact the **<u>SLS Helpdesk</u>** outside the school operating hours.  
 
   
 
