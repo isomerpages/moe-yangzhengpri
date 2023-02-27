@@ -14,7 +14,7 @@ img {
 Mathematics Framework" style="width:75%;">  
   
 </body>  
-<figcaption style="text-align:right;">
+<figcaption style="text-align:center;">
 <em>From the Singapore Ministry of Education</em></figcaption>
 
 
