@@ -100,7 +100,6 @@ P6 pupils creating music using Garage Band software</figcaption>
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 411px; height: 230px;" class="ive_eobj_center" alt="Music_12.jpg" src="/images/Music_12.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 411px; height: 230px;" class="ive_eobj_center" alt="Music_13.jpg" src="/images/Music_13.jpeg"></td></tr></tbody></table>
 
-P6 pupils presenting their inquiry-based findings to their classes
 <figcaption style="text-align:center;">
 P1 pupils doing a pair greeting activity</figcaption>
 
