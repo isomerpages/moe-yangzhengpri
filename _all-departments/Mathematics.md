@@ -37,7 +37,7 @@ The SSM programme aims to engage learners in the learning and mastery of essenti
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 187px; height: 246px;" class="ive_eobj_center" alt="Mathematics_2.jpg" src="/images/Mathematics_2.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 328px; height: 246px;" class="ive_eobj_center" alt="Mathematics_3.jpg" src="/images/Mathematics_3.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 308px; height: 246px;" class="ive_eobj_center" alt="Mathematics_4.png" src="/images/Mathematics_4.png"></td></tr></tbody></table>
  
 
-<figcaption style="text-align:centre;">
+<figcaption style="text-align:center;">
 <em>Hands-on activities to build concepts for topics such as “Shapes”, “Multiplication”, “Fractions” etc.</em></figcaption>
 
 Solve N Learn
@@ -56,7 +56,7 @@ img {
 Mathematics Framework" style="width:75%;">  
   
 </body>  
-<figcaption style="text-align:centre;">
+<figcaption style="text-align:center;">
 <em>Solve N Learn entries are put up on SLS as part of Home-Based Learning packages.</em></figcaption>
 
 Blended Learning in Math
@@ -71,7 +71,7 @@ Blended learning in Math aims to encourage self-directed and collaborative learn
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 419px; height: 221px;" class="ive_eobj_center" alt="Mathematics_10.png" width="100%" src="/images/Mathematics_10.png"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 471px; height: 221px;" class="ive_eobj_center" alt="Mathematics-11.png" width="100%" src="/images/Mathematics-11.png"></td></tr></tbody></table>
 
-<figcaption style="text-align:centre;">
+<figcaption style="text-align:center;">
 <em>Application of Math knowledge to solve real-life problems</em></figcaption>
 
 
@@ -84,5 +84,5 @@ Mathematics Games Day is organised for Primary 1 to Primary 6 pupils in each sem
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 300px; height: 233px;" class="ive_eobj_center" alt="Mathematics_12.jpg" src="/images/Mathematics_12.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 294px; height: 233px;" class="ive_eobj_center" alt="Mathematics_13.jpg" src="/images/Mathematics_13.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 298px; height: 233px;" class="ive_eobj_center" alt="Mathematics_14.jpg" src="/images/Mathematics_14.jpeg"></td></tr></tbody></table>
 
-<figcaption style="text-align:centre;">
+<figcaption style="text-align:center;">
 <em>Pupils having fun during Math Games Day</em></figcaption>
