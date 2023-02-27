@@ -6,7 +6,8 @@ third_nav_title: "2023"
 ---
 “Celebrating Diversity, Edifying Yangzhengnites”  
 
-![CNY 2023](/images/CNY%202023_1.jpeg)
+<img src="/images/CNY%202023_1.jpeg"  
+style="width:70%">
   
 To promote a deeper understanding of the different cultures, the school has a common theme -“Celebrating Diversity, Edifying Yangzhengnites” - for the celebration of the 3 festivals - Chinese New Year, Hari Raya Puasa and Deepavali. As we celebrate our diverse cultures across the 3 festivals, the school plans for common shared experiences for our Yangzhengnites to develop their 21CC skills.  
 
