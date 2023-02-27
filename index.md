@@ -11,8 +11,8 @@ sections:
       button: P1 Orientation Programme. Click here to read more.
       url: /events-n-achievements/2022/p1-orientation-programme
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Virtual Tour@Yangzheng Primary School
+          description: Click here to find out more.
           url: https://google.com
         - title: Highlight B
           description: Important highlight B is equally important
