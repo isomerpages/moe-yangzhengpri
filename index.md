@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Virtual Tour@Yangzheng Primary School
           description: Click here to find out more.
-          url: https://google.com
+          url: /about-us/school-profile/our-story
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
