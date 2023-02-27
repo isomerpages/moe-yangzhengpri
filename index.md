@@ -4,7 +4,9 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: "MK @ Yangzheng Open House. Our school MOE Kindergarten Open House
+  will be held at MK @ First Toa Payoh Primary School on 18 February 2023 (Sat)
+  from 9 a.m. to 1 p.m. "
 sections:
   - hero:
       background: /images/yangzhengpri.gif
@@ -14,16 +16,10 @@ sections:
         - title: Virtual Tour@Yangzheng Primary School
           description: Click here to find out more.
           url: /about-us/school-profile/our-story
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: MK @ Yangzheng Open House
+          description: Click here to register.
+          url: https://www.eventbrite.com/e/2023-mk-open-house-tickets-505734434307
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
 ---
