@@ -14,7 +14,7 @@ Show and Tell activity provides an opportunity for students to practice academic
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 403px; height: 301px;" class="ive_eobj_center" alt="English Language_1.jpg" src="/images/English%20Language_1.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 402px; height: 301px;" class="ive_eobj_center" alt="English Language_2.jpg" src="/images/English%20Language_2.jpeg"></td></tr></tbody></table>
 
-<figcaption style="text-align:centre;">
+<figcaption style="text-align:center;">
 <em>Show and Tell in a Lower Primary class.</em></figcaption>
 
 Building Blocks
@@ -27,7 +27,7 @@ Building Blocks activities allow students to have the platform to interpret and 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 403px; height: 301px;" class="ive_eobj_center" alt="English Language_3.jpg" src="/images/English%20Language_3.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 404px; height: 301px;" class="ive_eobj_center" alt="English Language_4.jpg" src="/images/English%20Language_4.jpeg"></td></tr></tbody></table>
 
 
-<figcaption style="text-align:centre;">
+<figcaption style="text-align:center;">
 <em>Using building blocks, students create different scenarios to build up description skills in writing.</em></figcaption>
 
 Reader’s Theatre
@@ -39,7 +39,7 @@ Reader’s theatre is a style of performing in which the students collaborate to
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 402px; height: 301px;" class="ive_eobj_center" alt="English Language_5.jpg" src="/images/English%20Language_5.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 411px; height: 301px;" class="ive_eobj_center" alt="English Language_6.jpg" src="/images/English%20Language_6.jpeg"></td></tr></tbody></table>
 
-<figcaption style="text-align:centre;">
+<figcaption style="text-align:center;">
 <em>Middle Primary students reciting their scripts on stage.</em></figcaption>
 
 Primary 4 Theatre Experience
@@ -51,7 +51,7 @@ Theatre Experience is an empowering way for students to learn effective and clea
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 402px; height: 301px;" class="ive_eobj_center" alt="English Language_7.jpg" src="/images/English%20Language_7.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 404px; height: 301px;" class="ive_eobj_center" alt="English Language_8.jpg" src="/images/English%20Language_8.jpeg"></td></tr></tbody></table>
 
-<figcaption style="text-align:centre;">
+<figcaption style="text-align:center;">
 <em>A Primary 4 Theatre Experience class in session.</em></figcaption>
 
 Little Red Dot Publication
@@ -63,7 +63,7 @@ The Little Red Dot (LRD) focused on English Language learning, news and current 
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 403px; height: 301px;" class="ive_eobj_center" alt="English Language_9.jpg" src="/images/English%20Language_9.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 403px; height: 301px;" class="ive_eobj_center" alt="English Language_10.jpg" src="/images/English%20Language_10.jpeg"></td></tr></tbody></table>
 
-<figcaption style="text-align:centre;">
+<figcaption style="text-align:center;">
 <em>Critical Thinking skills are triggered through discussion of Little Red Dot articles</em></figcaption>
 
 Read and Enjoy
@@ -111,7 +111,7 @@ The school celebrated Speak Good English Movement (SGEM) cum Library Week throug
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 209px; height: 276px;" class="ive_eobj_center" alt="English Language_13.jpg" src="/images/English%20Language_13.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 208px; height: 276px;" class="ive_eobj_center" alt="English Language_14.jpg" src="/images/English%20Language_14.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 360px; height: 276px;" class="ive_eobj_center" alt="English Language_15.jpg" src="/images/English%20Language_15.jpeg"></td></tr></tbody></table>
 
-<figcaption style="text-align:right;">
+<figcaption style="text-align:center;">
 <em>Events planned for the students for SGEM cum Library Week</em></figcaption>
 
 Lit-Up Programme
