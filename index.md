@@ -8,8 +8,8 @@ notification: ""
 sections:
   - hero:
       background: /images/yangzhengpri.gif
-      button: P1 Orientation Programme. Click here to read more.
-      url: /events-n-achievements/2022/p1-orientation-programme
+      button: Yangzheng Corporate Video
+      url: https://youtu.be/Hst0rFkrByQ
       key_highlights:
         - title: Virtual Tour@Yangzheng Primary School
           description: Click here to find out more.
