@@ -8,8 +8,8 @@ notification: ""
 sections:
   - hero:
       background: /images/yangzhengpri.gif
-      button: Contact Us
-      url: /contact-us/
+      button: P1 Orientation Programme. Click here to read more.
+      url: /events-n-achievements/2022/p1-orientation-programme
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
