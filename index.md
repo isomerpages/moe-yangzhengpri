@@ -23,5 +23,3 @@ sections:
           description: Click here to find out more.
           url: https://www.moe.gov.sg/primary/p1-registration
 ---
-
-
