@@ -9,8 +9,8 @@ locations:
       - Serangoon Avenue 3
       - Singapore 556108
     operating_hours:
-      - days: Sat
-        time: 8.30am - 12.00pm
+      - days: Monday-Frinday
+        time: 7.30a.m. - 6 p.m.
         description: ""
     maps_link: ""
     title: Yangzheng Primary School
