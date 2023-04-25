@@ -22,4 +22,5 @@ sections:
         - title: Primary 1 Registration Exercise
           description: Click here to find out more.
           url: https://www.moe.gov.sg/primary/p1-registration
+      subtitle: Passion for Learning, Responsibility, Integrity, Self-Discipline, eMpathy
 ---
