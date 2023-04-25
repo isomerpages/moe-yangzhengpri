@@ -15,7 +15,7 @@ contacts:
   - content:
       - phone: +65 6284 6298
       - email: yzps@moe.edu.sg
-      - other: "Fax: 6287 9778"
+      - other: ""
     title: General Enquiries & Feedback
   - content:
       - phone: ""
