@@ -25,7 +25,13 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: "Nearest MRT Station:  Serangoon Station (CC13-Circle Line / NE12 - North
-          East Line) or Lorong Chuan Station (CC14 - Circle Line)"
+      - other: "  Serangoon Station (CC13-Circle Line / NE12 - North East Line) or
+          Lorong Chuan Station (CC14 - Circle Line)"
+    title: Nearest MRT Stations
+  - content:
+      - phone: ""
+      - email: ""
+      - other: "Bus Services:  SBS: 58 & 105 (Outside the school, Serangoon Ave 3)  SBS:
+          45, 133 & 135(Serangoon Ave 2)"
     title: ""
 ---
