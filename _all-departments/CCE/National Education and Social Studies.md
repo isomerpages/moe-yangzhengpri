@@ -14,10 +14,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/nex.jpeg" alt="
-National Education and Social Studies" style="width:75%;">  
+<img src="/images/nex.jpeg" alt="National Education and Social Studies" style="width:75%;">  
   
-</body> 
+ 
 
   
 <style type="text/css">
@@ -86,9 +85,9 @@ National Education and Social Studies" style="width:75%;">
 </tbody>
 </table>
 
-\*for International & PR students
+\*for International &amp; PR students
 
-Photos of NE Commemorative Days
+Photographs of National Education Commemorative Days
 -------------------------------
 
 <style>  
@@ -98,10 +97,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Photos%20of%20NE%20Commemorative%20Days_1.jpg" alt="
-Photos of NE Commemorative Days" style="width:75%;">  
+<img src="/images/Photos%20of%20NE%20Commemorative%20Days_1.jpg" alt="Photos of NE Commemorative Days" style="width:75%;">  
   
-</body> 
+ 
 <br>
 <style>  
 img {  
@@ -110,7 +108,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Photos%20of%20NE%20Commemorative%20Days_2.jpg" alt="
-Photos of NE Commemorative Days" style="width:75%;">  
-  
-</body>
+<img src="/images/Photos%20of%20NE%20Commemorative%20Days_2.jpg" alt="Photos of NE Commemorative Days" style="width:75%;">
