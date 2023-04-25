@@ -11,13 +11,6 @@ locations:
     operating_hours: []
     maps_link: ""
     title: Yangzheng Primary School
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
 contacts:
   - content:
       - phone: +65 6284 6298
