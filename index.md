@@ -14,7 +14,7 @@ sections:
       url: https://youtu.be/Hst0rFkrByQ
       key_highlights:
         - title: Virtual Tour@Yangzheng Primary School
-          description: Click here to find out more.
+          description: ""
           url: /about-us/school-profile/our-story
         - title: MK @ Yangzheng Open House
           description: Click here to register.
