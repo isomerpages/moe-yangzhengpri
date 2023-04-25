@@ -22,4 +22,10 @@ contacts:
       - email: yzps@moe.edu.sg
       - other: "Fax number: 6287 9778"
     title: "Telephone number: 62846298   "
+  - content:
+      - phone: ""
+      - email: ""
+      - other: "Nearest MRT Station:  Serangoon Station (CC13-Circle Line / NE12 - North
+          East Line) or Lorong Chuan Station (CC14 - Circle Line)"
+    title: ""
 ---
