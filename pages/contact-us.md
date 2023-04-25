@@ -19,11 +19,6 @@ contacts:
     title: General Enquiries & Feedback
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
-  - content:
-      - phone: ""
       - email: yzps@moe.edu.sg
       - other: "Fax number: 6287 9778"
     title: "Telephone number: 62846298   "
