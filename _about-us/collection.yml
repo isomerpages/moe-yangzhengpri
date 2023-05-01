@@ -1,0 +1,22 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - School Profile/Our Story.md
+      - School Profile/Vision, Mission and Values.md
+      - School Profile/School Crest and Song.md
+      - School Profile/.keep
+      - General School Information/School Hours.md
+      - General School Information/School Rules and Regulations.md
+      - General School Information/.keep
+      - Staff/Key Personnel.md
+      - Staff/Teaching Staff.md
+      - Staff/Non Teaching Staff.md
+      - Staff/.keep
+      - Partners/School Advisory Committee.md
+      - Partners/Parents' Links (PaLs).md
+      - Partners/Yangzheng Foundation.md
+      - Partners/Yangzheng (Yeung Ching) Alumni.md
+      - Partners/Yangzheng (Yeung Ching) Alumni (Youth).md
+      - Partners/Yeung Ching Scout Open Group.md
+      - Partners/.keep
