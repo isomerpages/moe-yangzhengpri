@@ -24,7 +24,7 @@ description: ""
   <tr>
     <td class="tg-0lax"><a href="/distinctive-programmes/all-departments/mathematics"><img src="/images/YZPS22_0086.jpeg" alt="Image" width="55" height="17"></a><br><span style="font-weight:bold"><a href="/distinctive-programmes/all-departments/mathematics">Mathematics</a></span></td>
     <td class="tg-0lax"><a href="/distinctive-programmes/all-departments/mother-tongue"><img src="/images/YZPS22_0062.jpeg" alt="Image" width="55" height="17"></a><br><span style="font-weight:bold"><a href="/distinctive-programmes/all-departments/mother-tongue/chinese-language/">Mother Tongue</a></span></td>
-    <td class="tg-0lax"><a href="/distinctive-programmes/all-departments/phe-aesthetics-cca"><img src="/images/YZPS22_0031.jpeg" alt="Image" width="55" height="17"></a><br><span style="font-weight:bold"><a href="/distinctive-programmes/all-departments/phe-aesthetics-cca">PHE / Aesthetics / CCA</a></span></td>
+    <td class="tg-0lax"><a href="/distinctive-programmes/all-departments/phe-aesthetics-cca/phe/"><img src="/images/YZPS22_0031.jpeg" alt="Image" width="55" height="17"></a><br><span style="font-weight:bold"><a href="/distinctive-programmes/all-departments/phe-aesthetics-cca/phe/">PHE / Aesthetics / CCA</a></span></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/distinctive-programmes/all-departments/science"><img src="/images/YZPS22_0102.jpeg" alt="Image" width="55" height="17"></a><br><span style="font-weight:bold"><a href="/distinctive-programmes/all-departments/science">Science</a></span></td>
