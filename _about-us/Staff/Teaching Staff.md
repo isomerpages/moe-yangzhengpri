@@ -57,7 +57,7 @@ Tamil Language Teachers
 Learning Support for Maths
 --------------------------
 
-<table class="ive_eobj_center iveo_table ives_tab_modern2" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; width: 930px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Mr Roger Tan<br style="margin: 0px; outline: 0px; padding: 0px;">Email: <a href="mailto:tan_cher_hui_roger@schools.gov.sg">tan_cher_hui_roger@schools.gov.sg</a></td></tr></tbody></table>
+<table class="ive_eobj_center iveo_table ives_tab_modern2" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; width: 930px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Mrs Kathy Tham<br style="margin: 0px; outline: 0px; padding: 0px;">Email: <a href="mailto:lim_kathy@schools.gov.sg">lim_kathy@schools.gov.sg</a></td></tr></tbody></table>
 
 Learning Support Coordinator (LSC)
 ----------------------------------
