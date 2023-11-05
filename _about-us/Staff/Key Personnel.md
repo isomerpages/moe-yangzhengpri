@@ -50,14 +50,6 @@ Subject Heads
     <td class="tg-usax">Mathematics<br></td>
     <td class="tg-usax">Mrs Celestia Tan<br></td>
   </tr>
-  <tr>
-    <td class="tg-m24b">Physical Education<br></td>
-    <td class="tg-m24b">Mr Chan Kiat Heo Samuel</td>
-  </tr>
-  <tr>
-    <td class="tg-usax">Science<br></td>
-    <td class="tg-usax">Mdm Anusuya Retnam</td>
-  </tr>
 </tbody>
 </table>
 
