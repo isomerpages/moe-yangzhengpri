@@ -3,6 +3,7 @@ title: Key Personnel
 permalink: /about-us/staff/key-personnel/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 <p style="text-align:center;">Mrs Lim-Foo Boon Ching<br><strong>Principal</strong><br><a href="mailto:lim-foo_boon_ching@schools.gov.sg">lim-foo_boon_ching@schools.gov.sg</a></p>  
 
@@ -11,12 +12,12 @@ third_nav_title: Staff
 School Staff Developer
 ----------------------
 
-Mr Wu Wai Tuck <BR>
+Mr Wu Wai Tuck <br>
 
 Head of Departments
 -------------------
 
-<table class="iveo_table ives_tab_modern2 ive_eobj_left" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: none; width: 664.787px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left; width: 377px;">Character and Citizenship Education (CCE)</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left; width: 287px;">Mdm Wong Wan Loo</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Discipline and Student Leadership</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Ms Narayanasamy Tamizmalar</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Information and Communication Technology (ICT)</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Ms Alice Chua</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Mathematics</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Mrs Toh Peng Tee</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Mother Tongue</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Mr Cher Yong Chuan</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Science</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Mdm Noryati Bte Ab Rahaman</td></tr></tbody></table><BR>
+<table class="iveo_table ives_tab_modern2 ive_eobj_left" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: none; width: 664.787px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left; width: 377px;">Character and Citizenship Education (CCE)</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left; width: 287px;">Mdm Wong Wan Loo</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Discipline and Student Leadership</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Ms Narayanasamy Tamizmalar</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Information and Communication Technology (ICT)</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Ms Alice Chua</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Mathematics</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Mrs Toh Peng Tee</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Mother Tongue</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Mr Cher Yong Chuan</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Science</td><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Mdm Noryati Bte Ab Rahaman</td></tr></tbody></table><br>
 
 Subject Heads
 -------------
@@ -49,14 +50,6 @@ Subject Heads
   <tr>
     <td class="tg-usax">Mathematics<br></td>
     <td class="tg-usax">Mrs Celestia Tan<br></td>
-  </tr>
-  <tr>
-    <td class="tg-m24b">Physical Education<br></td>
-    <td class="tg-m24b">Mr Chan Kiat Heo Samuel</td>
-  </tr>
-  <tr>
-    <td class="tg-usax">Science<br></td>
-    <td class="tg-usax">Mdm Anusuya Retnam</td>
   </tr>
 </tbody>
 </table>
@@ -148,12 +141,14 @@ Senior Teachers
 </tbody>
 </table>
 
-Administrative Manager
+Administrative Managers
 ----------------------
 
 Mr Mike Tee  
 Email: <a href="mailto:tee\_kai\_hoe@schools.gov.sg">tee\_kai\_hoe@schools.gov.sg</a>
   
+Ms Linda Lau    
+Email: <a href="mailto:lau\_vunyin@schools.gov.sg">lau\_vunyin@schools.gov.sg</a>
 
 Operations Manager
 ------------------
