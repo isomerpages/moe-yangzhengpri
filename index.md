@@ -4,9 +4,7 @@ title: Yangzheng Primary School
 description: Yangzheng Primary School
 image: /images/homepage_logo.png
 permalink: /
-notification: "MK @ Yangzheng Open House. Our school MOE Kindergarten Open House
-  will be held at MK @ First Toa Payoh Primary School on 18 February 2023 (Sat)
-  from 9 a.m. to 1 p.m. "
+notification: ""
 sections:
   - hero:
       background: /images/yangzhengpri.gif
