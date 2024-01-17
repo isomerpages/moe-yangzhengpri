@@ -2,7 +2,6 @@ collections:
   events-and-achievements:
     output: true
     order:
-      - 2023/Trial.md
       - 2023/.keep
       - 2023/2023.md
       - 2023/P1 Orientation Programme.md
