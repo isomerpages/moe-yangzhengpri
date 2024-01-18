@@ -4,6 +4,9 @@ permalink: /mk-at-yangzheng/
 description: ""
 variant: markdown
 ---
+[![MOE Kindergarten](/images/MOE%20Kindergarten.jpeg)](https://www.moe.gov.sg/preschool/moe-kindergarten)
+
+ 
 **Curriculum and Programmes**
 Click [here](https://www.moe.gov.sg/preschool/moe-kindergarten) to find out more.
 
