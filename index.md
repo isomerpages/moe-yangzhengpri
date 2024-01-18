@@ -16,7 +16,7 @@ sections:
           url: /about-us/school-profile/our-story
         - title: MK @ Yangzheng Open House
           description: Click here to register.
-          url: https://go.gov.sg/2024mkyzopenhouse
+          url: https://form.gov.sg/654c2c4128c6d00011d38319
         - title: Primary 1 Registration Exercise
           description: Click here to find out more.
           url: https://www.moe.gov.sg/primary/p1-registration
