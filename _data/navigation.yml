@@ -1,0 +1,12 @@
+logo: /images/homepage_logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Distinctive Programmes
+    collection: distinctive-programmes
+  - title: Events & Achievements
+    collection: events-and-achievements
+  - title: MK @ Yangzheng
+    url: /mk-at-yangzheng/
+  - title: For Parents
+    collection: for-parents

@@ -1,0 +1,24 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Performing Arts/.keep
+      - Performing Arts/Performing Arts.md
+      - Performing Arts/Chinese Dance.md
+      - Performing Arts/Concert Band.md
+      - Performing Arts/Guzheng.md
+      - Performing Arts/Modern Dance.md
+      - Clubs/.keep
+      - Clubs/Clubs.md
+      - Clubs/Art Club.md
+      - Clubs/GreEN Club.md
+      - Clubs/Digital Media.md
+      - Sports/.keep
+      - Sports/Sports.md
+      - Sports/Basketball.md
+      - Sports/Football.md
+      - Sports/Wushu.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Uniformed Groups.md
+      - Uniformed Groups/Brownies.md
+      - Uniformed Groups/Cub Scouts.md

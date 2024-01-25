@@ -1,0 +1,6 @@
+collections:
+  aesthetics:
+    output: true
+    order:
+      - Art.md
+      - Music.md
