@@ -30,24 +30,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Ng Siew Quan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lam Yew Choong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Lim-Foo Boon Ching</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Chairman</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Lam Yew Choong</p>
 <p><strong>Treasurer</strong>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mrs Lim-Foo Boon Ching</p>
 <p><strong>Secretary</strong>
 </p>
 </td>
@@ -56,7 +49,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4a.JPG">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -74,7 +67,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chia Weng Soon</p>
+<p>Mr Khoo Chin Hang Nicholas Aaron</p>
 <p><strong>Member</strong>
 </p>
 </td>
