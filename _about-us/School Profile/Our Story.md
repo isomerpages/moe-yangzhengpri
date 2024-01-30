@@ -5,7 +5,6 @@ description: ""
 third_nav_title: School Profile
 variant: markdown
 ---
-
 <table style="width:460.85pt;background:white;border-collapse:collapse;border:none;
  mso-border-alt:solid #AAAAAA .75pt;mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in" width="614" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="border:solid #AAAAAA 1.0pt;mso-border-alt:solid #AAAAAA .75pt;
   padding:1.5pt 1.5pt 1.5pt 1.5pt" valign="top"><p class="MsoNormal"><b><span style="font-size:16.0pt;line-height:107%;
