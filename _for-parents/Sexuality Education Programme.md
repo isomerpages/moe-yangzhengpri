@@ -98,7 +98,8 @@ out of the Sexuality Education lessons need to complete an opt-out form.
 This form will be communicated &nbsp;to parents at the start of the year
 and is also downloadable <br> </p>[here](/files/Parents_Opt_Out_Form_2024__Annex_A_.pdf) 
 
-	The completed opt-out form is to be submitted by 26/02/2024.
+The completed opt-out form is to be submitted by 26/02/2024.
+
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 62846298
 or <a rel="noopener noreferrer nofollow" target="_blank">yzps@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
