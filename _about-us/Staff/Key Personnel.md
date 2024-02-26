@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h2>School Leaders</h2>
 <p>Mrs Lim-Foo Boon Ching
-<br><strong>Principal</strong>
+<br><strong>Principal</strong> 
 <br><a href="mailto:lim-foo_boon_ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim-foo_boon_ching@schools.gov.sg</a>
 </p>
 <table>
