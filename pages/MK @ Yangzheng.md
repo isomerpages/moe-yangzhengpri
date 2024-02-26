@@ -18,7 +18,9 @@ Our school MOE Kindergarten Open House will be held at MK @ Yangzheng Primary Sc
 
   
 
-Click&nbsp;[here](https://form.gov.sg/654c2c4128c6d00011d38319)&nbsp;for the Open House registration.
+
+
+Click [here](https://drive.google.com/file/d/1wISKillUYrJ96tvQKxhU1-342Pz5WLkh/view?usp=drive_link) for the Open House Briefing Slides.
 
 **MK@YZ Open House&nbsp;Programme&nbsp;2024**
 
