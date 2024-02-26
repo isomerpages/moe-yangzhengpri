@@ -3,6 +3,7 @@ title: Yangzheng (Yeung Ching) Alumni
 permalink: /about-us/partners/yangzheng-yeung-ching-alumni/
 description: ""
 third_nav_title: Partners
+variant: markdown
 ---
 <p style="text-align:center;"><strong>Yangzheng (Yeung Ching) Alumni Association (21 and above)</strong></p>
 
@@ -25,8 +26,8 @@ In June 2003, their application was renewed and the alumni association now inclu
 
 **Application form**
 
-[https://docs.google.com/forms/d/e/1FAIpQLSeqYSJ2DBLznvnyYWpZuRyDHfA-u40MxzV88YAcZA2nP71lVA/viewform](https://docs.google.com/forms/d/e/1FAIpQLSeqYSJ2DBLznvnyYWpZuRyDHfA-u40MxzV88YAcZA2nP71lVA/viewform)
+[https://forms.gle/HUisL3mUYneJja6L6](https://forms.gle/HUisL3mUYneJja6L6)
 
   
 
-After filling up the application form, please email your P6 Results Slip or PSLE Certificate to [yangzhengalumni.org@gmail.com](mailto:yangzhengalumni.org@gmail.com) for verification purpose. (Kindly ensure that the whole document is clearly shown.)
+After filling up the application form, please email your&nbsp;P6 Results Slip&nbsp;or&nbsp;PSLE Certificate&nbsp;to&nbsp;[yangzhengalumni.org@gmail.com](mailto:yangzhengalumni.org@gmail.com)&nbsp;for verification purpose. (Kindly ensure that the whole document is clearly shown.)
