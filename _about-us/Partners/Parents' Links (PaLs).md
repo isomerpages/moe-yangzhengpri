@@ -3,6 +3,7 @@ title: Parents' Links (PaLs)
 permalink: /about-us/partners/parents-links-pals/
 description: ""
 third_nav_title: Partners
+variant: markdown
 ---
 In Yangzheng Primary School, the roles of the Parents’ Links or PaLs (Parent Support Group of the school) are as follows:  
 
@@ -17,6 +18,13 @@ In Yangzheng Primary School, the roles of the Parents’ Links or PaLs (Parent S
 PaLs provides parents with varied opportunities to share services, expertise, knowledge and time with the school for the benefit of our children. Come join us today if you have not yet done so. We welcome parents to join us even if you can only make time for one activity in a school-year.  
   
 Do email us at [yzps@moe.edu.sg](mailto:yeo_kim_ying@moe.edu.sg) for any queries.
+
+      
+
+# Engagement Session with Parents’ Links Members and Family Bonding Day 2023
+
+On 29 April 2023 (Saturday), our school engaged with our PaLs members via an Engagement session before the Family Bonding Day organized specially for them and their families. PaLs Members are important and valued members of the community. This event aims to promote bonding amongst the PaLs Members as well as parent-child relationship building. The two activities which were organized for our PaLs Members and their families during the Family Bonding Day were Laser Tag and Poolball. It was a truly a great bonding session that Saturday morning amongst the PaLs Members as well as between parent and child!
+
 
 Parents Appreciation Lunch 2022
 -------------------------------
@@ -117,9 +125,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Group%20photo.jpeg" alt="Group Photo" style="width:50%;">  
+<img src="/images/Group%20photo.jpeg" alt="Group Photo" style="width:50%;">  
   
-</body>  
+  
 <figcaption style="text-align:center;">Group photo</figcaption>
 
 PaLs Family Bonding Day at East Coast Park
@@ -139,9 +147,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/IMG_7671.jpeg" alt="PaLs Family Bonding Day - Parenting Theater" style="width:50%;">  
+<img src="/images/IMG_7671.jpeg" alt="PaLs Family Bonding Day - Parenting Theater" style="width:50%;">  
   
-</body>  
+  
 
 Sports Fiesta
 -------------
