@@ -16,7 +16,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Juliyana Binte Omar</p>
-<p>Email: <a href="mailto:juliyana_omar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">juliyana_omar@schools.gov.sg</a>
+<p>Email: <a href="mailto:juliyana_omar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">juliyana_omar@schools.gov.sg</a> 
 <br>
 </p>
 </td>
