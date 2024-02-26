@@ -208,7 +208,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zou Bin</p>
-<p></p>
 <p><a href="mailto:zou_bin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zou_bin@schools.gov.sg</a>
 </p>
 </td>
