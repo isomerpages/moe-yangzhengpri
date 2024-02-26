@@ -26,8 +26,6 @@ In June 2003, their application was renewed and the alumni association now inclu
 
 **Application form**
 
-        
-
 [https://forms.gle/HUisL3mUYneJja6L6](https://forms.gle/HUisL3mUYneJja6L6)
 
   
