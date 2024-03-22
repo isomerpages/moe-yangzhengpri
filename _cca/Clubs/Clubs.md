@@ -29,7 +29,7 @@ variant: tiptap
 <br>Ms R Geetha Meyyappan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday
+<p><u>Friday</u> 
 <br>2 p.m. to 3.30 p.m.</p>
 </td>
 </tr>
@@ -52,7 +52,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday
+<p><u>Friday</u> 
 <br>2 p.m. to 3.30 p.m.</p>
 </td>
 </tr>
@@ -74,7 +74,7 @@ variant: tiptap
 <br>Ms Lin Xiu Judith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday
+<p><u>Tuesday</u> 
 <br>2 p.m. to 3.30 p.m.</p>
 </td>
 </tr>
