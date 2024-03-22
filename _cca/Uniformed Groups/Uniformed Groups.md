@@ -45,14 +45,13 @@ variant: tiptap
 <br>('E' Block Level 1 Classrooms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Dominic Heng (P4)
-<br>Ms Audrey Lioe (P5)
-<br>Mr Roger Tan (P6)
-<br>Mrs Kathy Tham (P3)</p>
+<p>Mr Dominic Heng
+<br>Mrs Kathy Tham
+<br>tMs Irene Toh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Friday
-<br>3.15 p.m. to 4.45 p.m.</p>
+<br>2 p.m. to 3.30 p.m.</p>
 </td>
 </tr>
 </tbody>
