@@ -156,4 +156,3 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p>Rope</p>
