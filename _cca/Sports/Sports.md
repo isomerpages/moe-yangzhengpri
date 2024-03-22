@@ -25,7 +25,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Basketball
-<br>(Indoor Sports Hall)
+<br>(Indoor Sports Hall Level 1 and level 3)
 <br>
 </p>
 </td>
@@ -43,15 +43,13 @@ variant: tiptap
 <p>Tuesday and Friday
 <br>2.15 p.m. to 5.15 p.m.
 <br>Girls:
-<br>Tuesday - ISH Level 1)
+<br>Tuesday - ISH Level 1
 <br>Friday
-<br>Friday - ISH level 3)
+<br>Friday - ISH level 3
 <br>
-<br><strong>Boys</strong> :
-<br><u>Tuesday</u> 
-<br>2.15 p.m. to 5.15 p.m. (ISH Level 1)
-<br><u>Friday</u> 
-<br>2.15 p.m. to 5.15 p.m. (ISH level 3)</p>
+<br>Boys :
+<br>Tuesday - ISH Level 3
+<br>Friday - ISH level 1</p>
 </td>
 </tr>
 <tr>
