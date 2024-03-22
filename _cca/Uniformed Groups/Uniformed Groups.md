@@ -26,7 +26,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Fatimah Bte Mohtar
 <br>Ms Neo Cai Yun
-<br>Ms Teo Wei Shan</p>
+<br>Ms Teo Wei Shan
+<br>Mdm Asnita Binte Abas</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday
