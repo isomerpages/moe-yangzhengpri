@@ -70,7 +70,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>P4 and P5</strong> 
-<br><u>Tuesday</u>
+<br><u>Tuesday</u> 
 <br>3 p.m. to 4.30 p.m.
 <br>
 <br><strong>P3 and P6</strong> 
