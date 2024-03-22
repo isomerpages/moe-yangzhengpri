@@ -141,7 +141,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Rope Skipping
+<br>(School Hall)
+<br>*Up to Term 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -152,4 +154,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>Rope</p>
