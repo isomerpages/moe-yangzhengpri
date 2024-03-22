@@ -34,7 +34,7 @@ variant: tiptap
 <br>Mr Seah Choon Sheng
 <br>Ms Ginny Low
 <br>Ms Lim Sok Ping
-<br>Zhang Lijuan
+<br>Mdm Zhang Lijuan
 <br>Mr Kwan Yan Wei
 <br>
 </p>
