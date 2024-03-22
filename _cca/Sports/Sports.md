@@ -40,10 +40,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Girls</u></strong> :
-<br>Tuesday
+<p><strong>Girls</strong> :
+<br><u>Tuesday</u> 
 <br>2.15 p.m. to 5.15 p.m. (ISH Level 1)
-<br>Friday
+<br><u>Friday</u> 
 <br>2.15 p.m. to 5.15 p.m. (ISH level 3)
 <br>Tuesday and Thursday (Boys)
 <br>
