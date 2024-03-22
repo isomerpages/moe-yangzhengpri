@@ -146,10 +146,12 @@ variant: tiptap
 <br>*Up to Term 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Susan Chua
+<br>Mdm Asnita Binte Abas</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tuesdayy
+<br>2.15 p.m. to 3.45 p.m.</p>
 </td>
 </tr>
 </tbody>
