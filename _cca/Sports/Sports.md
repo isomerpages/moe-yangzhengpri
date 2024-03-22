@@ -3,7 +3,7 @@ title: Sports
 permalink: /distinctive-programmes/all-departments/phe-aesthetics-cca/cca/sports/
 description: ""
 third_nav_title: Sports
-variant: markdown
+variant: tiptap
 ---
 <table>
 <tbody>
@@ -40,7 +40,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday and Friday
+<p><u>Tuesday and Friday</u> 
 <br>2.15 p.m. to 5.15 p.m.
 <br>
 <br>Girls:
@@ -70,11 +70,11 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>P4 and P5</strong> 
-<br>Tuesday
+<br><u>Tuesday</u>
 <br>3 p.m. to 4.30 p.m.
 <br>
 <br><strong>P3 and P6</strong> 
-<br>Friday
+<br><u>Friday</u> 
 <br>3 p.m. to 4.30 p.m.</p>
 </td>
 </tr>
@@ -95,7 +95,7 @@ variant: markdown
 <br>Mrs Jasmine Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday
+<p><u>Tuesday</u> 
 <br>2.15 p.m. to 5.15 p.m.
 <br>
 </p>
@@ -124,7 +124,7 @@ variant: markdown
 <br>Mdm Tan Yan Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday
+<p><u>Friday</u> 
 <br>2.15 p.m. to 4.15 p.m.</p>
 </td>
 </tr>
@@ -150,9 +150,10 @@ variant: markdown
 <br>Mdm Asnita Binte Abas</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday
+<p><u>Tuesday</u> 
 <br>2.15 p.m. to 3.45 p.m.</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
