@@ -69,8 +69,9 @@ variant: tiptap
 <br>Mr Dominic Heng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday
-<br>3 p.m. to 4.340 p.m. (P3 &amp; P4)
+<p><strong>P4 and P5</strong>
+<br>Tuesday
+<br>3 p.m. to 4.30 p.m.
 <br>
 <br>Friday
 <br>3 p.m. to 4.30 p.m. (P5)
