@@ -32,7 +32,7 @@ variant: tiptap
 <br>Mdm Margaret Chee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Tuesday and Friday</u>
+<p><u>Tuesday and Friday</u> 
 <br>2.15 p.m. to 3.45 p.m.
 <br>
 </p>
@@ -57,7 +57,7 @@ variant: tiptap
 <br>Ms Lim Pei Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Tuesday and Friday</u>
+<p><u>Tuesday and Friday</u> 
 <br>2 p.m. to 4 p.m.</p>
 </td>
 </tr>
@@ -78,7 +78,7 @@ variant: tiptap
 <br>Ms Li Cong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Tuesday and Friday</u>
+<p><u>Tuesday and Friday</u> 
 <br>2 p.m. to 3.30 p.m.</p>
 </td>
 </tr>
@@ -98,7 +98,7 @@ variant: tiptap
 <br>Mdm Siti Mufarraha Bte Adam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Friday</u>
+<p><u>Friday</u> 
 <br>2.15 p.m. to 3.45 p.m.</p>
 </td>
 </tr>
