@@ -24,7 +24,8 @@ variant: tiptap
 <br>(Art Room)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Yeo Kim Ying Ms Christina T P d/o Thangaya
+<p>Mrs Yeo Kim Ying
+<br>Ms Christina T P d/o Thangaya
 <br>Ms R Geetha Meyyappan</p>
 </td>
 <td rowspan="1" colspan="1">
