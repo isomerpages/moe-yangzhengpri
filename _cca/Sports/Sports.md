@@ -45,7 +45,6 @@ variant: tiptap
 <br>
 <br>Girls:
 <br>Tuesday - ISH Level 1
-<br>Friday
 <br>Friday - ISH level 3
 <br>
 <br>Boys :
