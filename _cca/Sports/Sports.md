@@ -30,12 +30,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jason Goh (Girls)
-<br>Mr Seah Choon Sheng (Boys)
-<br>Mdm Jasmine Ng
+<p>Mr Jason Goh
+<br>Mr Seah Choon Sheng
 <br>Ms Ginny Low
 <br>Ms Lim Sok Ping
-<br>Mdm Lily Lee</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday and Friday (Girls)
