@@ -73,7 +73,7 @@ variant: tiptap
 <br>Tuesday
 <br>3 p.m. to 4.30 p.m.
 <br>
-<br><strong>P3 and P6</strong>
+<br><strong>P3 and P6</strong> 
 <br>Friday
 <br>3 p.m. to 4.30 p.m.</p>
 </td>
@@ -96,8 +96,8 @@ variant: tiptap
 <br>Mdm Lim Kah Gek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday
-<br>3 p.m. to 4.30 p.m.
+<p>Tuesday
+<br>2 p.m. to 5.15 p.m.
 <br>(P3 &amp; P4 Recreational Team)
 <br>4.30 p.m. to 6 p.m.
 <br>(P5 &amp; P6 Recreational Team)
