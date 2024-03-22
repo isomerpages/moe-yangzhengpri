@@ -97,7 +97,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday
-<br>2 p.m. to 5.15 p.m.
+<br>2.15 p.m. to 5.15 p.m.
 <br>(P3 &amp; P4 Recreational Team)
 <br>4.30 p.m. to 6 p.m.
 <br>(P5 &amp; P6 Recreational Team)
