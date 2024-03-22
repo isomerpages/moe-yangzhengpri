@@ -69,13 +69,13 @@ variant: tiptap
 <br>Mr Dominic Heng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P4 and P5</strong>
+<p><strong>P4 and P5</strong> 
 <br>Tuesday
 <br>3 p.m. to 4.30 p.m.
 <br>
+<br><strong>P3 and P6</strong>
 <br>Friday
-<br>3 p.m. to 4.30 p.m. (P5)
-<br>3.45 p.m. to 5.15 p.m. (P6)</p>
+<br>3 p.m. to 4.30 p.m.</p>
 </td>
 </tr>
 <tr>
