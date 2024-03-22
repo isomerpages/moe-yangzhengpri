@@ -115,7 +115,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Badminton</p>
+<p>Badminton
+<br>(School Hall)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Susan Chua
@@ -125,6 +126,28 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Friday
 <br>2.15 p.m. to 4.15 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
