@@ -118,10 +118,13 @@ variant: tiptap
 <p>Badminton</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Susan Chua
+<br>Mdm Zhang Sha
+<br>Mdm Tan Yan Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Friday
+<br>2.15 p.m. to 4.15 p.m.</p>
 </td>
 </tr>
 </tbody>
