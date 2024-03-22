@@ -61,7 +61,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Football
-<br>(Zhonghua Secondary School Field/ Parade Square)</p>
+<br>(Zhonghua Secondary
+<br>School Field/
+<br>Parade Square)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Thomas Ho
