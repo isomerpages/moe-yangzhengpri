@@ -25,7 +25,8 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Basketball
-<br>(Indoor Sports Hall Level 1 and level 3)
+<br>(Indoor Sports Hall
+<br>Level 1 and level 3)
 <br>
 </p>
 </td>
