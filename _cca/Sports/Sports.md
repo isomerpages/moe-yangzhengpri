@@ -40,7 +40,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday and Friday (Girls)
+<p>Girls
+<br>Tuesday and Friday
 <br>2.30 p.m. to 5.30 p.m.
 <br>
 <br>Tuesday and Thursday (Boys)
