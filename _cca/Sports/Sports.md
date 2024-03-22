@@ -63,10 +63,10 @@ variant: tiptap
 <br>(Zhonghua Secondary School Field/ Parade Square)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Thomas Ho (P5 Boys)
-<br>Mr Shalihin (P3 and P6 Boys)
+<p>Mr Thomas Ho
+<br>Mr Shalihin
 <br>Ms Siti Rozalita Bte Amin
-<br>Mr Dominic Heng (P4 Boys)</p>
+<br>Mr Dominic Heng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday
