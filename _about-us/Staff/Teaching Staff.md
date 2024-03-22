@@ -591,9 +591,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rhys Tan
-<br>Email: <a href="mailto:rhys_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rhys_tan@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -657,7 +655,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Teo Shui Yi Jennifer
-<br>Email: <a href="mailto:teoh_kiah_huan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_shui_yi@schools.gov.sg</a> 
+<br>Email: <a href="mailto:teoh_kiah_huan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_shui_yi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
