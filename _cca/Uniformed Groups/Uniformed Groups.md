@@ -30,7 +30,7 @@ variant: tiptap
 <br>Mdm Asnita Binte Abas</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday
+<p><u>Tuesday</u> 
 <br>2 p.m. to 3.30 p.m.</p>
 </td>
 </tr>
@@ -50,7 +50,7 @@ variant: tiptap
 <br>tMs Irene Toh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday
+<p><u>Friday</u> 
 <br>2 p.m. to 3.30 p.m.</p>
 </td>
 </tr>
