@@ -43,7 +43,8 @@ variant: tiptap
 <p><strong><u>Girls</u></strong> :
 <br>Tuesday
 <br>2.15 p.m. to 5.15 p.m. (ISH Level 1)
-<br>
+<br>Friday
+<br>2.15 p.m. to 5.15 p.m. (ISH level 3)
 <br>Tuesday and Thursday (Boys)
 <br>
 <br>3 p.m. to 4 p.m. (Session 1)
