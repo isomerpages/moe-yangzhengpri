@@ -91,9 +91,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Celine Chew
 <br>Mdm Stella Lim Bee Yean
-<br>Mdm Zhang Li Juan
-<br>Mr Kwan Yan Wei
-<br>Mdm Lim Kah Gek</p>
+<br>Mdm Lim Kah Gek
+<br>Mrs Jasmine Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday
