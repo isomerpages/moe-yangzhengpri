@@ -6,7 +6,11 @@ third_nav_title: Staff
 variant: tiptap
 ---
 <h2>Primary 1 Form Teachers</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -91,7 +95,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Primary 2 Form Teachers</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -131,8 +139,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>2C</strong>
 </p>
-<p>Mr Abu Naeem Bin Hairon
-<br>Email: <a href="mailto:abu_naeem_b_hairon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">abu_naeem_b_hairon@schools.gov.sg</a> 
+<p>Mrs Annie Ong
+<br>Email: <a href="mailto:chia_wan_ling_annie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_wan_ling_annie@schools.gov.sg</a>
 <br>
 </p>
 </td>
@@ -141,6 +149,10 @@ variant: tiptap
 <br>Mdm Zhang Sha
 <br>Email: <a href="mailto:zhang_sha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_sha@schools.gov.sg</a>
 </p>
+<p>Ms Li Cong
+<br>Email: <a href="mailto:li_cong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_cong@schools.gov.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -156,10 +168,10 @@ variant: tiptap
 <br>Mdm Liang Qi
 <br>Email: <a href="mailto:liang_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liang_qi@schools.gov.sg</a>
 </p>
-<p></p>
-<p>Ms Li Cong
-<br>Email: <a href="mailto:li_cong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_cong@schools.gov.sg</a>
+<p>R Geetha Meyyappan
+<br>Email: <a href="mailto:R_Geetha_Meyyappan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">R_Geetha_Meyyappan@schools.gov.sg</a>
 </p>
+<p></p>
 <p></p>
 </td>
 </tr>
@@ -183,7 +195,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Primary 3 Form Teachers</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -265,14 +281,19 @@ variant: tiptap
 <p>
 <br>Mdm Tan Yan Ling
 <br>Email: <a href="mailto:tan_yan_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yan_ling@schools.gov.sg</a> 
-<br>
+<br>Ms Noor Faizana Binte Sulthanul Ariff
+<br>Email: <a href="mailto:goh_mai_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_mai_leng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
 <h2>Primary 4 Form Teachers</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -301,8 +322,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>Ms Alice Chua
-<br>Email: <a href="mailto:chua_ling_yin_alice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_ling_yin_alice@schools.gov.sg</a>
+<br>Mdm Chin Siew Hoon
+<br>Email: <a href="mailto:chin_siew_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_siew_hoon@schools.gov.sg</a>
+</p>
+<p>Mr Leong Wai-Kit, Gavan&nbsp;
+<br>Email: <a href="mailto:LEONG_WAIKIT_GAVAN@MOE.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">LEONG_WAIKIT_GAVAN@MOE.EDU.SG</a>
 </p>
 </td>
 </tr>
@@ -352,9 +376,8 @@ variant: tiptap
 <p></p>
 <p>Mrs Angela Ong
 <br>Email: <a href="mailto:leong_wai_fung@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_wai_fung@schools.gov.sg</a>
-</p>
-<p>
-<br>
+<br>Ms Liu Zhe
+<br>Email: <a href="mailto:Liu_Zhe@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Liu_Zhe@schools.gov.sg</a>
 <br>
 </p>
 </td>
@@ -362,7 +385,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Primary 5 Form Teachers</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -370,6 +397,9 @@ variant: tiptap
 </p>
 <p>Mrs Karpakam Sharath
 <br>Email: <a href="mailto:karpakam_veerasamy_suppiah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">karpakam_veerasamy_suppiah@schools.gov.sg</a><strong><br></strong>
+</p>
+<p>Ms Harshini Arumugam
+<br>Email: <a href="mailto:harshini_arumugam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">harshini_arumugam@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -405,18 +435,12 @@ variant: tiptap
 <p>Mrs Celestia Tan
 <br>Email: <a href="mailto:chew_shi_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_shi_yun@schools.gov.sg</a>
 </p>
-<p><strong><br></strong> 
-<br>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <p>Ms Irene Toh
 <br>Email: <a href="mailto:irene_toh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">irene_toh@schools.gov.sg</a>
-</p>
-<p></p>
-<p>Mdm Rafidah Bte Mohd Nasir
-<br>Email: <a href="mailto:rafidah_mohd_nasir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rafidah_mohd_nasir@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
@@ -436,18 +460,14 @@ variant: tiptap
 <br>Email: <a href="mailto:ho_wai_hoe_thomas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_wai_hoe_thomas@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Mr Razli Abdol Jalil</p>
-<p>Email: <a href="mailto:razli_jalil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">razli_jalil@schools.gov.sg</a>
-</p>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>5E</strong>
 </p>
-<p>Mrs Annie Ong
-<br>Email: <a href="mailto:chia_wan_ling_annie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_wan_ling_annie@schools.gov.sg</a><strong><br></strong>
+<p>Mdm Rafidah Bte Mohd Nasir
+<br>Email: <a href="mailto:rafidah_mohd_nasir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rafidah_mohd_nasir@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -461,7 +481,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Primary 6 Form Teachers</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -507,8 +531,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
+<p></p>
+<p>Mr Razli Abdol Jalil
+<br>Email: <a href="mailto:razli_jalil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">razli_jalil@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -544,7 +569,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Non-Form Teachers</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -597,7 +626,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Chinese Language Teachers</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -699,7 +732,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Malay Language Teachers</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -728,7 +765,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Tamil Language Teachers</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -756,7 +797,10 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Learning Support for Maths</h2>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -768,7 +812,10 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Learning Support Coordinator (LSC)</h2>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -780,7 +827,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Allied Educator (AED) - Teaching &amp; Learning</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
