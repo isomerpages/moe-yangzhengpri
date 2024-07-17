@@ -282,7 +282,7 @@ variant: tiptap
 <br>Mdm Tan Yan Ling
 <br>Email: <a href="mailto:tan_yan_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yan_ling@schools.gov.sg</a> 
 <br>Ms Noor Faizana Binte Sulthanul Ariff
-<br>Email: <a href="mailto:goh_mai_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_mai_leng@schools.gov.sg</a> 
+<br>Email: <a href="mailto:goh_mai_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_mai_leng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -326,7 +326,7 @@ variant: tiptap
 <br>Email: <a href="mailto:chin_siew_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_siew_hoon@schools.gov.sg</a>
 </p>
 <p>Mr Leong Wai-Kit, Gavan&nbsp;
-<br>Email: <a href="mailto:LEONG_WAIKIT_GAVAN@MOE.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">LEONG_WAIKIT_GAVAN@MOE.EDU.SG</a> 
+<br>Email: <a href="mailto:LEONG_WAIKIT_GAVAN@MOE.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">LEONG_WAIKIT_GAVAN@MOE.EDU.SG</a>
 </p>
 </td>
 </tr>
