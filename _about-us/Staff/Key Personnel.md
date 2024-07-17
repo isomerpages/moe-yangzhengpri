@@ -10,7 +10,11 @@ variant: tiptap
 <br><strong>Principal</strong> 
 <br><a href="mailto:lim-foo_boon_ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim-foo_boon_ching@schools.gov.sg</a>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -35,7 +39,11 @@ variant: tiptap
 <br><a href="mailto:wu_wai_tuck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wu_wai_tuck@schools.gov.sg</a>
 </p>
 <h2>Head of Departments</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -113,7 +121,11 @@ variant: tiptap
 <br>
 </p>
 <h2>Subject Heads</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -150,7 +162,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Year Heads</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -185,7 +201,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Assistant Year Head</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -200,7 +220,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Senior Teachers</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -245,9 +269,7 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Administrative Managers</h2>
-<p>Mr Mike Tee
-<br>Email: <a href="mailto:tee\_kai\_hoe@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tee_kai_hoe@schools.gov.sg</a>
-</p>
+<p></p>
 <p>Ms Linda Lau
 <br>Email: <a href="mailto:lau\_vunyin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lau_vunyin@schools.gov.sg</a>
 </p>
