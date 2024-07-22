@@ -56,7 +56,8 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Xiong Haixia
-<br>Email:</p>
+<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">xiong_hai_xia@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
