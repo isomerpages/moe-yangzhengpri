@@ -583,33 +583,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Wan Loo
-<br>Email: <a href="mailto:wong_wan_loo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_wan_loo@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Cindy Lim Choon Hui
 <br>Email: <a href="mailto:lim_choon_hui_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_choon_hui_a@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lim Li Hoon
-<br>Email: <a href="mailto:lim_li_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_li_hoon@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Hwee Koon
-<br>Email: <a href="mailto:tan_hwee_koon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hwee_koon@schools.gov.sg</a> 
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Rachel Teo
-<br>Email: <a href="mailto:teo_wee_ling_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_wee_ling_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
