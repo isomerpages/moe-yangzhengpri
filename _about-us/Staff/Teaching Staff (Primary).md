@@ -282,7 +282,7 @@ variant: tiptap
 <br>Mdm Tan Yan Ling
 <br>Email: <a href="mailto:tan_yan_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yan_ling@schools.gov.sg</a> 
 <br>Ms Noor Faizana Binte Sulthanul Ariff
-<br>Email: <a href="mailto:goh_mai_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_mai_leng@schools.gov.sg</a>
+<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">Noor_Faizana_Sulthanul_Ariff@schools.gov.sg</a>
 </p>
 </td>
 </tr>
