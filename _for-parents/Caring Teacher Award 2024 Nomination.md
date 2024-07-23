@@ -10,7 +10,7 @@ variant: markdown
 
 The YZPS Caring Teacher Award is aimed at acknowledging and rewarding teachers who through their daily deeds and actions, exemplify the values of care and concern for the academic, social and emotional welfare of their pupils.
 
-We would like to encourage our parents/guardians and students to nominate our deserving teachers for the YZPS Caring Teacher Award 2023.
+We would like to encourage our parents/guardians and students to nominate our deserving teachers for the YZPS Caring Teacher Award 2024.
 
 **Online Nomination**
 
