@@ -2,7 +2,7 @@ collections:
   for-parents:
     output: true
     order:
-      - 2024 Caring Teacher Award Nomination.md
+      - Caring Teacher Award 2024 Nomination.md
       - Big Heart Student Care.md
       - HBL/Student Learning Space (SLS).md
       - HBL/.keep
