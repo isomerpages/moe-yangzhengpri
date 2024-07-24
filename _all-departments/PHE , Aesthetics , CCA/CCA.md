@@ -65,6 +65,9 @@ Primary 2 pupils starting from Term 2 to Term 4 of each year</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.yangzhengpri.moe.edu.sg/distinctive-programmes/all-departments/phe-aesthetics-cca/cca/clubs/" rel="noopener noreferrer nofollow" target="_blank">Clubs</a>
+</p>
+<p></p>
 <p><a href="https://www.yangzhengpri.moe.edu.sg/distinctive-programmes/all-departments/phe-aesthetics-cca/cca/uniformed-groups/" rel="noopener noreferrer nofollow" target="_blank">Uniformed Groups</a>
 </p>
 </td>
