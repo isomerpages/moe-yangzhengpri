@@ -39,9 +39,6 @@ the pupils to make an informed choice when he/she registers for CCA in
 Primary 3.</p>
 <p>All CCA will be scheduled to carry out the experience programme for the
 Primary 2 pupils starting from Term 2 to Term 4 of each year</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
-</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
