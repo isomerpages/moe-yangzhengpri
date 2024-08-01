@@ -25,8 +25,9 @@ deciding to move on to another CCA.</p>
 is consistent with the school’s mission and MOE’s policies. Our CCA programmes
 are grouped into four categories Aesthetics, Clubs, Sports and Uniformed
 Groups.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA2.jpg">
 </div>
 <p><strong>P2 CCA Experience</strong>
 </p>
