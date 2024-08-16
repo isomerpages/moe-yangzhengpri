@@ -820,16 +820,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Rima Melati
-<br>Email: <a href="mailto:rima_melati@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rima_melati@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
