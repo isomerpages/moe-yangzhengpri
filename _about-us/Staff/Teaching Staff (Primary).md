@@ -326,7 +326,7 @@ variant: tiptap
 <br>Email: <a href="mailto:chin_siew_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_siew_hoon@schools.gov.sg</a>
 </p>
 <p>Mr Leong Wai-Kit, Gavan&nbsp;
-<br>Email: <a href="mailto:LEONG_WAIKIT_GAVAN@MOE.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">LEONG_WAIKIT_GAVAN@MOE.EDU.SG</a>
+<br>Email: <a href="mailto:leong_waikit_gavan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_waikit_gavan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
