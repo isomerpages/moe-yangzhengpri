@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: "2024"
 ---
-<h2><strong>P1 ORIENTATION PROGRAMME 2024</strong></h2>
+<h3><strong>P1 ORIENTATION PROGRAMME 2024</strong></h3>
 <p><strong><em>WELCOME TO YANGZHENG PRIMARY SCHOOL!</em></strong>
 </p>
 <p>Yangzheng Primary School strongly encourages the enthusiastic participation
