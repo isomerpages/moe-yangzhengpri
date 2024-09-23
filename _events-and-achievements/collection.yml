@@ -2,7 +2,7 @@ collections:
   events-and-achievements:
     output: true
     order:
-      - 2024/P1 Orientation Program.md
+      - 2024/P1 Orientation Programme.md
       - 2024/.keep
       - 2023/.keep
       - 2023/2023.md
