@@ -79,7 +79,9 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Yan Jun
+<br>Email: <a rel="noopener noreferrer nofollow" target="_blank"><u>yan_jun@schools.gov.sg</u></a>
+</p>
 </td>
 </tr>
 </tbody>
