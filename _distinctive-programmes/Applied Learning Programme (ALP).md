@@ -71,7 +71,9 @@ about each group’s innovative and creative solutions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Year end Update/ALP/alp5.png">
 </div>
-<h4><strong>Primary Four - Safeguarding Food Security</strong></h4>
+<p></p>
+<p><strong>Primary Four - Safeguarding Food Security</strong>
+</p>
 <p>In Term 2 of 2024, to kickstart the Primary Four’s journey in ALP, they
 attended an assembly talk on food security. They then went on a Learning
 Journey to Edible Garden City to learn how they can improve food sustainability
