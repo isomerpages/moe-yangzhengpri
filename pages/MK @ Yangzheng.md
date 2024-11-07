@@ -21,8 +21,7 @@ Click [here](https://form.gov.sg/65b6f4915b5a3eff995ad0b5) to register.
 Our school MOE Kindergarten Open House 2024 was held at MK @ Yangzheng Primary School on 17 February 2024.
 
   
-
+![](/images/Mk%202024/mk_open_house.png)
 
 
 Click [here](https://drive.google.com/file/d/1wISKillUYrJ96tvQKxhU1-342Pz5WLkh/view?usp=drive_link) for the Open House Briefing Slides.
-
