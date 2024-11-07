@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - All Departments.md
+      - Applied Learning Programme (ALP).md
       - LLP.md
