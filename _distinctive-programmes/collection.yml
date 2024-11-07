@@ -2,6 +2,6 @@ collections:
   distinctive-programmes:
     output: true
     order:
-      - Applied Learning Programme (ALP).md
       - All Departments.md
+      - Applied Learning Programme (ALP).md
       - LLP.md
