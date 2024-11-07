@@ -11,8 +11,9 @@ variant: markdown
 
 - Click&nbsp;[here](https://www.moe.gov.sg/preschool/moe-kindergarten)&nbsp;to find out more about the overview of MOE Curriculum and Programme.
 
-- Click [here](https://drive.google.com/drive/folders/1te7kdgUXdQVIPYK7wjGn94yK76jeL5Sm?usp=sharing) for MOE@YZPS English bi-weekly write-up, 
-      
+- Click [here](https://drive.google.com/drive/folders/1te7kdgUXdQVIPYK7wjGn94yK76jeL5Sm?usp=sharing) for Term 1 and 2 MOE@YZPS English bi-weekly write-up, 
+- Click [here](https://drive.google.com/drive/folders/125qw4djDiZU_V-J-tqD1CZd5FhBMenzy?usp=sharing) for Term 3 and 4 MOE@YZPS English bi-weekly write-up, 
+- 
 **MK Waitlist**: 
 Click [here](https://form.gov.sg/65b6f4915b5a3eff995ad0b5) to register.
 
