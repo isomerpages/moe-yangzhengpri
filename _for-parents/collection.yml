@@ -2,7 +2,7 @@ collections:
   for-parents:
     output: true
     order:
-      - PAT Award 2025 Nomination.md
+      - PAT 2025 Nomination.md
       - Caring Teacher Award 2024 Nomination.md
       - Big Heart Student Care.md
       - HBL/Student Learning Space (SLS).md
