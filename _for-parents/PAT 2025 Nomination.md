@@ -13,10 +13,13 @@ both their students and peers through their words and deeds.</p>
 <p>Nomination for PAT 2025 is <strong>now open</strong> and will <strong>close on Friday, 10 January 2025. &nbsp;</strong>
 </p>
 <p>We would like to invite you and your child/ward to submit your nomination(s)
-for our teacher(s) by clicking on the weblink provided: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pat2025</a> or
-QR Code below.</p>
-<p></p>
-<p></p>
+for our teacher(s) by clicking on the weblink provided: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pat2025</a> or QR Code
+below.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/pat_qr_code_2025.png">
+</div>
+<p>We are looking forward to receiving your support in recognising the good
+work of our teachers!</p>
 <p></p>
 <p></p>
 <p></p>
