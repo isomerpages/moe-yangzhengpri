@@ -285,7 +285,7 @@ variant: tiptap
 <p>Ms Linda Lau
 <br>Email: <a href="mailto:lau\_vunyin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lau_vunyin@schools.gov.sg</a>
 </p>
-<p>Ms Kang Mui Gek Adeline
+<p>Mdm Kang Mui Gek Adeline
 <br>Email: <a href="mailto:lau\_vunyin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lau_vunyin@schools.gov.sg</a>
 </p>
 <h2>Operations Manager</h2>
