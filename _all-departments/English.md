@@ -13,7 +13,6 @@ interesting facts about their characters in class, students participated
 in storytelling activities and Bingo games in the library. This event allowed
 students to explore a variety of books recommended by their peers, fostering
 a love for reading.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Year end Update/EL/e1.png">
 </div>
