@@ -46,4 +46,12 @@ academic knowledge.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Year end Update/EL/e5.png">
 </div>
+<h3><strong>Staff Professional Development and Bonding Day</strong></h3>
+<p>Watching musicals can provide educators with creative insights and inspiration
+that enhance their teaching practices and engage students in new ways.
+On 28 March, the EL department colleagues went on a learning journey to
+watch the musical “Matilda” at Marina Bay Sands. This musical is based
+on Roald Dahl’s novel, <em>Matilda</em>. It was a great opportunity for
+the teachers to learn about the different aspects of drama and adapt the
+ideas during the Reader’s Theatre lessons.</p>
 <p></p>
