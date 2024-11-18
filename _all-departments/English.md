@@ -67,4 +67,15 @@ and expression to help them become confident speakers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Year end Update/EL/e7.png">
 </div>
+<h3><strong>Primary 4 Theatre Experience</strong></h3>
+<p>Experiencing live theatre immerses children in a dynamic environment that
+enhances their appreciation for the arts and nurtures their emotional intelligence.
+A live theatrical performance engages children in a way that a movie cannot,
+exposes them to performing arts, ignites their imagination, and develops
+empathy. This year, the Primary 4 pupils had the opportunity to watch an
+interactive musical—<em>Errol’s Garden</em>—at the Singapore Theatre Company.
+Students learnt about theatre etiquette, the importance of nature, and
+how dreams can come true if everyone works together.</p>
+<p></p>
+<p></p>
 <p></p>
