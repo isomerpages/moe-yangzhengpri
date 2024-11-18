@@ -43,3 +43,7 @@ academic knowledge.</p>
 </div>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Year end Update/EL/e5.png">
+</div>
+<p></p>
