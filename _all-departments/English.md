@@ -127,5 +127,16 @@ skills are cultivated through an enriched curriculum and a variety of activities
 that challenge learners to think critically, express themselves clearly,
 and engage with complex ideas.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Year end Update/EL/e14.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Year end Update/EL/e15.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Year end Update/EL/e16.png">
+</div>
 <p></p>
 <p></p>
