@@ -58,4 +58,9 @@ ideas during the Reader’s Theatre lessons.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Year end Update/EL/e6.png">
 </div>
+<h3><strong>Primary 1 and 2 Show and Tell</strong></h3>
+<p>Show and Tell fosters communication skills by allowing students to share
+their interests and experiences in a supportive environment. It provides
+an opportunity for students to practice academic vocabulary, pronunciation,
+and expression to help them become confident speakers.</p>
 <p></p>
