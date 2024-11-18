@@ -139,4 +139,22 @@ and engage with complex ideas.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Year end Update/EL/e16.png">
 </div>
 <p></p>
+<h3><strong>Building Blocks</strong></h3>
+<p>Infusing LEGO play into the English curriculum enhances creativity and
+collaboration while making learning engaging and hands-on. The Primary
+1 to Primary 6 pupils participate in a fun activity where they use their
+creativity and imagination to build structures with LEGO bricks. Working
+in teams, the pupils design and construct their ideas, fostering teamwork
+and communication skills. They also utilize the SLS platform to write about
+their creations and prepare presentations. During these presentations,
+students describe their ideas and share the stories behind their designs,
+further reinforcing their public speaking skills and building confidence.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Year end Update/EL/e17.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Year end Update/EL/e18.png">
+</div>
 <p></p>
