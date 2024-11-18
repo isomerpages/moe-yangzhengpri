@@ -36,3 +36,8 @@ into the educational process, we aim to foster creativity, critical thinking,
 and collaboration. This approach creates a more engaging and holistic learning
 environment, helping students develop essential life skills alongside their
 academic knowledge.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
