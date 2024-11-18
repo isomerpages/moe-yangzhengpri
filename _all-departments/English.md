@@ -64,3 +64,7 @@ their interests and experiences in a supportive environment. It provides
 an opportunity for students to practice academic vocabulary, pronunciation,
 and expression to help them become confident speakers.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Year end Update/EL/e7.png">
+</div>
+<p></p>
