@@ -116,7 +116,16 @@ and share their unique voices, instilling a sense of confidence and empowerment.
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Year end Update/EL/e13.png">
 </div>
 <p></p>
-<p></p>
+<h3><strong>English Department ACE Programme</strong></h3>
+<p>Stretching academically advanced students is essential for nurturing their
+potential and preparing them for future challenges. The English Department
+ACE Programme is designed to extend the capabilities of academically advanced
+students while fostering their holistic development. A key focus of the
+programme is enhancing reading, writing, and speaking skills, as strong
+communication abilities are fundamental for future academic success. These
+skills are cultivated through an enriched curriculum and a variety of activities
+that challenge learners to think critically, express themselves clearly,
+and engage with complex ideas.</p>
 <p></p>
 <p></p>
 <p></p>
