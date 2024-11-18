@@ -77,5 +77,12 @@ interactive musical—<em>Errol’s Garden</em>—at the Singapore Theatre Compa
 Students learnt about theatre etiquette, the importance of nature, and
 how dreams can come true if everyone works together.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Year end Update/EL/e8.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Year end Update/EL/e9.png">
+</div>
 <p></p>
 <p></p>
