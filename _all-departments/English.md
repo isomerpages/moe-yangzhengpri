@@ -83,5 +83,18 @@ how dreams can come true if everyone works together.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Year end Update/EL/e9.png">
 </div>
+<h3><strong>Primary 3 and 4 Reader’s Theatre</strong></h3>
+<p>Reader’s Theatre enhances students' reading fluency and comprehension
+by encouraging them to engage with texts in a dynamic way. This collaborative
+approach also builds confidence in public speaking and fosters teamwork
+skills. Reader’s theatre is a style of performing in which the students
+collaborate to present dramatic readings of narrative material confidently
+without costumes, props, scenery, or special lighting.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
