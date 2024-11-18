@@ -91,6 +91,10 @@ skills. Reader’s theatre is a style of performing in which the students
 collaborate to present dramatic readings of narrative material confidently
 without costumes, props, scenery, or special lighting.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Year end Update/EL/e10.png">
+</div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
