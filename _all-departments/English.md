@@ -108,15 +108,15 @@ This publication not only fosters a culture of creativity and self-expression
 within Yangzheng but also empowers students to hone their writing skills
 and share their unique voices, instilling a sense of confidence and empowerment.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Year end Update/EL/e17.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Year end Update/EL/e12.png">
 </div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Year end Update/EL/e18.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Year end Update/EL/e13.png">
 </div>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
