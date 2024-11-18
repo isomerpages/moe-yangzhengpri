@@ -97,4 +97,13 @@ without costumes, props, scenery, or special lighting.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Year end Update/EL/e11.png">
 </div>
 <p></p>
-<p></p>
+<h3><strong>Read and Enjoy</strong></h3>
+<p>Publishing students' creative writing provides a valuable opportunity
+for them to express themselves and take pride in their work, fostering
+both confidence and a love for writing. The ‘Read and Enjoy’ publication
+is an excellent platform for students to showcase their literary talents
+and explore their imagination. It features diverse written works, including
+narratives, diary entries, poems, and book reviews, all crafted by students.
+This publication not only fosters a culture of creativity and self-expression
+within Yangzheng but also empowers students to hone their writing skills
+and share their unique voices, instilling a sense of confidence and empowerment.</p>
