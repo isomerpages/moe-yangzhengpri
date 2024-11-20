@@ -37,11 +37,9 @@ and collaboration. This approach creates a more engaging and holistic learning
 environment, helping students develop essential life skills alongside their
 academic knowledge.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Year end Update/EL/e4.png">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Year end Update/EL/e5.png">
