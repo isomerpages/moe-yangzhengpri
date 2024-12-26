@@ -29,7 +29,7 @@ variant: tiptap
 <p>Ms Huang Xiujuan Michelle</p>
 <p><strong>Vice-Principal (EO)</strong>
 </p>
-<p><a href="mailto:micehlle_huang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">micehlle_huang@schools.gov.sg</a>
+<p><a href="mailto:micehlle_huang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">michelle_huang@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
