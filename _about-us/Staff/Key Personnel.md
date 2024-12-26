@@ -10,8 +10,9 @@ variant: tiptap
 <br><strong>Principal</strong> 
 <br><a href="mailto:lim-foo_boon_ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim-foo_boon_ching@schools.gov.sg</a>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -22,6 +23,13 @@ variant: tiptap
 <p><strong>Vice-Principal (EO)</strong>
 </p>
 <p><a href="mailto:eric_wt_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">eric_wt_lee@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Michelle Huang Xiujuan</p>
+<p><strong>Vice-Principal (EO)</strong> 
+</p>
+<p><a href="mailto:micehlle_huang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">micehlle_huang@schools.gov.sg</a> 
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -39,6 +47,9 @@ variant: tiptap
 </p>
 <p><a href="mailto:YU_Yan_Phin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">YU_Yan_Phin@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
