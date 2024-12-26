@@ -10,8 +10,9 @@ variant: tiptap
 <br><strong>Principal</strong> 
 <br><a href="mailto:lim-foo_boon_ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim-foo_boon_ching@schools.gov.sg</a>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -22,6 +23,13 @@ variant: tiptap
 <p><strong>Vice-Principal (EO)</strong>
 </p>
 <p><a href="mailto:eric_wt_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">eric_wt_lee@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Huang Xiujuan Michelle</p>
+<p><strong>Vice-Principal (EO)</strong>
+</p>
+<p><a href="mailto:micehlle_huang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">micehlle_huang@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -43,6 +51,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
@@ -57,6 +68,16 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Character &amp; Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Hoe Shu Chen</p>
+<p><a href="mailto:hoe_shu_chen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hoe_shu_chen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Discipline and Student Leadership</p>
@@ -171,6 +192,16 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lin Rui Qi</p>
+<p><a href="mailto:lin_rui_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_rui_qi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>Year Heads</h2>
@@ -192,7 +223,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 4</p>
+<p>Primary 1 &amp; 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Poh Woon Ying Angela</p>
+<p><a href="mailto:poh_woon_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poh_woon_ying@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Angela Ong</p>
@@ -221,7 +262,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 3</p>
+<p>Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Nanmalar Velu</p>
