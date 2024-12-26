@@ -223,6 +223,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Primary 1 &amp; 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Poh Woon Ying Angela</p>
+<p><a href="mailto:poh_woon_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poh_woon_ying@schools.gov.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
