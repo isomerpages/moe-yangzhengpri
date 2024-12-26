@@ -223,7 +223,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 4</p>
+<p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Angela Ong</p>
@@ -252,7 +252,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 3</p>
+<p>Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Nanmalar Velu</p>
