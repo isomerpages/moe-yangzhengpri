@@ -70,6 +70,16 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Character &amp; Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Hoe Shu Chen</p>
+<p><a href="mailto:hoe_shu_chen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hoe_shu_chen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Discipline and Student Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -179,6 +189,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Celestia Tan
 <br><a href="mailto:chew_shi_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_shi_yun@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lin Rui Qi</p>
+<p><a href="mailto:lin_rui_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_rui_qi@schools.gov.sg</a> 
 </p>
 </td>
 </tr>
