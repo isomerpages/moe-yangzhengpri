@@ -517,23 +517,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Siti Muffarraha Bte Adam
+<br>Email: <a href="mailto:siti_muffarraha_adam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_muffarraha_adam@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Celine Chew
 <br>Email: <a href="mailto:chew_yin_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_yin_yin@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -643,9 +634,7 @@ variant: tiptap
 <br>Email: <a href="mailto:tan_hui_ping_may@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_ping_may@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Mdm Siti Muffarraha Bte Adam
-<br>Email: <a href="mailto:siti_muffarraha_adam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_muffarraha_adam@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Annie Ong
