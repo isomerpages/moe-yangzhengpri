@@ -63,7 +63,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sabrina Wong
-<br>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">wong_hui_chen@schools.gov.sg</a>
+<br>Email:&nbsp;<a href="wong_hui_chen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_hui_chen@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -83,7 +83,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Sok Ping
-<br>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">lim_sok_ping@schools.gov.sg</a>
+<br>Email:&nbsp;<a href="lim_sok_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_sok_ping@schools.gov.sg</a>
 </p>
 </td>
 </tr>
