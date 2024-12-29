@@ -592,14 +592,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Karpakam Sharath
-<br>Email: <a href="mailto:karpakam_veerasamy_suppiah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">karpakam_veerasamy_suppiah@schools.gov.sg</a>
+<br>Email:<a href="mailto:karpakam_veerasamy_suppiah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">karpakam_veerasamy_suppiah@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Jun Hao Nicholas
-<br>Email: <a href="mailto:tan_jun_hao_nicholas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jun_hao_nicholas@schools.gov.sg</a>
+<br>Email:<a href="mailto:tan_jun_hao_nicholas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jun_hao_nicholas@schools.gov.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
