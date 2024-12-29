@@ -456,8 +456,6 @@ variant: tiptap
 <p>Mr Razli Abdol Jalil
 <br>Email: <a href="mailto:razli_jalil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">razli_jalil@schools.gov.sg</a>
 </p>
-<p></p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -465,14 +463,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Harshini Arumugam
-<br>Email: <a href="mailto:harshini_arumugam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">harshini_arumugam@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Margaret Chee
-<br>Email: <a href="mailto:margaret_chee_yoke_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">margaret_chee_yoke_yen@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -720,6 +714,18 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>R Geetha Meyyappan
 <br>Email: <a href="mailto:R_Geetha_Meyyappan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">R_Geetha_Meyyappan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Margaret Chee
+<br>Email: <a href="mailto:margaret_chee_yoke_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">margaret_chee_yoke_yen@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Harshini Arumugam
+<br>Email: <a href="mailto:harshini_arumugam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">harshini_arumugam@schools.gov.sg</a>
 </p>
 </td>
 </tr>
