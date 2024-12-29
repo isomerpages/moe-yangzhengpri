@@ -409,9 +409,7 @@ variant: tiptap
 <br>Email: <a href="mailto:goh_mai_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_mai_leng@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Mrs Jenine Soh
-<br>Email: <a href="mailto:chow_sue-lyn_jenine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chow_sue-lyn_jenine@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Yan Ling
@@ -452,9 +450,7 @@ variant: tiptap
 <br>Email: <a href="mailto:teo_wei_shan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_wei_shan@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Mrs Karpakam Sharath
-<br>Email: <a href="mailto:karpakam_veerasamy_suppiah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">karpakam_veerasamy_suppiah@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Norsena Binte Mohd Yusof
@@ -595,7 +591,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><br></strong>
+<p>Mrs Karpakam Sharath
+<br>Email: <a href="mailto:karpakam_veerasamy_suppiah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">karpakam_veerasamy_suppiah@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -610,7 +607,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Jenine Soh
+<br>Email: <a href="mailto:chow_sue-lyn_jenine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chow_sue-lyn_jenine@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Vennila Maran
