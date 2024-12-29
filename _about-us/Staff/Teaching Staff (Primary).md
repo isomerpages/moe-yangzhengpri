@@ -655,7 +655,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Irene Toh
-<br>Email: <a href="mailto:irene_toh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">irene_toh@schools.gov.sg</a>
+<br>Email:<a href="mailto:irene_toh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">irene_toh@schools.gov.sg</a>
 </p>
 </td>
 </tr>
