@@ -453,7 +453,6 @@ variant: tiptap
 <p>Ms Teo Wei Shan
 <br>Email: <a href="mailto:teo_wei_shan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_wei_shan@schools.gov.sg</a>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Norsena Binte Mohd Yusof
