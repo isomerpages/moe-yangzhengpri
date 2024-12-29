@@ -408,8 +408,6 @@ variant: tiptap
 <p>Mrs Lynn Tan
 <br>Email: <a href="mailto:goh_mai_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_mai_leng@schools.gov.sg</a>
 </p>
-<p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Yan Ling
@@ -422,9 +420,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Liu Zhe
-<br>Email: <a href="mailto:Liu_Zhe@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Liu_Zhe@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -708,7 +704,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Liu Zhe
+<br>Email: <a href="mailto:Liu_Zhe@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Liu_Zhe@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
