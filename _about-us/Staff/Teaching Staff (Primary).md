@@ -662,14 +662,21 @@ variant: tiptap
 <p>Mrs Celestia Tan
 <br>Email: <a href="mailto:chew_shi_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_shi_yun@schools.gov.sg</a>
 </p>
-<p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Irene Toh
 <br>Email: <a href="mailto:irene_toh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">irene_toh@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Kwan Yan Wei
 <br>Email: <a href="mailto:kwan_yan_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kwan_yan_wei@schools.gov.sg</a>
 </p>
