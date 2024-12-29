@@ -197,7 +197,7 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lin Rui Qi</p>
+<p>Mrs Tan Rui Qi</p>
 <p><a href="mailto:lin_rui_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_rui_qi@schools.gov.sg</a>
 </p>
 </td>
