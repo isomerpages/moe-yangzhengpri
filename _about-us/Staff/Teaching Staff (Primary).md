@@ -317,7 +317,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Audrey Chew Meixian
-<br>Email: <a rel="noopener noreferrer nofollow" target="_blank"><u>chew_meixian_audrey@schools.gov.sg</u></a>
+<br>Email: <a href="chew_meixian_audrey@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chew_meixian_audrey@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
