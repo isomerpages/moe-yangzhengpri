@@ -735,15 +735,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Liu Zhe
-<br>Email: <a href="mailto:Liu_Zhe@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Liu_Zhe@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Margaret Chee
-<br>Email: <a href="mailto:margaret_chee_yoke_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">margaret_chee_yoke_yen@schools.gov.sg</a>
+<p>Mdm Nurellysa Bte Bahtiaraffandy
+<br>Email: <a href="mailto:nurellysa_mohd_bahtiaraffa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurellysa_mohd_bahtiaraffa@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -754,9 +752,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurellysa Bte Bahtiaraffandy
-<br>Email: <a href="mailto:nurellysa_mohd_bahtiaraffa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurellysa_mohd_bahtiaraffa@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Harshini Arumugam
