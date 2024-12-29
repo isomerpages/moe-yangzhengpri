@@ -527,6 +527,19 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Seah Choon Sheng
+<br>Email: <a href="mailto:seah_choon_sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seah_choon_sheng@schools.gov.sg</a> 
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>Primary 6 Form Teachers</h2>
@@ -656,10 +669,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Seah Choon Sheng
-<br>Email: <a href="mailto:seah_choon_sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seah_choon_sheng@schools.gov.sg</a> 
-<br>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Liu Zhe
