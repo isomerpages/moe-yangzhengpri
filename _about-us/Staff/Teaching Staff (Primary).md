@@ -585,9 +585,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurellysa Bte Bahtiaraffandy
-<br>Email: <a href="mailto:nurellysa_mohd_bahtiaraffa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurellysa_mohd_bahtiaraffa@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Noryati Bte Ab Rahaman
@@ -710,7 +708,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Nurellysa Bte Bahtiaraffandy
+<br>Email: <a href="mailto:nurellysa_mohd_bahtiaraffa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurellysa_mohd_bahtiaraffa@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
