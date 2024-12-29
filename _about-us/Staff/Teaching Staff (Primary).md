@@ -256,7 +256,16 @@ variant: tiptap
 <p>Mdm Rafidah Bte Mohd Nasir
 <br>Email: <a href="mailto:rafidah_mohd_nasir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rafidah_mohd_nasir@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Thomas Ho
 <br>Email: <a href="mailto:ho_wai_hoe_thomas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_wai_hoe_thomas@schools.gov.sg</a>
 </p>
