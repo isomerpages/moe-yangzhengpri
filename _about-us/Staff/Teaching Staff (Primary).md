@@ -664,6 +664,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms May Tan
+<br>Email: <a href="mailto:tan_hui_ping_may@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_ping_may@schools.gov.sg</a>
+</p>
+<p></p>
 <p>Mdm Siti Muffarraha Bte Adam
 <br>Email: <a href="mailto:siti_muffarraha_adam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_muffarraha_adam@schools.gov.sg</a>
 </p>
