@@ -626,8 +626,6 @@ variant: tiptap
 <p>Ms Ng Shin Yee Cindy
 <br>Email: <a href="mailto:ng_shin_yee_cindy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_shin_yee_cindy@schools.gov.sg</a>
 </p>
-<p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lasime Kumari
