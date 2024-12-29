@@ -52,7 +52,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Yeng Yeng
-<br>Email: <a href="mailto:zhang_lijuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yeng_yeng@schools.gov.sg</a>
+<br>Email: <a href="mailto:tan_yeng_yeng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yeng_yeng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -500,7 +500,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Hoe Shu Chen
-<br>Email: <a href="mailto:lim_pei_wen_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hoe_shu_chen@schools.gov.sg</a>
+<br>Email: <a href="mailto:hoe_shu_chen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hoe_shu_chen@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
