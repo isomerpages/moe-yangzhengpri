@@ -487,7 +487,6 @@ variant: tiptap
 <p>Mrs Susan Chua
 <br>Email: <a href="mailto:tan_li_ling_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_li_ling_a@schools.gov.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
