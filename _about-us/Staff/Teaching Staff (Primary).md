@@ -736,7 +736,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Margaret Chee
-<br>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">margaret_chee_yoke_yen@schools.gov.sg</a>
+<br>Email:&nbsp;<a href="margaret_chee_yoke_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">margaret_chee_yoke_yen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
