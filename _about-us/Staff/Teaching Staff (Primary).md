@@ -487,14 +487,10 @@ variant: tiptap
 <br>Email: <a href="mailto:lim_pei_wen_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_pei_wen_b@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Mrs Celestia Tan
-<br>Email: <a href="mailto:chew_shi_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_shi_yun@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Irene Toh
-<br>Email: <a href="mailto:irene_toh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">irene_toh@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -605,11 +601,19 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mrs Celestia Tan
+<br>Email: <a href="mailto:chew_shi_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_shi_yun@schools.gov.sg</a>
+</p>
+<p></p>
 <p>Ms Celine Chew
 <br>Email: <a href="mailto:chew_yin_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_yin_yin@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Irene Toh
+<br>Email: <a href="mailto:irene_toh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">irene_toh@schools.gov.sg</a>
+</p>
+<p></p>
 <p>Mr Kwan Yan Wei
 <br>Email: <a href="mailto:kwan_yan_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kwan_yan_wei@schools.gov.sg</a>
 </p>
