@@ -785,62 +785,49 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Liang Qi
-<br>Email: <a href="mailto:liang_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liang_qi@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Lim Sok Ping
 <br>Email: <a href="mailto:lim_sok_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_sok_ping@schools.gov.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Tzu Hui
 <br>Email: <a href="mailto:lim_tzu_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_tzu_hui@schools.gov.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Neo Cai Yun
 <br>Email: <a href="mailto:neo_cai_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">neo_cai_yun@schools.gov.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Sim Mei Chin Ivy
 <br>Email: <a href="mailto:sim_mei_chin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_mei_chin@schools.gov.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Teo Shui Yi Jennifer
 <br>Email: <a href="mailto:teoh_kiah_huan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_shui_yi@schools.gov.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Thomas Ho
 <br>Email: <a href="mailto:ho_wai_hoe_thomas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_wai_hoe_thomas@schools.gov.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Zhang Lijuan
 <br>Email: <a href="mailto:zhang_lijuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_lijuan@schools.gov.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Zhang Sha
 <br>Email: <a href="mailto:zhang_sha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_sha@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lim Kah Gek
-<br>Email: <a href="mailto:lim_kah_gek@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kah_gek@schools.gov.sg</a> 
-<br>
 </p>
 </td>
 </tr>
@@ -851,9 +838,19 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Lim Kah Gek
+<br>Email: <a href="mailto:lim_kah_gek@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kah_gek@schools.gov.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Lim Li Hoon
 <br>Email: <a href="mailto:lim_li_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_li_hoon@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
