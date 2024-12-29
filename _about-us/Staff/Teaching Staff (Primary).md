@@ -364,12 +364,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Annie Tay
-<br>Email: <a href="mailto:tay_chui_leng_annie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_chui_leng_annie@schools.gov.sg</a>
+<br>Email:<a href="mailto:tay_chui_leng_annie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_chui_leng_annie@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Nanmalar Velu
-<br>Email: <a href="mailto:nanmalar_m_karuppiah_muth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nanmalar_m_karuppiah_muth@schools.gov.sg</a>
+<br>Email:<a href="mailto:nanmalar_m_karuppiah_muth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nanmalar_m_karuppiah_muth@schools.gov.sg</a>
 </p>
 </td>
 </tr>
