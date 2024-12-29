@@ -236,7 +236,16 @@ variant: tiptap
 <p>Mdm Elaine Ang
 <br>Email: <a href="mailto:ang_ying_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_ying_lin@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Li Cong
 <br>Email: <a href="mailto:li_cong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_cong@schools.gov.sg</a>
 </p>
