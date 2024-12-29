@@ -122,11 +122,10 @@ variant: tiptap
 <p>Mrs Jasmine Ng
 <br>Email: <a href="mailto:ng_hsui_hsui_jasmine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hsui_hsui_jasmine@schools.gov.sg</a>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Fatimah Bte Mohtar
-<br>Email: <a href="mailto:siti_fatimah_mohtar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_fatimah_mohtar@schools.gov.sg</a>
+<br>Email:<a href="mailto:siti_fatimah_mohtar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_fatimah_mohtar@schools.gov.sg</a>
 </p>
 </td>
 </tr>
