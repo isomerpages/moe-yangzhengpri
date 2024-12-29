@@ -499,16 +499,16 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lasime Kumari
-<br>Email: <a href="mailto:lasime_kumari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lasime_kumari@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Shalihin
 <br>Email: <a href="mailto:muhd_shalihin_sapri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhd_shalihin_sapri@schools.gov.sg</a>
 </p>
 <p></p>
-<p></p>
+<p>Mdm Zou Bin
+<br>Email: <a href="mailto:zou_bin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zou_bin@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -520,7 +520,9 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Celine Chew
+<br>Email: <a href="mailto:chew_yin_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_yin_yin@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -603,9 +605,7 @@ variant: tiptap
 <br>Email: <a href="mailto:chew_shi_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_shi_yun@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Ms Celine Chew
-<br>Email: <a href="mailto:chew_yin_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_yin_yin@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Irene Toh
@@ -615,8 +615,6 @@ variant: tiptap
 <p>Mr Kwan Yan Wei
 <br>Email: <a href="mailto:kwan_yan_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kwan_yan_wei@schools.gov.sg</a>
 </p>
-<p></p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -629,12 +627,12 @@ variant: tiptap
 <br>Email: <a href="mailto:ng_shin_yee_cindy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_shin_yee_cindy@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Mdm Zou Bin
-<br>Email: <a href="mailto:zou_bin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zou_bin@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Lasime Kumari
+<br>Email: <a href="mailto:lasime_kumari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lasime_kumari@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
