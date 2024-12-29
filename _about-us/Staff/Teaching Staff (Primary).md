@@ -522,6 +522,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Lim Pei Wen
+<br>Email: <a href="mailto:lim_pei_wen_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_pei_wen_b@schools.gov.sg</a>
+</p>
+<p></p>
 <p>Mrs Celestia Tan
 <br>Email: <a href="mailto:chew_shi_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_shi_yun@schools.gov.sg</a>
 </p>
@@ -683,9 +687,7 @@ variant: tiptap
 <br>Email: <a href="mailto:chia_wan_ling_annie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_wan_ling_annie@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Ms Lim Pei Wen
-<br>Email: <a href="mailto:lim_pei_wen_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_pei_wen_b@schools.gov.sg</a>
-</p>
+<p></p>
 <p></p>
 </td>
 </tr>
