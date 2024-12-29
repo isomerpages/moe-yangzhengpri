@@ -499,6 +499,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Hoe Shu Chen
+<br>Email: <a href="mailto:lim_pei_wen_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hoe_shu_chen@schools.gov.sg</a>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -536,7 +539,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Seah Choon Sheng
-<br>Email: <a href="mailto:seah_choon_sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seah_choon_sheng@schools.gov.sg</a> 
+<br>Email: <a href="mailto:seah_choon_sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seah_choon_sheng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
