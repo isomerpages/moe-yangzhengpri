@@ -609,6 +609,16 @@ variant: tiptap
 <br>Email: <a href="mailto:tan_jun_hao_nicholas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jun_hao_nicholas@schools.gov.sg</a>
 </p>
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Wu Wai Tuck
 <br>Email: <a href="mailto:wu_wai_tuck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wu_wai_tuck@schools.gov.sg</a>
 </p>
