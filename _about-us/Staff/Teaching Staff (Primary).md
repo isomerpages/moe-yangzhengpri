@@ -123,13 +123,21 @@ variant: tiptap
 <br>Email: <a href="mailto:ng_hsui_hsui_jasmine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hsui_hsui_jasmine@schools.gov.sg</a>
 </p>
 <p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Fatimah Bte Mohtar
 <br>Email: <a href="mailto:siti_fatimah_mohtar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_fatimah_mohtar@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Chin Siew Hoon
 <br>Email: <a href="mailto:chin_siew_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_siew_hoon@schools.gov.sg</a>
 </p>
