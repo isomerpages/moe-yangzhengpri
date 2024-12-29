@@ -584,8 +584,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Dominic Heng
-<br>Email: <a href="mailto:dominic_heng_zhaocheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dominic_heng_zhaocheng@schools.gov.sg</a>
+<p>Mr Tan Jun Hao Nicholas
+<br>Email: <a href="mailto:tan_jun_hao_nicholas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jun_hao_nicholas@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -696,9 +696,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Jun Hao Nicholas
-<br>Email: <a href="mailto:tan_jun_hao_nicholas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jun_hao_nicholas@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
