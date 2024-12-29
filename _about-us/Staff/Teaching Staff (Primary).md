@@ -344,16 +344,21 @@ variant: tiptap
 <p>Mdm Annie Tay
 <br>Email: <a href="mailto:tay_chui_leng_annie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_chui_leng_annie@schools.gov.sg</a>
 </p>
-<p></p>
-<p>
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Nanmalar Velu
 <br>Email: <a href="mailto:nanmalar_m_karuppiah_muth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nanmalar_m_karuppiah_muth@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Cindy Lim Choon Hui
 <br>Email: <a href="mailto:lim_choon_hui_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_choon_hui_a@schools.gov.sg</a>
 </p>
