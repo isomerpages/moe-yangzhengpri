@@ -300,7 +300,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jason Goh Buan Huang
-<br>Email: <a href="mailto:goh_buan_huang_jason@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_buan_huang_jason@schools.gov.sg</a>
+<br>Email:<a href="mailto:goh_buan_huang_jason@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_buan_huang_jason@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -311,7 +311,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Dominic Heng
-<br>Email: <a href="mailto:dominic_heng_zhaocheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dominic_heng_zhaocheng@schools.gov.sg</a>
+<br>Email:<a href="mailto:dominic_heng_zhaocheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dominic_heng_zhaocheng@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
