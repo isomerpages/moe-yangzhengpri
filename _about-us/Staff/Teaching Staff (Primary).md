@@ -296,7 +296,6 @@ variant: tiptap
 <p>Mrs Ganesan Chelve&nbsp;
 <br>Email: <a href="mailto:ganesan_chelve@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ganesan_chelve@schools.gov.sg</a>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jason Goh Buan Huang
@@ -329,8 +328,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Alice Chua</p>
-<p>Email:</p>
-<p><a href="mailto:chua_ling_yin_alice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_ling_yin_alice@schools.gov.sg</a>
+<p>Email:<a href="mailto:chua_ling_yin_alice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_ling_yin_alice@schools.gov.sg</a>
 </p>
 </td>
 </tr>
