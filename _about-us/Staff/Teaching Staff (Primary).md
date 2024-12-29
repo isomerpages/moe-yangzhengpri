@@ -457,9 +457,7 @@ variant: tiptap
 <br>Email: <a href="mailto:razli_jalil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">razli_jalil@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Mr Wu Wai Tuck
-<br>Email: <a href="mailto:wu_wai_tuck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wu_wai_tuck@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -594,6 +592,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Tan Jun Hao Nicholas
 <br>Email: <a href="mailto:tan_jun_hao_nicholas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jun_hao_nicholas@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mr Wu Wai Tuck
+<br>Email: <a href="mailto:wu_wai_tuck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wu_wai_tuck@schools.gov.sg</a>
 </p>
 </td>
 </tr>
