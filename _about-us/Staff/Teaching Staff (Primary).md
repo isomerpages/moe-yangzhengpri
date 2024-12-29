@@ -144,13 +144,11 @@ variant: tiptap
 <p>Mrs Kathy Tham
 <br>Email: <a href="mailto:lim_kathy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kathy@schools.gov.sg</a>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zhang Lijuan
 <br>Email: <a href="mailto:zhang_lijuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_lijuan@schools.gov.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -178,16 +176,10 @@ variant: tiptap
 <p>Ms Lim Tzu Hui
 <br>Email: <a href="mailto:lim_tzu_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_tzu_hui@schools.gov.sg</a>
 </p>
-<p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Angel Chew</p>
+<p>Mrs Angela Chew</p>
 <p>Email: <a href="mailto:poh_woon_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poh_woon_ying@schools.gov.sg</a>
-</p>
-<p></p>
-<p>Mrs Annie Chan
-<br>Email: <a href="mailto:annie_chan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">annie_chan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -199,7 +191,9 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Annie Chan
+<br>Email: <a href="mailto:annie_chan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">annie_chan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -278,14 +272,11 @@ variant: tiptap
 <br>Email: <a href="mailto:ganesan_chelve@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ganesan_chelve@schools.gov.sg</a>
 </p>
 <p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jason Goh Buan Huang
 <br>Email: <a href="mailto:goh_buan_huang_jason@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_buan_huang_jason@schools.gov.sg</a>
 </p>
-<p></p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -314,7 +305,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Alice Chua</p>
 <p>Email:</p>
-<p><a href="mailto:chua_ling_yin_alice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_ling_yin_alice@schools.gov.sg</a> 
+<p><a href="mailto:chua_ling_yin_alice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_ling_yin_alice@schools.gov.sg</a>
 </p>
 </td>
 </tr>
