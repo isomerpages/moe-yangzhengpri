@@ -526,7 +526,6 @@ variant: tiptap
 <p>Ms Hoe Shu Chen
 <br>Email: <a href="mailto:hoe_shu_chen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hoe_shu_chen@schools.gov.sg</a>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Shalihin
