@@ -495,18 +495,14 @@ variant: tiptap
 <br>Email: <a href="mailto:narayanasamy_tamizmalar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">narayanasamy_tamizmalar@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Mrs Vennila Maran
-<br>Email: <a href="mailto:vennila_balasubramaniam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vennila_balasubramaniam@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Susan Chua
 <br>Email: <a href="mailto:tan_li_ling_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_li_ling_a@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Mdm Noryati Bte Ab Rahaman
-<br>Email: <a href="mailto:noryati_abdul_rahaman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noryati_abdul_rahaman@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -617,7 +613,9 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Vennila Maran
+<br>Email: <a href="mailto:vennila_balasubramaniam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vennila_balasubramaniam@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -630,7 +628,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Noryati Bte Ab Rahaman
+<br>Email: <a href="mailto:noryati_abdul_rahaman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noryati_abdul_rahaman@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
