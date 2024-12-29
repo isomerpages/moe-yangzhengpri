@@ -480,7 +480,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Narayanasamy Tamizmalar
-<br>Email: <a href="mailto:narayanasamy_tamizmalar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">narayanasamy_tamizmalar@schools.gov.sg</a>
+<br>Email:<a href="mailto:narayanasamy_tamizmalar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">narayanasamy_tamizmalar@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
