@@ -839,7 +839,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Kah Gek
-<br>Email: <a href="mailto:lim_kah_gek@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kah_gek@schools.gov.sg</a> 
+<br>Email: <a href="mailto:lim_kah_gek@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kah_gek@schools.gov.sg</a>
 </p>
 </td>
 </tr>
