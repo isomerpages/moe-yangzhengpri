@@ -31,7 +31,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Naeem
-<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">abu_naeem_b_hairon@schools.gov.sg</a>
+<br>Email: <a href="abu_naeem_b_hairon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">abu_naeem_b_hairon@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
