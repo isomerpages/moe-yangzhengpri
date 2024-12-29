@@ -328,18 +328,10 @@ variant: tiptap
 <p>Ms Neo Cai Yun
 <br>Email: <a href="mailto:neo_cai_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">neo_cai_yun@schools.gov.sg</a>
 </p>
-<p></p>
-<p>Mr Kwan Yan Wei
-<br>Email: <a href="mailto:kwan_yan_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kwan_yan_wei@schools.gov.sg</a>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lin Xiu Judith
 <br>Email: <a href="mailto:lin_xiu_judith@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_xiu_judith@schools.gov.sg</a>
-</p>
-<p></p>
-<p>Ms May Tan
-<br>Email: <a href="mailto:tan_hui_ping_may@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_ping_may@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -413,17 +405,6 @@ variant: tiptap
 <p>Mdm Tan Yan Ling
 <br>Email: <a href="mailto:tan_yan_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yan_ling@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
