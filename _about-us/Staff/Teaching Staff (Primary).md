@@ -629,6 +629,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Kwan Yan Wei
+<br>Email: <a href="mailto:kwan_yan_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kwan_yan_wei@schools.gov.sg</a>
+</p>
+<p></p>
 <p>Mr Razli Abdol Jalil
 <br>Email: <a href="mailto:razli_jalil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">razli_jalil@schools.gov.sg</a>
 </p>
