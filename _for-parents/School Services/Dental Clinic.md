@@ -23,3 +23,12 @@ to 5.30p.m.</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Lunch Time: 1 p.m. to 2 p.m.)</p>
 <p>&nbsp;</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact Number: 89400314</p>
+<p></p>
+<p>Buddy Clinic:</p>
+<p>Ai Tong School – 87645447</p>
+<p>Kheng Cheng School – 87648106</p>
+<p>Farrer Park Primary – 83394227</p>
+<p>OR</p>
+<p>Email <a href="contact_yps@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact_yps@hpb.gov.sg</a>
+</p>
+<p>Thank you.</p>
