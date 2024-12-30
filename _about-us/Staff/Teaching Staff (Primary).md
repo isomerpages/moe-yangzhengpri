@@ -68,7 +68,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sharon Heng
-<br>Email:<a href="mailto:heng_shin_yuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">heng_shin_yuan@schools.gov.sg</a> 
+<br>Email:<a href="mailto:heng_shin_yuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">heng_shin_yuan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -698,16 +698,11 @@ variant: tiptap
 <p>Ms May Tan
 <br>Email: <a href="mailto:tan_hui_ping_may@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_ping_may@schools.gov.sg</a>
 </p>
-<p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Annie Ong
 <br>Email: <a href="mailto:chia_wan_ling_annie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_wan_ling_annie@schools.gov.sg</a>
 </p>
-<p></p>
-<p></p>
-<p></p>
 </td>
 </tr>
 </tbody>
