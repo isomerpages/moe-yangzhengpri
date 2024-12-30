@@ -24,8 +24,3 @@ variant: markdown
 
 ![](/images/Parents/Canteen%20food/8a.png)
 ![](/images/Parents/Canteen%20food/8b.png)
-
-
-
-
-
