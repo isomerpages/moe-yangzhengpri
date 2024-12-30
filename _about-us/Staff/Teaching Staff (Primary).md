@@ -908,8 +908,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm R.Geetha Meyyappan
-<br>Email:<a href="mailto:R_Geetha_Meyyappan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">R_Geetha_Meyyappan@schools.gov.sg</a>
+<p>Mdm Mageshwari</p>
+<p>Email: <a href="mailto:rajaperian_mageshwari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rajaperian_mageshwari@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
