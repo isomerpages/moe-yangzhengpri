@@ -67,8 +67,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Heng Shin Yuan Sharon
-<br>Email:</p>
+<p>Ms Sharon Heng
+<br>Email:<a href="mailto:heng_shin_yuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">heng_shin_yuan@schools.gov.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
