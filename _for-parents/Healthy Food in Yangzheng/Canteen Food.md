@@ -2,7 +2,7 @@
 title: Canteen Food
 permalink: /for-parents/healthy-lifestyle-in-yangzheng/canteen-food/
 description: ""
-third_nav_title: Healthy Lifestyle in Yangzheng
+third_nav_title: Healthy Food in Yangzheng
 variant: markdown
 ---
 ![](/images/Parents/Canteen%20food/1.png)

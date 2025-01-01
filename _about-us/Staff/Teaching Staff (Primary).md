@@ -514,7 +514,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tan Rui Qi Email:<a href="mailto:lin_rui_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_rui_qi@schools.gov.sg</a>
+<p>Mrs Tan Rui Qi</p>
+<p>Email:<a href="mailto:lin_rui_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_rui_qi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -697,8 +698,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Mageshwari</p>
-<p>Email: <a href="mailto:rajaperian_mageshwari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rajaperian_mageshwari@schools.gov.sg</a>
+<p>Mdm Mageshwari Email:<a href="mailto:rajaperian_mageshwari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rajaperian_mageshwari@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -909,7 +909,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Mageshwari</p>
-<p>Email: <a href="mailto:rajaperian_mageshwari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rajaperian_mageshwari@schools.gov.sg</a>
+<p>Email:<a href="mailto:rajaperian_mageshwari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rajaperian_mageshwari@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
