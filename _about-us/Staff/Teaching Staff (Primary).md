@@ -909,7 +909,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Mageshwari</p>
-<p>Email: <a href="mailto:rajaperian_mageshwari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rajaperian_mageshwari@schools.gov.sg</a>
+<p>Email:<a href="mailto:rajaperian_mageshwari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rajaperian_mageshwari@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
