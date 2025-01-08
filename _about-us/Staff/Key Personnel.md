@@ -213,17 +213,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 1 &amp; 2 (Covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Abu Naeem Bin Hairon</p>
-<p><a href="mailto:abu_naeem_b_hairon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">abu_naeem_b_hairon@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 1 &amp; 2</p>
+<p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Angela Chew</p>
@@ -260,6 +250,16 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Abu Naeem Bin Hairon</p>
+<p><a href="mailto:abu_naeem_b_hairon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">abu_naeem_b_hairon@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Primary 4</p>
