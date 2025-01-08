@@ -291,16 +291,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Shanthini Ramachandran
-<br><a href="mailto:shanthini_ramachandran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shanthini_ramachandran@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
