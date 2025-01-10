@@ -23,5 +23,6 @@ sections:
       image: /images/2025 Events/Anniversary/Screenshot_1.png
       alt: Image alt text
       subtitle: Latest news
-      description: 120th Anniversary Dinner
+      description: 120th Anniversary Dinner   Scan QR code for more details and  to
+        access registration of interest to attend 120th Anniversary Dinner.
 ---
