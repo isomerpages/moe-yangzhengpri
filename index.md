@@ -18,4 +18,10 @@ sections:
           description: Click here to find out more.
           url: https://www.moe.gov.sg/primary/p1-registration
       subtitle: Passion for Learning, Responsibility, Integrity, Self-Discipline, eMpathy
+  - infopic:
+      id: infopic
+      image: /images/2025 Events/Anniversary/Screenshot_1.png
+      alt: Image alt text
+      subtitle: Latest news
+      description: 120th Anniversary Dinner
 ---
