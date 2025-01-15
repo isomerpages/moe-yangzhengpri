@@ -72,8 +72,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Thomas Ho
 <br>Mr Shalihin
-<br>Ms Siti Rozalita Bte Amin
-<br>Mr Dominic Heng</p>
+<br>Ms Siti Rozalita
+<br>Mr Dominic Heng
+<br>Ms Judith Lin
+<br>Mdm Mageshwari</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>P4 and P5</strong> 
