@@ -52,7 +52,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Dominic Heng
 <br>Mrs Kathy Tham
-<br>tMs Irene Toh</p>
+<br>Ms Irene Toh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Friday</u> 
