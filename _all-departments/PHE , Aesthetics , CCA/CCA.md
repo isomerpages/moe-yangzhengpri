@@ -33,7 +33,7 @@ Groups.</p>
 </p>
 <p>The school introduced this programme to inspire the joy of learning in
 our pupils, and to allow them to make an informed decision when signing
-up for a CCA in Primary 3, Primary 2 pupils will be given the opportunity
+up for a CCA in Primary 3. Primary 2 pupils will be given the opportunity
 to attend sessions organized by each CCA group to gain a better understanding
 about the CCA Experience in Yangzheng Primary. We hope that this will help
 the pupils to make an informed choice when he/she registers for CCA in
@@ -87,9 +87,10 @@ Primary 2 pupils starting from Term 2 to Term 4 of each year</p>
 </p>
 </li>
 </ul>
-<p>No. The main purpose of this programme is for the Primary 2 pupils to
-gain better understanding about the CCA and hopefully this will help them
-make an informed choice during the P3 CCA Registration exercise.</p>
+<p>The main purpose of this programme is for the Primary 2 pupils to gain
+better understanding about the CCA and hopefully this will help them make
+an informed choice during the P3 CCA Registration exercise. Thus, it does
+not guarantee a place in the CCA for your child.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Will my child be allocated to his/her first choice CCA?</strong>
