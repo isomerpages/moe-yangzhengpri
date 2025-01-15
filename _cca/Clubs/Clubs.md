@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Clubs
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -26,7 +31,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Yeo Kim Ying
 <br>Ms Christina T P d/o Thangaya
-<br>Ms R Geetha Meyyappan</p>
+<br>Ms Audrey Chew Meixian
+<br>Mrs Jenine Soh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Friday</u> 
@@ -48,8 +54,7 @@ variant: tiptap
 <p>Mdm Annie Tay
 <br>Ms Rafidah Bte Mohd Nasir
 <br>Mrs Karpakam Sharath
-<br>
-</p>
+<br>Ms Li Cong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Friday</u> 
@@ -70,8 +75,7 @@ variant: tiptap
 <p>Mrs Vennilla Maran
 <br>Ms May Tan
 <br>Mdm Nurellysa Binte Mohd
-<br>Mrs Tan Yean Cheng
-<br>Ms Lin Xiu Judith</p>
+<br>Mrs Tan Yean Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Tuesday</u> 
