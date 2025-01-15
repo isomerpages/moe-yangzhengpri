@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Clubs
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -26,7 +31,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Yeo Kim Ying
 <br>Ms Christina T P d/o Thangaya
-<br>Ms R Geetha Meyyappan</p>
+<br>Ms Audrey Chew Meixian
+<br>Mrs Jenine Soh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Friday</u> 
