@@ -70,7 +70,7 @@ Primary 2 pupils starting from Term 2 to Term 4 of each year</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.yangzhengpri.moe.edu.sg/distinctive-programmes/all-departments/phe-aesthetics-cca/cca/performing-arts/" rel="noopener noreferrer nofollow" target="_blank">Aesthetics</a>
+<p><a href="https://www.yangzhengpri.moe.edu.sg/distinctive-programmes/all-departments/phe-aesthetics-cca/cca/performing-arts/" rel="noopener nofollow" target="_blank">Performing Arts</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
