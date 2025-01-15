@@ -151,17 +151,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Rope Skipping
-<br>(School Hall)
-<br>*Up to Term 2</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Susan Chua
-<br>Mdm Asnita Binte Abas</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Tuesday</u> 
-<br>2.15 p.m. to 3.45 p.m.</p>
+<p></p>
 </td>
 </tr>
 </tbody>
