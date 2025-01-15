@@ -75,8 +75,7 @@ variant: tiptap
 <p>Mrs Vennilla Maran
 <br>Ms May Tan
 <br>Mdm Nurellysa Binte Mohd
-<br>Mrs Tan Yean Cheng
-<br>Ms Lin Xiu Judith</p>
+<br>Mrs Tan Yean Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Tuesday</u> 
