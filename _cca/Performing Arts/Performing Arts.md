@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -27,15 +32,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Lynn Tan
-<br>Ms Elaine Ang
 <br>Ms Sabrina Wong
-<br>Mdm Margaret Chee</p>
+<br>Ms Tan Yeng Yeng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Tuesday and Friday</u> 
-<br>2.15 p.m. to 3.45 p.m.
+<p><u>Tuesday (P3 and new students)<br></u>2.15 p.m. to 3.45 p.m.
 <br>
-</p>
+<br><u>Friday (P4 to P6)<br></u>2.15 p.m. to 3.45 p.m.</p>
 </td>
 </tr>
 <tr>
@@ -49,12 +52,11 @@ variant: tiptap
 <br>(Band Room)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shanthini R
-<br>Ms Cindy Ng
+<p>Mdm Elaine Ang
 <br>Mr Nicholas Tan
-<br>Ms Michelle Leow
-<br>Mrs Jenine Soh
-<br>Ms Lim Pei Wen</p>
+<br>Ms Lim Pei Wen
+<br>Ms Cindy Ng
+<br>Ms Michelle Leow</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Tuesday and Friday</u> 
@@ -72,9 +74,10 @@ variant: tiptap
 <br>(Guzheng Room)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zou Bin
-<br>Ms Lim Tzui Hui
+<p>Ms Lim Tzui Hui
 <br>Ms Ivy Sim
+<br>Mdm Zou Bin
+<br>Mdm Zhang Sha
 <br>Ms Li Cong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -94,8 +97,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Ganesan Chelve
-<br>Mdm Norsena Bte Mohd Yusof
-<br>Mdm Siti Mufarraha Bte Adam</p>
+<br>Mdm Siti Mufarraha
+<br>Mdm Stella Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Friday</u> 
