@@ -97,8 +97,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Ganesan Chelve
-<br>Mdm Norsena Bte Mohd Yusof
-<br>Mdm Siti Mufarraha Bte Adam</p>
+<br>Mdm Siti Mufarraha
+<br>Mdm Stella Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Friday</u> 
