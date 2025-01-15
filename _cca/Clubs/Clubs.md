@@ -54,8 +54,7 @@ variant: tiptap
 <p>Mdm Annie Tay
 <br>Ms Rafidah Bte Mohd Nasir
 <br>Mrs Karpakam Sharath
-<br>
-</p>
+<br>Ms Li Cong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Friday</u> 
