@@ -36,10 +36,9 @@ variant: tiptap
 <br>Ms Tan Yeng Yeng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Tuesday and Friday</u> 
-<br>2.15 p.m. to 3.45 p.m.
+<p><u>Tuesday (P3 and new students)<br></u>2.15 p.m. to 3.45 p.m.
 <br>
-</p>
+<br><u>Friday (P4 to P6)<br></u>2.15 p.m. to 3.45 p.m.</p>
 </td>
 </tr>
 <tr>
