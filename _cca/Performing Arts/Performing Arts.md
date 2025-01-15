@@ -52,12 +52,11 @@ variant: tiptap
 <br>(Band Room)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shanthini R
-<br>Ms Cindy Ng
+<p>Mdm Elaine Ang
 <br>Mr Nicholas Tan
-<br>Ms Michelle Leow
-<br>Mrs Jenine Soh
-<br>Ms Lim Pei Wen</p>
+<br>Ms Lim Pei Wen
+<br>Ms Cindy Ng
+<br>Ms Michelle Leow</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Tuesday and Friday</u> 
