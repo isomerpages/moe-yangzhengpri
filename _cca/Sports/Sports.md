@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Sports
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -37,8 +42,7 @@ variant: tiptap
 <br>Ms Lim Sok Ping
 <br>Mdm Zhang Lijuan
 <br>Mr Kwan Yan Wei
-<br>
-</p>
+<br>Mr Gavan Leong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Tuesday and Friday</u> 
