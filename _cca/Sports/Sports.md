@@ -78,13 +78,13 @@ variant: tiptap
 <br>Mdm Mageshwari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P4 and P5</strong> 
-<br><u>Tuesday</u> 
-<br>3 p.m. to 4.30 p.m.
+<p><strong>P3, P5 and P6</strong>
+<br><u>Tuesday</u>
+<br>2.30 p.m. to 4.30 p.m.
 <br>
-<br><strong>P3 and P6</strong> 
-<br><u>Friday</u> 
-<br>3 p.m. to 4.30 p.m.</p>
+<br><strong>P4</strong>
+<br><u>Friday</u>
+<br>2.30 p.m. to 4.30 p.m.</p>
 </td>
 </tr>
 <tr>
