@@ -129,8 +129,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Susan Chua
-<br>Mdm Zhang Sha
-<br>Mdm Tan Yan Ling</p>
+<br>Mdm Asnita
+<br>Mdm Tan Yan Ling
+<br>Ms Cindy Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Friday</u> 
