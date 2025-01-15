@@ -23,7 +23,7 @@ also encouraged to stay on in their allocated CCA for at least a year before
 deciding to move on to another CCA.</p>
 <p>At Yangzheng Primary School, we offer a selection of CCA programmes that
 is consistent with the school’s mission and MOE’s policies. Our CCA programmes
-are grouped into four categories Aesthetics, Clubs, Sports and Uniformed
+are grouped into four categories Performing Arts, Clubs, Sports and Uniformed
 Groups.</p>
 <p></p>
 <div class="isomer-image-wrapper">
