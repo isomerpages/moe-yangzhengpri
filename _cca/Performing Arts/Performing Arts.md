@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -27,9 +32,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Lynn Tan
-<br>Ms Elaine Ang
 <br>Ms Sabrina Wong
-<br>Mdm Margaret Chee</p>
+<br>Ms Tan Yeng Yeng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Tuesday and Friday</u> 
