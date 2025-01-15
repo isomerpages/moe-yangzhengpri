@@ -99,9 +99,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Celine Chew
-<br>Mdm Stella Lim Bee Yean
+<br>Mrs Jasmine Ng
 <br>Mdm Lim Kah Gek
-<br>Mrs Jasmine Ng</p>
+<br>Ms Sharon Heng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Tuesday</u> 
