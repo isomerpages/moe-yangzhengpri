@@ -74,9 +74,10 @@ variant: tiptap
 <br>(Guzheng Room)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zou Bin
-<br>Ms Lim Tzui Hui
+<p>Ms Lim Tzui Hui
 <br>Ms Ivy Sim
+<br>Mdm Zou Bin
+<br>Mdm Zhang Sha
 <br>Ms Li Cong</p>
 </td>
 <td rowspan="1" colspan="1">
