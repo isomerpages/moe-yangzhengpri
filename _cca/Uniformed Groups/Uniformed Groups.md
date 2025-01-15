@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -24,10 +29,10 @@ variant: tiptap
 <br>(SBB Room 1 &amp; 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Fatimah Bte Mohtar
+<p>Mdm Siti Fatimah
+<br>Mdm Norsena
 <br>Ms Neo Cai Yun
-<br>Ms Teo Wei Shan
-<br>Mdm Asnita Binte Abas</p>
+<br>Ms Teo Wei Shan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Tuesday</u> 
