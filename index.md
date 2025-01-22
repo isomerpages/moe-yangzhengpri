@@ -25,7 +25,6 @@ sections:
       subtitle: Latest news
       title: 120th Anniversary Dinner
   - infopic:
-      title: Important Dates (Term 1)
       id: infopic
       description: Infopic description
       button: Button Text
