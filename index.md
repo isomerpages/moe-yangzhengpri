@@ -24,4 +24,11 @@ sections:
       alt: Image alt text
       subtitle: Latest news
       title: 120th Anniversary Dinner
+  - infopic:
+      title: Important Dates (Term 1)
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/Important_Dates__Term_1_.png
+      alt: Image alt text
 ---
