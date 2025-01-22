@@ -26,8 +26,6 @@ sections:
       title: 120th Anniversary Dinner
   - infopic:
       id: infopic
-      description: Infopic description
-      button: Button Text
       image: /images/Important_Dates__Term_1_.png
       alt: Image alt text
 ---
