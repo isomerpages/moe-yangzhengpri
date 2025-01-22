@@ -27,5 +27,4 @@ sections:
   - infopic:
       id: infopic
       image: /images/Important_Dates__Term_1_.png
-      alt: Image alt text
 ---
