@@ -77,9 +77,13 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 </p>
 <p><strong>2025 Sexuality Education Lessons in CCE </strong>
 
-</p>![](/images/2025%20Events/SEd/SEd_1.png![moe logo](https://www.yangzhengpri.moe.edu.sg/images/2025%20Events/SEd/SEd_1.png))
+</p>
+
+
+<img alt="M OE logo" src="https://www.yangzhengpri.moe.edu.sg/images/2025%20Events/SEd/SEd_1.png">
+
+
 <p>
-	![moe logo](https://www.yangzhengpri.moe.edu.sg/images/2025%20Events/SEd/SEd_1.png)
 	<strong>Primary 5</strong>
   
 
