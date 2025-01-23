@@ -35,9 +35,3 @@ Term 3 and 4 2024 MOE@YZPS English bi-weekly write-up,</p>
 </li>
 </ul>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mk%202024/mk_open_house.png">
-</div>
-<p>Click <a href="https://drive.google.com/file/d/1wISKillUYrJ96tvQKxhU1-342Pz5WLkh/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-the Open House Briefing Slides.</p>
