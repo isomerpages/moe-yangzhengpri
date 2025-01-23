@@ -77,7 +77,6 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 </p>
 <p><strong>2025 Sexuality Education Lessons in CCE </strong>
 
-![](/images/2025%20Events/SEd/SEd_1.png)	
 </p>
 <p><strong>Primary 5</strong>
   
@@ -86,7 +85,7 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 </p><p>&nbsp;</p>
 <p><strong>2025 Sexuality Education Lessons in CCE </strong>
 
-![](/images/2025%20Events/SEd/SEd_1.png)
+
 </p><p><strong>Primary 6</strong>
 </p>  
 
