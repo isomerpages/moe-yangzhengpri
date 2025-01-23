@@ -80,7 +80,7 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 </p>
 
 
-<img alt="M OE logo" src="https://www.yangzhengpri.moe.edu.sg/images/2025%20Events/SEd/SEd_1.png">
+<img alt="MOE logo" src="/images/2025%20Events/SEd/SEd_1.png">
 
 
 <p>
