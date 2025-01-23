@@ -99,7 +99,8 @@ programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the Sexuality Education lessons need to complete an opt-out form.
 This form will be communicated &nbsp;to parents at the start of the year
-and is also downloadable [here](/files/2025_opt_out_form_annex_a__doreen_.pdf) (Annex A)
+and is also downloadable [here](https://cms.isomer.gov.sg/sites/moe-yangzhengpri/media/files/mediaDirectory/files/editMediaSettings/2025_opt_out_form_annex_a.pdf)
+	
 
 The completed opt-out form is to be submitted by 24/02/2025.
 
