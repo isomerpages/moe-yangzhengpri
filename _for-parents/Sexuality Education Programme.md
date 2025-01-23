@@ -76,7 +76,8 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 <p><strong>At Yangzheng Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
 </p>
 <p><strong>2025 Sexuality Education Lessons in CCE </strong>
-</p>![](/images/2025%20Events/SEd/SEd_1.png)
+	
+</p>
 <p><strong>Primary 5</strong>
   
 
