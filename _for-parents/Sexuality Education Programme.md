@@ -102,7 +102,7 @@ This form will be communicated &nbsp;to parents at the start of the year
 and is also downloadable 
 </p><p>[here](/files/2025_opt_out_form_annex_a.pdf)
 
-The completed opt-out form is to be submitted by 24/02/2025.
+</p><p>The completed opt-out form is to be submitted by 24/02/2025.
 
 </p><p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 62846298
 or <a rel="noopener noreferrer nofollow" target="_blank">yzps@moe.edu.sg</a> for
