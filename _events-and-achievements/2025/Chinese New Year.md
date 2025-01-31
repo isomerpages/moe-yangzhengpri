@@ -32,8 +32,43 @@ our P6 classes, wishing our graduating cohort all the very best for their
 PSLE. She then gave out red packets to our Operational Support Staff and
 contract cleaners, wishing them good health for the New Year.</p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Events/CNY/4.png">
+</div>
+<p>Next, the results of the CNY Best Decorated Classroom competition were
+revealed.&nbsp; All classes had put in their finest efforts in the competition,
+putting up gorgeous festive decorations to liven up the CNY atmosphere
+in the school. There were so many well-decorated classrooms that the judges
+had a difficult time to pick the winners this year. The following are some
+of the stunning decorations by the winning classes:</p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Events/CNY/5.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Events/CNY/6.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Events/CNY/7.png">
+</div>
+<p>Our talented students put up a stellar performance and brought festive
+joy to the audience. We had the Chinese Dance and Guzheng CCA groups showcasing
+their best efforts in this celebration. This year’s concert was also brightened
+by two adorable CNY performances put up by our MOE Kindergarten K1 and
+K2 students.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Events/CNY/8.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Events/CNY/9.png">
+</div>
+<p>In the concert, games continued to be included for the students to learn
+about Chinese New Year in an engaging and fun way. It was great joy to
+see students of different races, coming together to understand Chinese
+culture and traditions.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
