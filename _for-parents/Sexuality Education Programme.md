@@ -4,7 +4,7 @@ permalink: /for-parents/sexuality-education-programme/
 description: ""
 variant: markdown
 ---
-<h4><strong>M</strong>oe <strong>S</strong>exuality <strong>E</strong>ducation in <strong>S</strong>chools</h4>
+<h4><strong>M</strong>OE <strong>S</strong>exuality <strong>E</strong>ducation in <strong>S</strong>chools</h4>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
 aims to enable students to understand the physiological, social and emotional
 changes they experience as they mature, develop healthy and rewarding relationships
