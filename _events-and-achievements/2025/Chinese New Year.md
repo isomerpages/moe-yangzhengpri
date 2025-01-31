@@ -64,12 +64,51 @@ K2 students.</p>
 about Chinese New Year in an engaging and fun way. It was great joy to
 see students of different races, coming together to understand Chinese
 culture and traditions.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Events/CNY/10.png">
+</div>
+<p>The concert included jovial Chinese New Year wishes by our school leaders,
+staff and students. It ended on a high note with mass singing. At the same
+time, our school leaders also gave each staff a pair of mandarin oranges
+as part of the Chinese tradition which signifies blessing of prosperity
+upon the recipient. It was a vibrant Chinese New Year Celebrations this
+year and it was wonderful to see the students’ involvement and excited
+faces today.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Events/CNY/11.png">
+</div>
+<p>As part of the celebrations, students were engaged in CNY craftwork activities
+in the class. It was really heartening to see students of different races
+working together to complete their craftwork activity. The school also
+leveraged on an e-card platform (kudoboard) to post the pictures of the
+students’ completed craftwork, together with a Chinese New Year Greeting
+and reflection of their experience of completing the activity with their
+classmates.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Events/CNY/12.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Events/CNY/13.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Events/CNY/14.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Events/CNY/15.png">
+</div>
+<p>The school would like to take this opportunity to thank our staff, students
+and parents for their support as we celebrate our diversity and edify our
+Yangzhengnites to learn about national identity and harmony in a fun and
+uplifting way.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Events/CNY/16.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Events/CNY/17.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Events/CNY/18.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
