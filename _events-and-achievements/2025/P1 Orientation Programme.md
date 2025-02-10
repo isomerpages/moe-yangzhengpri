@@ -31,10 +31,3 @@ During the next two days, P4 students were tasked to take care of the P1 student
 The P1 students expressed their gratitude to their P4 buddies by making and presenting them with a Thank you Card during the Buddy Appreciation Activity (as part of the school’s WE-Time).
 ![](/images/2025%20Events/P1%20orientation/9.png)
 ![](/images/2025%20Events/P1%20orientation/9b.png)
-
-
-
-
-
-
-
