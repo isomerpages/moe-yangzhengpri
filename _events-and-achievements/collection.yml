@@ -2,9 +2,10 @@ collections:
   events-and-achievements:
     output: true
     order:
+      - 2025/.keep
       - 2025/P1 Orientation Programme.md
       - 2025/Chinese New Year.md
-      - 2025/.keep
+      - 2025/Total Defence Day.md
       - 2024/.keep
       - 2024/P1 Orientation Programme.md
       - 2024/Chinese New Year and Total Defence Day.md
