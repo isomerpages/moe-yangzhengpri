@@ -4,7 +4,7 @@ permalink: /for-parents/parent-volunteer-programme/
 description: ""
 variant: tiptap
 ---
-<p><strong>2027 YANGZHENG PRIMARY SCHOOL PARENT VOLUNTEER PROGRAMME<br>FOR 2027 P1 ADMISSION<br>– RECRUITMENT EXERCISE –</strong>
+<p><strong>2025 YANGZHENG PRIMARY SCHOOL PARENT VOLUNTEER PROGRAMME<br>FOR 2027 P1 ADMISSION<br>– RECRUITMENT EXERCISE –</strong>
 </p>
 <p><strong>1 Eligibility</strong> 
 <br>Parents of children who are Singapore Citizens or Singapore Permanent
