@@ -1,0 +1,4 @@
+collections:
+  canteen-vendors:
+    output: true
+    order: []
