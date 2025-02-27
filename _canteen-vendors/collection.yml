@@ -1,4 +1,5 @@
 collections:
   canteen-vendors:
     output: true
-    order: []
+    order:
+      - blank.md
