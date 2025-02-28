@@ -23,7 +23,7 @@ spouse’s NRIC.</p>
 <p><strong>3 Application Closing Date</strong> 
 <br>Period of Application is from 1 March to 16 March 2025. Success of application
 is not on a first-come-first-served basis.</p>
-<p><strong>4 Application Timeline</strong>
+<p><strong>4 Application Timeline and Result Notifications</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
