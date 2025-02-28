@@ -69,9 +69,10 @@ in writing by early May. The school Applicants who have not been shortlisted
 for interview will also be notified in writing by early May. The school
 will not be able to advise applicant on the status of application through
 telephone enquiries. We seek applicant’s understanding and cooperation
-on this. Successful applicants will have to serve and complete at least
-40 hours of voluntary service within the stipulated time if they wish to
-be eligible for Phase 2B of the Primary One registration exercise.</p>
+on this.</p>
+<p>Successful applicants will have to serve and complete at least 40 hours
+of voluntary service within the stipulated time if they wish to be eligible
+for Phase 2B of the Primary One registration exercise.</p>
 <p></p>
 <p></p>
 <p></p>
