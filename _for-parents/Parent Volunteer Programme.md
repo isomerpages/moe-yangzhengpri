@@ -42,14 +42,6 @@ is not on a first-come-first-served basis.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>April</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Meetings/interviews with shortlisted applicants if any</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>April/May
 <br>
 </p>
@@ -62,13 +54,8 @@ is not on a first-come-first-served basis.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>5 Results of Applications</strong>
-</p>
-<p>Applicants who have not been shortlisted for interview will also be notified
-in writing by early May. The school Applicants who have not been shortlisted
-for interview will also be notified in writing by early May. The school
-will not be able to advise applicant on the status of application through
-telephone enquiries. We seek applicant’s understanding and cooperation
+<p>The school will not be able to advise applicant on the status of application
+through telephone enquiries. We seek applicants’ understanding and cooperation
 on this.</p>
 <p>Successful applicants will have to serve and complete at least 40 hours
 of voluntary service within the stipulated time if they wish to be eligible
