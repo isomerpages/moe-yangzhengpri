@@ -36,10 +36,16 @@ is not on a first-come-first-served basis.</p>
 <p>March/April</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shortlisted applicants may be notified to attend
-<br>face-to-face meetings/interviews (in groups or individual), if any.
-<br>
-</p>
+<p>Shortlisted applicants may be notified to attend face-to-face meetings/interviews
+(in groups or individual), if any.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Meetings/interviews with shortlisted applicants if any</p>
 </td>
 </tr>
 <tr>
@@ -56,9 +62,18 @@ is not on a first-come-first-served basis.</p>
 </tr>
 </tbody>
 </table>
-<p>The school will not be able to advise applicant on the status of application
-through telephone enquiries. We seek applicant’s understanding and cooperation
-on this.</p>
-<p>Successful applicants will have to serve and complete at least 40 hours
-of voluntary service within the stipulated time if they wish to be eligible
-for Phase 2B of the Primary One registration exercise.</p>
+<p><strong>5 Results of Applications</strong>
+</p>
+<p>Applicants who have not been shortlisted for interview will also be notified
+in writing by early May. The school Applicants who have not been shortlisted
+for interview will also be notified in writing by early May. The school
+will not be able to advise applicant on the status of application through
+telephone enquiries. We seek applicant’s understanding and cooperation
+on this. Successful applicants will have to serve and complete at least
+40 hours of voluntary service within the stipulated time if they wish to
+be eligible for Phase 2B of the Primary One registration exercise.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
