@@ -6,7 +6,7 @@ description: ""
 ---
 <h3><strong>School Canteen Advertisement</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/Screenshot_2025_02_27_125032.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/Screenshot_2025_02_28_144422.png">
 </div>
 <h4><strong>Application Procedure</strong></h4>
 <ol data-tight="true" class="tight">
@@ -38,6 +38,7 @@ email OR to the School’s General Office.</p>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact Person: Mr Johnson Ng or
 Mdm Adeline Kang</p>
+<h4><strong>Interest applicants must meet the following criteria:</strong></h4>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore citizen or Singapore Permanent
 Resident (SPR) for stallholder and stall assistant.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Able to provide good service and
