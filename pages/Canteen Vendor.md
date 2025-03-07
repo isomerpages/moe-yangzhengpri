@@ -6,7 +6,7 @@ description: ""
 ---
 <h3><strong>School Canteen Advertisement</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_03_03_091050.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_03_07_135011.png">
 </div>
 <h4><strong>Application Procedure</strong></h4>
 <ol data-tight="true" class="tight">
