@@ -1,0 +1,18 @@
+collections:
+  events:
+    output: true
+    order:
+      - 2025/.keep
+      - 2025/P1 Orientation Programme.md
+      - 2025/Chinese New Year.md
+      - 2025/Total Defence Day.md
+      - 2024/.keep
+      - 2024/P1 Orientation Programme.md
+      - 2024/Chinese New Year and Total Defence Day.md
+      - 2024/Hari Raya and International Friendship Day.md
+      - 2023/.keep
+      - 2023/2023.md
+      - 2023/P1 Orientation Programme.md
+      - 2023/Chinese New Year Celebration.md
+      - 2023/Hari Raya.md
+      - 2023/Deepavali.md
