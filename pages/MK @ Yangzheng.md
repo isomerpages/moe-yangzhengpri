@@ -8,7 +8,7 @@ variant: tiptap
 <br>Our school MOE Kindergarten Open House 2025 was held on Saturday, 8 February
 2025, from 8.30 a.m. to 12.30 p.m. at MK @ Yangzheng Primary School.</p>
 <p></p>
-<p>Click&nbsp;<a href="https://go.gov.sg/mkoh2025" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+<p>Click&nbsp;<a href="https://drive.google.com/file/d/1Cd56NbyQZlKmsx_-l-AYruJKCdjM6lmb/view" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 the Open House slides.</p>
 <p><strong>MK Waitlist</strong>
 </p>
