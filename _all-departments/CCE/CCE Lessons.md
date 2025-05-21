@@ -3,8 +3,9 @@ title: CCE Lessons
 permalink: /distinctive-programmes/all-departments/cce/cce-lessons/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
-The CCE syllabus provides the knowledge, skills and attitudes that are explicitly taught during CCE lessons. The lessons are conducted during Mother Tongue periods. The goals of CCE curriculum aims to develop in our students goad character, resilience and social-emotional well-being, future readiness and active citizenship.
+The CCE syllabus provides the knowledge, skills and attitudes that are explicitly taught during CCE lessons. The lessons are conducted during Mother Tongue periods. The goals of CCE curriculum aims to develop in our students good character, resilience and social-emotional well-being, future readiness and active citizenship.
 
   
 
