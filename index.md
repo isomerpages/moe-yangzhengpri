@@ -17,6 +17,9 @@ sections:
         - title: Primary 1 Registration Exercise
           description: Click here to find out more.
           url: https://www.moe.gov.sg/primary/p1-registration
+        - title: School Calendar
+          description: School calendar
+          url: https://www.yangzhengpri.moe.edu.sg/for-parents/school-calendar/
       subtitle: Passion for Learning, Responsibility, Integrity, Self-Discipline, eMpathy
   - infopic:
       id: infopic
