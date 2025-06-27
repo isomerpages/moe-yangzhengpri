@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/yangzhengpri.gif
       button: Yangzheng Corporate Video
-      url: https://youtu.be/Hst0rFkrByQ
+      url: https://drive.google.com/file/d/1-iI5ANRi609HmsQ1XvHXAofpNkK8EjUQ/view
       key_highlights:
         - title: Virtual Tour@Yangzheng Primary School
           description: ""
