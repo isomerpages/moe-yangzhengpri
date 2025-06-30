@@ -17,12 +17,12 @@ sections:
         - title: School Calendar
           description: School calendar
           url: https://www.yangzhengpri.moe.edu.sg/for-parents/school-calendar/
-        - title: Key Highlight Title
+        - title: Our Facebook
           description: Our Facebook
           url: https://www.facebook.com/profile.php?id=61575042864021
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
+        - title: Our Instagram
+          description: Our Instagram
+          url: https://www.instagram.com/p/DI0xyX7za5j/?igsh=MXNyODA1azd3YWU3MQ==
       subtitle: Passion for Learning, Responsibility, Integrity, Self-Discipline, eMpathy
   - infopic:
       id: infopic
