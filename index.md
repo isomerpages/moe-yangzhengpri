@@ -52,7 +52,8 @@ sections:
       url: https://www.instagram.com/p/DI0xyX7za5j/?igsh=MXNyODA1azd3YWU3MQ==
       alt: Image alt text
   - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
+      title: "ResourcesFacebook:"
+      subtitle: "Follow us on:"
       id: resources
+      button: Facebook
 ---
