@@ -30,33 +30,4 @@ sections:
       alt: Image alt text
       subtitle: Latest news
       title: 120th Anniversary Dinner
-  - infopic:
-      title: Connect With Us!
-      subtitle: Latest News
-      id: infopic
-      description: "Join our online community today and be part of our Yangzheng
-        journey! Follow us on:"
-      button: YZPS Facebook
-      url: https://www.facebook.com/profile.php?id=61575042864021
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Add a list of announcements with dates
-      announcement_items:
-        - title: New Announcement
-          date: 27 June 2025
-          announcement: Latest
-          link_text: ""
-          link_url: ""
-  - infopic:
-      subtitle: Add an image and text
-      id: infopic
-      button: YZPS Instagram
-      url: https://www.instagram.com/p/DI0xyX7za5j/?igsh=MXNyODA1azd3YWU3MQ==
-      alt: Image alt text
-  - resources:
-      title: "ResourcesFacebook:"
-      subtitle: "Follow us on:"
-      id: resources
-      button: Facebook
 ---
