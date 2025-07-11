@@ -11,15 +11,15 @@ sections:
       button: Yangzheng Corporate Video
       url: https://drive.google.com/file/d/1-iI5ANRi609HmsQ1XvHXAofpNkK8EjUQ/view
       key_highlights:
+        - title: Our Parents' Voices
+          description: ""
+          url: https://www.yangzhengpri.moe.edu.sg/our-parents-voices/
         - title: Primary 1 Registration Exercise
           description: Click here to find out more.
           url: https://www.moe.gov.sg/primary/p1-registration
         - title: School Calendar
           description: School calendar
           url: https://www.yangzhengpri.moe.edu.sg/for-parents/school-calendar/
-        - title: Our Facebook
-          description: Our Facebook
-          url: https://www.facebook.com/profile.php?id=61575042864021
         - title: Our Instagram
           description: Our Instagram
           url: https://www.instagram.com/p/DI0xyX7za5j/?igsh=MXNyODA1azd3YWU3MQ==
