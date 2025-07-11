@@ -11,9 +11,18 @@ their experiences and journey with Yangzheng Primary School. Their stories
 offer authentic insights into our school community and the partnerships
 we build with families.</p>
 <p>Here's what our parents have shared about their experiences with the school:</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Events/Partners/Screenshot_2025_07_11_125407.png">
+</div>
 <p><strong>[Click on the photo to watch the video]</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Events/Partners/Screenshot_2025_07_11_125243.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Events/Partners/Screenshot_2025_07_11_125345.png">
+</div>
 <p>
 <br>
 </p>
