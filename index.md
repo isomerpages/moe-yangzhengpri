@@ -12,7 +12,7 @@ sections:
       url: https://drive.google.com/file/d/1-iI5ANRi609HmsQ1XvHXAofpNkK8EjUQ/view
       key_highlights:
         - title: Our Parents' Voices
-          description: Our Parents' Voices
+          description: ""
           url: https://www.yangzhengpri.moe.edu.sg/our-parents-voices/
         - title: Primary 1 Registration Exercise
           description: Click here to find out more.
