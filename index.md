@@ -25,12 +25,6 @@ sections:
           url: https://www.instagram.com/p/DI0xyX7za5j/?igsh=MXNyODA1azd3YWU3MQ==
       subtitle: Passion for Learning, Responsibility, Integrity, Self-Discipline, eMpathy
   - infopic:
-      id: infopic
-      image: /images/2025 Events/Anniversary/Screenshot_1.png
-      alt: Image alt text
-      subtitle: Latest news
-      title: 120th Anniversary Dinner
-  - infopic:
       title: School corridor reimagined
       id: infopic
       description: How Yangzheng Primary turns walkways into exciting learning spaces!
@@ -38,4 +32,10 @@ sections:
       url: https://www.zaobao.com.sg/news/singapore/story20250721-7143038?utm_source=ios-share&utm_medium=app
       image: /images/ZB_21July.png
       alt: Image alt text
+  - infopic:
+      id: infopic
+      image: /images/2025 Events/Anniversary/Screenshot_1.png
+      alt: Image alt text
+      subtitle: Latest news
+      title: 120th Anniversary Dinner
 ---
