@@ -36,6 +36,5 @@ sections:
       id: infopic
       image: /images/2025 Events/Anniversary/Screenshot_1.png
       alt: Image alt text
-      subtitle: Latest news
       title: 120th Anniversary Dinner
 ---
