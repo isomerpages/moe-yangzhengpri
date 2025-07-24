@@ -40,6 +40,21 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Priya D/O Karuna Moorthi</p>
+<p><strong>Centre Head (MK)</strong>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Priya_Karuna_Moorthi@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>School Staff Developer</h2>
