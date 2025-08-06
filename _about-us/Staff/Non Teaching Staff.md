@@ -6,7 +6,11 @@ third_nav_title: Staff
 variant: tiptap
 ---
 <h2>Corporate Support Officer</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -39,7 +43,11 @@ variant: tiptap
 <br>
 </p>
 <h2>Operations Support Officer</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -67,7 +75,11 @@ variant: tiptap
 <br>Email: <a href="mailto:koh_hua_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_hua_cheng@schools.gov.sg</a>
 </p>
 <h4>Learning and Behavioural Support</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -91,11 +103,11 @@ variant: tiptap
 <p>Mr Alias Bin Mat Leh
 <br>Email: <a href="mailto:alias.matleh@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">alias.matleh@ncs.com.sg</a>
 </p>
-<p>Ms Nurul Shafiqah
-<br>Email: <a href="mailto:ns.ba1@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">ns.ba1@ncs.com.sg</a>
-</p>
 <h2>Librarian</h2>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
