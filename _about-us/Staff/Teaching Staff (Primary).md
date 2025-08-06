@@ -376,19 +376,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Cindy Lim Choon Hui
-<br>Email: <a href="mailto:lim_choon_hui_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_choon_hui_a@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>4C</strong>
 </p>
 </td>
