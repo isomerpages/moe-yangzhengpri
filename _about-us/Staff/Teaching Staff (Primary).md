@@ -824,16 +824,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Li Hoon
-<br>Email: <a href="mailto:lim_li_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_li_hoon@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
