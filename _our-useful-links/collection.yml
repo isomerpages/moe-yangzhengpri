@@ -1,4 +1,5 @@
 collections:
   our-useful-links:
     output: true
-    order: []
+    order:
+      - Canteen Vendor.md
