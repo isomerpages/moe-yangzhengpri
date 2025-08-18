@@ -1,0 +1,4 @@
+collections:
+  our-useful-links:
+    output: true
+    order: []
