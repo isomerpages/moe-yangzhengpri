@@ -2,4 +2,5 @@ collections:
   our-useful-links:
     output: true
     order:
+      - YZPS Waitlist.md
       - Canteen Vendor.md
