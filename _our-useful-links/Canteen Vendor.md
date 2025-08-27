@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>School Canteen Advertisement</strong></h3>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_05_23_142954.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Events/Screenshot_2025_08_27_132657.png">
 </div>
 <h4><strong>Application Procedure</strong></h4>
 <ol data-tight="true" class="tight">
