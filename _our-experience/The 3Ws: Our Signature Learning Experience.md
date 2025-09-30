@@ -8,7 +8,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our experiences/Screenshot_2025_09_30_132308.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our experiences/Screenshot_2025_09_30_132433.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our experiences/Screenshot_2025_09_30_134541.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our experiences/Screenshot_2025_09_30_132508.png">
