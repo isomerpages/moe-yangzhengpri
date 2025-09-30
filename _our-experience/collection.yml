@@ -1,5 +1,5 @@
 collections:
-  distinctive-programmes:
+  our-experience:
     output: true
     order:
       - All Departments.md
