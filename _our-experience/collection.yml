@@ -1,7 +1,8 @@
 collections:
-  distinctive-programmes:
+  our-experience:
     output: true
     order:
+      - "The 3Ws: Our Signature Learning Experience.md"
       - All Departments.md
       - Applied Learning Programme (ALP).md
       - LLP.md
