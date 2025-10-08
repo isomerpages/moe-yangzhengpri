@@ -8,8 +8,6 @@ variant: tiptap
 <p>Our School has appointed LongLim Pte Ltd as our school bus vendor.
 <br><a href="https://drive.google.com/file/d/153CxcRh4hfJH4lpt92SanYk28sy7mXiG/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">School Bus Services Info Sheet</a>
 </p>
-<p><a href="/files/School bus service/School_Bus_Service_Info_Sheet.pdf" rel="noopener nofollow" target="_blank">School Bus Service Info Sheet</a>
-</p>
 <p></p>
 <p>Interested parents may download the Request Form appended below and submit
 directly to LongLim Pte Ltd.
