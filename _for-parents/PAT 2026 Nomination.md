@@ -1,5 +1,5 @@
 ---
-title: PAT 2025 Nomination
+title: PAT 2026 Nomination
 permalink: /pat-2025-nomination/
 variant: tiptap
 description: ""
@@ -10,11 +10,11 @@ recognition to teachers for their dedication and hard work in moulding
 the future of our nation. These teachers prepare students for life, as
 well as model commitment to continuous learning and enterprise. They inspire
 both their students and peers through their words and deeds.</p>
-<p>Nomination for PAT 2025 is <strong>now open</strong> and will <strong>close on Friday, 09 January 2026 at 12 p.m. &nbsp; &nbsp;</strong>
+<p>Nomination for PAT 2026 is <strong>now open</strong> and will <strong>close on Friday, 09 January 2026 at 12 p.m. &nbsp; &nbsp;</strong>
 </p>
 <p>We would like to invite you and your child/ward to submit your nomination(s)
-for our teacher(s) by clicking on the weblink provided: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pat2026</a> or
-&nbsp;QR Code below.</p>
+for our teacher(s) by clicking on the weblink provided: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pat2026</a> or &nbsp;QR
+Code below.</p>
 <p>We are looking forward to receiving your support in recognising the good
 work of our teachers!</p>
 <div class="isomer-image-wrapper">
