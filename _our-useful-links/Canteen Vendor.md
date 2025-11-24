@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>School Canteen Advertisement</strong></h3>
-<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/Screenshot_2025_11_24_123632.png">
 </div>
@@ -62,5 +61,4 @@ to apply for a food stall license from Singapore Food Agency (SFA).</p>
 </p>
 </li>
 </ol>
-<p></p>
 <p></p>
