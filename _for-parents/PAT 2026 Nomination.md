@@ -1,6 +1,6 @@
 ---
 title: PAT 2026 Nomination
-permalink: /pat-2025-nomination/
+permalink: /pat-2026-nomination/
 variant: tiptap
 description: ""
 ---
