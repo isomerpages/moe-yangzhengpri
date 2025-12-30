@@ -571,7 +571,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Norsena Binte Mohd Yusof
-<br>Email: <a href="mailto:norsena_mohd_yusof@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norsena_mohd_yusof@schools.gov.sg</a> 
+<br>Email: <a href="mailto:norsena_mohd_yusof@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norsena_mohd_yusof@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -584,7 +584,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Razli Abdol Jalil
-<br>Email: <a href="mailto:razli_jalil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">razli_jalil@schools.gov.sg</a> 
+<br>Email: <a href="mailto:razli_jalil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">razli_jalil@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -600,7 +600,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Narayanasamy Tamizmalar
-<br>Email: <a href="mailto:narayanasamy_tamizmalar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">narayanasamy_tamizmalar@schools.gov.sg</a> 
+<br>Email: <a href="mailto:narayanasamy_tamizmalar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">narayanasamy_tamizmalar@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -613,7 +613,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Toh Peng Tee
-<br>Email: <a href="mailto:law_peng_tee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">law_peng_tee@schools.gov.sg</a> 
+<br>Email: <a href="mailto:law_peng_tee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">law_peng_tee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -629,7 +629,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Tan Rui Qi
-<br>Email: <a href="mailto:lin_rui_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_rui_qi@schools.gov.sg</a> 
+<br>Email: <a href="mailto:lin_rui_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_rui_qi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -645,7 +645,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zou Bin
-<br>Email: <a href="mailto:zou_bin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zou_bin@schools.gov.sg</a> 
+<br>Email: <a href="mailto:zou_bin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zou_bin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -658,7 +658,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Hoe Shu Chen
-<br>Email: <a href="mailto:hoe_shu_chen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hoe_shu_chen@schools.gov.sg</a> 
+<br>Email: <a href="mailto:hoe_shu_chen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hoe_shu_chen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -674,7 +674,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Muffarraha Bte Adam
-<br>Email: <a href="mailto:siti_muffarraha_adam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_muffarraha_adam@schools.gov.sg</a> 
+<br>Email: <a href="mailto:siti_muffarraha_adam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_muffarraha_adam@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -687,39 +687,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Seah Choon Sheng
-<br>Email: <a href="mailto:seah_choon_sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seah_choon_sheng@schools.gov.sg</a> 
+<br>Email: <a href="mailto:seah_choon_sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seah_choon_sheng@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
-<h2>Non-Form Teachers</h2>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lim Kah Gek
-<br>Emai: <a href="mailto:lim_kah_gek@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kah_gek@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Margaret Chee
-<br>Email:&nbsp;<a href="margaret_chee_yoke_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">margaret_chee_yoke_yen@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Nurellysa Bte Bahtiaraffandy
-<br>Email: <a href="mailto:nurellysa_mohd_bahtiaraffa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurellysa_mohd_bahtiaraffa@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -801,16 +770,6 @@ variant: tiptap
 <p>Mdm Zhang Sha
 <br>Email: <a href="mailto:zhang_sha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_sha@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lim Kah Gek
-<br>Email: <a href="mailto:lim_kah_gek@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kah_gek@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
