@@ -877,14 +877,12 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Margaret Chee
-<br>Email : <a href="mailto:margaret_chee_yoke_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">margaret_chee_yoke_yen@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Nurellysa Bte Mohd B
 <br>Email: <a href="mailto:nurellysa_mohd_bahtiaraffa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurellysa_mohd_bahtiaraffa@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
