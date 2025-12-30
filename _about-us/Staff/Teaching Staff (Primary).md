@@ -126,7 +126,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Yan Ling
-<br>Email: <a href="mailto:tan_yan_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yan_ling@schools.gov.sg</a> 
+<br>Email: <a href="mailto:tan_yan_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yan_ling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -142,7 +142,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zhang Sha
-<br>Email: <a href="mailto:zhang_sha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_sha@schools.gov.sg</a> 
+<br>Email: <a href="mailto:zhang_sha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_sha@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -158,7 +158,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Mageshwari
-<br>Email: <a href="mailto:rajaperian_mageshwari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rajaperian_mageshwari@schools.gov.sg</a> 
+<br>Email: <a href="mailto:rajaperian_mageshwari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rajaperian_mageshwari@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chin Siew Hoon
+<br>Email: <a href="mailto:chin_siew_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_siew_hoon@schools.gov.sg</a> 
 </p>
 </td>
 </tr>
@@ -174,7 +187,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Cher Yong Chuan
-<br>Email: <a href="mailto:cher_yong_chuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cher_yong_chuan@schools.gov.sg</a> 
+<br>Email: <a href="mailto:cher_yong_chuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cher_yong_chuan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -190,7 +203,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Tzu Hui
-<br>Email: <a href="mailto:lim_tzu_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_tzu_hui@schools.gov.sg</a> 
+<br>Email: <a href="mailto:lim_tzu_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_tzu_hui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
