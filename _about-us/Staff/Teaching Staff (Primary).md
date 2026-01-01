@@ -828,8 +828,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Mageshwari</p>
-<p>Email:<a href="mailto:rajaperian_mageshwari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rajaperian_mageshwari@schools.gov.sg</a>
+<p>Mdm Mageshwari
+<br>Email: <a href="mailto:rajaperian_mageshwari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rajaperian_mageshwari@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -864,25 +864,6 @@ variant: tiptap
 <p>Mdm Stella Lim
 <br>Email: <a href="mailto:lim_bee_yean_stella@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_bee_yean_stella@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
-<h2>Allied Educator (AED) - Teaching &amp; Learning</h2>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Nurellysa Bte Mohd B
-<br>Email: <a href="mailto:nurellysa_mohd_bahtiaraffa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurellysa_mohd_bahtiaraffa@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
