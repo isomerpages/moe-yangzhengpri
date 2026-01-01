@@ -272,8 +272,8 @@ variant: tiptap
 <p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zou Bin</p>
-<p><a href="mailto:zou_bin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zou_bin@schools.gov.sg</a>
+<p>Mdm Zou Bin
+<br><a href="mailto:zou_bin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zou_bin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -292,8 +292,8 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ginny Low</p>
-<p><a href="mailto:low_sok_hiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_sok_hiang@schools.gov.sg</a>
+<p>Ms Ginny Low
+<br><a href="mailto:low_sok_hiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_sok_hiang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
