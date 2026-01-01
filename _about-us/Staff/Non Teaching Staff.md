@@ -86,6 +86,24 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Admin support</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nurellysa Bte Mohd B
+<br>Email: <a href="mailto:nurellysa_mohd_bahtiaraffa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurellysa_mohd_bahtiaraffa@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h2>ICT Manager</h2>
 <p>Mdm Renuha D/O Rajindran
 <br>Email: <a href="mailto:renuha_rajindran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">renuha_rajindran@schools.gov.sg</a>
