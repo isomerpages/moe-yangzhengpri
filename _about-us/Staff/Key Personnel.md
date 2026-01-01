@@ -19,22 +19,22 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Eric Lee Wei Tat</p>
-<p><strong>Vice-Principal (EO)</strong>
+<p>Mr Eric Lee Wei Tat
+<br><strong>Vice-Principal (EO)</strong>
 </p>
 <p><a href="mailto:eric_wt_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">eric_wt_lee@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Huang Xiujuan Michelle</p>
-<p><strong>Vice-Principal (EO)</strong>
+<p>Ms Huang Xiujuan Michelle
+<br><strong>Vice-Principal (EO)</strong>
 </p>
 <p><a href="mailto:micehlle_huang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">michelle_huang@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Eng Eng Jenny</p>
-<p><strong>Vice-Principal (VPA)</strong>
+<p>Mdm Tan Eng Eng Jenny
+<br><strong>Vice-Principal (VPA)</strong>
 </p>
 <p><a href="mailto:jenny_ee_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jenny_ee_tan@schools.gov.sg</a>
 </p>
@@ -42,8 +42,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Priya D/O Karuna Moorthi</p>
-<p><strong>Centre Head (MK)</strong>
+<p>Ms Priya D/O Karuna Moorthi
+<br><strong>Centre Head (MK)</strong>
 </p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">Priya_Karuna_Moorthi@schools.gov.sg</a>
 </p>
@@ -61,6 +61,10 @@ variant: tiptap
 <p>Mr Wu Wai Tuck
 <br><a href="mailto:wu_wai_tuck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wu_wai_tuck@schools.gov.sg</a>
 </p>
+<h2>Special Project</h2>
+<p>Ms Alice Chua</p>
+<p><a href="mailto:chua_ling_yin_alice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_ling_yin_alice@schools.gov.sg</a>
+</p>
 <h2>Head of Departments</h2>
 <table style="minWidth: 50px">
 <colgroup>
@@ -73,8 +77,8 @@ variant: tiptap
 <p>Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hoe Shu Chen</p>
-<p><a href="mailto:hoe_shu_chen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hoe_shu_chen@schools.gov.sg</a>
+<p>Mrs Angela Chew</p>
+<p><a href="mailto:poh_woon_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poh_woon_ying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -103,8 +107,8 @@ variant: tiptap
 <p>Information and Communication Technology (ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Alice Chua</p>
-<p><a href="mailto:chua_ling_yin_alice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_ling_yin_alice@schools.gov.sg</a>
+<p>Mr Wu Wai Tuck
+<br><a href="mailto:wu_wai_tuck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wu_wai_tuck@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -130,7 +134,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PE &amp; CCA</p>
+<p>PE, Aesthetics &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Razli Abdol Jalil</p>
@@ -162,16 +166,6 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Aesthetics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Yap Shiaw Fang</p>
-<p><a href="mailto:yap_shiaw_fang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_shiaw_fang@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -182,9 +176,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mathematics
-<br>
-</p>
+<p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Celestia Tan
@@ -202,6 +194,16 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Information and Communication Technology (ICT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sim Mei Chin Ivy</p>
+<p><a href="mailto:sim_mei_chin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_mei_chin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>Year Heads</h2>
@@ -213,17 +215,17 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 2</p>
+<p>Primary 1 &amp; 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Angela Chew</p>
-<p><a href="mailto:poh_woon_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poh_woon_ying@schools.gov.sg</a>
+<p>Mr Abu Naeem Bin Hairon</p>
+<p><a href="mailto:abu_naeem_b_hairon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">abu_naeem_b_hairon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 3</p>
+<p>Primary 3 &amp; 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Angela Ong</p>
@@ -233,11 +235,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 5 &amp; 6</p>
+<p>Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lasime Kumari</p>
-<p><a href="mailto:lasime_kumari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lasime_kumari@schools.gov.sg</a>
+<p>Hoe Shu Chen</p>
+<p><a href="mailto:hoe_shu_chen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hoe_shu_chen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -252,17 +254,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Abu Naeem Bin Hairon</p>
-<p><a href="mailto:abu_naeem_b_hairon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">abu_naeem_b_hairon@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 4</p>
+<p>Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Nanmalar Velu</p>
