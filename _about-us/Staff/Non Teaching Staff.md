@@ -57,24 +57,14 @@ variant: tiptap
 <p>Mdm Veerasany Vasandha</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Julie Chan Kam Hoe</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ang Ah Boan
-<br>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h2>Allied Educator (AED)</h2>
 <h4>Counselling</h4>
-<p>Ms Gillian Koh
-<br>Email: <a href="mailto:koh_hua_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_hua_cheng@schools.gov.sg</a>
+<p>Ms Lee Li Ting
+<br>Email: <a href="mailto:ee_li_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_li_ting@schools.gov.sg</a>
 </p>
-<h4>Learning and Behavioural Support</h4>
+<h4>Special Educational Needs Officer</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -95,6 +85,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h4>Admin support</h4>
 <h2>ICT Manager</h2>
 <p>Mdm Renuha D/O Rajindran
 <br>Email: <a href="mailto:renuha_rajindran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">renuha_rajindran@schools.gov.sg</a>
