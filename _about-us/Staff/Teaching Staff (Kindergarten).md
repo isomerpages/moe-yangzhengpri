@@ -79,6 +79,18 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Waheeda Bte Mohamed Ibrahim
+<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">waheeda_mohamed_ibrahim@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Zhang Rui
+<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">zhang_rui_a@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
