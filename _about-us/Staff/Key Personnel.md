@@ -57,10 +57,6 @@ variant: tiptap
 <p>Mr Wu Wai Tuck
 <br><a href="mailto:wu_wai_tuck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wu_wai_tuck@schools.gov.sg</a>
 </p>
-<h2>Special Project</h2>
-<p>Ms Alice Chua
-<br><a href="mailto:chua_ling_yin_alice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_ling_yin_alice@schools.gov.sg</a>
-</p>
 <h2>Head of Departments</h2>
 <table style="minWidth: 50px">
 <colgroup>
@@ -145,6 +141,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Noryati Bte Ab Rahaman
 <br><a href="mailto:noryati_abdul_rahaman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noryati_abdul_rahaman@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Special Project</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Alice Chua
+<br><a href="mailto:chua_ling_yin_alice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_ling_yin_alice@schools.gov.sg</a>
 </p>
 </td>
 </tr>
