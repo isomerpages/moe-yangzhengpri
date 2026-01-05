@@ -439,7 +439,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tan Yean Cheng
+<p>Mrs Wong Yean Cheng
 <br>Email: <a href="mailto:tan_yean_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yean_cheng@schools.gov.sg</a>
 </p>
 </td>
