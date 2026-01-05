@@ -156,9 +156,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <h2>Subject Heads</h2>
 <table style="minWidth: 50px">
 <colgroup>
