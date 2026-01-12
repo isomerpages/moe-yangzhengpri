@@ -32,9 +32,4 @@ sections:
       url: https://www.zaobao.com.sg/news/singapore/story20250721-7143038?utm_source=ios-share&utm_medium=app
       image: /images/ZB_21July.png
       alt: Image alt text
-  - infopic:
-      id: infopic
-      image: /images/2025 Events/Anniversary/Screenshot_1.png
-      alt: Image alt text
-      title: 120th Anniversary Dinner
 ---
