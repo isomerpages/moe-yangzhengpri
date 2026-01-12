@@ -2,5 +2,6 @@ collections:
   our-useful-links:
     output: true
     order:
+      - Every Voice Matters.md
       - Canteen Vendor.md
       - YZPS Waitlist.md
