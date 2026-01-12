@@ -25,14 +25,7 @@ register.</p>
 <li>
 <p>Click&nbsp;<a href="https://www.moe.gov.sg/preschool/moe-kindergarten" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 find out more about the overview of MOE Curriculum and Programme.</p>
-</li>
-<li>
-<p>Click <a href="https://drive.google.com/drive/folders/1te7kdgUXdQVIPYK7wjGn94yK76jeL5Sm?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-Term 1 and 2 2024 MOE@YZPS English bi-weekly write-up,</p>
-</li>
-<li>
-<p>Click <a href="https://drive.google.com/drive/folders/125qw4djDiZU_V-J-tqD1CZd5FhBMenzy?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-Term 3 and 4 2024 MOE@YZPS English bi-weekly write-up,</p>
+<p></p>
 <p></p>
 </li>
 </ul>
