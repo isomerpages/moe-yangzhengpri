@@ -22,5 +22,5 @@ us</p>
 </div>
 <h2><strong><a href="https://form.gov.sg/68facf57e22f1ee587c6436b" rel="noopener nofollow" target="_blank">Insights and Perspectives</a></strong></h2>
 <p>Your insights and perspectives matters - help us continue to grow and
-improve together.</p>
+improve together</p>
 <p></p>

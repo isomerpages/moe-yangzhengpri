@@ -21,7 +21,7 @@ sections:
           description: Our Instagram
           url: https://www.instagram.com/p/DI0xyX7za5j/?igsh=MXNyODA1azd3YWU3MQ==
         - title: Every Voice Matters
-          description: We treasure every voice.
+          description: We treasure every voice
           url: https://www.yangzhengpri.moe.edu.sg/every-voice-matters/
       subtitle: Passion for Learning, Responsibility, Integrity, Self-Discipline, eMpathy
   - infopic:
