@@ -14,15 +14,15 @@ sections:
         - title: Our Parents' Voices
           description: ""
           url: https://www.yangzhengpri.moe.edu.sg/our-parents-voices/
-        - title: Primary 1 Registration Exercise
-          description: Click here to find out more.
-          url: https://www.moe.gov.sg/primary/p1-registration
         - title: School Calendar
           description: School calendar
           url: https://www.yangzhengpri.moe.edu.sg/for-parents/school-calendar/
         - title: Our Instagram
           description: Our Instagram
           url: https://www.instagram.com/p/DI0xyX7za5j/?igsh=MXNyODA1azd3YWU3MQ==
+        - title: Every Voice Matters
+          description: We treasure every voice.
+          url: https://www.yangzhengpri.moe.edu.sg/every-voice-matters/
       subtitle: Passion for Learning, Responsibility, Integrity, Self-Discipline, eMpathy
   - infopic:
       title: School corridor reimagined
@@ -32,9 +32,4 @@ sections:
       url: https://www.zaobao.com.sg/news/singapore/story20250721-7143038?utm_source=ios-share&utm_medium=app
       image: /images/ZB_21July.png
       alt: Image alt text
-  - infopic:
-      id: infopic
-      image: /images/2025 Events/Anniversary/Screenshot_1.png
-      alt: Image alt text
-      title: 120th Anniversary Dinner
 ---
