@@ -11,7 +11,7 @@ sections:
       button: Yangzheng Corporate Video
       url: https://drive.google.com/file/d/1-iI5ANRi609HmsQ1XvHXAofpNkK8EjUQ/view
       key_highlights:
-        - title: Our Parents' Voices
+        - title: Voices of the Yangzheng Family
           description: ""
           url: https://www.yangzhengpri.moe.edu.sg/our-parents-voices/
         - title: School Calendar
