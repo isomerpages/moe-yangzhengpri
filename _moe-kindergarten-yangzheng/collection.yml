@@ -1,0 +1,5 @@
+collections:
+  moe-kindergarten-yangzheng:
+    output: true
+    order:
+      - MK @ Yangzheng.md
