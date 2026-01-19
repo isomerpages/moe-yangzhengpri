@@ -4,29 +4,28 @@ permalink: /mk-at-yangzheng/
 description: ""
 variant: tiptap
 ---
-<p><strong>MK @ Yangzheng Open House 2025</strong>
-<br>Our school MOE Kindergarten Open House 2025 was held on Saturday, 8 February
-2025, from 8.30 a.m. to 12.30 p.m. at MK @ Yangzheng Primary School.</p>
-<p></p>
-<p>Click&nbsp;<a href="https://drive.google.com/file/d/1Cd56NbyQZlKmsx_-l-AYruJKCdjM6lmb/view" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
-the Open House slides.</p>
-<p><strong>MK Waitlist</strong>
-</p>
-<p>Click <a href="https://go.gov.sg/mkyzwaitlist" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-register.</p>
-<p><strong>MK@YZ Open House Programme 2025</strong>
-</p>
+<h4><strong>Welcome to MK@YZ!</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MK@YZ Open House Programme 2025" src="/images/MK2025OH.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/mk@yz logo.png">
 </div>
+<p>MK @ Yangzheng commenced operations in January 2024, welcoming its first
+cohort of Kindergarten 1 children.</p>
 <p></p>
-<p><strong>Curriculum and Programmes</strong>:</p>
-<ul>
-<li>
-<p>Click&nbsp;<a href="https://www.moe.gov.sg/preschool/moe-kindergarten" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-find out more about the overview of MOE Curriculum and Programme.</p>
+<p>At MOE Kindergarten, we believe that children are joyful, curious, active
+and competent learners, and we are committed to giving every child a strong
+start. We nurture children holistically so that they grow in confidence,
+develop strong social skills, and build a firm foundation in literacy and
+numeracy.</p>
 <p></p>
+<p>Our curriculum is developed by MOE curriculum specialists and delivered
+by trained educators with expertise in the early childhood education and
+an understanding of the primary school curriculum. Through our flagship
+HI-Light Programme and Starlight Literacy Programme, children engage in
+meaningful learning experiences that support their overall development
+and foster a joy of learning.</p>
 <p></p>
-</li>
-</ul>
+<p>To support working families, we also provide full-day Kindergarten Care
+(KCare) for enrolled children.</p>
 <p></p>
+<p>🔗 Find out more at: <a href="https://www.moe.gov.sg/preschool/moe-kindergarten" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten</a>
+</p>
