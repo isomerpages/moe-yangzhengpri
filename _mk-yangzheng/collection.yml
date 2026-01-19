@@ -2,7 +2,5 @@ collections:
   mk-yangzheng:
     output: true
     order:
+      - Our Vision, Mission and Values.md
       - MK @ Yangzheng.md
-      - Our Vision, Mission and Values/.keep
-      - Our MK Experience/.keep
-      - Our Learning Spaces/.keep
