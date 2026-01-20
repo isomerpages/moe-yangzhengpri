@@ -33,31 +33,29 @@ five learning areas through an integrated approach:</p>
 </li>
 </ul>
 <h4><strong>Starlight Literacy (English and Mother Tongue Languages) Programme</strong></h4>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/mk starlight stars.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nurtures early childhood bilingualism</p>
+<p>Nurtures early childhood bilingualism.</p>
 </li>
 <li>
 <p>Offered in English and three Mother Tongue Languages (Chinese, Malay and
-Tamil)</p>
+Tamil).</p>
 </li>
 <li>
 <p>Focuses on developing a positive disposition to the languages, listening,
-speaking and early reading and writing skills</p>
+speaking and early reading and writing skills.</p>
 </li>
 <li>
 <p>Uses Big Books, songs and games set in the local context to make learning
-fun and engaging</p>
+fun and engaging.</p>
 </li>
 <li>
 <p>Provides opportunities for children to communicate in English and their
 Mother Tongue Language with confidence and be aware of local traditions
-and customs</p>
+and customs.</p>
 </li>
 <li>
 <p>Encourages families to be involved in activities to enthuse children in
