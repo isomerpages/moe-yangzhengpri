@@ -2,7 +2,7 @@ collections:
   mk-yangzheng:
     output: true
     order:
-      - Our Curriculum/Our MK Experience.md
-      - Our Curriculum/.keep
+      - Our MK Experience/Our MK Experience.md
+      - Our MK Experience/.keep
       - MK @ Yangzheng.md
       - Our Vision, Mission and Values.md
