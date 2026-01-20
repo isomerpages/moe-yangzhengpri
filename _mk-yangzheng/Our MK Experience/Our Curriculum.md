@@ -10,7 +10,6 @@ third_nav_title: Our MK Experience
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/R636jFF7S28?si=wl7vlWZvsMum8VCQ"></iframe>
 </div>
 <h4><strong>Hi-Light Programme</strong></h4>
-<p></p>
 <p>The HI-Light Programme is designed to support the holistic development
 of children by nurturing in them values, social and emotional skills and
 learning dispositions, as well as knowledge and skills across the following
@@ -63,6 +62,19 @@ and customs</p>
 <li>
 <p>Encourages families to be involved in activities to enthuse children in
 language learning.</p>
+</li>
+</ul>
+<h4><strong>Weeks of Wonder (WoW) Projects</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Projects based on children’s interests</p>
+</li>
+<li>
+<p>In-depth investigations where children work together with friends to find
+answers to their questions</p>
+</li>
+<li>
+<p>Conducted in both English and Mother Tongue Languages</p>
 </li>
 </ul>
 <p></p>
