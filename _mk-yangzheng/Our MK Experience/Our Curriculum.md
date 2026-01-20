@@ -1,8 +1,9 @@
 ---
-title: Our MK Experience
+title: Our Curriculum
 permalink: /our-mk-experience/
 variant: tiptap
 description: ""
+third_nav_title: Our MK Experience
 ---
 <h4><strong>On to A Strong Start at MOE Kindergarten</strong></h4>
 <div class="iframe-wrapper">
