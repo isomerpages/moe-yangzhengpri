@@ -65,14 +65,14 @@ language learning.</p>
 <h4><strong>Weeks of Wonder (WoW) Projects</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Projects based on children’s interests</p>
+<p>Projects based on children’s interests.</p>
 </li>
 <li>
 <p>In-depth investigations where children work together with friends to find
-answers to their questions</p>
+answers to their questions.</p>
 </li>
 <li>
-<p>Conducted in both English and Mother Tongue Languages</p>
+<p>Conducted in both English and Mother Tongue Languages.</p>
 </li>
 </ul>
 <h4><strong>Igniting the Joy of Learning!</strong></h4>
