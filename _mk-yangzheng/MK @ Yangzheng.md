@@ -4,7 +4,7 @@ permalink: /mk-at-yangzheng/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Welcome to MK@YZ!</strong></h4>
+<h3><strong>Welcome to MK@YZ!</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/mk@yz logo.png">
 </div>
