@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - For Parents/.keep
-      - Register for MK@YZ.md
       - MK @ Yangzheng.md
       - Our Vision, Mission and Values.md
       - Our MK Experience/.keep
