@@ -2,6 +2,7 @@ collections:
   mk-yangzheng:
     output: true
     order:
+      - Register for MK@YZ.md
       - MK @ Yangzheng.md
       - Our Vision, Mission and Values.md
       - Our MK Experience/.keep
