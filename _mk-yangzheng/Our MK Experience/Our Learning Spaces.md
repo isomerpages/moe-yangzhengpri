@@ -10,3 +10,7 @@ third_nav_title: Our MK Experience
 supporting children’s development through play and exploration. At MOE
 Kindergarten, we thoughtfully create spaces that encourage learning, curiosity
 and growth — where every space becomes a place for learning.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LockyOmaNB0?si=GCQyPQe0ousLxC1c"></iframe>
+</div>
+<p></p>
