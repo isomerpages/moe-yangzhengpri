@@ -2,9 +2,9 @@ collections:
   mk-yangzheng:
     output: true
     order:
-      - For Parents/Register for MK@YZ.md
-      - For Parents/.keep
       - MK @ Yangzheng.md
       - Our Vision, Mission and Values.md
       - Our MK Experience/.keep
       - Our MK Experience/Our Curriculum.md
+      - For Parents/.keep
+      - For Parents/Register for MK@YZ.md
