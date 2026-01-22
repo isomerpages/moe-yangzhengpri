@@ -4,4 +4,5 @@ permalink: /mk-yz-open-house-2026/
 variant: tiptap
 description: ""
 ---
-<p>Stay tuned for more details!</p>
+<h4>Stay tuned for more details!</h4>
+<p></p>
