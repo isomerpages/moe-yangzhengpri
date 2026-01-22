@@ -7,7 +7,7 @@ variant: tiptap
 <h3><strong>Welcome to MK@YZ!</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/mk@yyz logo small.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/mk@yz logo big.png">
 </div>
 <p>MK @ Yangzheng commenced operations in January 2024, welcoming its first
 cohort of Kindergarten 1 children.</p>
