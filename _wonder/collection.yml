@@ -2,6 +2,5 @@ collections:
   wonder:
     output: true
     order:
-      - "Wonder: Play@Yangzheng.md"
       - English/Wonder 2026.md
       - English/.keep
