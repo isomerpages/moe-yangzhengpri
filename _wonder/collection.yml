@@ -2,4 +2,5 @@ collections:
   wonder:
     output: true
     order:
+      - English/Wonder 2026.md
       - English/.keep
