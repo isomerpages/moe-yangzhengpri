@@ -2,9 +2,9 @@ collections:
   our-experience:
     output: true
     order:
-      - Wonder/WONDER.md
-      - Wonder/.keep
       - "The 3Ws: Our Signature Learning Experience.md"
+      - Wonder/.keep
+      - Wonder/WONDER.md
       - All Departments.md
       - Applied Learning Programme (ALP).md
       - LLP.md
