@@ -1,4 +1,5 @@
 collections:
   wonder:
     output: true
-    order: []
+    order:
+      - English/.keep
