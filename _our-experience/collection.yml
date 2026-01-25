@@ -2,6 +2,7 @@ collections:
   our-experience:
     output: true
     order:
+      - Wonder/WONDER.md
       - Wonder/.keep
       - "The 3Ws: Our Signature Learning Experience.md"
       - All Departments.md
