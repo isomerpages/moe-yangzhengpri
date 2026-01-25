@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - "The 3Ws: Our Signature Learning Experience.md"
+      - WONDER.md
       - All Departments.md
       - Applied Learning Programme (ALP).md
       - LLP.md
