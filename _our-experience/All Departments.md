@@ -2,6 +2,7 @@
 title: All Departments
 permalink: /distinctive-programmes/all-departments/
 description: ""
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -28,8 +29,5 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/distinctive-programmes/all-departments/science"><img src="/images/YZPS22_0102.jpeg" alt="Image" width="55" height="17"></a><br><span style="font-weight:bold"><a href="/distinctive-programmes/all-departments/science">Science</a></span></td>
-    <td class="tg-0lax"><a href="/distinctive-programmes/all-departments/student-management"><img src="/images/YZPS22_0050.jpeg" alt="Image" width="55" height="17"></a><br><span style="font-weight:bold"><a href="/distinctive-programmes/all-departments/student-management">Student Management</a></span></td>
-    <td class="tg-0lax"></td>
-  </tr>
-</tbody>
-</table>
+    <td class="tg-0lax">
+</td></tr></tbody></table>
