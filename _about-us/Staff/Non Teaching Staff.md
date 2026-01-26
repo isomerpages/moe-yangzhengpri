@@ -14,8 +14,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Kalechilvi D/O Ramalingam
-<br>Email: <a href="mailto:kalechilvi_s_ramalingam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kalechilvi_s_ramalingam@schools.gov.sg</a>
+<p>Mdm Pearl Tay
+<br>Email: <a href="mailto:tay_wee_tien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_wee_tien@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -32,9 +32,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Pearl Tay
-<br>Email: <a href="mailto:tay_wee_tien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_wee_tien@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -55,6 +53,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Veerasany Vasandha</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Fu Lian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -95,7 +101,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Margaret Chee
-<br>Email: <a href="mailto:margaret_chee_yoke_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">margaret_chee_yoke_yen@schools.gov.sg</a> 
+<br>Email: <a href="mailto:margaret_chee_yoke_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">margaret_chee_yoke_yen@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
@@ -112,9 +118,26 @@ variant: tiptap
 <br>Email: <a href="mailto:renuha_rajindran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">renuha_rajindran@schools.gov.sg</a>
 </p>
 <h2>Desktop Engineer</h2>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Alias Bin Mat Leh
 <br>Email: <a href="mailto:alias.matleh@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">alias.matleh@ncs.com.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nagasubashini Samba Sivan, DE
+<br>Email: <a href="mailto:subashini.sambasivan@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">subashini.sambasivan@ncs.com.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h2>Librarian</h2>
 <table style="minWidth: 25px">
 <colgroup>
