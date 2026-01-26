@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - "The 3Ws: Our Signature Learning Experience.md"
+      - Wonder/Science Department.md
       - Wonder/.keep
       - "Wonder/Wonder: Play@Yangzheng.md"
       - Wonder/English Department.md
