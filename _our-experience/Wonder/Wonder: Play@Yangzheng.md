@@ -21,17 +21,14 @@ third_nav_title: Wonder
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="17" width="55" alt="Image" src="/images/YZPS22_0012.jpeg">
-</div>
-<p>
-<br><strong><a href="/distinctive-programmes/all-departments/cce" rel="noopener noreferrer nofollow" target="_blank">CCE</a></strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="17" width="55" alt="Image" src="/images/YZPS22_0070.jpeg">
 </div>
+<p><strong><a href="/distinctive-programmes/all-departments/cce" rel="noopener noreferrer nofollow" target="_blank">CCE</a></strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
 <p>
 <br><strong><a href="/distinctive-programmes/all-departments/english" rel="noopener noreferrer nofollow" target="_blank">English</a></strong>
 </p>
