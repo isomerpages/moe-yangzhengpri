@@ -91,7 +91,9 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Zhang Rui
+<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">zhang_rui_a@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
