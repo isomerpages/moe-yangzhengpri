@@ -1,5 +1,5 @@
 ---
-title: Register for MK@YZ
+title: Register with MK@YZ
 permalink: /register-for-mk-yz/
 variant: tiptap
 description: ""
