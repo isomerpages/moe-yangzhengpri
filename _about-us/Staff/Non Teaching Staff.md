@@ -42,7 +42,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Connie Tham (MOE Kindergarten)
-<br>Email: <a href="mailto:connie_tham_choi_foong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">connie_tham_choi_foong@schools.gov.sg </a>
+<br>Email: <a href="mailto:connie_tham_choi_foong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">connie_tham_choi_foong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
