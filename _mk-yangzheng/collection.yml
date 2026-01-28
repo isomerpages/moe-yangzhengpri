@@ -2,7 +2,6 @@ collections:
   mk-yangzheng:
     output: true
     order:
-      - K1 Orientation 2025.md
       - MK @ Yangzheng Open House 2026.md
       - MK @ Yangzheng.md
       - Our Vision, Mission and Values.md
@@ -10,7 +9,8 @@ collections:
       - Our MK Experience/Our Curriculum.md
       - Our MK Experience/Our Learning Spaces.md
       - Our MK Experience/Our Timetable and Snack Menu.md
+      - K1 Orientation 2025.md
+      - For Parents/.keep
       - For Parents/Our Calendar of Events.md
       - For Parents/School Terms and Holidays (2026).md
-      - For Parents/.keep
       - For Parents/Register with MK@YZ.md
