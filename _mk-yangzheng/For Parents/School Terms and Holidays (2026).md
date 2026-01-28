@@ -5,4 +5,5 @@ variant: tiptap
 description: ""
 third_nav_title: For Parents
 ---
-<p></p>
+<p>Click <a href="/files/School_Terms_Holidays_and_Closure_Dates.pdf" rel="noopener nofollow" target="_blank">here</a> to
+view the document.</p>
