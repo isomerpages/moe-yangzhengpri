@@ -14,8 +14,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Pearl Tay
-<br>Email: <a href="mailto:tay_wee_tien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_wee_tien@schools.gov.sg</a>
+<p>Miss Syahindah Soffyan
+<br>Email: <a href="mailto:syahindah_soffyan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">syahindah_soffyan@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -25,21 +25,29 @@ variant: tiptap
 </p>
 </td>
 </tr>
+</tbody>
+</table>
+<h2>Administrative Executive</h2>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Syahindah Soffyan
-<br>Email: <a href="mailto:syahindah_soffyan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">syahindah_soffyan@schools.gov.sg</a>
+<p>Mdm Pearl Tay
+<br>Email: <a href="mailto:tay_wee_tien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_wee_tien@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Connie Tham (MOE Kindergarten)
+<br>Email: <a href="mailto:connie_tham_choi_foong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">connie_tham_choi_foong@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <h2>Operations Support Officer</h2>
 <table style="minWidth: 50px">
 <colgroup>
