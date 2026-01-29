@@ -6,9 +6,7 @@ description: ""
 ---
 <p></p>
 <p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/full jpeg mission__vision__values_mk.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/orange border values.jpg">
 </div>
 <p></p>
