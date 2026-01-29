@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/purple border values.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/full jpeg mission__vision__values_mk.jpg">
 </div>
 <p></p>
