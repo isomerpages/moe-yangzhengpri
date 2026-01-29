@@ -1,5 +1,5 @@
 ---
-title: MK @ Yangzheng
+title: About Us
 permalink: /mk-at-yangzheng/
 description: ""
 variant: tiptap
