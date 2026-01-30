@@ -3,7 +3,7 @@ title: Our Timetable and Snack Menu
 permalink: /our-timetable-and-snack-menu/
 variant: tiptap
 description: ""
-third_nav_title: Our MK Experience
+third_nav_title: MK@YZ Experience
 ---
 <h3>What a Day Looks Like for Our K1s &amp; K2s</h3>
 <hr>

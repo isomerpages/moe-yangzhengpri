@@ -3,7 +3,7 @@ title: Our Learning Spaces
 permalink: /our-learning-spaces/
 variant: tiptap
 description: ""
-third_nav_title: Our MK Experience
+third_nav_title: MK@YZ Experience
 ---
 <h3><br><strong>MOE Kindergarten – Where Every Space is A Learning Space</strong></h3>
 <p>A thoughtfully designed learning environment plays an important role in

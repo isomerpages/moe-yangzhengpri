@@ -3,7 +3,7 @@ title: Our Curriculum
 permalink: /our-mk-experience/
 variant: tiptap
 description: ""
-third_nav_title: Our MK Experience
+third_nav_title: MK@YZ Experience
 ---
 <h3><strong>On to A Strong Start with us at MK@YZ!</strong></h3>
 <div class="iframe-wrapper">
