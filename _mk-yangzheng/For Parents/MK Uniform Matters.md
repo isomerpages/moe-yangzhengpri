@@ -6,15 +6,14 @@ description: ""
 third_nav_title: For Parents
 ---
 <h3>Our Approved Vendors</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/mk uniform matters.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/uniform matters.jpg">
 </div>
 <p><strong>*MK Uniform by Beau Voix and Jeep Sing follows closely to the specifications required by MOE, and parents have the choice to purchase the uniform from either supplier.</strong>
 </p>
 <hr>
-<p>Notes:
-<br>
-</p>
+<p>Notes:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Please refer to the respective supplier’s website for information on appointment
