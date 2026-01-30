@@ -24,14 +24,15 @@ a much-loved children’s author and illustrator. His stories, known for
 their vibrant illustrations and simple yet meaningful messages, provide
 rich opportunities for children to explore language, creativity, and the
 world around them.</p>
+<blockquote>
 <p>Each class will explore a selected Eric Carle story as its learning theme,
 supporting storytelling, hands-on activities, and purposeful play that
 nurture curiosity, imagination, and a love for learning.</p>
-<blockquote>
+</blockquote>
 <p>During each term’s revision week, children will also have the opportunity
 to visit another class to experience a different Eric Carle story.</p>
-</blockquote>
-<p>A similar sharing experience will take place during Children’s Day.</p>
+<p><em>A similar sharing experience will take place during Children’s Day.</em>
+</p>
 <hr>
 <h2>Class Themes</h2>
 <h4><strong>K1 Classes</strong></h4>
