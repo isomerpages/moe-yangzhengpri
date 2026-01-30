@@ -50,6 +50,16 @@ to visit another class to experience a different Eric Carle story.</p>
 </p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/k1 care .png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/k1 joy.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/k1 respect.png">
+</div>
 <h4><strong>K2 Classes</strong></h4>
 <ul>
 <li>
