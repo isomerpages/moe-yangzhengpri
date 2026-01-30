@@ -10,7 +10,7 @@ description: ""
 <br>
 </p>
 <blockquote>
-<p><strong>*Details of the 2026 MK Registration Exercise will be updated by mid-February 2026. </strong>
+<p><strong>*Details of the 2026 MK Registration Exercise will be updated by mid-February 2026.</strong>
 </p>
 </blockquote>
 <p>
