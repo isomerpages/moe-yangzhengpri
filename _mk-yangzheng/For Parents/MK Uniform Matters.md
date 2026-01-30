@@ -12,9 +12,7 @@ third_nav_title: For Parents
 <p><strong>*MK Uniform by Beau Voix and Jeep Sing follows closely to the specifications required by MOE, and parents have the choice to purchase the uniform from either supplier.</strong>
 </p>
 <hr>
-<p>Notes:
-<br>
-</p>
+<p>Notes:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Please refer to the respective supplier’s website for information on appointment
