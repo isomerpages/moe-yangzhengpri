@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: For Parents
 ---
-<p></p>
-<p></p>
+<h3>Our Approved Vendors</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/Notes.jpg">
 </div>
