@@ -108,6 +108,7 @@ and is also downloadable here:
 </p><p>
 	
 [2026 Opt Out Form](https://www.yangzhengpri.moe.edu.sg/files/2026_School_Website_Opt_Out_Form_Annex_A.pdf)
+	
 </p><p>The completed opt-out form is to be submitted by 13/02/2026.
 
 </p><p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 62846298
