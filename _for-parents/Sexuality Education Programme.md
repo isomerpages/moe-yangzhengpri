@@ -76,11 +76,11 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 <p><strong>At Yangzheng Primary School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/Screenshot_2026_02_02_160837.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/SEd_P5_copy.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/Screenshot_2026_02_02_161214.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/SEd_P6_copy.png">
 </div>
 <p><strong>Information for Parents</strong>
 </p>
