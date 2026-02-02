@@ -109,7 +109,7 @@ and is also downloadable here:
 	
 [2026](/files/2026_School_Website_Opt_Out_Form_Annex_A.pdf)
 	
- <a href="/files/2025_opt_out_form_annex_a.pdf">2025 opt out form annex a</a>
+<a>2025 opt out form annex a</a>
 </p><p>The completed opt-out form is to be submitted by 13/02/2026.
 
 </p><p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 62846298
