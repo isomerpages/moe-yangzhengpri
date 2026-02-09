@@ -1,5 +1,5 @@
 ---
-title: Big Heart KCare @ Yangzheng
+title: KCare @ Yangzheng
 permalink: /big-heart-kcare-yangzheng/
 variant: tiptap
 description: ""
