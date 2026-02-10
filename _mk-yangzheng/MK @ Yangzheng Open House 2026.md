@@ -4,7 +4,7 @@ permalink: /mk-yz-open-house-2026/
 variant: tiptap
 description: ""
 ---
-<h4>Registration is now open</h4>
+<h3>Registration is now open</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/MK_YZ_Open_House_2026_Edited_Poster.jpg">
 </div>
@@ -20,6 +20,22 @@ description: ""
 <hr>
 <h4>MK @ Yangzheng Entrance</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/7.jpg">
+</div>
+<h4>See you soon! </h4>
 <p></p>
 <p></p>
 <p></p>
