@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: MK@YZ Experience
 ---
-<h2><strong>On to A Strong Start with us at MK @ Yangzheng!</strong></h2>
+<h2>On to A Strong Start with us at MK @ Yangzheng!</h2>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/R636jFF7S28?si=wl7vlWZvsMum8VCQ"></iframe>
 </div>
