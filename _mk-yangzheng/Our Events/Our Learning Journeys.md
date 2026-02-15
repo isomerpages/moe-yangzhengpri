@@ -35,7 +35,7 @@ through meaningful experiences.
 <h4><em>These experiences help children build confidence, curiosity, and a deeper connection to the world around them.</em></h4>
 </blockquote>
 <h4></h4>
-<h4><em>Scroll to see our little adventurers in action!</em></h4>
+<h4><em>See our little adventurers in action!</em></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/11.jpg">
 </div>
