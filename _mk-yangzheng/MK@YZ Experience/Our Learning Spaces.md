@@ -35,7 +35,7 @@ to visit another class to experience a different Eric Carle story.</p>
 </p>
 <hr>
 <h2>Class Themes</h2>
-<h4><strong>K1 Classes</strong></h4>
+<h3><strong>K1 Classes</strong></h3>
 <ul>
 <li>
 <p><strong>K1 Care:</strong>  <em>Papa, Please Get the Moon for Me</em>
@@ -60,7 +60,9 @@ to visit another class to experience a different Eric Carle story.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/k1 respect.png">
 </div>
-<h4><strong>K2 Classes</strong></h4>
+<p></p>
+<hr>
+<h3><strong>K2 Classes</strong></h3>
 <ul>
 <li>
 <p><strong>K2 Empathy:</strong>  <em>The Tiny Seed</em>
@@ -72,8 +74,10 @@ to visit another class to experience a different Eric Carle story.</p>
 </li>
 <li>
 <p><strong>K2 Honesty:</strong>  <em>Mister Seahorse</em>
-<br>
 </p>
+</li>
+</ul>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/k2 empathy.png">
 </div>
@@ -83,6 +87,4 @@ to visit another class to experience a different Eric Carle story.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/k2 honesty.png">
 </div>
-</li>
-</ul>
 <p></p>
