@@ -16,10 +16,14 @@ description: ""
 <h4><strong>Acceptance of offer</strong></h4>
 <p>If your child is offered a place, you will need to indicate your acceptance
 online via a link in the outcome email by the specified deadline.</p>
-<p>🔗 <strong><em>Click the link to find out more about the 2026 MK Registration Exercise</em></strong>:</p>
+<p>🔗 <strong><em>Click the link(s) below to find out more about the 2026 MK Registration Exercise</em></strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/register</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register/how-to-register" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/register/how-to-register</a>
 </p>
 </li>
 <li>
