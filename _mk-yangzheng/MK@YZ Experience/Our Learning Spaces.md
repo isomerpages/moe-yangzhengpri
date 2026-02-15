@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: MK@YZ Experience
 ---
-<h2>MOE Kindergarten – Where Every Space Is a Learning Space</h2>
+<h2>Where Every Space Is a Learning Space</h2>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LockyOmaNB0?si=mlDpz0MX4PqYAus1"></iframe>
 </div>
