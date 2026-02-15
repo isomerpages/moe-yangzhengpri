@@ -5,11 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: MK@YZ Experience
 ---
-<h3><strong>On to A Strong Start with us at MK@YZ!</strong></h3>
+<h2><strong>On to A Strong Start with us at MK @ Yangzheng!</strong></h2>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/R636jFF7S28?si=wl7vlWZvsMum8VCQ"></iframe>
 </div>
-<h4><strong>Hi-Light Programme</strong></h4>
+<p></p>
+<hr>
+<h3><strong>Hi-Light Programme</strong></h3>
 <p>The HI-Light Programme is designed to support the holistic development
 of children by nurturing in them values, social and emotional skills and
 learning dispositions, as well as knowledge and skills across the following
@@ -32,7 +34,7 @@ five learning areas through an integrated approach:</p>
 <p>Numeracy</p>
 </li>
 </ul>
-<h4><strong>Starlight Literacy (English and Mother Tongue Languages) Programme</strong></h4>
+<h3><strong>Starlight Literacy (English and Mother Tongue Languages) Programme</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/mk starlight stars.png">
 </div>
@@ -62,7 +64,7 @@ and customs.</p>
 language learning.</p>
 </li>
 </ul>
-<h4><strong>Weeks of Wonder (WoW) Projects</strong></h4>
+<h3><strong>Weeks of Wonder (WoW) Projects</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Projects based on children’s interests.</p>
@@ -75,6 +77,7 @@ answers to their questions.</p>
 <p>Conducted in both English and Mother Tongue Languages.</p>
 </li>
 </ul>
+<hr>
 <h4><strong>Igniting the Joy of Learning!</strong></h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mghZCHtKNXc?si=qq02EdtVo_ewiQ3u"></iframe>
