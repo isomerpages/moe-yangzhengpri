@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Events
 ---
-<h2>✨<strong> Our Adventures Beyond the Classroom </strong>✨</h2>
+<h2>✨ Our Adventures Beyond the Classroom ✨</h2>
 <p>Our Learning Journeys bring learning beyond the classroom, allowing children
 to explore the real world, make discoveries, and deepen their understanding
 through meaningful experiences.
