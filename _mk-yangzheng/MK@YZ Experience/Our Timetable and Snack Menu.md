@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: MK@YZ Experience
 ---
-<h3>What a Day Looks Like for Our K1s &amp; K2s</h3>
+<h2>What a Day Looks Like for Our K1s &amp; K2s</h2>
 <hr>
 <h4>K1 Timetable</h4>
 <p></p>
