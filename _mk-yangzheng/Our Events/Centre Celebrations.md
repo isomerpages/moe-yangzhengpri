@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Events
 ---
-<h2>🌟 <strong>Moments We Celebrated in 2025 </strong>🌟</h2>
+<h2>🌟 Moments We Celebrated in 2025 🌟</h2>
 <p>Our Centre Celebrations are joyful occasions where children come together
 to appreciate Singapore’s local celebrations, build friendships, and gain
 a deeper understanding of different cultures through meaningful and engaging
