@@ -11,7 +11,7 @@ description: ""
 <h4>&nbsp;<strong>Application Procedure</strong></h4>
 <p>&nbsp;1. Download and complete the application form. You may also request
 for a hardcopy from the School’s General Office.</p>
-<p><a href="/files/canteen_vendor_application_form.pdf" rel="noopener nofollow" target="_blank">Download file here</a>
+<p><a href="https://www.yangzhengpri.moe.edu.sg/files/canteen_vendor_application_form.pdf" rel="noopener nofollow" target="_blank">Canteen Application Form</a>
 </p>
 <p>2. Attached the following documents together with the application form:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of the NRIC (front and
