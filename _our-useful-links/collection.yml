@@ -2,5 +2,6 @@ collections:
   our-useful-links:
     output: true
     order:
+      - School Canteen Advertisement.md
       - Every Voice Matters.md
       - YZPS Waitlist.md
