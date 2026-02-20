@@ -28,8 +28,7 @@ date via email OR to the School’s General Office.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact No: 6284 6298</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a href="mailto:yzps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yzps@moe.edu.sg</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact Person: Mr Johnson Ng or
-Mdm Adeline Kang</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact Person: Mdm Margaret Chee</p>
 <h4>&nbsp;<strong>Interest applicants must meet the following criteria:</strong></h4>
 <p>&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore citizen or Singapore
 Permanent Resident (SPR) for stallholder and stall assistant.</p>
