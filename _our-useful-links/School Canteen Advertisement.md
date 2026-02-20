@@ -6,7 +6,7 @@ description: ""
 ---
 <h1><strong>School Canteen Advertisement</strong></h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful links/Screenshot_2026_02_16_055138.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful links/Screenshot_2026_02_20_135803.png">
 </div>
 <h4>&nbsp;<strong>Application Procedure</strong></h4>
 <p>&nbsp;1. Download and complete the application form. You may also request
