@@ -17,9 +17,9 @@ Exercise; it does not guarantee their children of a place. For more details,
 please refer to MOE website:&nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates</a>
 </p>
 <p><strong>2 Submission of Documents</strong> 
-<br>Please register online via&nbsp;<a href="https://go.gov.sg/2025-yzps-pv" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>. You will need to attach
-scanned copies of your child’s Birth Certificate, applicant’s NRIC and
-spouse’s NRIC.</p>
+<br>Please register online via&nbsp;<a href="https://go.gov.sg/pv2026" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>. You will need to attach scanned
+copies of your child’s Birth Certificate, applicant’s NRIC and spouse’s
+NRIC.</p>
 <p><strong>3 Application Closing Date</strong> 
 <br>Period of Application is from 2 March to 16 March 2026. Success of application
 is not on a first-come-first-served basis.</p>
