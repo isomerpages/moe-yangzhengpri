@@ -302,7 +302,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h2>Administrative Managers</h2>
+<h2>Administration Manager</h2>
 <p></p>
 <p>Ms Linda Lau
 <br>Email: <a href="mailto:lau\_vunyin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lau_vunyin@schools.gov.sg</a>
