@@ -4,8 +4,10 @@ permalink: /mk-yz-open-house-2026/
 variant: tiptap
 description: ""
 ---
-<h2>Join Us for Our Open House!</h2>
+<h1>Join Us for Our Open House!</h1>
 <h3>✨ Happening this Saturday, 7 March 2026 ✨</h3>
+<hr>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/Colorful_Cute_Illustrative_Portfolio_Presentation.jpg">
 </div>
@@ -13,8 +15,9 @@ description: ""
 <blockquote>
 <h4>🕚 <strong>Last Entry:</strong> 11.30am</h4>
 </blockquote>
+<p></p>
 <hr>
-<h3><strong>📣 Important Check-In Information</strong></h3>
+<h2><strong>📣 Important Check-In Information</strong></h2>
 <p>📱 <strong>Registered Parents</strong>
 <br>Kindly have your <strong>registration QR code</strong> (from the registration
 form) ready before entering the school to ensure a smooth check-in process.</p>
