@@ -32,28 +32,29 @@ before joining the Open House activities.</p>
 <p></p>
 <hr>
 <h2>Where to Park?</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/MK_YZ_pick_up_drop_off_locations__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/10.jpg">
 </div>
 <p></p>
 <hr>
 <h2>MK @ Yangzheng Entrance</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/11_1__new.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/12.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/13.jpg">
 </div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/new_pg_5.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/new_pg_6.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/14.jpg">
 </div>
 <p></p>
 <hr>
