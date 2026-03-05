@@ -23,6 +23,9 @@ form) ready before entering the school to ensure a smooth check-in process.</p>
 before joining the Open House activities.</p>
 <hr>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/Copy_of_MK_Open_House_2026_Poster__4_.jpg">
+</div>
 <p></p>
 <hr>
 <h2>Where to Park?</h2>
