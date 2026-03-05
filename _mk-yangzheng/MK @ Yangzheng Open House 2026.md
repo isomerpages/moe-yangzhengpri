@@ -33,7 +33,7 @@ before joining the Open House activities.</p>
 <hr>
 <h2>Where to Park?</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/MK_YZ_pick_up_drop_off_locations.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/MK_YZ_pick_up_drop_off_locations__1_.jpg">
 </div>
 <p></p>
 <hr>
@@ -43,12 +43,13 @@ before joining the Open House activities.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/4.jpg">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/new_pg_5.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/new_pg_6.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
