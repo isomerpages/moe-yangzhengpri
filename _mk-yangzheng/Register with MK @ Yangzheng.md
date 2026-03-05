@@ -4,11 +4,19 @@ permalink: /register-with-mk-yz/
 variant: tiptap
 description: ""
 ---
-<h2>Eligibility for K1 admission in 2026 (MOE Kindergarten)</h2>
-<p><strong>• Singapore Citizen or Permanent Resident <br>• Born between <u>2 January 2021</u> and <u>1 January 2022</u> (inclusive).</strong>
-</p>
+<h2>Eligibility for K1 Admission (2026 / 2027)</h2>
+<h4><em>MOE Kindergarten</em></h4>
+<p><strong>📅 2026 K1 Admission Criteria:</strong>
+<br>• 👤 Singapore Citizen or Permanent Resident
+<br>• 👶 Born between <strong>2 January 2021 and 1 January 2022</strong> (both
+dates inclusive)</p>
+<p><strong>📅 2027 K1 Admission Criteria:</strong>
+<br>• 👤 Singapore Citizen or Permanent Resident
+<br>• 👶 Born between <strong>2 Jan 2022 and 1 Jan 2023</strong> (both dates
+inclusive)</p>
+<p></p>
 <hr>
-<h3>2026 MK Registration Exercise</h3>
+<h3>📝 K1 MK Registration Exercise (2027 Admission)</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/Screenshot_2026_02_15_121723.png">
 </div>
@@ -16,7 +24,7 @@ description: ""
 <h4><strong>Acceptance of offer</strong></h4>
 <p>If your child is offered a place, you will need to indicate your acceptance
 online via a link in the outcome email by the specified deadline.</p>
-<p>🔗 <strong><em>Click the link(s) below to find out more about the 2026 MK Registration Exercise</em></strong>:</p>
+<p>🔗 <strong><em>Click the link(s) below to find out more about the 2026/ 2027 MK Registration Exercise</em></strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/register</a>
