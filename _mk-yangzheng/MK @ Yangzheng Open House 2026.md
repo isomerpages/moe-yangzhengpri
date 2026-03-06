@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h1>Join Us for Our Open House!</h1>
-<h3>✨ Happening this Saturday, 7 March 2026 ✨</h3>
+<h3>✨Saturday, 7 March 2026✨</h3>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
