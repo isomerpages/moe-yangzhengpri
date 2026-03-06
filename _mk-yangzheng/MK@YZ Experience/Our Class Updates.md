@@ -7,7 +7,7 @@ third_nav_title: MK@YZ Experience
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/class_updates_banner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/Colorful_Confetti_Etsy_Banner__1_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
