@@ -37,7 +37,7 @@ is not on a first-come-first-served basis.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shortlisted applicants may be notified to attend face-to-face meetings/interviews
-(in groups or individual), if any.</p>
+(in groups or individual).</p>
 </td>
 </tr>
 <tr>
