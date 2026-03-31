@@ -18,7 +18,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Iffah Hanani Binte Mohamed Fu'ad
+<p>Ms Chang Wen Xia
 <br>Email: <a href="mailto:siti_fatimah_mohtar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">i</a>
 <a href="mailto:ffah_hanani_mohamed_fuad_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ffah_hanani_mohamed_fuad_a@schools.gov.sg</a>
 </p>
@@ -26,32 +26,33 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Iffah Hanani Binte Mohamed Fu'ad
+<br>Email: <a href="mailto:siti_fatimah_mohtar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">i</a>
+<a href="mailto:ffah_hanani_mohamed_fuad_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ffah_hanani_mohamed_fuad_a@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Jessica Toh Pei Pei
 <br>Email: <a href="mailto:jessica_toh_pei_pei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_toh_pei_pei@schools.gov.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Nur Qurratu 'Aini Binte Mohamad Jufri
 <br>Email: <a href="mailto:nur_qurratuaini_mohamad_jufri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_qurratuaini_mohamad_jufri@schools.gov.s</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Eunice
 <br>Email: <a href="mailto:tan_eunice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_eunice@schools.gov.sg</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Boon Ping Juliana
-<br>Email: <a href="mailto:tan_boon_ping_juliana_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_boon_ping_juliana_a@schools.gov.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Xiong Haixia
-<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">xiong_hai_xia@schools.gov.sg</a>
+<p>Ms Tan Boon Ping Juliana
+<br>Email: <a href="mailto:tan_boon_ping_juliana_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_boon_ping_juliana_a@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
