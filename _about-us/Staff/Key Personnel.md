@@ -303,10 +303,26 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Administration Manager</h2>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Linda Lau
 <br>Email: <a href="mailto:lau\_vunyin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lau_vunyin@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Yee Sheng
+<br><a href="mailto:yee_sheng_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yee_sheng_tan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h2>Operations Manager</h2>
 <p>Mr Johnson Ng
 <br>Email: <a href="mailto:ng\_chai\_hin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chai_hin@schools.gov.sg</a>
