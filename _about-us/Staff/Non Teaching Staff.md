@@ -68,6 +68,14 @@ variant: tiptap
 <p>Mdm Fu Lian</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Ong Aei</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Serene Ng Rui Zhen</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -95,6 +103,16 @@ variant: tiptap
 <p>Mr Jason Pang Chee Yong
 <br>Email: <a href="mailto:pang_chee_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pang_chee_yong@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nadia Binte Zainal
+<br>Email: <a href="mailto:nadia_zainal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nadia_zainal@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
