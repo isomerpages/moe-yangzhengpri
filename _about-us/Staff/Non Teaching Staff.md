@@ -157,9 +157,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nagasubashini Samba Sivan, DE
-<br>Email: <a href="mailto:subashini.sambasivan@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">subashini.sambasivan@ncs.com.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
