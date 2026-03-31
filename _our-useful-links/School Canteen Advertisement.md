@@ -6,7 +6,7 @@ description: ""
 ---
 <h1><strong>School Canteen Advertisement</strong></h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful links/Screenshot_2026_02_20_135803.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful links/Screenshot_2026_03_31_065146.png">
 </div>
 <h4>&nbsp;<strong>Application Procedure</strong></h4>
 <p>&nbsp;1. Download and complete the application form. You may also request
@@ -28,7 +28,17 @@ date via email OR to the School’s General Office.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact No: 6284 6298</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a href="mailto:yzps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yzps@moe.edu.sg</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact Person: Mdm Margaret Chee</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact Person: Mdm Nurellysa</p>
+<h4><strong>Getting to YZPS:</strong></h4>
+<p>We are a 5 minutes walk away from Nex Shopping Centre/ Serangoon MRT Station.</p>
+<p><strong>Nearest MRT Stations:</strong>
+</p>
+<p>Serangoon Station (CC13-Circle Line / NE12 - North East Line) or Lorong
+Chuan Station (CC14 - Circle Line)</p>
+<p><strong>Bus Services:</strong>
+</p>
+<p>SBS: 58 &amp; 105 (Outside the school, Serangoon Ave 3)</p>
+<p>SBS: 45, 133 &amp; 135(Serangoon Ave 2)</p>
 <h4>&nbsp;<strong>Interest applicants must meet the following criteria:</strong></h4>
 <p>&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore citizen or Singapore
 Permanent Resident (SPR) for stallholder and stall assistant.</p>

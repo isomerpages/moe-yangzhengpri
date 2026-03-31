@@ -5,24 +5,12 @@ description: ""
 third_nav_title: Healthy Food in Yangzheng
 variant: markdown
 ---
-![](/images/Parents/Canteen%20food/1a.png)
+![](/images/Useful%20links/Stall_1_For_website.png)
+![](/images/Useful%20links/Stall_2_For_website.png)
+![](/images/Useful%20links/Stall_3_For_website.png)
+![](/images/Useful%20links/Stall_4_For_website.png)
+![](/images/Useful%20links/Stall_5_For_website.png)
+![](/images/Useful%20links/Stall_6_For_website.png)
+![](/images/Useful%20links/Stall_8_For_website.png)
 
-![](/images/Parents/Canteen%20food/2a.png)
-![](/images/Parents/Canteen%20food/2b.png)
-
-![](/images/Parents/Canteen%20food/4a.png)
-![](/images/Parents/Canteen%20food/4b2.png)
-
-![](/images/Parents/Canteen%20food/5a.png)
-![](/images/Parents/Canteen%20food/5b.png)
-
-![](/images/Parents/Canteen%20food/6a.png)
-![](/images/Parents/Canteen%20food/6b.png)
-
-![](/images/Parents/Canteen%20food/7a.png)
-![](/images/Parents/Canteen%20food/7b.png)
-
-![](/images/Parents/Canteen%20food/8a.png)
-![](/images/Parents/Canteen%20food/8b.png)
-
-(With effect from Jan 2025)
+(With effect from Jan 2026)
