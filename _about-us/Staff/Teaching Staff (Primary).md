@@ -322,6 +322,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Choon Hui
+<br>Email: <a href="mailto:lim_choon_hui_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_choon_hui_a@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>4B</strong>
 </p>
 </td>
@@ -333,19 +346,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Rafidah Bte Mohd Nasir
 <br>Email: <a href="mailto:rafidah_mohd_nasir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rafidah_mohd_nasir@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Audrey Chew Meixian
-<br>Email: <a href="mailto:chew_meixian_audrey@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_meixian_audrey@schools.gov.sg</a>
 </p>
 </td>
 </tr>
