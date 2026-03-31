@@ -13,4 +13,4 @@ variant: markdown
 ![](/images/Useful%20links/Stall_6_For_website.png)
 ![](/images/Useful%20links/Stall_8_For_website.png)
 
-(With effect from Jan 2025)
+(With effect from Jan 2026)
