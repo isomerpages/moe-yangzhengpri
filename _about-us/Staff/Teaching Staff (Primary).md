@@ -78,7 +78,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Charissa Zi Xin
-<br>Email: <a href="mailto:charissa_zi_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">charissa_zi_xin@moe.edu.sg</a>
+<br>Email: <a href="mailto:Charissa_Zi_Xin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Charissa_Zi_Xin@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
