@@ -10,3 +10,8 @@ third_nav_title: For Parents
 <h4>Term 1:</h4>
 <p>Click <a href="/files/MK YZ Files/Calendar_of_events___YZ__TERM_1_2026_.pdf" rel="noopener nofollow" target="_blank">here</a> to
 view the document.</p>
+<p></p>
+<h4>Term 2:</h4>
+<p>Click <a href="/files/MK YZ Files/Calendar_of_events_MK__YZ__TERM_2_2026___1_.pdf" rel="noopener nofollow" target="_blank">here</a> to
+view the document.</p>
+<p></p>
