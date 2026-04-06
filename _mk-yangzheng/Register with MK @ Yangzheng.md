@@ -1,6 +1,6 @@
 ---
 title: Register with MK @ Yangzheng
-permalink: /register-with-mk-yz/
+permalink: /register-with-mk-yangzheng/
 variant: tiptap
 description: ""
 ---
