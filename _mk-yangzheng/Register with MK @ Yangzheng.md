@@ -16,7 +16,15 @@ dates inclusive)</p>
 inclusive)</p>
 <p></p>
 <hr>
-<h3>📝 K1 MK Registration Exercise (2027 Admission)</h3>
+<h3>📝 K1 MK Registration Exercise (2027 Admission)<br></h3>
+<blockquote>
+<p>⭐ <strong>Admissions Update</strong>:
+<br>Please note that the Online Open Admissions has closed on <strong>31 March 2026</strong>.
+<br>
+<br>👉 You may still register your child via the <strong><a href="https://form.gov.sg/698944e180ddfa7aad5e5090" rel="noopener nofollow" target="_blank">2026 MK@Yangzheng Waitlist Application Form.</a></strong>
+</p>
+</blockquote>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/Screenshot_2026_02_15_121723.png">
 </div>
@@ -41,6 +49,9 @@ online via a link in the outcome email by the specified deadline.</p>
 </ul>
 <hr>
 <h2>MK @ Yangzheng Waitlist Application</h2>
-<p>Click <a href="https://form.gov.sg/6822e77404afa5b029124507" rel="noopener nofollow" target="_blank">here</a> to
-access the registration form.</p>
+<p>⭐ <strong>If you’d like to register your child with us,</strong> please
+click <strong><a href="https://form.gov.sg/698944e180ddfa7aad5e5090" rel="noopener nofollow" target="_blank">here</a></strong> to
+access the <strong>2026 Waitlist Application Form</strong>.</p>
+<p>Thank you.</p>
+<p></p>
 <p></p>
