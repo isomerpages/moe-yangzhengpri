@@ -9,11 +9,11 @@ third_nav_title: MK@YZ Experience
 <hr>
 <h4>K1 Timetable</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/k1 timetable 2026.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/Updated_K1_Timetable_6_Apr_26_1_jpg__1_.jpg">
 </div>
 <h4>K2 Timetable</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/K1_K2_Timetable_2026.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/Updated_K2_Timetable_6_Apr_26_2_jpg.jpg">
 </div>
 <hr>
 <p></p>
