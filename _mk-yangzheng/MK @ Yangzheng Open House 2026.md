@@ -4,8 +4,11 @@ permalink: /mk-yz-open-house-2026/
 variant: tiptap
 description: ""
 ---
-<h1>Join Us for Our Open House!</h1>
-<h3>✨Saturday, 7 March 2026✨</h3>
+<h2>Thank you for attending our Open House on Saturday, 7 March 2026.</h2>
+<p></p>
+<p>You may access the event slides <a href="https://canva.link/fy2o4pblpf0n2ek" rel="noopener nofollow" target="_blank">here.</a>
+<br>
+</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -17,7 +20,7 @@ description: ""
 </blockquote>
 <p></p>
 <hr>
-<h2><strong>📣 Important Check-In Information</strong></h2>
+<h3><strong>📣 Important Check-In Information</strong></h3>
 <p>📱 <strong>Registered Parents</strong>
 <br>Kindly have your <strong>registration QR code</strong> (from the registration
 form) ready before entering the school to ensure a smooth check-in process.</p>
@@ -31,14 +34,14 @@ before joining the Open House activities.</p>
 </div>
 <p></p>
 <hr>
-<h2>Where to Park?</h2>
+<h3>Where to Park?</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/10.jpg">
 </div>
 <p></p>
 <hr>
-<h2>MK @ Yangzheng Entrance</h2>
+<h3>MK @ Yangzheng Entrance</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/11_1__new.jpg">
@@ -60,7 +63,7 @@ before joining the Open House activities.</p>
 <hr>
 <p></p>
 <blockquote>
-<h3>🎉 We Can't Wait to See You!</h3>
+<h3>Thank you for attending!</h3>
 </blockquote>
 <p></p>
 <p></p>
