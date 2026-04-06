@@ -13,17 +13,17 @@ dates inclusive)</p>
 <p><strong>📅 2027 K1 Admission Criteria:</strong>
 <br>• 👤 Singapore Citizen or Permanent Resident
 <br>• 👶 Born between <strong>2 Jan 2022 and 1 Jan 2023</strong> (both dates
-inclusive)</p>
-<p></p>
-<hr>
-<h2>📝 K1 MK Registration Exercise (2027 Admission)<br></h2>
+inclusive)
+<br>
+</p>
 <blockquote>
 <p>⭐ <strong>Admissions Update</strong>:
 <br>Please note that the Online Open Admissions has closed on <strong>31 March 2026</strong>.
 <br>👉 You may still register your child via the <strong><a href="https://form.gov.sg/698944e180ddfa7aad5e5090" rel="noopener nofollow" target="_blank">2026 MK@Yangzheng Waitlist Application Form.</a></strong>
 </p>
 </blockquote>
-<p></p>
+<hr>
+<h3><strong>2027 K1 Admissions Registration</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK Yangzheng/Screenshot_2026_02_15_121723.png">
 </div>
