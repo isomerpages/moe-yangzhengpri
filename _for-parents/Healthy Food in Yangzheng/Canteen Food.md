@@ -7,7 +7,7 @@ variant: markdown
 ---
 ![](/images/Useful%20links/Stall_1_For_website.png)
 ![](/images/Useful%20links/Stall_2_For_website.png)
-![](/images/Useful%20links/Stall_3_For_website.png)
+![](/images/Parents/Canteen%20food/Screenshot_2026_04_15_174040.png)
 ![](/images/Useful%20links/Stall_4_For_website.png)
 ![](/images/Useful%20links/Stall_5_For_website.png)
 ![](/images/Useful%20links/Stall_6_For_website.png)
