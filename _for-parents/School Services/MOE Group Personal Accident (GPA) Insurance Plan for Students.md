@@ -25,5 +25,8 @@ terms and conditions.</p>
 <p></p>
 <p>Please access MOE Group Personal (GPA) Insurance Plan for Students by
 clicking on the hyperlink below.</p>
-<p><a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students" rel="noopener noreferrer nofollow" target="_blank">Group Personal Accident for Students | Income Insurance</a>
+<p><a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Group Personal Accident for Students | Income Insurance</a>
 </p>
+<p></p>
+<p></p>
+<p></p>
