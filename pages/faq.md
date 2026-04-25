@@ -1,6 +1,7 @@
 ---
 title: FAQ
 permalink: /faq/
+variant: markdown
 ---
 ### **FAQ**
 
@@ -51,18 +52,14 @@ Parents are advised not to park illegally along Serangoon Ave 3 or outside the s
 
 Please note the bookshop opening hours and contact as follows:
 
-                 Company: Casco Educational Supply Pte Ltd
+ **BL MARKETING PTE LTD**
 
-                 Contact number: 9770 9542
+Monday to Friday  
+Opening hours (For students): 9 a.m. - 3.45 p.m.  
+Opening hours (For parents): 2.15 p.m. - 3.45 p.m.  
+Contact: 62848785 / 96511116 / [sales@blmarketing.sg](sales@blmarketing.sg)
 
-                 Email: [info@cascoedusupply.com.sg](mailto:info@cascoedusupply.com.sg)          
-
-                 Monday to Friday: (Opening Hours during school term)
-
-For Pupils: Mon to Fri – 9.00am to 3.45pm
-
-For Parents/ Guardians: Mon to Fri – 2.15pm to 3.45pm
-
+Website: [www.blmarketing.sg](www.blmarketing.sg)
   
 
 Sale of PE / school uniform is available in the bookshop.
