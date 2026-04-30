@@ -37,7 +37,7 @@ sections:
       id: infopic
       description: Take part in our Science Challenge to showcase your creativity!
       button: Click here
-      url: https://www.yangzhengpri.moe.edu.sg/distinctive-programmes/all-departments/science/
+      url: https://yangzhengpri.moe.edu.sg/science-explorer/
       alt: Image alt text
       image: /images/Science xplorer/Screenshot_2026_04_30_115652.png
   - infopic:
