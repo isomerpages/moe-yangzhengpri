@@ -2,6 +2,7 @@ collections:
   all-departments:
     output: true
     order:
+      - Science/Science.md
       - Science/.keep
       - CCE/CCE Lessons.md
       - CCE/Values in Action (VIA) Programme.md
