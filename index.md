@@ -40,4 +40,11 @@ sections:
       url: https://staging.ask.gov.sg/yzps
       image: /images/Screenshot_2026_01_12_100801.png
       alt: Image alt text
+  - infopic:
+      title: Science Xplorer Challenge
+      id: infopic
+      description: Take part in our Science Challenge to showcase your creativity!
+      button: Click here
+      url: https://www.yangzhengpri.moe.edu.sg/distinctive-programmes/all-departments/science/
+      alt: Image alt text
 ---
