@@ -33,6 +33,14 @@ sections:
       image: /images/ZB_21July.png
       alt: Image alt text
   - infopic:
+      title: Science Xplorer Challenge
+      id: infopic
+      description: Take part in our Science Challenge to showcase your creativity!
+      button: Click here
+      url: https://yangzhengpri.moe.edu.sg/science-explorer/
+      alt: Image alt text
+      image: /images/Science xplorer/Screenshot_2026_04_30_115652.png
+  - infopic:
       title: Get official answers from our Q&A platform
       subtitle: Have a question?
       id: infopic

@@ -2,6 +2,9 @@ collections:
   all-departments:
     output: true
     order:
+      - Science/Science Explorer.md
+      - Science/Science.md
+      - Science/.keep
       - CCE/CCE Lessons.md
       - CCE/Values in Action (VIA) Programme.md
       - "CCE/CCE: Form Teacher Guidance Period (FTGP).md"
@@ -22,4 +25,3 @@ collections:
       - PHE , Aesthetics , CCA/Aesthetics.md
       - PHE , Aesthetics , CCA/CCA.md
       - PHE , Aesthetics , CCA/.keep
-      - Science.md

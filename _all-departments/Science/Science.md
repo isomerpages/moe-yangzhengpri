@@ -2,6 +2,7 @@
 title: Science
 permalink: /distinctive-programmes/all-departments/science/
 description: ""
+third_nav_title: Science
 ---
 Fun Learning in Inquiry Based Science (FLIBS)
 ---------------------------------------------
@@ -27,10 +28,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/image51.png" alt="P3 Creature Craze
-" style="width:80%;">  
+<img src="/images/image51.png" alt="P3 Creature Craze" style="width:80%;">  
   
-</body>  
+  
 <br>
 
 P3 Every Child a Seed
@@ -86,9 +86,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/image34.jpeg" alt="P5 Singapore Amazing Flying Machine Competition" style="width:50%;">  
+<img src="/images/image34.jpeg" alt="P5 Singapore Amazing Flying Machine Competition" style="width:50%;">  
   
-</body>  
+  
 <figcaption style="text-align:center;">Flight taking off … here we go!</figcaption>
 
 P5 Environmental Trail
