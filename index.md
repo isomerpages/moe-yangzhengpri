@@ -33,14 +33,6 @@ sections:
       image: /images/ZB_21July.png
       alt: Image alt text
   - infopic:
-      title: Get official answers from our Q&A platform
-      subtitle: Have a question?
-      id: infopic
-      button: View or ask questions here
-      url: https://staging.ask.gov.sg/yzps
-      image: /images/Screenshot_2026_01_12_100801.png
-      alt: Image alt text
-  - infopic:
       title: Science Xplorer Challenge
       id: infopic
       description: Take part in our Science Challenge to showcase your creativity!
@@ -48,4 +40,12 @@ sections:
       url: https://www.yangzhengpri.moe.edu.sg/distinctive-programmes/all-departments/science/
       alt: Image alt text
       image: /images/Science xplorer/Screenshot_2026_04_30_115652.png
+  - infopic:
+      title: Get official answers from our Q&A platform
+      subtitle: Have a question?
+      id: infopic
+      button: View or ask questions here
+      url: https://staging.ask.gov.sg/yzps
+      image: /images/Screenshot_2026_01_12_100801.png
+      alt: Image alt text
 ---
