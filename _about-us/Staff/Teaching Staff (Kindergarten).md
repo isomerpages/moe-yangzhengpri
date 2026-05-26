@@ -19,8 +19,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chang Wen Xia
-<br>Email: <a href="mailto:siti_fatimah_mohtar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">i</a>
-<a href="mailto:ffah_hanani_mohamed_fuad_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ffah_hanani_mohamed_fuad_a@schools.gov.sg</a>
+<br>Email: <a href="mailto:chang_wen_xia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_wen_xia@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -92,9 +91,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhang Rui
-<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">zhang_rui_a@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
