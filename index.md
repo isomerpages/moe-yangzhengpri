@@ -48,4 +48,12 @@ sections:
       url: https://staging.ask.gov.sg/yzps
       image: /images/Screenshot_2026_01_12_100801.png
       alt: Image alt text
+  - infopic:
+      title: Voices of Yangzheng Family
+      id: infopic
+      description: Her story. Her growth. Her Yangzheng experience.
+      button: Watch video here
+      url: https://drive.google.com/file/d/1upNn19an3dtqoNATWYe-y4WcFRyvI2eK/view
+      image: /images/Partners/Gemini_Generated_Image_2.png
+      alt: Image alt text
 ---
