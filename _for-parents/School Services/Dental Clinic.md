@@ -24,4 +24,12 @@ variant: tiptap
 <p>You may contact the dental clinic at 89400314 or via email <a href="mailto:contact_yps@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact_yps@hpb.gov.sg</a>
 </p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_06_18_134107.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_06_18_134151.png">
+</div>
 <p>Thank you.</p>
