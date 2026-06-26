@@ -3,6 +3,7 @@ title: Yangzheng (Yeung Ching) Alumni (Youth)
 permalink: /about-us/partners/yangzheng-yeung-ching-alumni-youth/
 description: ""
 third_nav_title: Partners
+variant: markdown
 ---
 The Youth Wing was set up to bring together all graduates of Yangzheng Primary School. We hope to gather anyone and everyone who still has the Yangzheng spirit into the alumni.
 
@@ -18,4 +19,4 @@ Feel free to share the links to your seniors and juniors. As long as they have g
 
 Facebook: [https://www.facebook.com/groups/50014778574/](https://www.facebook.com/groups/50014778574/)
 
-Instagram: [https://www.instagram.com/yz\_youthalumni/](https://www.instagram.com/yz_youthalumni/)
+Instagram: https://www.instagram.com/yzalumni_youth?igsh=M2g1bTBpYTY4dGRz
