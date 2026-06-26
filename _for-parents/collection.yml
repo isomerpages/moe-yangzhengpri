@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Anti Bullying Policy.md
       - PAT 2026 Nomination.md
       - Caring Teacher Award 2024 Nomination.md
       - Big Heart Student Care.md
