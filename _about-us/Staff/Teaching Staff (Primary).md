@@ -384,26 +384,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Dominic Heng
-<br>Email: <a href="mailto:dominic_heng_zhaocheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dominic_heng_zhaocheng@schools.gov.sg</a>
+<p>Ms Ng Shin Yee Cindy
+<br>Email: <a href="mailto:ng_shin_yee_cindy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_shin_yee_cindy@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kwan Yan Wei
 <br>Email: <a href="mailto:kwan_yan_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kwan_yan_wei@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ng Shin Yee Cindy
-<br>Email: <a href="mailto:ng_shin_yee_cindy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_shin_yee_cindy@schools.gov.sg</a>
 </p>
 </td>
 </tr>
