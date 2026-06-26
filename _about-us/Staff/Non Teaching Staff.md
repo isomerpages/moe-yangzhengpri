@@ -139,10 +139,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h2>ICT Manager</h2>
-<p>Mdm Renuha D/O Rajindran
-<br>Email: <a href="mailto:renuha_rajindran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">renuha_rajindran@schools.gov.sg</a>
-</p>
 <h2>Desktop Engineer</h2>
 <table style="minWidth: 50px">
 <colgroup>
