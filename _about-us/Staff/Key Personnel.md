@@ -109,8 +109,8 @@ variant: tiptap
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Toh Peng Tee
-<br><a href="mailto:law_peng_tee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">law_peng_tee@schools.gov.sg</a>
+<p>Mr Goh Chee Wei
+<br><a href="mailto:goh_chee_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_chee_wei@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -258,6 +258,25 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Nanmalar Velu
 <br><a href="mailto:nanmalar_m_karuppiah_muth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nanmalar_m_karuppiah_muth@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>Lead Teacher</h2>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Yee Sien
+<br><a href="mailto:lim_yee_sien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yee_sien@schools.gov.sg</a>
 </p>
 </td>
 </tr>
