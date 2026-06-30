@@ -210,8 +210,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Stella Lim
-<br>Email: <a href="mailto:lim_bee_yean_stella@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_bee_yean_stella@schools.gov.sg</a>
+<p>Mrs Annie Ong
+<br><a href="mailto:chia_wan_ling_annie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_wan_ling_annie@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
