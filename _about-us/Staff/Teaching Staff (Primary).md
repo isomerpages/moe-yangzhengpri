@@ -536,19 +536,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Annie Ong
-<br>Email: <a href="mailto:chia_wan_ling_annie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_wan_ling_annie@schools.gov.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h2>Primary 6 Form Teachers</h2>
