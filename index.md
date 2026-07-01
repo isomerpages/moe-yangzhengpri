@@ -56,4 +56,12 @@ sections:
       url: https://staging.ask.gov.sg/yzps
       image: /images/Screenshot_2026_01_12_100801.png
       alt: Image alt text
+  - infopic:
+      title: P1 Registration 2026
+      subtitle: Add an image and text
+      id: infopic
+      description: Find out more about the Primary 1 registration exercise.
+      button: View information here
+      url: https://www.moe.gov.sg/primary/p1-registration
+      alt: Image alt text
 ---
