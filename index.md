@@ -25,6 +25,14 @@ sections:
           url: https://www.yangzhengpri.moe.edu.sg/every-voice-matters/
       subtitle: Passion for Learning, Responsibility, Integrity, Self-Discipline, eMpathy
   - infopic:
+      title: P1 Registration 2026
+      id: infopic
+      description: Find out more about the Primary 1 registration exercise.
+      button: View information here
+      url: https://www.moe.gov.sg/primary/p1-registration
+      alt: Image alt text
+      image: /images/Parents/P1 registration 2026/Screenshot_2026_07_01_120959.png
+  - infopic:
       title: Voices of Yangzheng Family
       id: infopic
       description: Her story. Her growth. Her Yangzheng experience.
@@ -56,12 +64,4 @@ sections:
       url: https://staging.ask.gov.sg/yzps
       image: /images/Screenshot_2026_01_12_100801.png
       alt: Image alt text
-  - infopic:
-      title: P1 Registration 2026
-      id: infopic
-      description: Find out more about the Primary 1 registration exercise.
-      button: View information here
-      url: https://www.moe.gov.sg/primary/p1-registration
-      alt: Image alt text
-      image: /images/Parents/P1 registration 2026/Screenshot_2026_07_01_120959.png
 ---
