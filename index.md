@@ -58,10 +58,10 @@ sections:
       alt: Image alt text
   - infopic:
       title: P1 Registration 2026
-      subtitle: Add an image and text
       id: infopic
       description: Find out more about the Primary 1 registration exercise.
       button: View information here
       url: https://www.moe.gov.sg/primary/p1-registration
       alt: Image alt text
+      image: /images/Parents/P1 registration 2026/Screenshot_2026_07_01_120959.png
 ---
