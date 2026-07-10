@@ -55,8 +55,8 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yong Kae Ru
-<br>Email: <a href="mailto:yong_kae_ru@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_kae_ru@schools.gov.sg</a>
+<p>Mdm Zhang Rui
+<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">zhang_rui_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -79,9 +79,7 @@ third_nav_title: Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhang Rui
-<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">zhang_rui_a@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
