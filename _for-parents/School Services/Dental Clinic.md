@@ -32,4 +32,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_06_18_134151.png">
 </div>
+<p><strong><u>UPDATE: </u></strong>The dental clinic will be opened on 14
+- 16 July between (8am - 5pm).</p>
+<p></p>
 <p>Thank you.</p>
