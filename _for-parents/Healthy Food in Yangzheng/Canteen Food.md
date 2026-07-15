@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Healthy Food in Yangzheng
 variant: markdown
 ---
-![](/images/Parents/Canteen%20food/Stall_1__latest_23_Apr_.png)
+![](/images/Parents/Canteen%20food/Stall_1__10_July_.png)
 ![](/images/Useful%20links/Stall_2_For_website.png)
 ![](/images/Stall_3__latest_8_May___002_.png)
 ![](/images/Stall_4__Latest_8_May___002_.png)
