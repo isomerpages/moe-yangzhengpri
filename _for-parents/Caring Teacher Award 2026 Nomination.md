@@ -22,7 +22,7 @@ school</p>
 <p><strong>Online Nomination</strong>
 </p>
 <p>Website Link:</p>
-<p><strong><a href="https://form.gov.sg/6a61cbe9972871c4598f6489" rel="noopener noreferrer nofollow" target="_blank">YZPS CTA 2024 Nomination</a></strong>
+<p><strong><a href="https://form.gov.sg/6a61cbe9972871c4598f6489" rel="noopener noreferrer nofollow" target="_blank">YZPS CTA 2026 Nomination</a></strong>
 </p>
 <p></p>
 <p><strong>Closing Date</strong>
