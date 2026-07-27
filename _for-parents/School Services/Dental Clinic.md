@@ -33,42 +33,8 @@ variant: tiptap
 </div>
 <p>If you require any <u>URGENT</u> dental treatment and the clinic is closed,
 please whatsapp one of the following BUDDY clinics for assistance.
-<br>For general enquiries, please email: <a href="mailto:Contact_YPS@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Contact_YPS@hpb.gov.sg</a>
+<br>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Buddy Clinics</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Tel</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MDC 13</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9061 5894</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Bendemeer Primary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8764 6320</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <p></p>
 <p></p>
