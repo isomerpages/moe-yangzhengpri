@@ -2,31 +2,35 @@
 title: Caring Teacher Award 2026 Nomination
 permalink: /for-parents/permalink/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-**YZPS Caring Teacher Award 2024 Nomination**
-
-**Objectives**
-
-The YZPS Caring Teacher Award is aimed at acknowledging and rewarding teachers who through their daily deeds and actions, exemplify the values of care and concern for the academic, social and emotional welfare of their pupils.
-
-We would like to encourage our parents/guardians and students to nominate our deserving teachers for the YZPS Caring Teacher Award 2024.
-
-**Online Nomination**
-
-Website Link:
-
-[**YZPS CTA 2024 Nomination**](https://form.gov.sg/668c027672c7c5d1f600c346)
-
-
-**Hardcopy**
-
-The nomination forms can be obtained from the General Office. You can also download the form from the school website [here](/files/YZPS_CTA_Nomination_Form_2024.pdf).
-
-__
-
-**Closing Date**
-
-The closing date for the nomination is **Monday, 11 August 2024.**
-
-Please submit the completed form through your child/ward to the General Office or via online.
+<p><strong>2026 YZPS Caring Teacher Awards (CTA) Online Nomination</strong>
+</p>
+<p>Dear Parents / Guardians,</p>
+<p>We would like parents/guardians and students to nominate our teachers
+for the annual <strong>YZPS Caring Teacher Awards (CTA)</strong>.</p>
+<p><strong>Objectives</strong>
+</p>
+<p>The YZPS Caring Teacher Awards (CTA) 2026 is aimed at acknowledging and
+rewarding teachers who through their daily deeds and actions, exemplify
+the values of care and concern for the academic, social and emotional welfare
+of their students.</p>
+<p><strong>Award Eligibility</strong>
+</p>
+<p>The award is open to all teaching staff and non-teaching staff in the
+school</p>
+<p><strong>Online Nomination</strong>
+</p>
+<p>Website Link:</p>
+<p><strong><a href="https://form.gov.sg/6a61cbe9972871c4598f6489" rel="noopener noreferrer nofollow" target="_blank">YZPS CTA 2024 Nomination</a></strong>
+</p>
+<p></p>
+<p><strong>Closing Date</strong>
+</p>
+<p>The closing date for the online submission is <strong>Friday,</strong>  <strong>14 August 2026.</strong>
+</p>
+<p>We are looking forward to receiving your online nomination.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
