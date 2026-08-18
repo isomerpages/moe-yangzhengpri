@@ -18,8 +18,8 @@ In Yangzheng Primary School, the roles of the Parents’ Links or PaLs (Parent S
 PaLs provides parents with varied opportunities to share services, expertise, knowledge and time with the school for the benefit of our children. Come join us today if you have not yet done so. We welcome parents to join us even if you can only make time for one activity in a school-year.  
   
 Do email us at [yzps@moe.edu.sg](mailto:yeo_kim_ying@moe.edu.sg) for any queries.
-
-      
+![](/images/Partners/Screenshot_2026_08_18_154120.png)
+![](/images/Partners/Screenshot_2026_08_18_154153.png)
 
 # Engagement Session with Parents’ Links Members and Family Bonding Day 2023
 
